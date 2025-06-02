@@ -1,5 +1,5 @@
 {
-    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007-manifest.json",
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007-manifest.json",
     "type": "Manifest",
     "label": {
         "en": [
@@ -65,7 +65,7 @@
     "partOf": null,
     "items": [
         {
-            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1",
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -93,7 +93,7 @@
             "partOf": null,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1/page/1",
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1/page/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -102,7 +102,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1/page/1/1",
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1/page/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -110,7 +110,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_1.jpg",
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_1.jpg",
                                 "type": "Image",
                                 "height": 2481,
                                 "width": 1754,
@@ -123,14 +123,14 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1#xywh=0,0,1754,2481"
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1#xywh=0,0,1754,2481"
                         }
                     ]
                 }
             ],
             "annotations": [
                 {
-                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1/annotation/1",
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1/annotation/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -139,7 +139,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1/annotation/1/1",
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1/annotation/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -153,14 +153,14 @@
                                 "format": "text/html",
                                 "language": null
                             },
-                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1#xywh=0,0,1754,2481"
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1#xywh=0,0,1754,2481"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2",
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -188,7 +188,7 @@
             "partOf": null,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2/page/1",
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2/page/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -197,7 +197,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2/page/1/1",
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2/page/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -205,7 +205,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_2.jpg",
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_2.jpg",
                                 "type": "Image",
                                 "height": 2481,
                                 "width": 1754,
@@ -218,14 +218,14 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2#xywh=0,0,1754,2481"
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2#xywh=0,0,1754,2481"
                         }
                     ]
                 }
             ],
             "annotations": [
                 {
-                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2/annotation/1",
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2/annotation/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -234,7 +234,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2/annotation/1/1",
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2/annotation/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -248,14 +248,14 @@
                                 "format": "text/html",
                                 "language": null
                             },
-                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2#xywh=0,0,1754,2481"
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2#xywh=0,0,1754,2481"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3",
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -283,7 +283,7 @@
             "partOf": null,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3/page/1",
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3/page/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -292,7 +292,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3/page/1/1",
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3/page/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -300,7 +300,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_3.jpg",
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_3.jpg",
                                 "type": "Image",
                                 "height": 2481,
                                 "width": 1754,
@@ -313,14 +313,14 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3#xywh=0,0,1754,2481"
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3#xywh=0,0,1754,2481"
                         }
                     ]
                 }
             ],
             "annotations": [
                 {
-                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3/annotation/1",
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3/annotation/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -329,7 +329,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3/annotation/1/1",
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3/annotation/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -343,14 +343,14 @@
                                 "format": "text/html",
                                 "language": null
                             },
-                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3#xywh=0,0,1754,2481"
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3#xywh=0,0,1754,2481"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4",
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -378,7 +378,7 @@
             "partOf": null,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4/page/1",
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4/page/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -387,7 +387,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4/page/1/1",
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4/page/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -395,7 +395,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_4.jpg",
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_4.jpg",
                                 "type": "Image",
                                 "height": 2481,
                                 "width": 1754,
@@ -408,14 +408,14 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4#xywh=0,0,1754,2481"
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4#xywh=0,0,1754,2481"
                         }
                     ]
                 }
             ],
             "annotations": [
                 {
-                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4/annotation/1",
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4/annotation/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -424,7 +424,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4/annotation/1/1",
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4/annotation/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -438,14 +438,14 @@
                                 "format": "text/html",
                                 "language": null
                             },
-                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4#xywh=0,0,1754,2481"
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4#xywh=0,0,1754,2481"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5",
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -473,7 +473,7 @@
             "partOf": null,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5/page/1",
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5/page/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -482,7 +482,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5/page/1/1",
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5/page/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -490,7 +490,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_5.jpg",
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_5.jpg",
                                 "type": "Image",
                                 "height": 2481,
                                 "width": 1754,
@@ -503,14 +503,14 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5#xywh=0,0,1754,2481"
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5#xywh=0,0,1754,2481"
                         }
                     ]
                 }
             ],
             "annotations": [
                 {
-                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5/annotation/1",
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5/annotation/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -519,7 +519,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5/annotation/1/1",
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5/annotation/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -533,14 +533,14 @@
                                 "format": "text/html",
                                 "language": null
                             },
-                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5#xywh=0,0,1754,2481"
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5#xywh=0,0,1754,2481"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6",
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -568,7 +568,7 @@
             "partOf": null,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6/page/1",
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6/page/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -577,7 +577,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6/page/1/1",
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6/page/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -585,7 +585,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_6.jpg",
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_6.jpg",
                                 "type": "Image",
                                 "height": 2481,
                                 "width": 1754,
@@ -598,14 +598,14 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6#xywh=0,0,1754,2481"
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6#xywh=0,0,1754,2481"
                         }
                     ]
                 }
             ],
             "annotations": [
                 {
-                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6/annotation/1",
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6/annotation/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -614,7 +614,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6/annotation/1/1",
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6/annotation/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -628,7 +628,7 @@
                                 "format": "text/html",
                                 "language": null
                             },
-                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6#xywh=0,0,1754,2481"
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6#xywh=0,0,1754,2481"
                         }
                     ]
                 }

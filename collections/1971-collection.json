@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/collections/1971-collection.json",
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/collections/1971-collection.json",
     "type": "Collection",
     "label": {
         "en": [
@@ -9,7 +9,7 @@
     },
     "items": [
         {
-            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps-manifest.json",
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps-manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -18,7 +18,7 @@
             }
         },
         {
-            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps-manifest.json",
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps-manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -27,7 +27,7 @@
             }
         },
         {
-            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps-manifest.json",
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps-manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -36,7 +36,7 @@
             }
         },
         {
-            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps-manifest.json",
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps-manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -45,7 +45,7 @@
             }
         },
         {
-            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps-manifest.json",
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps-manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
