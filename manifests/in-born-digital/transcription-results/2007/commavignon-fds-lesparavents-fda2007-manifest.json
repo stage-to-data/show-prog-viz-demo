@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Les paravents"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_lesParavents_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lesParavents_FDA2007/CommAvignon_fds_lesParavents_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Frédéric Fisbach, artiste associé 2007<br><br>Après des études au Conservatoire national supérieur d'Art dramatique, Frédéric Fisbach suit Stanislas Nordey au sein de la troupe permanente au Théâtre Gérard-Philipe de Saint-Denis, de 1991 à 1993, où il joue dans les spectacles Bête de Style, Calderon ou Pylade de Pasolini. Il joue également dans Vole mon dragon présenté au Festival d'Avignon en 1994 et au Théâtre de la Bastille, au Théâtre des Amandiers de Nanterre, il joue sous la direction de Stanislas Nordey dans Splendid's de Jean Genet, Ciment de Heiner Müller, Le Songe d'une nuit d'été de Shakespeare et avec Jean-Pierre Vincent dans Tout est bien qui finit bien de Shakespeare.<br><br>En 1992, il signe sa première mise en scène, Les Aventures d'Abou et Maimouna dans la lune au Théâtre Gérard-Philipe de Saint Denis. Depuis 1994, il a mis en scène Une planche et une ampoule dont il écrit le texte, L'Annonce faite à Marie de Paul Claudel au Théâtre des Amandiers de Nanterre (et en tournée en France et à l'étranger, pour 100 représentations), Un Avenir qui commence tout de suite de Vladimir Maïakovski au Théâtre des Fédérés, L'Ile des morts/Le Gardien de Tombeau de Strindberg et Kafka au Studio-Théâtre de Vitry, Bérénice de Racine au Théâtre de la Bastille et au Festival d'Avignon, Les Paravents de Jean Genet au Théâtre national de la Colline (2003), L'Illusion comique de Pierre Corneille au Festival d'Avignon, à l'Odéon - Théâtre de l'Europe et en tournée en France pour 102 représentations (2004-2005), Animal de Roland Fichet au Théâtre de Vidy Lausanne, au Théâtre national de la Colline et au Théâtre national de Bretagne (2005). Ce dernier s'intègre dans le cadre d'une plus vaste coopération franco-africaine soutenue par l'AFAA.<br><br>À l'opéra, il a monté Forever Valley de Gérard Pesson sur un livret de Marie Redonnet au Théâtre des Amandiers de Nanterre, Kyrielle du sentiment des choses de François Sahran sur un livret de Jacques Roubaud au Festival d'Aix en Provence et au Théâtre national de la Colline (2003), Agrippina de Haendel au Théâtre de Saint Quentin en Yvelines, Shadowtime de Brian Ferneyhough sur un livret de Charles Bernstein pour la Münchener Biennale, le Festival d'Automne 2004, le Festival du Lincoln Center à New-York et à la Ruhr-Triennale en 2005.<br><br>Il collabore régulièrement avec le chorégraphe Bernardo Montet avec qui il a créé une \"académie de l'interprète\" et avec Robert Cantarella avec qui il a mené deux chantiers, l'un sur Molière et Corneille en 2003, l'autre à partir d'un corpus de textes pré-classiques durant le Festival d'Avignon 2004. Il est président de l'association Sans Cible, regroupement de metteurs en scène pour réfléchir sur la place du théâtre dans l'espace public, qui a publié L'Assemblée théâtrale en 2003 et La Représentation en 2004.<br><br>Lauréat de la Villa Médicis hors les murs au Japon en 1999, il a mis en scène Nous, les héros de Jean-Luc Lagarce en japonais à Tokyo et Tokyo Notes de Oriza Hirata avec une équipe franco-japonaise à la Villette en 2000. Cette collaboration franco-japonaise s'est poursuivie dans Les Paravents de Jean Genet présenté au Théâtre national de la Colline, primé au Festival de Salzbourg dans le cadre du programme des jeunes metteurs en scène. En décembre 2005, il a mis en scène Gens de Séoul d'Oriza Hirata en japonais pour le Setagaya Public Théâtre de Tokyo.<br><br>De 2002 à décembre 2007, il a dirigé le Studio-Théâtre de Vitry, où il a développé un laboratoire de recherche dont les portes sont fréquemment ouvertes à des \"spectateurs associés\" pour des formes inhabituelles (chantiers, représentations durant la journée, rencontres…).<br><br>En 2006, Frédéric Fisbach a réalisé son premier long métrage La Pluie des prunes, co-écrit avec Anne-Louise Trividic.<br><br>Depuis janvier 2006, il est, avec Robert Cantarella, codirecteur du \"104\" à Paris.<br><br>Au Festival d'Avignon, Frédéric Fisbach a déjà joué dans Vole mon dragon d'Hervé Guibert dans la mise en scène de Stanislas Nordey en 1994 et présenté comme metteur en scène Bérénice de Racine, codirigée avec Bernardo Montet, en 2001, L'Illusion comique de Pierre Corneille en 2004 et Gens de Séoul d'Oriza Hirata en 2006.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lesParavents_FDA2007/CommAvignon_fds_lesParavents_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>et<br><br># Feuillets d'Hypnos<br>237 actions pour la scène<br>DE RENÉ CHAR MISE EN SCÈNE DE FRÉDÉRIC FISBACH<br><br>15 16 17<br><br>COUR D'HONNEUR DU PALAIS DES PAPES □ 22h □ durée estimée 2h30 □ création 2007<br><br>Aphorismes, poèmes, récits anecdotiques, maximes de vie composent Feuillets d'Hypnos (1947), recueil unique de 237 fragments d'écriture mis bout à bout par René Char pendant ses années de résistance dans le maquis. Celui qui avait choisi de ne plus publier croyait en la nécessité d'écrire, en la nécessité de l'Art et de la Beauté dans les moments où l'homme peut toucher du doigt l'apocalypse et le désespoir. C'est cette littérature composite qui touche à l'essentiel que Frédéric Fisbach fait entendre dans la diversité de ses formes, dans la richesse de ses paroles.<br><br>Dedans Dehors Exposition conçue par Frédéric Fisbach<br>6 - 27 juillet □ tous les jours sauf le 14 juillet □ Maison Jean Vilar □ ouverture 10h30 - 18h30 □ entrée libre<br><br>France Culture en public □ Écrits d'artistes : Frédéric Fisbach □ 13 juillet □ 11h □ Musée Calvet<br><br>Dialogue avec le public □ 11 juillet □ 11h30 □ École d'art<br>avec Frédéric Fisbach et des membres de l'équipe artistique des Paravents, animé par les Ceméa<br><br>Conférences de presse en public<br>12 juillet □ 11h30 □ Cloître Saint-Louis<br>avec Frédéric Fisbach, la Compagnie de théâtre de marionnettes Youkiza<br>18 juillet □ 11h30 □ Cloître Saint-Louis<br>avec Robert Cantarella, Frédéric Fisbach, le collectif d'auteurs Lumière d'août<br><br>Les rencontres de la Maison Jean Vilar<br>18 juillet □ 15h □ Maison Jean Vilar □ Rencontre avec l'équipe de Frédéric Fisbach<br><br>Rencontres de la Région Île-de-France<br>21 juillet □ 11h □ Chapelle du Miracle □ Rencontre avec Frédéric Fisbach<br><br>Les rencontres de Foi et Culture<br>24 juillet □ 17h□ Centre Magnanen □ rencontre avec Frédéric Fisbach<br><br>Rencontre publique pour la clôture du Festival<br>26 juillet □ 11h30 □ Cloître Saint-Louis □ avec Hortense Archambault, Vincent Baudriller, Frédéric Fisbach<br><br>Frédéric Fisbach est également acteur dans Hippolyte de Robert Garnier dans la mise en scène de Robert Cantarella.<br><br>et aussi<br><br>Théâtre de marionnettes Youkiza Tsuna-Yakata et Honcho-Nijyushiko<br>16 17 18 19 juillet □ salle Franchet du lycée Saint-Joseph □ 15h □ durée 1h □ spectacle en japonais, synopsis français distribué à l'entrée</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lesParavents_FDA2007/CommAvignon_fds_lesParavents_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Frédéric Fisbach<br>Les Paravents<br>DE JEAN GENET<br><br>61ᵉ Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lesParavents_FDA2007/CommAvignon_fds_lesParavents_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>6 7 9 10 11 12 13<br>THÉÂTRE MUNICIPAL ◘ 17h ◘ durée 4h entracte compris<br><br>texte de Jean Genet<br>mise en scène Frédéric Fisbach<br>avec Valérie Blanchon, Christophe Brault, Laurence Mayor, Giuseppe Molino, Benoît Résillot<br>et les marionnettistes du Théâtre de marionnettes Youkiza Youki Magosaburo, Youki Chie, <br>Youki Ikuko, Setsuko Arakawa, Junko Hashimoto, Koh Hirai<br><br>scénographie Emmanuel Clolus<br>lumières et vidéo Daniel Lévy<br>création musicale et sonore, dispositif temps réel Thierry Fournier<br>interprétation musique et son Jean-Baptiste Droulers<br>costumes acteurs et marionnettes Olga Karpinsky<br>marionnettes Théâtre de marionnettes Youkiza (Tokyo)<br>assistant à la mise en scène Alexis Fichet<br>interprète Hiromi Asai<br>régie générale Rémi Claude<br>régie lumières Marianne Percelf<br>stagiaire technique Guillaume Allory<br>administration Christine Chalas, Emmanuelle Favre-Bulle<br>production Théâtre Youkiza Keizo Maeda<br><br>texte publié aux éditions Gallimard<br>spectacle créé le 24 avril 2002 au Quartz, Scène nationale de Brest<br><br>coproduction 2007 Studio-théâtre de Vitry, Festival d'Avignon<br>avec le soutien de la Région Île-de-France, du Théâtre Jean Vilar de Vitry-sur-Seine et du ministère de la Culture japonais<br>coproduction de la création en 2002 : Création résidence Le Quartz-Scène nationale de Brest, Ensemble Atopique, <br>Studio-théâtre de Vitry, Théâtre national de la Colline, Setagaya Public Théâtre (Tokyo), Théâtre de marionnettes<br>Youkiza, Le Maillon-Scène nationale de Strasbourg, Théâtre de l'Union-Centre dramatique national de Limoges,<br>Théâtre Jean Lurçat-Scène nationale d'Aubusson<br>avec l'aide du ministère de la Culture-DRAC Île-de-France, du département du Val-de-Marne et de la ville de Vitry-sur-<br>Seine, de la DRAC Limousin et de la Région Limousin<br>avec le soutien de l'AFAA-ministère des Affaires étrangères et du Service culturel de l'Ambassade de France au Japon<br><br>Projection dans le hall du Théâtre municipal de la vidéo Biobu (Les Paravents),<br>réalisée par Jean-Stéphane Havert en 2004 lors de la tournée du spectacle au Japon<br>au Setagaya Public Théâtre<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lesParavents_FDA2007/CommAvignon_fds_lesParavents_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Frédéric Fisbach<br><br>Vous allez reprendre Les Paravents pendant le Festival. Pourquoi, parmi toutes les mises en scène que vous avez déjà réalisées, choisir celle-là?<br>Frédéric Fisbach : Sans doute parce que cette pièce a été une étape importante dans mon travail et qu'il y a toujours quelque chose de mystérieux dans le succès d'un spectacle. Alors que les répétitions s'amorcent de la même manière avec les mêmes envies et les mêmes désirs, que les équipes d'acteurs sont formidables, que les équipes artistiques et techniques sont très engagées, il y a des propositions qui trouvent un large public, qui sont de purs moments de bonheur partagés par tous, et d'autres qui ont plus de mal à fonctionner. Il y a des moments où l'on a le sentiment d'une réussite totale qui dépasse le cadre de la mise en scène; où la pièce, pour des raisons qui échappent, touche quelque chose de l'air du temps. J'ai eu ce sentiment avec Les Paravents, et ce fut pour moi un aboutissement dans ma manière de mettre en scène. Depuis j'ai énormément réorienté ma pratique et sans doute aussi les buts de ma recherche.<br>J'avais donc envie de voir comment cette proposition, qui a cinq ans maintenant et que nous avons jouée en France, au Japon, en Autriche, pouvait être reçue aujourd'hui dans un Festival où le public peut voir plus facilement une production de quatre heures.<br>Cette reprise se justifie aussi car Les Paravents est une pièce peu jouée, trop peu jouée, magnifique, mais qui porte en elle-même la quasi-impossibilité de sa représentation, avec ses quatre-vingt-seize personnages. C'est une pièce charnière dans l'œuvre de Genet puisqu'il va ensuite s'engager politiquement et réorienter sa production poétique en quittant le champ de la littérature. C'est Roger Blin qui s'en empare le premier en 1966, avec le scandale formidable qui a marqué sa création, preuve que le théâtre à cette époque pouvait encore faire scandale, puis Patrice Chéreau en 1983, Bernard Bloch et Jean-Baptiste Sastre plus récemment.<br><br>De quelle nature est cette complexité, cette difficulté, que vous notez dans Les Paravents?<br>Elle démarre comme une pièce de la fin des années cinquante, avec deux personnages très bien dessinés dans un décor très bien planté et une problématique très claire. Une dramaturgie assez convenue donc. Mais très vite la pièce \"déconne\", comme aimait à le dire Genet. Les situations se superposent, de nouvelles figures apparaissent dans le monde des morts et l'on a le sentiment d'un survol de territoire étrange avec des personnages dont on ne perçoit que des bribes de conversation, qui nous offrent donc des bribes de compréhension. Les personnages principaux se noient dans une foule d'autres personnages qui apparaissent et disparaissent assez rapidement. On ne retrouvera cette construction complexe que dans Le Captif amoureux et sous une forme littéraire différente. Tout cela est étrange mais passionnant, car on se confronte à un objet littéraire et dramatique hors normes.<br><br>Y a-t-il eu un déclic qui a enclenché pour vous le désir de mettre en scène cet objet étrange?<br>Il y a toujours un événement qui se présente et qui donne une envie plus particulière. Pour Les Paravents, c'est ma découverte au Japon d'un art de la marionnette qui m'a bouleversé, un art venu du Bunraku, qui sépare l'œil et l'oreille du spectateur. Il y a une scène pour l'œil et une pour l'oreille avec trois manipulateurs silencieux et un \"vociférateur\" (nom qui a été donné par Roland Barthes), qui, assis en tailleur derrière un lutrin, lit le texte de l'histoire en faisant tous les personnages présents. Il est accompagné par un joueur de guitare (une guitare carrée japonaise en ivoire) qui semble donner le rythme. Lorsque j'ai assisté à ces représentations cela m'a passionné car j'y ai vu une sorte d'art théâtral \"total\".</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lesParavents_FDA2007/CommAvignon_fds_lesParavents_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>J'ai trouvé cela très enrichissant pour le spectateur que j'étais et qui ne pouvait pas tout embrasser. C'est aussi ma rencontre avec la Compagnie Youkiza à Tokyo qui, moins vieille que le bunraku, existe déjà depuis trois siècles, et qui accepte que des femmes montent sur le plateau. Quand je les ai vus, j'ai immédiatement pensé que je pouvais trouver avec eux un moyen de monter Les Paravents grâce à la dimension totalement artificielle de leur art qui est contenu aussi dans le théâtre de Genet, grâce à la possibilité de jouer la mixité des personnages avec les marionnettes. Ensemble, nous pouvions raconter cette histoire, cette Odyssée de trois personnages: la mère, le fils et la bru, dans le temps de l'Algérie en guerre. Mais ce peut-être ailleurs, dans une guerre qui ne les concerne pas puisqu'ils ont toutes les tares: ils sont trop pauvres, trop laids, trop veules, ils ne peuvent être ni du côté des indépendantistes ni du côté des colons.<br><br>Une fois décidé à monter ce texte, comment avez-vous constitué votre équipe sur le plateau?<br>Il y a deux vociférateurs français qui disent tout le texte et que j'ai encouragés à \"déconner\", à jouer d'une façon parfois très forcée, avec des accents, des défauts de prononciation pour typer les voix, pour permettre aux spectateurs de se retrouver dans le dédale des personnages. Il y a trois acteurs qui jouent les trois personnages centraux dont nous avons parlé et qui dialoguent entre eux et avec les marionnettes, qui sont très petites (soixante-dix centimètres maximum), qui bien sûr sont muettes. Les manipulateurs sont japonais et, comme ils ne parlent pas français, ils travaillent à partir de repères textuels pour les manipulations. Pour avoir une cohérence, nous travaillons avec une amplification vocale qui permet d'avoir un seul plan pour les voix, et de jouer parfois sur une relation très intimiste. J'ai ajouté des éléments de vidéo, surtout lorsque nous sommes dans le monde des morts. Et cet apport est une idée qui m'est venue quand j'ai travaillé aux États-Unis sur Les Paravents dont la traduction est \"screen\", le mot qui sert à désigner les écrans. Comme Genet se sert de ses paravents comme espaces de projection pour ombres chinoises ou pour inscrire des slogans révolutionnaires, j'ai pensé qu'il y avait là une possibilité nouvelle qui ne trahissait pas sa pensée. J'ajoute que les spectateurs sont munis de jumelles, comme dans le théâtre \"d'avant\", où j'accompagnais ma grand-mère...<br><br># Quelle version du texte utilisez-vous?<br>Celle de 1966 que Genet a fait paraître après la mise en scène de Roger Blin. Ce texte est très fortement influencé par le travail commun entre eux deux. C'est donc très intéressant d'avoir un texte passé au tamis d'une mise en scène. De temps en temps, on se permet de faire entendre les commentaires de Genet lui-même sur son propre travail.<br><br>N'avez-vous pas la sensation qu'il est maintenant possible de jouer vraiment la pièce, dégagée de son contexte historique et politique, comme un grand poème dramatique sur le théâtre et la mort?<br>C'est absolument évident et l'on découvre maintenant la langue de Genet, hors de tout système, en mouvement permanent, sans logique, on découvre un objet littéraire, on découvre un Genet amoureux de la langue française où \"tous les mots viennent trouver refuge\", on découvre cette grande rigolade, ce rire chez les morts. On peut jouer et entendre cette pièce pour ce qu'elle est: visionnaire et soucieuse de ce qu'est la représentation théâtrale. Genet est pris dans cette grande œuvre, cette trilogie qu'il ne terminera jamais, et qui devait s'intituler: La Mort. Hors de tout point de vue partisan on s'aperçoit aujourd'hui que Genet est un très grand poète inclassable.<br><br>Propos recueillis par Jean-François Perrier en février 2007</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Lechange"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_lechange_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lechange_FDA2007/CommAvignon_fds_lechange_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Pourquoi Pollock désire-t-il Marthe?<br>Marthe est une catastrophe: elle est jalouse, amère, entière. Pollock retrouve du primitif en elle, il cherche un rapport aux éléments et à la nature proche de ce qu'elle propose. Il veut retrouver du poids dans sa vie, il a besoin d'archaïsme, d'inertie et de vérité.<br><br># L'Échange est-elle aussi une pièce sur le théâtre?<br>La vision du théâtre de Claudel est présente dans toutes ses pièces et est à chaque fois renouvelée. Le théâtre est pour lui un espace de liberté. Il veut établir un rapport étroit et juste entre le public et le plateau. Dans L'Échange il y a une scène entière consacrée au théâtre qui pourrait être une déclaration d'intention, une revendication quasi politique de sa nécessité. Le rêve devient essentiel pour la pensée.<br><br>\"Il ne faut pas comprendre, il faut perdre connaissance\" dit Claudel dans Le Partage de Midi. C'est une bonne devise pour vous?<br>La plus belle, valable pour les acteurs comme pour le public. C'est dans la perte de connaissance que l'on entrevoit ce qu'il y a de plus beau. C'est sans doute très difficile mais quand cela se produit, c'est comme fonder sa vie sur le rêve.<br>Propos recueillis par Jean-François Perrier en février 2007 avant le début des répétitions<br><br># Julie Brochen<br>Après des études de philosophie, Julie Brochen entre au Conservatoire national supérieur d'Art dramatique, dans les classes de Madeleine Marion et de Stuart Seide. Elle travaille ensuite avec Piotr Fomenko, dans La Dame de Pique de Pouchkine, Georges Lavaudant, dans Les trois Electre, ainsi qu'avec Alexandre Kaliaguine et Anastasia Vertinskaia (du Théâtre d'art de Moscou), dans Tchekhov Acte III aux Amandiers à Nanterre. Elle rencontre Claude Régy autour de Maeterlinck, dans le cadre de l'Institut nomade de mise en scène. Comédienne dès 1988, elle participe à des longs-métrages ainsi qu'à de nombreux spectacles dont Le Faiseur de théâtre de Thomas Bernhardt mis en scène par Jean- Pierre Vincent, Faust de Fernando Pessoa mis en scène par Aurélien Recoing, Le Régisseur de la Chrétienté de Sébastien Barry mis en scène par Stuart Seide ou L'Échange de Paul Claudel mis en scène par Jean-Pierre Vincent.<br>En 1993, elle fonde sa compagnie Les Compagnons de Jeu et monte, dès l'année suivante, La Cagnotte de Labiche et Alfred Delacour, Penthésilée de Kleist dans la traduction de Julien Gracq, Le Décaméron des femmes de Julia Voznesenskaya. En 2001, elle aborde l'opéra avec Die Lustigen Nibelungen d'Oscar Strauss. En 2002, elle crée La Petite Renarde rusée au Festival d'Aix-en-Provence et prend la direction du Théâtre de l'Aquarium à la Cartoucherie. Après plusieurs années de travail sur Tchekhov, elle monte Oncle Vania en diptyque avec Le Cadavre vivant de Tolstoï en 2003. En 2005, elle crée Hanjo de Yukio Mishima au Théâtre Vidy Lausanne, puis le présente au Théâtre de l'Aquarium dans le cadre du Festival d'Automne à Paris 2005. Hanjo a reçu le Molière 2006 de la meilleure compagnie. Elle crée en juillet 2006 au Festival d'Aix-en-Provence une adaptation de L'Histoire vraie de la Périchole de Jacques Offenbach, sous la direction musicale de Françoise Rondeleux et de Vincent Leterme.<br>Au cinéma et à la télévision, Julie Brochen a travaillé sous la direction de Paul Vecchiali, Hélène Angèle, Louise Thermes, Jacques Renard, Luc Béraud, Andrzej Zulawski, Olivier Assayas et Jalil Lespert.<br>.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lechange_FDA2007/CommAvignon_fds_lechange_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Paul Claudel<br><br>1868 : le 6 août, naissance de Paul Claudel à Villeneuve-sur-Fère-en-Tardenois, Aisne.<br>1881 : la famille Claudel s'installe à Paris. Paul entre au lycée Louis-le-Grand.<br>1886 : lecture de Rimbaud. Le 25 décembre, Claudel se convertit au catholicisme.<br>1889 : première version de Tête d'or.<br>1890 : Claudel est reçu premier au concours des Affaires Etrangères. Première version de La Ville.<br>1892 : première version de La Jeune fille Violaine.<br>1893 : nommé consul suppléant, Claudel part pour les États-Unis.<br>1893-1894 : L'Échange à New York et Boston. Seconde version de Tête d'or. Traduction de l'Agamemnon d'Eschyle.<br>1894-1895 : retour en France. Départ pour la Chine en juin.<br>1898 : voyage au japon.<br>1901-1905 : deuxième séjour en Chine. Voyages en Indochine.<br>1905 : retour en France. Le Partage de Midi. Mariage de Claudel le 15 mars. Troisième départ pour la Chine.<br>1909 : H.R. Lenormand demande à Claudel l'autorisation de monter La Jeune fille Violaine. Refus de Claudel : \"Croyez-vous que le public puisse considérer mes drames autrement que comme des extravagances d'ailleurs parfaitement ennuyeuses? Pour ma part j'en doute fort\". Mais il ajoute: \"Cependant une représentation serait pour moi d'un prix inestimable en me procurant par la vision extérieure un moyen d'excellente critique sur mon art\". (Lettre de Tien-Tsin, le 20 février.)<br>1909 - 1910 : retour en France. Puis départ pour Prague. L'Otage. L'Annonce faite a Marie.<br>1910 : Claudel refuse que l'on joue Le Partage de Midi.<br>1911 : Claudel est nommé consul général à Francfort-sur-le-Main.<br>1912 : Lugné-Poe monte L'Annonce faite à Marie.<br>1913-1914 : consul général à Hambourg. Première version de Protée<br>1914 : le 22 janvier, Copeau monte l'Échange sur la jeune scène du Vieux-Colombier. Lugné-Poe monte L'Otage. Claudel est expulsé de Hambourg à la déclaration de guerre: c'est à Bordeaux que Le Pain dur sera achevé.<br>1917-1918 : Claudel est ministre plénipotentiaire à Rio de Janeiro avec Darius Milhaud comme secrétaire. L'Ours et la Lune, farce pour théâtre de marionnettes; L'Homme et son désir, argument de ballet pour Nijinsky.<br>1919-1924 : Copenhague où il est ministre plénipotentiaire et Tokyo où il est ambassadeur : Le Soulier de satin.<br>1926 : Claudel rédige la seconde version de Protée. Il est nommé ambassadeur de France à Washington.<br>1943 : Jean-Louis Barrault monte à la Comédie Française la version scénique du Soulier de satin.<br>1946 : Claudel est élu à l'Académie Française. Il n'était pas candidat.<br>1948 : dernière version de L'Annonce faite à Marie. Le Partage de Midi est représenté pour la première fois par la Compagnie Madeleine Renaud-Jean-Louis Barrault.<br>1951: La version définitive de L'Échange est représentée par la Compagnie Renaud - Barrault.<br>1955 : mort de Claudel, quelques jours après la générale de L'Annonce faite à Marie à la Comédie Française.<br>                                                Jacques Madaul, Claudel dramaturge, (extraits). Ed. L'Arche, 1956<br><br>et<br><br># Regards critiques □ 12 juillet □ 11h30 □ École d'art<br>La scène et les états de la langue □ avec Julie Brochen, Christophe Fiat, Dieudonné Niangouna<br><br># Dialogue avec le public □ 17 juillet □ 11h30 □ École d'art<br>avec l'équipe artistique de L'Échange, animé par les Ceméa<br><br># Lectures au musée Calvet □ 17 juillet □ 11h □ Musée Calvet<br>Robert Desnos □ poèmes lus par Valérie Dréville</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lechange_FDA2007/CommAvignon_fds_lechange_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Julie Brochen : <br>Théâtre de l'Aquarium<br><br># L'Échange<br><br>DE PAUL CLAUDEL<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lechange_FDA2007/CommAvignon_fds_lechange_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>8 9 10 12 13 15 16 17 18<br>CLOÎTRE DES CÉLESTINS □ 21 h 30 □ durée 2 h 30 □ création 2007<br><br>mise en scène Julie Brochen<br>regard Valérie Dréville<br>avec Les Compagnons de Jeu<br>Julie Brochen Marthe<br>Fred Cacheux Thomas Pollock Nageoire<br>Antoine Hamel Louis Laine<br>Cécile Péricone Lechy Elbernon<br>Frédéric Le Junter installations sonores et visuelles<br>Marc Puttaert construction et trouvailles<br><br>lumières Olivier Oudiou<br>costumes Sylvette Dequest<br>maquillages et coiffures Catherine Nicolas<br>peintures Maud Trictin<br><br>direction technique Dominique Fortin<br>régie lumière Pascal Joris<br>régie plateau Marc Puttaert<br>administration Annabelle Delestre<br><br>remerciements à Madeleine Marion, Jean-Pierre Vincent, François Loriquet, Manon Gignoux, Jules et<br>Clarisse Semjonovic et à toute l'équipe du Théâtre de l'Aquarium<br><br>1re version 1893, texte publié aux éditions Gallimard<br>spectacle créé le 8 juillet 2007 au Cloître des Célestins, Festival d'Avignon<br><br>production Théâtre de l'Aquarium<br>en coproduction avec le Festival d'Avignon<br>avec la participation artistique du Jeune théâtre national<br><br>Le Festival d'Avignon reçoit le soutien de l'Adami pour la production<br><br>les dates de l'Échange après le Festival :<br>du 25 septembre au 6 octobre 2007 au Théâtre National de Bretagne (Rennes), le 11 décembre 2007 au Théâtres en Draguignan (Draguignan), le 16 décembre 2007 au Théâtre de l'Olivier (Istres), le 19 décembre 2007 au Théâtre de Lons-le-Saunier, le 11 janvier 2008 au Centre Culturel Joël Le Theule (Sablé sur Sarthe), du 16 au 20 janvier 2008 au Théâtre du Nord (Lille), du 23 au 25 janvier 2008 à la Comédie de Reims (Reims), les 7 et 8 février 2008 au Théâtre du Beauvaisis (Beauvais), du 12 au 15 février 2008 au Théâtre de la Croix Rousse (Lyon) et du 11 au 22 mars 2008 au Théâtre des 2 Rives (Rouen)<br><br>Comme chaque année, l'Adami apporte son aide aux spectacles coproduits par le Festival d'Avignon et favorise l'emploi, notamment sur des spectacles réunissant un nombre important d'artistes. Société de gestion collective des droits des artistes-interprètes (près de 60 000 comédiens, chanteurs, musiciens, chefs d'orchestre, danseurs...), l'Adami a consacré, en 2006, près de 13 millions d'euros à 950 projets dans différents genres artistiques. Ces aides ont contribué à l'emploi direct de plus de 6500 artistes.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lechange_FDA2007/CommAvignon_fds_lechange_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Julie Brochen<br><br>Vous venez pour la première fois à Avignon comme metteur en scène? Vous allez travailler avec Valérie Dréville?<br>Julie Brochen : Nous commencerons une collaboration artistique qui devra se poursuivre l'an prochain avec Le Partage de midi. Valérie Dréville sera un regard indispensable sur mon travail d'actrice et plus généralement sur le projet en deux volets que nous mettons en place. C'est un premier pas, comme si nous nourrissions notre envie du Partage avec L'Échange.<br><br>Vous avez déjà joué Marthe dans une mise en scène de Jean Pierre Vincent il y a cinq ans.<br>Ce fut un travail d'une incroyable richesse qui m'a nourrie pendant des années, je me suis ensuite consacrée pendant deux ans à la mise en scène sans ressentir de manque. Aujourd'hui, j'ai l'impression qu'il faut que je revienne au plateau, que je reprenne ce travail sur L'Échange et sur Marthe, pour m'imprégner à nouveau de la langue de Claudel. C'est un vrai travail d'endurance.<br><br>Vous jouez la première version. Pourquoi?<br>J'avais travaillé la seconde au Conservatoire avec Madeleine Marion, mais la découverte de la première avec Jean-Pierre Vincent fut pour moi un choc émotionnel et poétique. J'aime l'âpreté, la brutalité de cette écriture de jeune homme de vingt-cinq ans qui ne se justifie pas, qui est seulement traversé par des contradictions et des paradoxes, comme au bord d'un précipice. J'ai la sensation de m'attaquer à un sommet, comme cela serait possible aussi avec Racine, ou comme cela l'a été avec Tchekhov. Il y a de l'insondable dans cette œuvre. Elle m'effraie, mais me donne envie d'y plonger comme dans une mine, juste pour me salir les mains à son contact, pour me confronter à un labeur ardu, lourd, difficile et trouver grâce à lui une plus grande liberté.<br><br>La langue claudélienne est difficile à faire entendre?<br>C'est de la musique, elle vous emporte, elle fait exploser la personnalité des acteurs. C'est une langue révolutionnaire, au même titre que les sculptures de sa sœur Camille. C'est une langue inspirée, et ce n'est pas un hasard si Claudel vénère Rimbaud. Nous allons nous confronter à cette écriture que nous respectons avec son vers blanc, ses déséquilibres. Il y a une incroyable liberté pour l'acteur une fois que les contraintes de la langue ont été acceptées, comprises, intégrées dans le jeu. Ainsi celles de la respiration qui nécessite une implication physique énorme. C'est une parole qui se dit \"devant soi\" sans psychologie. Une langue qu'on pense en la disant, une poésie orale comme celle des rhapsodes. Elle est rocailleuse et résistante et il faut se battre contre des vagues. Il faut tenir les arrêts sans se laisser enfermer dedans, même aux endroits les plus étranges choisis par Claudel. C'est comme si l'impossibilité de la parole lui donnait paradoxalement vie. Nous sommes loin d'une poétique sentencieuse et harmonique.<br><br>Vous allez travailler avec un plasticien?<br>Fredéric Le Junter est un plasticien sonore, un sculpteur de son. Il était jusqu'alors moins proche du théâtre que des performances aléatoires. Et c'est cette confrontation avec l'extrême précision de l'écriture claudélienne qui nous intéresse. Il sera présent sur le plateau avec ses machines, un peu comme si on faisait apparaître Sir Thomas Blackwell, le nègre de Lechy, dont on parle tout le temps sans le voir...</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lechange_FDA2007/CommAvignon_fds_lechange_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Claudel disait que sa pièce avait cinq personnages, les quatre protagonistes et l'Amérique. Que représente cette Amérique pour vous?<br>C'est l'immensité du continent, sa démesure. Il y a une perte des repères, un déracinement. Il faut envisager une autre échelle. Pour moi, il s'agit d'une Amérique abstraite qui fait perdre tous ses repères à Marthe. Et pourtant, c'est elle qui va sans doute construire ces États-Unis qu'elle a \"lus dans un livre\".<br><br>Pensez-vous, comme Paul Claudel l'a écrit, que les quatre personnages étaient: \"Une seule âme divisée en quatre\"?<br>Oui, je le crois et il ajoutait même que la voix de ces quatre personnages était en harmonie, ce qui va être vrai dans notre travail puisque nous sommes respectivement soprano, mezzo, baryton basse et ténor. Un quatuor pour un concert, comme le dit Claudel dans les Mémoires Improvisées: quatre ouvriers qui font un concert, un oratorio.<br><br>Paul Claudel est il reconnaissable dans Louis Laine?<br>Oui, il le dit d'ailleurs dans ses mémoires. Il se met en danger, en péril, en se livrant à nous dans une impudeur totale.<br><br>La pièce est-elle conçue comme une véritable tragédie classique?<br>C'est une tragédie classique, voire antique, venue de très loin, et qui serait aussi un opéra et un concert. Il y a unité de lieu, de temps et d'action bien sûr, mais chez Claudel tout déborde. Tous les thèmes s'enchevêtrent: le désir charnel, l'argent, la recherche plus spirituelle que religieuse. Le lieu lui-même est problématique, puisque Marthe et Louis gardent un domaine qui est la mer... Garde-t-on la mer?<br><br>Il y a plus de spiritualité que de religiosité?<br>Évidemment. Quand Marthe perd Louis, elle doit fonder la spiritualité dont elle a besoin pour rester droite. Celle dont l'être humain ne peut se passer, surtout lorsque les repères s'effondrent. Un peu comme lorsque des gens menacés par une éruption volcanique refusent de quitter le lieu qu'ils habitent, au risque de mourir. Il est difficile pour nous de comprendre cette attitude, mais Marthe appartient à cette catégorie humaine.<br><br>Y-a-t-il dans L'Échange une parabole prémonitoire du XXe et même du XXIe siècles, en particulier lorsque Claudel met au centre de la pièce le rôle de l'argent dans la société américaine?<br>La question est juste, mais complexe, puisque quand Thomas Pollock achète Marthe, il dit aussi qu'il perd tout dans un même geste. Il n'est pas un archétype de l'homme moderne puisqu'il peut tout jouer et tout perdre pour exister. C'est un homme qui ne cherche pas ses origines et qui voudrait arrêter le temps. Il est plus contemplatif que l'image que l'on a traditionnellement du capitaliste. S'il y a une parabole moderne autour de l'argent, de l'échange, du libre arbitre et du choix individuel, de la spiritualité, elle est très complexe à déchiffrer contrairement à ce que l'on pourrait penser. Marthe par exemple pourrait paraître intégriste quand, pour tenter de reprendre Louis, elle lui dresse un tableau atroce de la vie de couple. L'homme doit se résigner à une seule femme pour une vie médiocre, désargentée et difficile. Un jour ses enfants partiront, et c'est très bien... Il se retrouvera avec une femme devenue vieille et laide, et c'est très bien... J'exagère un peu évidemment mais on sent qu'elle lui dit le pire pour être sûr que s'il reste, il restera définitivement.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

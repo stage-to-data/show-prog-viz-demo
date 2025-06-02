@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Dinozord"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_dinozord_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_dinozord_FDA2007/CommAvignon_fds_dinozord_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>peu de tout cela: cette éducation, mes six ans de latin à l'école, des rituels ici et là...<br>Le point de départ de Dinozord était de revenir à Kisangani pour donner des funérailles à Kabako, mort de la peste il y a des années dans un petit village non loin de la frontière avec l'Ouganda ; j'ai pensé à des rituels funéraires, des pratiques traditionnelles qu'auraient pu faire mes grands-mères, mais aussi aux rites catholiques. Si Kabako était là, à Kisangani... C'est une partie de ces histoires et de ces désirs qui sont racontés dans cette création. Et puis des souvenirs d'enfance. Le foot a toujours fait partie de l'institution familiale, mon père jouait, pendant les vacances scolaires, nous organisions des équipes. Comme on n'avait pas de maillot, on les dessinait sur le corps à la craie. En repensant à cela, j'ai proposé aux acteurs en répétition de passer la journée à écrire les numéros et les noms de tous ceux qui nous ont fait rêver, Pelé, Zidane... À partir de cette histoire de craie, les maillots peints avec leur numéro m'ont renvoyé aux rituels, lesquels dans l'imaginaire occidental évoquent encore et toujours l'Afrique.<br><br>Les souvenirs et les rencontres font partie des éléments avec lesquels vous avez créé cette pièce un peu à la façon d'un cheminement ou d'un tissage d'associations entre réalité et fiction.<br>Je n'ai pas beaucoup d'imagination, alors je travaille à partir du réel. La question est toujours la même, comment raconter ce réel, et travailler ce matériau sans vouloir faire rire ou pleurer, mais peut-être juste rêver, ouvrir une petite fenêtre de rêve? Au Congo surtout, on a besoin de rêver. Mon retour dans mon pays m'a conduit à me demander ce que j'aimerais faire à terme. Ici, on pleure assez, on rit aussi parce que l'humour permet de traverser la souffrance. Alors proposer autre chose, de petits espaces d'ailleurs, pour que les gens prennent un peu de distance et puissent se demander ce qui se passe devant leurs yeux. Puis, le quotidien refait surface, inévitablement, mais pendant quelques minutes, il sera permis de rêver un peu.<br>Propos recueillis par Irène Filiberti en février 2007<br><br># Faustin Linyekula<br>Danseur, chorégraphe, Faustin Linyekula a toujours un livre en tête, un chemin à prendre, un sac tout juste défait à refaire, une histoire à raconter, une ruine à reconstruire… entre Kisangani où il vit aujourd'hui au Nord-Est de la République Démocratique du Congo (ex Zaïre, ex Congo Belge, ex état indépendant du Congo…), Kinshasa, Paris et le monde… Plusieurs vies dans sa vie, même si aujourd'hui l'existence nomade s'est apaisée auprès d'un fils. Tout commence à Kisangani avec une bande d'amis férus de théâtre, emmenés par un grand frère, Kabako, qui mourra quelques années plus tard à la frontière de l'Ouganda d'une maladie si anachronique en cette fin de XXe siècle qu'elle n'ose plus guère dire son nom, la peste…<br>En 1993, Faustin Linyekula quitte un pays de fin de règne, celui de Mobutu, et de début de chaos et s'installe à Nairobi. En 1997, il fonde avec Opiyo Okach et la danseuse Afrah Tenambergen la première compagnie de danse contemporaine au Kenya, la compagnie Gàara. Leur première création, Cleansing, exploration des symboliques du nettoyage et de la purification, est primée aux Rencontres chorégraphiques africaines de Luanda en 1998. Malgré le succès, Faustin Linyekula quittera la compagnie quelques mois plus tard pour reprendre la route entre la France, l'Afrique du Sud, la Réunion et la Slovénie. Accueilli en résidence par le Festival Tanzwochen de Vienne en Autriche en août 2000, il présente avec le chorégraphe sud-africain Gregory Maqoma Tales off the Mud Wall, pièce incandescente travaillant sur l'étirement du temps dans une quasi-immobilité.<br>En juin 2001, s'impose le retour au Zaïre devenu Congo, déchiré par plusieurs années de conflits meurtriers, le séjour de quelques semaines pour un atelier devient un choix de vie. Faustin met sur pied les Studios Kabako, structure pour la danse et le théâtre visuel, \"un lieu où l'on travaille, où toujours on cherche et où parfois l'on trouve, un lieu où l'on doute mais où certains soirs s'impose une certitude\". Avec quatre danseurs qu'il forme, il crée Spectacularly Empty, carnet un rien désespéré d'un retour au pays natal…<br>Commence alors une longue réflexion sur l'histoire et une mémoire collective sans cesse malmenée, bousculée, détournée par des dirigeants en mal de légitimité, incapables de penser le futur, mais aguerris à l'art délicat du</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/1#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_dinozord_FDA2007/CommAvignon_fds_dinozord_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>passe-passe et de la substitution. Une mémoire effacée, ponctuée de trous noirs et de raccourcis saisissants, mémoire sans cesse occultée, volée à plusieurs générations.<br>Suivent Triptyque sans titre (2002), Spectacularly Empty II (2003), recréation pour boite noire de la pièce de 2001, Radio Okapi (2003-04), performance mêlant radio en direct et artistes invités, chaque soir différents, et Le Festival des mensonges (2005-06), veillée autour de la petite et de la grande histoire du Congo. Faustin Linyekula travaille aujourd'hui sur la mise en scène d'un texte de Marie-Louise Bibish Mumbu La Fratrie errante.<br>À côté des Studios Kabako, Faustin Linyekula crée en janvier 2003 une pièce pour six danseurs de hip-hop, commande du Festival Suresnes Cités Danse,Telle une ombre gravée dans la poussière et imagine pour Sylvain Prunenec un solo-miroir, Si c'est un nègre / autoportrait, qu'il devait présenter dans le cadre du Vif du sujet au Festival d'Avignon 2003.<br>En juin 2005, le Centre national de la danse lui confie une Carte blanche : naît Le Cargo avec à son bord une dizaine de compagnies de six pays d'Afrique, soit une trentaine d'artistes qui ont pu montrer leur travail à Paris, souvent pour la première fois.<br>Faustin Linyekula enseigne régulièrement en Afrique, aux États-Unis et en Europe. Il participe aujourd'hui à un groupe de réflexion, The Africa Centre, autour de la création d'un centre d'art près du Cap (Afrique du Sud)…<br><br>et<br><br># Le Festival des mensonges<br>DE FAUSTIN LINYEKULA<br><br>20 21 22 23<br>SALLE DE CHAMPFLEURY □ 22 h □ durée estimée 2 h et puis la soirée se poursuit<br><br>Conçu comme une veillée festive, le Festival des mensonges est un espace de convivialité. Entouré de musiciens, de danseurs et d'écrivains, Faustin Linyekula fait partager souvenirs personnels et anecdotes, mais aussi l'histoire d'un pays sans cesse réécrite au fil des noms (République démocratique du Congo, ex-Zaïre, ex-Congo belge, ex-État indépendant du Congo...).<br><br>Conférence de presse en public<br>9 et 19 juillet □ 11h30 □ Cloître Saint-Louis □ avec Faustin Linyekula<br><br>Ciné-danse des Hivernales □ 12 et 18 juillet □ 10h30 □ Cinéma Utopia-Manutention<br>Faustin Linyekula, Installation (2007, 20mn) de Zapo<br><br>Rencontre au point danse des Hivernales<br>12 juillet □ 12h □ Manutention 1er étage □ avec Faustin Linyekula<br><br>Regards critiques □ 15 juillet □ 11h30 □ École d'Art<br>Quelles histoires pour dire l'Histoire ? □ avec Faustin Linyekula, Ariane Mnouchkine et Arlette Farge, historienne<br><br>Les Rencontres de Foi et Culture □ 17 juillet □ 17h □ Centre Magnanen<br>Les Mardis du Festival □ rencontre avec Faustin Linyekula<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/2#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_dinozord_FDA2007/CommAvignon_fds_dinozord_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Faustin Linyekula / <br>Studios Kabako<br>Dinozord:<br>The Dialogue Series III<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/3#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_dinozord_FDA2007/CommAvignon_fds_dinozord_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>8 9 10 12 13 14 15 à 18h et aussi le 14 à 23h<br>GYMNASE DU LYCÉE MISTRAL □ durée 1 h 40 □ première en France<br><br>direction artistique Faustin Linyekula<br>textes Richard Kabako, Antoine Vumilia Muhindo<br>avec Serge Kakudji contre-ténor, Dinozord, Papy Ebotani, Djodjo Kazadi, Faustin Linyekula danseurs, Papy Mbwiti comédien<br>vidéo, photo Sammy Baloji, Antoine Vumilia Muhindo, Faustin Linyekula<br>en vidéo Papa Rovinsky griot multidimensionnel<br>musique W. A. Mozart (Requiem, fragments) - Chorale Charles Lwanga de Kisangani, Joachim Montessuis (Nirica), Arvo Pärt (Pari Intervallo, Redeuntes in mi, Trivium, Annum per Annum), Jimi Hendricks (Voodoo Child)<br>administration Virginie Dupray assistée de Jean-Louis Mwandika<br><br>spectacle créé le 30 novembre 2006 au Tanzquartier (Vienne) dans le cadre du New Crowned Hope Festival<br><br>production Studios Kabako, New Crowned Hope (Vienne)<br>coproduction Tanzquartier Wien, KVS Theater (Bruxelles)<br>avec le soutien de l'Organisation internationale de la Francophonie, de CULTURESFRANCE dans le cadre du programme Afrique en créations, de la DRAC Ile-de-France/Ministère de la Culture et de la Communication et du Centre culturel français de Kinshasa/Halle de la Gombe<br><br>les dates de The Dialogue Series III après le Festival : le 6 décembre 2007 au Théâtre des Cordes/CCN de Caen-Basse Normandie dans le cadre du Festival Danse d'ailleurs, le 15 mai 2008 à La Faïencerie (Creil), les 24 et 25 mai 2008 au Alkantara festival au Centro Cultural do Belem (Lisbonne, Portugal)<br><br># entretien avec Faustin Linyekula<br><br>De quelle façon votre parcours singulier est-il lié à des souvenirs personnels et à l'histoire de votre pays, l'ex-Zaïre, aujourd'hui appelé RDC, République Démocratique du Congo?<br>Faustin Linyekula: Jusqu'en 1995, et ma rencontre à Nairobi avec Opiyo Okach, mime et danseur, avec lequel j'ai fondé la compagnie Gáara, je me présentais plutôt comme comédien, j'écrivais aussi de petites choses. Tout a commencé à Kisangani, en 1988, avec des amis, dont Vumi, aujourd'hui en prison, qui m'a donné le désir d'écrire en me faisant lire des poèmes. Nous étions dans la même classe et nous plaisions sur le fait qu'il était mon parrain littéraire. Comme beaucoup d'adolescents qui veulent se rebeller, nous nous étions trouvés et formions un groupe d'amis, en partie réunis en réaction contre notre professeur de français qui ne jurait que par la poésie de la négritude. C'était selon lui l'aboutissement de toute démarche littéraire, tandis que pour nous, la négritude était dépassée. Nous cherchions ailleurs. Et ce refus nous a ouvert les yeux. Nous avons découvert d'autres écrivains africains plus critiques, notamment envers cette fameuse négritude. Ce qui faisait notre joie, c'était de lire et citer des phrases comme celle de l'écrivain nigérian Wole Soyinka: \"Le tigre ne proclame pas sa tigritude, il bondit sur sa proie et la dévore\". Nous rêvions ainsi de changer la littérature et le théâtre africains. Pas moins! En lisant des poèmes lors des fêtes à l'école, en écoutant la radio. Au Centre culturel français de Kisangani, il y avait l'atelier théâtre qui, sans être une école, proposait jusqu'à dix heures de cours par semaine avec la communauté théâtrale locale dont faisait déjà partie Kabako. Comédien, il commençait aussi à faire ses premières mises en scène. Il avait neuf ans de plus que moi, et il a été parmi les premières personnes à m'apprendre ce que signifie être sur scène. À l'ATC (c'est ainsi qu'on appelait ces ateliers), notre chance, la mienne, a été de rencontrer des gens qui déjà à l'époque avaient compris que le théâtre, ce n'était pas d'abord des textes, des personnages, des costumes ou du maquillage... mais en premier lieu, une question de présence, de corps l'un en face de l'autre.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/4#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2232,
+            "width": 1578,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_dinozord_FDA2007/CommAvignon_fds_dinozord_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2232,
+                                "width": 1578,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/5#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Kabako, c'est aussi l'ami auquel vous rendez hommage dans votre création Dinozord: The Dialogue Series III. Par ailleurs, vous avez aussi donné ce nom, les Studios Kabako, à votre structure installée à Kinshasa qui est un lieu de formation, de recherche et de création ouvert à tous ceux qui s'intéressent à la danse et au théâtre visuel.<br>En ce qui concerne les studios, il faut savoir qu'à Kinshasa, quand on dit théâtre ou lieu théâtral, il s'agit plutôt d'une cour en plein air avec un bloc de béton au milieu. Quand il y a un spectacle, on sort les chaises. Cela déplace complètement la question du lieu théâtral, qui n'est plus celle de l'architecture ou du bâtiment, pour revenir à la notion essentielle du rapport et du lien entre ceux qui jouent et ceux qui regardent.<br>Quant à nos Studios, il ne s'agit pas d'un lieu à proprement parler, nous n'en avons pas, mais d'un espace mental, de recherches, de doutes, d'échanges, espace nomade qui s'installe ici ou là, une certaine façon de faire avec ce qu'il y a, de composer avec des contextes et des environnements singuliers...<br>Pendant très longtemps à Kinshasa, je n'avais accès qu'à un jeu d'orgue, à l'époque manuel, et uniquement quand je travaillais au Centre culturel français. Ailleurs, pour pouvoir se produire, on fabriquait des boîtiers d'interrupteurs. Et j'ai trouvé intéressant de ramener la logique de mon boîtier dans les théâtres en Europe. Par exemple, en procédant par coupures, sans moduler les éclairages. Avec des lumières qui reviennent vite, sans effet, en plein feu. On coupe, on rallume. Par ailleurs, depuis trois ans, nous essayons autour de chaque projet d'acheter un peu de matériel, de s'équiper petit à petit, ce qui nous permet de travailler avec un minimum de son et de lumière, chaque fois en fonction de la nécessité des projets.<br><br># Comment définissez-vous votre travail aujourd'hui, après être passé de la littérature au théâtre, puis à la danse, après avoir voyagé ou travaillé au Kenya, au Rwanda, en Afrique du Sud, à la Réunion, en Europe, notamment en France et en Belgique ?<br><br>Je suis avant tout un raconteur d'histoires. Chercher et trouver des formes pour pouvoir raconter. Peu importe que cette forme que je ne cesse de chercher relève de l'installation, de la danse, du théâtre visuel ou musical, et que cette recherche puisse être interprétée comme une remise en cause des codes de la représentation, cela n'est pas ma préoccupation. Juste raconter, voilà ce qui me touche, me fait rêver. Et après, dire, montrer, témoigner de multiples façons, comment cette histoire, aujourd'hui la mienne, celle de mes amis, celle de mes proches, s'inscrit en dialogue avec une histoire collective. Je ne cherche pas à exposer comment s'est faite notre inscription dans l'histoire de ce pays, mais à raconter comment cette histoire nous a marqués, a changé nos vies.<br>Et je reviens à l'histoire de ce pays qui change de nom. Je suis né et j'ai grandi dans un pays qui s'appelait Zaïre. Jusqu'au 16 mai 1997, j'étais encore zairois. Le 17 mai 1997, je devenais congolais. Du jour au lendemain. Plus tard, lorsque j'ai dû changer mon passeport zairois pour un passeport congolais, le consulat du Congo à Nairobi exigeait un certificat de nationalité. J'en avais un, ancien, que je leur ai donné, mais qui a été refusé parce qu'il y était écrit que j'étais zairois ! C'est absurde, est-ce parce que mon nom a changé que ma réalité a changé ? Il s'agissait bien sûr d'une question de quelques dollars... Comment une histoire de nom peut-elle prendre une place aussi centrale dans la définition de qui l'on est ? Zairois, congolais n'est-ce pas la même chose ?<br>De même, sous Mobutu, il était interdit d'avoir des prénoms, on pouvait aller en prison pour ça ; à cette époque je n'étais pas Faustin, j'étais Linyekula Ngoy. En 1971, Mobutu avait commencé sa \"politique de recours à l'authenticité\", la Zairanisation, soit effacer toute trace du passé colonial. Toutes les statues de cette période ont été déboulonnées, remplacées par les siennes. Au nom de l'authenticité, les noms devaient être bantous, le Congo est devenu le Zaïre, lui-même a abandonné ses prénoms chrétiens Joseph Désiré, pour devenir Mobutu Sese Seko Kuku Ngbendu Wa Za Banga. De même, chaque Zairois a dû renoncer à ses prénoms. S'en était fini des Pierre, Jean, Marie et autres Thérèse, désormais figuraient sur les papiers un nom et un post-nom. D'autant plus absurde que la tradition même du nom de famille date des années trente, de l'institution coloniale par excellence ! Mon grand-père a ainsi été le premier de sa lignée à créer un nom de famille : Linyekula...</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/5#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2232,
+            "width": 1578,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_dinozord_FDA2007/CommAvignon_fds_dinozord_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2232,
+                                "width": 1578,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/6#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Si la question du nom hante votre danse, dans Dinozord: The Dialogue Series III, la relation entre histoire individuelle et collective prend un autre chemin.<br><br>Celui d'un tas de ruines peut-être... Je pensais avoir une maison, le Zaïre, et une histoire familiale. Or mon simple nom est devenu source de confusion, ce qui me porte à danser pour en clarifier les termes. Dans chaque projet, il me semble que j'essaie de reconstruire quelque chose de cette identité. Anselm Kiefer, le plasticien allemand dont l'œuvre s'inscrit notamment en réaction au passé nazi, disait que ses créations sont ces espaces où il essaie de mettre un peu d'ordre dans le chaos environnant. Disons que je me sens proche de ce propos qui me touche beaucoup.<br><br>Chaque projet relève donc de cette tentative de clarifier un pan de cette histoire. Lorsque l'on a en héritage un tas de ruines, on cherche à se construire un abri, sans se demander s'il vaut mieux une tente, un bout de carton ou un morceau de bois. On prend tout ce qu'on trouve, que ce soit un rite transmis par ma grand-mère, un chant catholique appris par mon père ou une citation latine... Pour moi, la question est de pouvoir se tenir debout, devant des gens, et de pouvoir dire : je suis ici, je m'appelle untel, voici mon espace, ce que je pense être mon espace. Mes premiers projets créés à Kinshasa étaient plus chorégraphiques, car la question partait du mouvement, tout en s'ouvrant plus largement... Aujourd'hui, j'ai décidé de tout poser sur le plateau, de rentrer dans le matériau, car l'essentiel est ailleurs : raconter mes histoires en mettant en œuvre tout ce dont je dispose, tous les outils, sonores, visuels, que ce soit le corps, les mots ou les objets. Il y a longtemps que je voulais trouver une façon de raconter le Congo.<br><br># Quelles sont les différentes histoires que vous nouez ensemble dans cette création ?<br><br>On en revient toujours à mon retour au Congo, plus particulièrement à Kisangani. Que sont devenus mes amis, ceux avec qui j'ai rêvé de changer la littérature et le théâtre africains ? Vumi est en prison, Kabako est décédé, les autres sont partis. J'ai aussi rencontré à Kinshasa un jeune danseur hip-hop, surnommé Dinozord. Il a aujourd'hui dix-neuf ans, il en avait seize à l'époque. Un jour, je lui ai demandé pourquoi il s'appelait ainsi et il m'a répondu : \"pace que je suis le dernier de ma race\". J'ai voulu faire cette pièce en dialogue avec lui et avec ma ville. Cette création est un moment de passage, un temps de transition, un requiem pour des funérailles, mais aussi pour pouvoir prendre un autre chemin. J'ai également rencontré à Lubumbashi un autre jeune garçon de dix-huit ans qui est dans cette création. Contre-ténor, il a appris seul le chant lyrique. Comment rêver de chanter dans un tel contexte ? Pour enterrer mon histoire, j'ai voulu que ces jeunes m'accompagnent. S'est imposé le Requiem, et l'histoire de Mozart telle que Peter Sellars me l'a contée. Pour retrouver les habitants de Kisangani, nous sommes allés filmer les rues, les habitants en leur posant une simple question : \"Quel est votre rêve ?\". Un matériau qui a fortement nourri mes recherches, ainsi que le film projeté pendant la pièce.<br><br># Vous avez aussi recours à des corps peints, masqués, à des signes et des objets, à des gestes parfois intrigants.<br><br>Tout part du corps, toute cette histoire y est inscrite, dans la violence faite au corps. Il suffit de remonter aux débuts de la colonisation, quand les Belges coupaient les mains des gens qui n'allaient pas assez vite dans les plantations d'hévéas, ou d'évoquer le régime Mobutu avec ses contraintes imposées au corps et l'uniforme national, sorte de recyclage du costume Mao. Il avait rajouté un col et une écharpe obligatoires. Il l'appelait \"abacost\", pour \"à bas le costume\". Toute l'histoire récente du pays est une histoire de corps, de la dernière guerre, avec plus de trois millions et demi de morts en cinq ans, aux histoires de viols comme arme de guerre ou de cannibalisme. Si je secoue juste un peu le corps, en me disant que bien sûr je suis jeune, mais vieux aussi, avec des gènes qui me rattachent aux générations avant moi, il y a peut-être encore des choses que pourrait me dire ce corps, lui qui a grandi dans un contexte particulier. J'ai reçu une éducation très catholique, mon père dirigeait une chorale à l'église, dans la petite ville à côté de Kisangani où il habitait. Mais, il y avait aussi les rituels que pratiquaient mes grands-mères, la plupart du temps sans les hommes. Il y a donc toujours ce corps qui essaie de trouver sa place entre les deux. Quand je retourne à mon tas de ruines, je retrouve un</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007/canvas/6#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

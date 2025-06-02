@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Machine"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_machine_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_machine_FDA2007/CommAvignon_fds_machine_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Gildas Milin<br><br>Plasticien de formation et comédien sous la direction notamment de Stuart Seide, Philippe Adrien, Alain François, Jean-Pierre Vincent, Bernard Sobel, Julie Brochen… Gildas Milin est aussi auteur et metteur en scène depuis 1993. Ses textes sont publiés aux éditions Actes-Sud Papiers : L'Ordalie, Le Triomphe de l'échec, Le Premier et le dernier, Anthropozoo et L'Homme de février. Par ailleurs, il répond aux commandes du Deutsches Theater (La Troisième vérité, inédit) et du Théâtre national de Strasbourg (Phineas Gage, inédit). En 2005 il crée à Copenhague Guerres de Lars Noren, pour les acteurs du Riksteater de Stockholm.<br><br>Il est aussi fréquemment sollicité en tant que pédagogue aux écoles du TNB et du TNS ainsi qu'à l'ERAC (Lenz et la fabrique scientifique pour un théâtre du ressenti, à partir de l'œuvre de Georg Büchner – 2004, inédit), et à l'École régionale d'acteurs de Lille (Commun n'est pas comme un – 2005, inédit). Enfin en février 2007, il présente les travaux des comédiens de troisième année au Conservatoire national supérieur d'Art dramatique de Paris (Ghosts – inédit 2007).<br><br>Il anime également des stages en direction de comédiens professionnels, récemment en collaboration avec Alain François (dans le cadre des Chantiers nomades) : vers un théâtre du ressenti (2006)<br><br>Pascale Ferran lui propose de co-diriger un atelier pour les élèves réalisateurs de la FEMIS en 2005. Après cette rencontre, il intervient sur le tournage de Lady Chatterley, et réalise son premier court-métrage intitulé Collapsar (2007 – 22 minutes).<br><br>Installé en région Ile-de-France, il y montre son travail depuis dix ans. Le Théâtre national de la Colline l'invite comme auteur associé en 2004 et en 2008.<br><br>Au Festival d'Avignon, Gildas Milin a déjà joué dans Henri VI de Shakespeare mis en scène par Stuart Seide en 1994 et présenté Bande de décohérence dans le cadre de la Vingt-cinquième heure en 2005.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_machine_FDA2007/CommAvignon_fds_machine_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>et<br><br># Du robot au théâtre<br>12 juillet à 10h30 ☐ Chartreuse de Villeneuve lez Avignon<br>Rencontres-débats<br>animés par Franck Bauchard et Emmanuel Vergès<br>Avec les chercheurs Daniela Cerqui, Frédéric Kaplan, Fiorella Operto, Alexandre Vienne<br>et les artistes France Cadet, Gildas Milin, Jean-François Peyret, Gisèle Vienne<br>Une journée organisée autour de la circulation de la parole entre chercheurs et artistes sur les développements de la robotique et les liens que l'on peut établir entre les avancées scientifiques et la question du théâtre, celle de l'acteur. Qu'est-ce qui distingue le robot d'une machine ? Qu'est ce que l'émotion artificielle ? En quoi les robots nous ont-ils permis de reconsidérer ce qu'est l'intelligence ? Sommes-nous des cyborgs ? Voilà en vrac quelques questions parfois vertigineuses autour desquelles tournera cette rencontre.<br>17h30 ☐ R.U.R. de Karel Čapek<br>lecture par l'ensemble de l'équipe de Machine sans cible de Gildas Milin<br>19h ☐ atterrissage en douceur<br>proposé par Jean Lambert-wild<br><br># Dialogue avec le public<br>18 juillet à 11H30 ☐ École d'Art<br>avec Gildas Milin et des membres de l'équipe artistique de Machine sans cible, animé par les Ceméa<br><br># Rencontres de la Région Île-de-France<br>20 juillet à 11H - 12h30 ☐ Chapelle du Miracle<br>Rencontre avec Gildas Milin<br><br># Concert de Gildas Milin<br>avec Olivier Guilbert<br>24 juillet à 19 h ☐ Gymnase du lycée Saint-Joseph<br><br>Comme chaque année, l'Adami apporte son aide aux spectacles coproduits par le Festival d'Avignon et favorise l'emploi, notamment sur des spectacles réunissant un nombre important d'artistes. Société de gestion collective des droits des artistes-interprètes (près de 60 000 comédiens, chanteurs, musiciens, chefs d'orchestre, danseurs...), l'Adami a consacré, en 2006, près de 13 millions d'euros à 950 projets dans différents genres artistiques. Ces aides ont contribué à l'emploi direct de plus de 6500 artistes.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_machine_FDA2007/CommAvignon_fds_machine_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Gildas Milin<br>Machine sans cible<br><br>avec la Chartreuse de Villeneuve lez Avignon<br><br>Centre National des Ecritures du Spectacle<br>LA CHARTREUSE<br>de Villeneuve lez Avignon<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_machine_FDA2007/CommAvignon_fds_machine_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>10 11 13 14 15 16 17 19 20 21 22<br><br>TINEL DE LA CHARTREUSE □ 18 h □ durée estimée 2 h 30 □ création 2007<br><br>partition pour 7 interprètes<br>texte et mise en scène Gildas Milin<br>avec<br>Marc Arnaud, Morgane Buissière, Julia Cima, Rodolphe Congé,<br>Éric Didry, Déborah Marique, Gildas Milin<br><br>assistants Yann Richard, Guillaume Rannou<br>stagiaire à la mise en scène Quentin Bonnell<br>costumes Magali Murbach<br>scénographie Gildas Milin et Françoise Lebeau<br>photographies Jean-Gabriel Lopez<br>conception et réalisation du robot Milan Jancic - La grange<br>lumière Bruno Goubert<br>régie générale Éric Da Graça Neves<br>administration Françoise Lebeau, lelabo<br>Stagiaire lumières Victor Egea<br><br>texte à paraître aux éditions Actes Sud-Papiers en janvier 2008<br>spectacle créé le 10 juillet 2007 au Tinel de la Chartreuse, Festival d'Avignon<br><br>production Les Bourdons farouches<br>production déléguée lelabo<br>en coproduction avec La Chartreuse-Centre national des écritures du spectacle de Villeneuve lez Avignon, <br>le Festival d'Avignon, le Théâtre national de la Colline, la Scène nationale de Cavaillon,<br>L'Hexagone-Scène nationale de Meylan, la CCAS<br>avec le soutien de la Région Île-de-France et du Jeune théâtre national<br>avec l'aide nationale à la création du Centre national du Théâtre<br>Remerciements Aurélia Monier, Le Nouveau Théâtre de Besançon - CDN.<br>Le Festival d'Avignon reçoit le soutien de l'Adami pour la production<br><br>les dates de Machine sans cible après le Festival :<br>du 17 janvier au 13 février 2008 au Théâtre National de la Colline, le 26 février 2008 à la Scène nationale de Cavaillon,<br>les 6 et 7 mars 2008 à L'Hexagone-Scène nationale de Meylan, le 13 mars 2008 à L'Estive-Scène nationale de Foix<br>et de l'Ariège</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_machine_FDA2007/CommAvignon_fds_machine_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Un homme a l'intention d'écrire sur l'amour et l'intelligence. Pour se donner des outils de travail, il convie quelques amis et connaissances à une séance d'enregistrement. Chacun se livre à l'exercice difficile, intime, de dire ce qu'il pense être l'amour, l'intelligence. Existe-t-il des ponts entre les deux ?<br>Il propose une expérience concrète sur l'amour à partir d'une expérience scientifique basée sur la théorie de l'empreinte de Konrad Lorenz. Il introduit dans le groupe un \"générateur numérique aléatoire\". C'est un robot dont les déplacements, les mouvements et rotations répondent à la transcription de chiffres tombés au \"hasard\". Il a été conçu pour vérifier l'influence de certains médiums sur sa trajectoire a priori chaotique. Par blague, autant que par curiosité, le groupe fait l'expérience d'envoyer des messages mentaux d'amour au robot pour voir si l'amour influe ou non sur sa trajectoire. Au cours de l'expérience, le comportement des êtres humains s'avère au moins aussi chaotique et irrationnel que celui de la machine.<br><br># entretien avec Gildas Milin<br><br>Vous avez donné à votre création un titre assez intrigant. À quoi s'attendre ?<br>Gildas Milin : Machine sans cible présente un récit plus linéaire en apparence que L'Homme de février : un groupe de personnes participe à un enregistrement, s'exprime toute une nuit sur le thème de l'amour et l'intelligence. Existe-t-il selon eux des ponts entre l'amour et l'intelligence ? Lesquels ? Leurs bégaiements, leurs difficultés à parler de l'amour et de l'intelligence jalonnent un chemin chaotique qui les conduit à s'interroger sur certains phénomènes paranormaux. Ils en viennent à considérer l'amour, l'intelligence comme des forces multidirectionnelles qui visent sans but, sans visée, \"sans cible\" - cette infinité de directions dessinant peut-être un horizon \"sensible\".<br><br>Qu'est-ce qui vous intéresse dans le fait de privilégier un processus en transformation ?<br>Dans Machine sans cible, j'ai commencé l'écriture par des enregistrements. J'ai effectivement joué le jeu de la fiction racontée dans ce texte, c'est-à-dire que j'ai réellement convié des gens à venir parler d'amour et d'intelligence au cours d'une soirée, le bégaiement a commencé à ce moment-là. À partir de cette séance, j'ai introduit d'autres éléments, beaucoup réécrit - il reste finalement assez peu de choses de ce premier enregistrement, si ce n'est l'esprit d'une soirée d'été où des paroles se libèrent. Le point de départ vient donc d'un ensemble de voix. Cela reste dans l'oralité.<br>Mon intérêt porte sur ce qui se passe au cours de la représentation entre les personnes présentes. Une assemblée fait face à une autre, la pièce commence, chacun livre une part de lui-même face à un petit public, les spectateurs regardent ce public regarder ces personnes en train de parler de choses extrêmement intimes. Cette mise en abyme de la représentation questionne la production du sens sur un mode multidirectionnel, sans cible, sensible.<br><br>Comment êtes-vous conduit à créer les personnages ?<br>Je n'écris pas de dialogues entre des personnages mais une pièce qui est d'abord un flux de paroles, que je redistribue ensuite comme dans un multiplex, en envoyant des pistes ici et là vers ce que seront les personnages. Le texte est présent avant les personnages. Par ailleurs, comme le processus de Machine sans cible a débuté par des enregistrements de paroles réelles exprimées par des personnes extérieures à la création, il y a une perturbation totale de la notion de personnage. Il y a donc d'un côté une grande piste et de l'autre des entrées multiples schizophréniques. Les bégaiements me permettent aussi de faire glis-</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_machine_FDA2007/CommAvignon_fds_machine_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>ser dans le texte des éléments différents, qui ne sont plus du même ressort. Il se crée des brèches, à partir desquelles je peux réintroduire d'autres provenances.<br>Je crois que j'en suis venu à interroger d'éventuelles relations entre amour et intelligence, à partir du travail de répétition que j'ai mené avec les acteurs depuis plusieurs années. Les rencontres que nous avons eu, les reconductions, les fidélités ou les changements. Il est beaucoup question de la douceur. Au fur et à mesure des années, c'est vraiment avec quel genre de douceur, d'écart, on arrive à discuter et à créer un \"entre les personnes\" qui soit créatif. Donc: pourquoi ne pas écrire justement sur une communauté de personnes qui se constitue sous nos yeux et qui se met au travail? Voir ce qui se passe entre des gens qui essaient de construire quelque chose ensemble et qui savent que cela ne peut se faire qu'à plusieurs, avec toutes les dissymétries, si l'on peut dire \"égalitaires\", du rapport à l'élaboration et à la fondation d'une petite humanité. Les personnages sont tour à tour acteurs puis spectateurs les uns des autres, les uns pour les autres, tantôt ils suspendent leur activité pour laisser les autres se déployer, tantôt ils se déploient devant les autres devenus spectateurs. Comme au spectacle, mais aussi comme un enfant regarde son père se raser parce qu'il ne peut pas encore le faire, ou comme un père regarde son enfant manger du chocolat pour la première fois, ce qui ne peut plus lui arriver, chacun suspendant son activité pour pouvoir regarder l'autre.<br>La société dans laquelle nous vivons a très bien compris qu'il était vraiment très rentable de faire croire aux gens qu'ils étaient acteurs: de leur blog, de leur site, de leur télévision personnalisée, en achetant \"think different\", des jeux vidéos etc. En réalité, ils ne sont probablement qu'\"actés\", dirigés vers des buts très définis, ciblés. Des gens \"actés\" ont-ils la capacité d'être spectateurs? Vers quel monde relationnel allons-nous? Un monde sans acteurs? Sans spectateurs? Sans reconnaissance des uns par les autres?<br><br># À quoi conduit cette interrogation sur \"l'entre\": entre les personnes et entre l'amour et l'intelligence?<br>Je me dis que l'amour et l'intelligence ont à voir avec le fait de \"considérer\", de regarder. Il s'agit d'un type de regard. Comment regarder les choses sur un mode relativement déconditionné de notre mémoire, de notre structure, de notre passé, de nos peurs. La naissance de l'amour et de l'intelligence, c'est peut-être juste ce moment où l'on essaie de regarder légèrement autrement, juste ce qui arrive, sans présupposé – ce qui devrait correspondre à un changement radical, instantané, du rapport entre l'observateur et la chose observée. Simplement regarder, goûter, jouir?<br><br># Un chemin de sagesse?<br>Un chemin de refus du désespoir? Machine sans cible, en tout cas, n'a pu à aucun moment être autre chose qu'une comédie.<br>Propos recueillis par Irène Filiberti en février 2007</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

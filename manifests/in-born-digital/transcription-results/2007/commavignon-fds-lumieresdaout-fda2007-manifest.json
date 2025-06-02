@@ -1,0 +1,450 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Lumieres d aout"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_lumieresDAout_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lumieresDAout_FDA2007/CommAvignon_fds_lumieresDAout_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Juliette Pourquery de Boisserin, née en 1978. Auteur.<br>Depuis 2002, elle prépare une thèse en littérature et iconographie médiévale à l'Université Rennes 2. Elle est chargée de cours en littérature et langue médiévales.<br>En 2002, rencontre avec Roland Fichet qui lui demande de participer au projet Pièces d'identités. À cette occasion, elle écrit une pièce de théâtre intitulée Sept têtes et dix cornes. En avril 2004, ce texte est lu lors d'une rencontre organisée par les E.A.T. et Aneth à l'Hôtel de Massa (Paris).<br>Quelques-uns de ses textes (Une lettre ou comment mettre en scène un sexe féminin, Pour une vieille, et Le jardin) ont paru dans la revue Du nerf, dirigée par Régis Guigand. Elle a également écrit et aquarellé un roman pour enfants, Nance. Pour la création des Courtes pièces politiques en novembre 2006 à Rennes, elle écrit Le parloir.<br>En janvier 2007, à l'occasion d'une collaboration artistique avec le chœur de chambre Vibrations, elle écrit Les corps chantants. Elle participe à la mise en scène du spectacle et met en voix son texte.<br><br>Laurent Quinton, né en 1978. Auteur, dramaturge.<br>Études universitaires en Lettres modernes à l'Université Rennes 2, depuis 1997. Il achève actuellement une thèse de littérature française : \"Récits de captivité des prisonniers de guerre français de la Seconde Guerre mondiale (1940-1953)\". Chargé de cours pendant plusieurs années, il a enseigné : Pasolini, Dostoïevski, Celan, Koltès, Pétrarque, Levi, Tardieu, Antelme, Goethe, et quelques laissés-pour-compte de l'histoire littéraire européenne. Il a participé à trois revues littéraires rennaises : Le panier de crabes (1997-1999), Mécanique urbaine (1997-2004), Du nerf (depuis 2004). Il fait également partie du projet \"Institut de démobilisation\" (depuis 2004). En 2002, il rencontre Roland Fichet au Théâtre de Folle Pensée à Saint-Brieuc. Celui-ci l'embauche comme dramaturge pour travailler sur la mémoire des spectacles Naissances (1991-2001). Il intègre, en outre, le groupe de jeunes auteurs français et africains.<br>Il écrit alors la pièce Je m'appelle Vanessa, créée en janvier 2004 par Eléonore Weber à la Passerelle (Saint-Brieuc) et reprise au festival Mettre en Scène, au TNB (Rennes) en novembre de la même année. Son texte Récit des jours est mis en scène par Charlie Windelschmidt en juillet 2006.<br>Au sein de Lumière d'août, il écrit de nombreux textes dont Qu'en pense la communauté ? (pour le spectacle Courtes pièces politiques), Écritures limites (suite à une commande du TNB et de l'ADEC-MTA), Images du monde. Il travaille actuellement sur plusieurs textes : Pour une poétique de la pornographie (essai), et Fac ut ardeat cor meum, qu'il aimerait bien finir en 2007.<br><br>Nicolas Richard, né en 1978. Auteur. Performeur.<br>Depuis fin 2002, il participe au groupe d'auteurs au sein du Théâtre de Folle Pensée. Il écrit Fragilité du capital mis en scène par Alexandre Koutchevsky dans le cadre du spectacle Pièces d'Identités, à La Passerelle Scène Nationale de Saint-Brieuc, en janvier 2004.<br>Une partie de son travail d'écriture le mène, pour l'instant, à l'endroit de la poésie sonore et de la performance. Il réalise ainsi plusieurs performances sonores et musicales à partir de ses textes : Façades (bonus track) avec David Clastrier et Yann Lacan, Sold out avec Gianni Grégory Fornet et Garance Dor, Élocutation, Brouille avec Alexis Fichet. Une version unplugged de Façades (bonus track) a été lue par l'auteur dans différents lieux (Rennes, Paris, Dijon). Façades est mis en scène par Alexis Fichet en novembre 2005 au Studio-Théâtre de Vitry, repris à Rennes et au Festival Frictions à Dijon.<br>En 2005, il a travaillé comme auteur et rédacteur auprès de l'équipe du Triangle, Scène conventionnée pour la danse, à Rennes. En 2006, il reçoit une bourse d'aide à l'écriture de la DMDTS.<br>En septembre 2006, il participe en tant qu'auteur-performeur au chantier Pièce, plomb laurier crabe mis en scène par Alexis Fichet au Studio-Théâtre de Vitry. En novembre, il participe au projet \"Sixty\" à l'invitation de la compagnie Moving Theater à La Générale (Paris).<br>Formation est mis en scène par Alexis Fichet dans le cadre des Courtes Pièces Politiques créées au Théâtre de La Paillette à Rennes en novembre 2006. Façades sera prochainement publié à La Maison Édition.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/1#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lumieresDAout_FDA2007/CommAvignon_fds_lumieresDAout_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Lumière d'août<br>compagnie théâtrale : collectif d'auteurs<br><br>Pour l'instant<br><br>61ᵉ Festival d'Avignon<br><br>DEXIA</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/2#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lumieresDAout_FDA2007/CommAvignon_fds_lumieresDAout_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># 20 juillet JARDIN DE LA RUE DE MONS ⁞ 11h et 18h ⁞ entrée libre<br><br>textes Marine Bachelot, Alexis Fichet, Alexandre Koutchevsky,<br>Juliette Pourquery de Boisserin, Laurent Quinton, Nicolas Richard<br>avec les comédiens Jonathan Drillet, Charline Grand, Bérengère Lebâcle<br>et les six auteurs du collectif<br><br>coproduction Lumière d'août, Festival d'Avignon<br>remerciements à Frédéric Fisbach, Roland Fichet et au Théâtre La Paillette<br><br>Pour l'instant est une forme de lecture-performance spécifiquement créée pour le Festival d'Avignon.<br>Plusieurs de ces textes seront repris en tournée ou créés par Lumière d'août :<br>Le Parloir, Qu'en pense la communauté ? et Ouagadougou-Rambouillet au sein des Courtes pièces politiques, les 10 et 11 août 2007 au Festival de Poche de Hédé (Ille-et-Vilaine) ;<br>Artemisia vulgaris, du 18 au 20 octobre 2007 au Théâtre de Poche d'Hédé ;<br>Vos ailes les mouettes est une partie de Plomb laurier crabe, pièce créée du 4 au 14 décembre 2007 au Studio-Théâtre de Vitry-sur-Seine, puis à Rennes au Théâtre La Paillette du 10 au 12 janvier 2008.<br><br># Programme de 11 h<br>Façades (extraits) de Nicolas Richard<br>Le Parloir de Juliette Pourquery de Boisserin<br>Ouagadougou-Rambouillet d'Alexandre Koutchevsky<br><br># Programme de 18 h<br>Qu'en pense la communauté ? de Laurent Quinton<br>Artemisia vulgaris (extraits) de Marine Bachelot<br>Vos ailes les mouettes d'Alexis Fichet<br><br># Lumière d'août, compagnie théâtrale/collectif d'auteurs<br>Lumière d'août est un collectif d'auteurs et une compagnie de théâtre basée à Rennes.<br>Le collectif n'a pas une ligne esthétique commune, mais plutôt une ligne de conduite, une envie de partager les textes, de théâtre ou pas, avec le public. Ce partage peut prendre la forme de lectures ou de spectacles, d'éditions ou de performances, de cabarets ou d'affichages urbains... Pour le Festival, les six auteurs, accompagnés de trois acteurs, proposent un parcours en deux temps à travers leurs textes, croisant lecture, mise en espace et performance. Il s'agit de rendre sensible la question de l'écriture au sein du collectif : les textes, leur élaboration, les questions et les espaces qui peuvent déclencher l'écriture.<br><br># Marine Bachelot, née en 1978. Auteur, metteur en scène, dramaturge.<br>Après des études de Lettres et Arts du Spectacle à Rennes, elle enseigne deux ans en classe \"Théâtre-expression dramatique\" à Bressuire. Sur le campus Rennes 2, elle dirige des ateliers étudiants, conçoit des spectacles d'intervention pour la rue ou en salle, sur des thèmes et questions politiques. Depuis 2002, elle travaille comme dramaturge pour le Théâtre de Folle Pensée à Saint-Brieuc. À l'Université Rennes 2, elle est chargée de cours en Arts du Spectacle et prépare une thèse sur les dramaturgies documentaires des théâtres militants contemporains. Depuis fin 2002, elle fait partie d'un groupe de dix auteurs réunis par Roland Fichet au sein du Théâtre de Folle</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/3#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2232,
+            "width": 1578,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lumieresDAout_FDA2007/CommAvignon_fds_lumieresDAout_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2232,
+                                "width": 1578,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/4#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Pensée. Dans ce cadre, elle participe à plusieurs résidences d'écriture et projets (Pièces d'identités, 2003-2004/Mousson d'été 2005/Mousson d'hiver 2006). En juin 2004, elle est invitée à un Forum de jeunes auteurs européens, au sein de la Biennale \"Nouvelles pièces d'Europe\" à Wiesbaden (Allemagne). En août 2004, elle fonde avec cinq autres auteurs la compagnie Lumière d'août à Rennes.<br>Sa pièce Artemisia vulgaris (1re version) est créée en janvier 2004 à la Passerelle-Scène nationale de Saint-Brieuc dans une mise en scène d'Alexis Fichet au sein du spectacle Pièces d'identités. Elle crée en mars 2007 au Théâtre La Paillette à Rennes sa première mise en scène d'Artemisia vulgaris - nouvelle version (texte sélectionné par le comité de lecture d'Aneth, publié dans la revue Théâtre en Bretagne n°23, et qui reçoit en juin 2007 l'aide à la création du CNT). Artemisia vulgaris est également créée en mai 2007 au CCF de Brazzaville (Congo) par Jean Clauvice Ngoubili (Atelier Bobatu). Marine Bachelot est à l'initiative du projet Courtes pièces politiques, spectacle composé de textes brefs commandés aux auteurs de Lumière d'août et à Gianina Carbunariu (Roumanie), qu'elle crée avec Alexis Fichet en novembre 2006 au Théâtre la Paillette. Depuis 2005, elle met en lecture et en espace de nombreux textes au sein du cycle des Sorties d'août (lectures-spectacles), et anime plusieurs ateliers d'écriture.<br><br># Alexis Fichet, né en 1979. Auteur et metteur en scène.<br>Après un bac bio et une Maîtrise de Lettres modernes, il devient assistant de Frédéric Fisbach, notamment sur Les Paravents de Genet, et L'illusion comique de Corneille. Pour L'illusion comique, il est également sur scène aux côtés des autres interprètes, pour un travail lexicographique où il apprend beaucoup. Il est influencé par l'écologie, les arts plastiques et la littérature contemporaine.<br>Dans le cadre de Pièces d'identités, il joue dans Fragilité du capital, de Nicolas Richard, mis en scène par Alexandre Koutchevsky, et met en scène Artemisia vulgaris de Marine Bachelot, ainsi qu'un court texte de lui-même, Vos ailes les mouettes. En novembre 2005, au Studio-Théâtre de Vitry, il met en scène Façades de Nicolas Richard, repris en 2006 à Rennes et Dijon (festival Frictions). En mars 2006, il participe à la création collective du roman Grand-mère Quéquette de Christian Prigent (metteurs en scène: Annie Lucas pour le Théâtre de Folle Pensée, Madeleine Louarn pour l'Entresort, Julie Bérès pour les Cambrioleurs, Charlie Windelschmidt pour Derezo), créé au CDDB de Lorient. Son texte Un printemps 2005 a été mis en scène par Charlie Windelschmidt, en juillet 2006. Depuis septembre 2006, il est artiste permanent au Studio-Théâtre de Vitry dirigé par Frédéric Fisbach.<br>En 2007, il est toujours assistant de Frédéric Fisbach pour plusieurs projets, et prépare de son côté la création de Plomb laurier crabe, sa première longue pièce (qui reçoit une bourse d'encouragement du CNT en juin 2007). Par ailleurs, il travaille avec Nicolas Richard sur une performance textuelle pour Il faut brûler pour briller.<br><br># Alexandre Koutchevsky, né en 1978. Auteur, metteur en scène, dramaturge.<br>Il exerce la fonction de dramaturge depuis 2001 pour le Théâtre de Folle Pensée (interviews, articles, sites internet, analyses, etc.) mais également ponctuellement pour Dehors devant la porte de Wolfgang Borchert mis en scène par Cédric Gourmelon au TNB (2001-2002) ou pour la création collective Grand-Mère Quéquette en 2005-2006 ou pour Façades, création de Lumière d'août.<br>Il prépare actuellement une thèse sur les formes brèves du théâtre contemporain à l'Université Rennes 2 où il est également chargé de cours en Arts du spectacle depuis février 2002.<br>Membre du groupe d'auteurs du Théâtre de Folle Pensée. Stratigraphie et Sexographie sont mis en scène par Chantier Grand lors de Pièces d'identités en janvier 2004 à Saint-Brieuc puis au festival \"Frictions\" à Dijon en mai 2004 par Monique Lucas. Également lors de Pièces d'identités il met en scène Fragilité du capital de Nicolas Richard. Il anime divers ateliers d'écriture à l'Université Rennes 2 ainsi qu'au CCNRB.<br>Son texte Le Jardinier de la Maison Blanche a été sélectionné par le comité de lecture d'Aneth et mis en lecture par David Lescot à la Mousson d'été 2005. Ponctuel et naturel a été mis en scène par Charlie Windelschmidt en juillet 2006. Il écrit et met en scène Blockhaus en juin 2006 à l'Aire Libre (Saint-Jacques de la Lande). Le comité de comédiens À mots découverts a lu ses textes Le Jardinier de la Maison Blanche et Les Morts qui touchent sélectionné pour être lu au Théâtre de l'Est parisien en novembre 2007. Une session de travail \"encre fraîche\" avec les comédiens a permis de poursuivre et déployer Les Morts qui touchent. Il est auteur en résidence à l'Adec de Josselin (Aneth, Une antenne/un auteur) en septembre 2006. Certains de ses textes sont publiés dans la revue Du nerf. Avec Ciel dans la ville en septembre 2007, il continue à explorer les liens entre paysage, ciel, théâtre et aéronautique.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007/canvas/4#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

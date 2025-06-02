@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Ecole d art"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_ecoleDArt_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_ecoleDArt_FDA2007/CommAvignon_fds_ecoleDArt_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>École d'art<br>Foyer des spectateurs<br>et des artistes<br><br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_ecoleDArt_FDA2007/CommAvignon_fds_ecoleDArt_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>6 - 27 juillet<br>ENTRÉE PAR LE BOULEVARD RASPAIL, EN FACE DU NUMÉRO 15<br>HORAIRES D'OUVERTURE 11h-18h<br><br># Foyer des spectateurs et des artistes<br><br>À l'École d'Art, nous vous proposons un \"foyer des spectateurs et des artistes\". Dans ce nouveau lieu, propice aux dialogues, nous avons aménagé des espaces différents:<br><br>Dans le hall, vous trouverez:<br>- des documents sur les spectacles en libre accès: les programmes de salle, la revue de presse, des livres sur l'histoire du Festival...<br>- un point librairie<br>- des ordinateurs pour consulter le site Internet du Festival<br>Sur deux écrans, vous pouvez voir des images des photographes du Festival:<br>- sur l'un des écrans, des photographies des spectacles de la 61e édition en 2007; cette projection sera actualisée et enrichie au fur et à mesure des premières des spectacles tout au long du Festival;<br>- sur l'autre écran, des projections de photographies des coulisses du Festival La Fabrication des lieux avec les montages et démontages des lieux et des décors des spectacles, prises en 2006 par Frédéric Nauczyciel, ainsi que des photographies des spectacles de la 60e édition en 2006 prises par Christophe Renaud de Lage.<br><br>Dans la cour, se déroulent les \"Dialogues avec les artistes\" et les \"Regards critiques\" ainsi que quelques conférences-débats (voir programme détaillé plus loin).<br><br>Des expositions dans le corps du bâtiment.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_ecoleDArt_FDA2007/CommAvignon_fds_ecoleDArt_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Les expositions<br><br>1re salle<br># 2587 Dessins de Valère Novarina<br>2587 dessins<br>21 x 15 cm<br>Encre de chine et crayon rouge<br>Faits le 5 et 6 juillet 1983 dans la Tour Saint-Nicolas à La Rochelle<br>Portant chacun, préalablement écrit à la machine, le nom d'un des personnages du Drame de la vie.<br>Le Drame de la vie est paru aux éditions P.O.L en 1984. Il est également disponible dans la collection Poésie/Gallimard.<br><br>Valère Novarina passe son enfance et son adolescence au bord du lac Léman et dans sa montagne. À Paris, il étudie la littérature et la philosophie, rencontre Roger Blin, Marcel Maréchal, Jean-Noël Vuarnet, veut devenir acteur mais y renonce rapidement. Il écrit tous les jours depuis 1958 mais ne publie qu'à partir de 1978. Une activité graphique puis picturale se développe peu à peu en marge des travaux d'écriture: dessins des personnages, puis peintures de décors lorsqu'il commence, à partir de 1986, à mettre en scène certains de ses livres.<br>On distinguera, dans sa bibliographie, les œuvres directement théâtrales: L'Atelier volant, Vous qui habitez le temps, L'Opérette imaginaire – et le \"théâtre utopique\", romans sur-dialogués, monologues, polyphonies voix, poésie en actes: Le Drame de la vie, Le Discours des animaux, La Chair de l'homme – et enfin les œuvres \"théoriques\", qui explorent le corps de l'acteur où l'espace et la parole se croisent dans le foyer respiratoire: Pour Louis de Funès, Pendant la Matière, Devant la parole. Insaisissable et agissant, le langage y apparaît comme une figure de la matière.<br>Au Festival d'Avignon, Valère Novarina a créé la plupart de ses pièces: Le Drame de la vie en 1986, Vous qui habitez le temps en 1989 La Chair de l'homme en 1995 et L'Origine rouge en 2000. Il devait y créer La Scène en 2003. D'autres textes ont fait l'objet d'autres mises en scène à Avignon, L'Inquiétude avec André Marcon en 1991, et L'Opérette imaginaire de Claude Buchvald en 1999. Il a aussi créé Je suis au Festival d'Automne à Paris en 1991, Le Jardin de reconnaissance à l'Athénée à Paris en mars 1997 et L'Espace furieux à la Salle Richelieu de la Comédie-Française en janvier 2006. L'Acte inconnu sera sa neuvième mise en scène.<br><br>L'Acte inconnu texte et mise en scène Valère Novarina ⁂ les 7 8 10 11 12 juillet ⁂ 22h ⁂ Cour d'honneur du Palais des papes<br>Ajour de Valère Novarina ⁂ mise en scène Christine Dormoy ⁂ les 8 9 11 12 13 14 15 17 18 20 21 22 juillet à 16h et aussi les 13 15 18 juillet à 18h30 ⁂ Cave du Pape de la Chartreuse de Villeneuve lez Avignon<br><br>2e salle<br># Le regard de Frank Castorf sur l'Europe<br>réalisée par le Goethe-Institut Paris<br>Frank Castorf, metteur en scène berlinois et directeur de la Volksbühne am Rosa-Luxemburg-Platz à Berlin, présente Nord, une grand-guignolade de Louis-Ferdinand Céline adaptée par Frank Castorf. Cette exposition se concentre sur ses mises en scène à la Volksbühne depuis 1992 et sur leur réception lors des tournées dans toute l'Europe. Photographies, commentaires du metteur en scène et affiches de spectacles présentent son travail.<br><br>Nord, une grand-guignolade de Louis-Ferdinand Céline adaptée par Frank Castorf<br>les 7 8 9 juillet ⁂ 21h30 ⁂ Cour du lycée Saint-Joseph</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_ecoleDArt_FDA2007/CommAvignon_fds_ecoleDArt_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>3e salle<br># Klaus Mann et la France, un destin d'exil<br>réalisée par le Goethe-Institut Paris<br><br>Très tôt, Klaus Mann (1906-1949), fils de Thomas Mann, perçoit les dangers du nazisme et quitte l'Allemagne pour la France dès 1933. Cette exposition rappelle que l'écrivain fut non seulement un opposant à Hitler résolument engagé, mais aussi un Européen convaincu, et permet de mieux découvrir l'auteur de Mephisto dont Tom Lanoye a tiré son adaptation théâtrale Mefiso for ever.<br><br>Mefisto for ever de Tom Lanoye □ mise en scène de Guy Cassiers □ les 17 18 19 20 22 23 24 juillet □ 21h30 □ Théâtre municipal<br><br>4e salle<br># Urgence, portrait de Dieudonné Niangouna<br>photographies de Nabil Boutros<br>Le Festival d'Avignon présente la série Urgence prêtée par CulturesFrance et a produit la série Attitude Clando afin de compléter cette exposition.<br>\"La série Urgence fait partie de Portraits Latents, une commande de CulturesFrance. Le portrait de quatre écrivains africains était le sujet. J'ai choisi de partir à sa rencontre dans une approche sensible, d'abord en lisant ses textes puis en séjournant à Brazzaville, le temps qu'il m'accordait.<br>Il ne s'agit pas seulement de représentation photographique, mais d'une proposition en rapport avec l'auteur. L'écoute de ses mots, l'attention portée aux lieux et objets qui l'entourent, ont construit le sens de l'ensemble.<br>Dieudonné Niangouna s'est prêté au jeu. Avec générosité. À Brazzaville, les mots et les situations se bousculaient, trébuchaient, comme un flot de survie. Les images ont émergé, cherchant à le suivre...\" N.B<br><br>Né au Caire, Nabil Boutros vit à Paris. Il fait des études aux Arts décoratifs du Caire, puis aux Beaux-Arts de Paris. D'abord peintre, puis scénographe, il se consacre à la photographie à partir de 1986.<br>Entre 1990 et 1994, il entreprend une série de portraits d'Égyptiens. La nuit, les lieux \"habités\" sont une permanence dans son cheminement. Après un travail sur les liens entre Alexandrie et Marseille, sur les rituels et le quotidien des Coptes, il poursuit sa documentation sur plusieurs thèmes en Égypte, et anime régulièrement des ateliers sur l'image. À la demande d'Afrique en créations, il réalise en 2005 des compositions plastiques sur quatre écrivains africains et leurs écritures intitulées Portraits latents dont sont tirées les photographies présentées ici.<br>Cette exposition a été montrée au Théâtre du Vieux-Colombier à Paris en juillet 2005 et aux Centres culturels français du Caire et d'Alexandrie en 2006, puis dans différentes villes en Afrique centrale. Actuellement, il poursuit son travail sur les Chrétiens en Orient ainsi que le rapport entre bédouins et modernité en Jordanie.<br>Il réalise également des scénographies et créations lumière des spectacles Le Caire sur la main présenté à Lille et au Piccolo Teatro Milan en 2004 et Ndo Kéla au Théâtre du Vieux-Colombier à Paris en 2005, et des scénographies d'expositions.<br><br>Attitude clando de Dieudonné Niangouna □ les 9 10 11 13 14 15 16 17 juillet □ 23h □ Jardin de la rue de Mons</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_ecoleDArt_FDA2007/CommAvignon_fds_ecoleDArt_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Les dialogues avec les artistes<br>8 9 11 13 16 17 18 21 23 24 25 juillet<br>Une heure et demie de dialogue entre une équipe artistique et les spectateurs qui auront pu assister à leur spectacle.<br><br>8 juillet □ 17h<br>avec Frank Castorf, animé par Jean-François Perrier<br><br>9 juillet □ 11h30<br>avec Rodrigo García, animé par Irène Filiberti<br><br>11 juillet □ 11h30<br>avec Frédéric Fisbach et des membres de l'équipe artistique des Paravents, animé par les Ceméa<br><br>13 juillet □ 11h30<br>avec Mathieu Bauer et des membres de l'équipe artistique de Tendre jeudi, animé par les Ceméa<br><br>16 juillet □ 11h30<br>avec Ariane Mnouchkine et des membres de l'équipe artistique des Éphémères, animé par les Ceméa<br><br>17 juillet □ 11h30<br>avec Julie Brochen et des membres de l'équipe artistique de L'Échange, animé par les Ceméa<br><br>18 juillet □ 11h30<br>avec Gildas Milin et des membres de l'équipe artistique de Machine sans cible, animé par les Ceméa<br><br>21 juillet □ 11h30<br>avec Krzysztof Warlikowski et des membres de l'équipe artistique de Angels in America, animé par les Ceméa<br><br>23 juillet □ 11h30<br>avec Guy Cassiers et des membres de l'équipe artistique de Mefisto for ever, animé par les Ceméa<br><br>24 juillet □ 11H30<br>avec Ludovic Lagarde et des membres de l'équipe artistique de Richard III, animé par les Ceméa<br><br>25 juillet □ 11h30<br>avec Jean-François Sivadier et des membres de l'équipe artistique du Roi Lear, animé par les Ceméa<br><br>Les Ceméa (Centres d'entraînement aux méthodes d'éducation active) sont un mouvement d'éducation populaire. Ils sont présents dans le domaine de l'éducation, de la culture, de la santé et de l'action sociale. Ils gèrent en collaboration avec la Ville d'Avignon et le Festival l'association Centre de jeunes et de séjour du Festival d'Avignon.<br><br># Rencontres et conférences<br><br>15 juillet □ 15h - Ecole d'Art<br>Rencontre autour des jeunes auteurs en Afrique<br>animée par Kouam Tawa, avec Marie-Louise Bibish-Mumbu, Sylvie Dyclo-Pomos, Dieudonné Niangouna, Alain-Kamal Martial, Aristide Tarnagda<br><br>Rives et rivages, René Char - Albert Camus, une fraternité d'écriture<br>19 juillet □ 11h30 □ amphithéâtre de l'École d'Art<br>conférence projection exposition Franck Planeille □ lecture Marie-Paule André</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_ecoleDArt_FDA2007/CommAvignon_fds_ecoleDArt_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Les Regards critiques<br>portés par Georges Banu et Bruno Tackels, des artistes et un invité se réunissent autour d'un questionnement qui traverse plusieurs spectacles du Festival<br><br>10 12 15 20 22 juillet<br><br>10 juillet à 11h30<br># À l'origine<br>avec Valère Novarina et Olivier Dubouclez, philosophe<br>L'univers de Novarina: étrange, étranger, énigmatique. Il s'agira de questionner l'invention d'un monde avec sa langue et d'explorer l'espace qu'il ouvre. Comment être à l'origine?<br><br>12 juillet à 11h30<br># La scène et les états de la langue<br>avec Julie Brochen, Christophe Fiat, Dieudonné Niangouna et Heinz Wismann, philosophe et philologue<br>La langue est révélatrice des tensions du réel dans des territoires et des époques contrastés. Dans la langue résonne l'état du monde. Comment l'entendre, comment s'en servir?<br><br>15 juillet à 11h30<br># Quelles histoires pour dire l'Histoire?<br>avec Faustin Linyekula, Ariane Mnouchkine et Arlette Farge, historienne<br>Comment raconter l'Histoire? Mode mineur, mode majeur? Comment corréler les points de vue? Au croisement de l'intime et du collectif, comment trouver l'angle juste?<br><br>20 juillet à 11h30<br># Le théâtre, la marge, le lien social<br>avec Krzysztof Warlikowski, Rodrigo García et Louis Schweitzer, président de la HALDE et du Festival d'Avignon<br>De la diversité des marges et de leur représentation. Comment faire parler les gens interdits de parole, comment montrer ce que l'on refuse de voir? Défi de la scène confrontée aux minorités et à leurs difficultés.<br><br>22 juillet à 11h30<br># L'artiste et le pouvoir<br>avec Guy Cassiers, Ludovic Lagarde, Jean-Pierre Vincent et Jack Ralite, sénateur<br>Accord, critique ou résistance: trois attitudes face aux contradictions de la politique. À l'heure de la crise, quelle réponse inventer? Comment juger et évaluer?<br><br>Georges Banu enseigne les études théâtrales à l'université Paris III - la Sorbonne Nouvelle. Il dirige, avec Bernard Debroux, la revue Alternatives théâtrales et a publié un important nombre d'ouvrages et essais consacrés principalement aux plus importants metteurs en scène contemporains: Ariane Mnouchkine, Giorgio Strehler, Peter Brook, Peter Stein, Antoine Vitez etc. Derniers titres parus: Le Cas Avignon, avec Bruno Tackels, Éditions l'Entretemps, 2005 et La Scène surveillée, Actes Sud, 2006.<br><br>Agrégé de philosophie, Bruno Tackels enseigne l'esthétique et l'histoire du théâtre contemporain à l'université et dans des écoles d'art. Il est l'auteur de plusieurs essais et producteur de nombreuses émissions sur France Culture. Dernière parution: Le Feuilleton d'Avignon, livre et CD MP3, co-édition Le Seuil, France Culture, INA.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

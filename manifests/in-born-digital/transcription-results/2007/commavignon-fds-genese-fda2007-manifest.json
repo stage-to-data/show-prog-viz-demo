@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Genese"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_genese_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_genese_FDA2007/CommAvignon_fds_genese_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>transférer cette responsabilité au comédien et au spectateur. Alors la géographie, le paysage de cette relation s'affranchit de la hiérarchie théâtrale pour offrir un espace plus horizontal ou en aplat, plus démocratique, égalitaire. Ce parti pris est très important dans tout le projet de Genèse n°2. En même temps, lorsqu'on commence à véritablement pénétrer dans ce matériau textuel, on retrouve quelque chose de complètement classique. La structure n'a absolument rien de nouveau, elle est strictement celle de la tragédie. Viripaev joue avec tout le patrimoine théâtral et pose les vraies questions d'aujourd'hui dans ce cadre-là. Quand j'étais étudiant, j'avais beaucoup de mal avec le système tragique, pour moi, c'était un ovni, auquel on n'avait pas accès. Genèse n°2 travaille sur cette idée. La tragédie ne se montre pas comme un phénomène extérieur à nous, lointain. Elle procède de l'intime et se vit de l'intérieur.<br>Par ailleurs, dans Genèse n°2, un autre principe est à l'œuvre, que le texte laisse entrevoir. C'est l'idée de créer un spectacle qui regarde le spectateur et non pas l'inverse. Le procédé en est aussi ancien. Il est emprunté à l'iconographie de l'église orthodoxe. Dans les célèbres icônes de Andreï Roublev, le moine peintre du XVe siècle auquel Tarkovski a consacré un film, il n'y a pas de perspective, ni de règles vraiment, car on ne regarde pas l'icône, c'est elle qui nous regarde. À travers ce principe, qui n'est pas religieux mais technique, l'idée est de revenir à soi, se regarder, pour se rencontrer soi-même. Ce principe assez fort au niveau de l'écriture n'était pas très évident à transposer sur scène, d'autant qu'il fallait que cela reste amusant et drôle et tragique en même temps. Nous avons donc travaillé dans ce sens après une période d'improvisation de trois semaines.<br>Propos recueillis par Irène Filiberti en février 2007<br><br># Galin Stoev<br>Galin Stoev est né à Varna, en Bulgarie, en 1969. Diplômé de l'Académie Nationale des Arts du Théâtre et du Cinéma (Sofia), il travaille depuis 1991 comme metteur en scène et comédien à Sofia. En Bulgarie, il met en scène nombre de spectacles, notamment au Théâtre national à Sofia : Madame de Sade de Mishima, Le cercle de craie caucasien de Bertolt Brecht et Arcadia de Tom Stoppard, Prix de la Meilleure Production en 2001. Parmi ses récentes mises en scène, Jeux de Massacre de Ionesco au Théâtre de la Ville de Ljubljana en Slovénie, Le Jeu de l'amour et du hasard au Théâtre Dramatique de Varna et Antigone à Technoland d'après Sophocle, une production du Théâtre national de Skopje qui a été présentée au Festspiele de Berlin en 1999. Il est invité en tant qu'artiste résident au Royal National Theater à Londres, à la West Yorkshire Playhouse à Leeds, à l'Académie internationale de théâtre à Bochum, à l'Académie Schloss Solitude à Stuttgart, où il a notamment créé Personals – un collage de textes issus d'Internet et de citations du répertoire. En collaboration avec Oscar Strasnoy, il monte Préreplis de noce à la campagne d'après Kafka. Galin Stoev a réalisé plusieurs projets avec Dostoevsky, dont Histoire, opérette d'après Gombrowicz présentée en 2004 à l'Opéra de Stuttgart, à l'Opéra de Lille et au Teatro Colon de Buenos Aires. Il a enseigné au St. Martin's College of Art and Design de Londres, à l'Arden School de Manchester, au Conservatoire National à Ljubljana et à Sofia. C'est à Berlin que Galin Stoev rencontre Ivan Viripaev et que commence leur amitié artistique. Galin Stoev met en scène Les Rêves (titre bulgare Archéologie des rêves) présenté au festival international de Varna en 2002. Suit, en 2003, la version bulgare d'Oxygène au Théâtre 199. En 2002, Galin Stoev est invité à Bruxelles par le CIFAS, dans le cadre d'Europalia Bulgarie. Son stage, intitulé Antiquité urbaine, est l'occasion de sa rencontre avec des comédiens francophones, dont Stéphane Oertli qui dirige la Cie Fraction à Bruxelles. Ils décident de continuer le voyage avec lui : d'abord avec Antigone, puis Oxygène (prix festival Émulation Liège 2005). En février 2006, il crée Tchékhologie, un montage d'après les textes d'Anton Tchekhov. En 2005, il fonde à Bruxelles sa propre compagnie, FINGERPRINT, dont la première création est Genèse n°2 d'Ivan Viripaev, coproduite par le Théâtre de la Place de Liège en octobre 2006. En mars 2007, il met en scène la création française La Festa de Spiro Scimone à la Comédie-Française.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/1#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_genese_FDA2007/CommAvignon_fds_genese_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Ivan Viripaev<br><br>Auteur, comédien et metteur en scène, Ivan Viripaev est né à Irkoutsk (Sibérie) en 1974. En 1995, il termine ses études à l'École de théâtre d'Irkoutsk. Jusqu'en 1998, il est comédien au Théâtre Dramatique de Magadan (Sibérie) puis au Théâtre du Drame et de la Comédie à Petropavlovsk sur Kamtchatka (Extrême-Orient russe) où il rencontre Viktor Ryjakov. De retour à Irkoutsk en 1998, il fonde la compagnie indépendante Espace du jeu et suit par correspondance les cours de la Faculté de Mise en scène de l'École de Théâtre moscovite de Tchoukine. De 1999 à 2001, il enseigne le jeu d'acteur à l'École de Théâtre d'Irkoutsk. Il apparaît à Moscou pour la première fois en décembre 2000 au Premier festival du théâtre documentaire avec son spectacle Les Rêves, créé à Irkoutsk. Sélectionné pour représenter la Sibérie en 2001 au festival Estouest/Dié, Les Rêves est accueilli par le Théâtre de la Cité internationale en 2002 dans le cadre du Moscou sur scène, Mois du théâtre russe contemporain à Paris. Le spectacle participe également au Festival de Vienne en mai 2002. Cette même année, la traduction anglaise du texte est mise en espace par Declan Donellan au Royal Court de Londres. La version bulgare est créée par Galin Stoev à Varna en juin 2001. Contraint de déménager à Moscou, il fonde en 2001 aux côtés d'Elena Gremina, Mikhail Ougarov, Olga Mikhaïlova et Maxime Kourotchkine, le Teatr. doc – Centre de la pièce nouvelle et sociale. En octobre 2002, il participe sur le plateau à la création de sa nouvelle pièce Kislorod (Oxygène), mise en scène par Viktor Ryjakov au Theatr doc à Moscou. Très rapidement, elle devient un des spectacles les plus fréquentés de Moscou, et la célébrité de Viripaev atteint celle d'un autre comédien, auteur et metteur en scène, Evguéni Grichkovets. Le spectacle fait le tour des festivals internationaux, reçoit de nombreux prix, voyage dans la province russe où il fait, dès 2004, l'objet de nombreuses mises en scène. En décembre 2004, sa pièce Genesis 2, écrite d'après un \"document\" d'Antonina Velikanova, est mise en scène à Moscou par Viktor Ryjakov. Ivan Viripaev y interprète le rôle du Prophète Jean. Ivan Viripaev consacre l'année 2005 à l'écriture du scénario et à la réalisation de son premier long-métrage cinéma Euphoria: Prix spécial du Jury Festival Kinotavr Moscou, sélection officielle 2006 de la 63e Mostra de Venise et Grand Prix du 22e Filmfest de Varsovie. Son dernier texte intitulé Iyoul (Juillet) est créé à Moscou en novembre 2006 dans une mise en scène de Viktor Ryjakov. Ivan Viripaev assure pendant quelques mois la direction artistique du Théâtre Praktika qu'il quitte début 2007 pour créer sa propre structure de \"production et création de projets innovants\" qu'il a baptisée Mouvement Oxygène.<br><br># et<br><br>AVEC LA CCAS, DANS LE CADRE DE CONTRE-COURANT<br><br>Oxygène d'Ivan Viripaev ❑ mise en scène de Galin Stoev<br>19 juillet ❑ 22 h 30 ❑ Rond-point de la Barthelasse ❑ durée 1 h<br><br># Films et documentaires<br>22 juillet ❑ 14h ❑ Utopia-Manutention<br>Euphoria (2006, 73mn)<br>film d'Ivan Viripaev, en présence de Galin Stoev ❑ film en russe soustitré en anglais<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/2#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_genese_FDA2007/CommAvignon_fds_genese_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Galin Stoev : <br>Ivan Viripaev<br><br># Genèse n°2<br><br>D'ANTONINA VELIKANOVA ET IVAN VIRIPAEV<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/3#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_genese_FDA2007/CommAvignon_fds_genese_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>18 19 20 21 23 24<br>SALLE BENOÎT-XII □ 15 h □ durée 1 h 10 □ première en France<br><br>traduction française de Tania Moguilevskaia, Gilles Morel<br>mise en scène Galin Stoev<br>avec Céline Bolomey, Vincent Lécuyer, Antoine Oppenheim<br>et les musiciens Mélanie Evrard (violon), Marine Horbaczewski (violoncelle), Michel Lambert (accordéon)<br><br>scénographie, lumière, vidéo et costumes Saskia Louwaard, Katrijn Baeten<br>musique originale Sacha Carlson<br>ingénieur du son Daniel Léon<br>régie son Juliette Galamez<br>régie vidéo Chris Van Goethem<br>régie générale, régie lumière Marc Duchateau<br>chargé de diffusion Gilles Morel genese@theatre-russe.fr<br>chargée de production Hélène Capelli<br>direction technique Marco Forcella<br><br>texte publié aux éditions les Solitaires Intempestifs<br>spectacle créé le 18 octobre 2006 au Théâtre de la Place (Liège, Belgique)<br><br>production Théâtre de la Place-Liège-Centre dramatique de la Communauté française, Centre européen de créations théâtrales et chorégraphiques<br>en coproduction avec la Compagnie Fingerprint (Bruxelles)<br>remerciements à Madame Marie Arena, Ministre-Présidente de la Communauté française de Belgique ;<br>Madame Fadila Laanan, Ministre de la Culture de la Communauté française de Belgique ;<br>Madame Marie-Dominique Simonet, Ministre des Relations extérieures de la Région wallonne<br>avec l'aide du ministère de la Culture de la Communauté française de Belgique - Service Théâtre et du Commissariat Général aux Relations internationales.<br><br>les dates de Genèse n° 2 après le Festival :<br>les 20 et 21 septembre 2007 au Teatro India (Rome), du 17 au 27 octobre 2007 au Théâtre Varia (Bruxelles),<br>du 28 janvier au 9 février 2008 au Théâtre de la Cité Internationale (Paris), les 25 et 26 mars 2008 à la Scène Nationale de Valenciennes-Le Phénix, du 21 au 24 mai 2008 au Théâtre français du Centre National des Arts (Ottawa)<br><br># entretien avec Galin Stoev et Gilles Morel<br><br>Comment avez-vous fait la connaissance d'Ivan Viripaev, l'auteur russe de Genèse n° 2 ?<br>Peut-on parler d'une \"vraie rencontre\" ?<br>Galin Stoev : En effet, mais au départ, il s'agit plutôt d'un accident. Après la chute du mur de Berlin, toutes les conditions de travail et les échanges qui existaient au niveau culturel entre les pays du bloc de l'Est ont disparu. J'étais alors en Allemagne, un ami m'a proposé de lire des textes contemporains russes et parmi eux il y avait une pièce qui s'appelait Sny (Les Rêves). C'est la première fois que je voyais le nom de cet auteur. J'ai vraiment été touché par ce texte. Il m'avait mis dans un état particulier. Je ne comprenais rien et simultanément cela me prenait aux tripes. Je percevais tout mais uniquement à travers cette sensation. Je me suis alors demandé comment un tel texte pouvait être mis en scène. C'est pourquoi j'ai décidé de travailler sur cette pièce. L'occasion s'est présentée lors d'un festival en Bulgarie. Ils voulaient une création pour un grand théâtre institutionnel. Je leur ai proposé au contraire, de réunir des acteurs d'un peu partout pour travailler sur Les Rêves. Cette proposi-</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/4#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2232,
+            "width": 1578,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_genese_FDA2007/CommAvignon_fds_genese_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2232,
+                                "width": 1578,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/5#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>tion ne correspondait pas à ce que demande ce type de théâtre, mais ils ont accepté. Ivan Viripaev est venu voir la mise en scène et très vite nous sommes devenus amis.<br>Il m'a ensuite envoyé Kislorod (Oxygène), que j'ai traduit en bulgare et mis en scène à Sofia. Je n'ai découvert ses propres mises en scène ainsi que les espaces de création qu'il essayait de développer que plus tard. Tous ses textes sont très liés au contexte dans lequel ils sont créés. La situation post-communiste en Russie mais aussi sa propre personnalité. C'est drôle, parce qu'à Moscou peu de gens peuvent imaginer un spectacle d'Ivan Viripaev sans lui. Il est toujours très présent dans ses textes. J'ai reconduit l'expérience quand j'ai commencé à travailler en Belgique. J'étais curieux de faire écouter Oxygène dans un contexte culturel différent, qui n'a rien à voir ni avec Ivan Viripaev ni avec le moment historique où il a été créé à Moscou. Je me demandais comment il pouvait être perçu. D'autant que la première lecture avec les acteurs n'avait pas été très encourageante! Ils ne comprenaient pas. Gilles Morel et Tania Moguilevskaia, qui avaient déjà travaillé sur la traduction, m'ont beaucoup aidé et petit à petit nous avons pu réaliser la mise en scène en français.<br><br># Quelles sont les questions soulevées par le texte dans sa traduction?<br><br>Gilles Morel: Tania et moi avons eu dans notre rapport à Ivan Viripaev un parcours synchronisé avec celui de Galin. Il se trouve que nous avions rencontré Viripaev à l'époque où il habitait encore sa ville natale, Irkoutsk, en Sibérie. Puis nous avons collaboré avec lui à l'accueil à Paris en 2002 et à la traduction simultanée de son premier \"texte-spectacle\" Les Rêves. Après son déménagement à Moscou, Viripaev a rejoint le cercle alternatif de la nouvelle dramaturgie auquel nous étions étroitement liés. Les contacts ont été plus réguliers, et nous avons pu suivre \"en temps réel\" l'évolution de son écriture et la dynamique atypique de son processus de création. Attaquer la traduction d'une pièce en ayant établi un rapport de proximité avec son auteur est un bonheur, un atout considérable. D'autant que les textes d'Ivan viennent tout droit du plateau où se fixe leur version définitive. Viripaev indique qu'il convient de les approcher comme des compositions musicales, il ajoute qu'il ne faut en aucun cas tenter de les résumer parce que le résultat serait un terrible non-sens. Dès lors, il était évident qu'une approche classique, littéraire, de leur traduction mènerait dans le mur et nous avons décidé de travailler en équipe en nous partageant les fonctions: Tania le passage du sens et le marquage de la richesse des niveaux de langue, et moi, la restitution musicale. Traduire du Viripaev, qu'il s'agisse de Les Rêves, Oxygène, Genèse n°2 ou Juillet, c'est batailler et investir une bonne partie de son énergie à tenter d'en préserver le souffle et de \"balancer\" un phrasé qui s'articule en assonance, en résonance, en fluidité ou en rupture... En termes de traduction, ses textes demandent un travail finalement plus physique qu'intellectuel.<br><br>G.S.: Le texte est porteur d'une construction précise qu'il faut ensuite faire disparaître dans le spectacle, rendre en quelque sorte invisible. Car il est important que le public ait l'impression que tout se passe maintenant, dans l'instant. Que les mots viennent, jaillissent spontanément. Même si en réalité tout est calculé, la moindre pause, les intonations et l'intensité des phrases. Mais cette approche physique et musicale tient plutôt de l'élan ou de l'attaque énergétique. Elle offre à chaque spectateur une entrée possible dans ce labyrinthe, pour qu'il puisse trouver son propre chemin dans le texte. Si je peux me dire qu'il y a autant de perceptions différentes du spectacle que de spectateurs dans la salle, alors je peux considérer que j'ai pour une part réussi ce travail de transmission. Souvent avec Ivan Viripaev, nous avons réfléchi sur la façon de rendre possible cette forme de communication. Pour que le spectacle ne se passe pas seulement sur le plateau mais pour qu'il se joue aussi dans l'esprit ou l'imaginaire, le corps et les émotions du spectateur. C'est pourquoi, dans ce sens, on peut dire que sur scène sont en présence des ouvriers qui travaillent à construire ce parcours.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/5#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2232,
+            "width": 1578,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_genese_FDA2007/CommAvignon_fds_genese_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2232,
+                                "width": 1578,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/6#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Cette confrontation au texte induit une forme particulière de jeu?<br>G.S. : Oui et non. Nous avons commencé de manière tout à fait ordinaire, en travaillant à la table, pour arriver à se poser les bonnes questions. Mais très vite, j'ai repris les indications de Viripaev dans Oxygène, qui précise que texte et musique fonctionnent ensemble, en même temps. En procédant de cette façon, j'ai pu m'apercevoir que parfois, à travers la vitesse, le rythme, ou le flux particulier des mots, on pouvait attraper le sens du texte bien mieux qu'en suivant une logique linéaire. Alors qu'en suivant cette même logique, le résultat était assez kitsch, car en réalité, elle se développe au radar. La structure du texte tient de l'arborescence, avec ses ruptures et ses ramifications. Comment les présenter d'une manière équilibrée pour que chaque spectateur puisse choisir sa propre histoire? Au début, on ne savait pas comment s'y prendre. Peu à peu, nous avons compris qu'il ne fallait pas jouer un personnage mais l'utiliser comme un musicien utilise son instrument. À cette condition seulement, entre l'acteur et son instrument, le personnage, on peut développer un jeu musical qui permet d'être entendu. L'idée n'est pas vraiment de jouer mais de prêter son corps, sa voix, tout ce qu'on a à disposition pour construire ce thème musical et le rendre visible sur scène. La mise en place de ce processus de travail a rebondi sur la relation au public. Dans le théâtre, on a souvent tendance à traiter le spectateur comme un consommateur. Or ce type d'écriture et de travail, insiste sur la position du spectateur qui est assez active. Du point de vue de la réception, la pièce ne procède pas en termes d'exposition ou de résolution. Le spectateur est constamment confronté avec des éléments particuliers, avec lesquels il ne peut pas être d'accord, ou qui ne peuvent se comprendre de manière intellectuelle. Donc les pièces de Viripaev font vraiment travailler, réagir le public. Il est constamment sollicité, il lui est demandé de faire des choix. Et cela me semble important pour le théâtre d'aujourd'hui de ramener les gens dans un espace de confrontation où ils sont invités à trouver eux-mêmes des solutions plausibles à ce qui leur est présenté. Dans la vie réelle, ce type de confrontation peut devenir le motif de véritables guerres! Ici, la démarche, je l'espère, offre encore un espace où il est possible de regarder, de prendre du recul pour réfléchir.<br><br>Comment avez-vous traité ces différents aspects dans Genèse n° 2?<br>G.S. : On n'est pas chez soi aujourd'hui, la perte de repères nous coupe de nous-même. On ne sait pas en quoi croire, comment faire. Dans ce monde saturé de conflits insolubles, chacun a peur pourtant de s'avouer cette évidence. Du coup, l'individu ne se sent pas entier. Je pense qu'à travers les parcours que sont les textes de Viripaev, quelque chose nous ramène à la possibilité de revenir chez soi. Quelle différence entre Antonina, la patiente schizophrène auteure et personnage, tout comme Viripaev, de Genèse n°2 et ce que par exemple j'appelle ma propre \"schizophrénie culturelle\" qui me porte, du fait que je travaille et crée des mises en scène dans différents pays, à devoir me confronter à des contextes et à des valeurs culturelles divers? Ou bien encore qu'est-ce qui se joue entre ma formation très classique et le travail théâtral que je développe aujourd'hui? Ce qui se nomme et se vit dans le texte est à l'image de ce que nous vivons tous, d'une façon ou d'une autre. Pour ma part, tout comme l'auteur peut le tenter dans ses textes, il y a l'idée qu'en se tenant dans cette sorte de décollement de soi-même, il reste possible d'ouvrir un autre espace pour se retrouver. Le théâtre est peut-être le seul endroit où l'on peut encore revenir à ces questions, en tout cas, c'est le théâtre en lequel je crois.<br>Genèse n°2 est une histoire complètement improbable. La qualité d'écriture est étonnante et peu évidente. À la lecture, on ressent une sorte de manque dans le texte. Ce qui est très intéressant, parce que cet inachèvement est aussi une forme qui reste ouverte. Il appartient donc au metteur en scène de prendre en charge ce manque, de poursuivre le chemin du texte. Du coup, la fonction change de statut. Il ne s'agit plus de donner sa propre interprétation mais de devenir un collaborateur au même titre que l'auteur. Tout comme il devient nécessaire de</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007/canvas/6#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

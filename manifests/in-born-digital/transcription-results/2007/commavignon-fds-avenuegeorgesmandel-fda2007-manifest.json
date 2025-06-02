@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Avenue georges mandel"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_avenueGeorgesMandel_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_avenueGeorgesMandel_FDA2007/CommAvignon_fds_avenueGeorgesMandel_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>que c'était mauvais pour la voix. Je dois avouer que j'ai tendance à partager ce point de vue sur Puccini, que je trouve pour ma part, assez sucré ! Il n'y a aura donc pas d'extrait de lui dans cette pièce non plus. En revanche, j'ai privilégié d'autres airs moins connus qu'elle a aussi interprétés, comme ceux de Gluck. Le montage de musiques s'est fait au fur et à mesure, beaucoup à partir de la lecture des textes, des paroles. Mais l'idée était aussi de pouvoir suivre l'évolution de sa voix sur toute la durée de sa vie. La Callas n'était pas une belle machine à chanter. Les émotions, les expériences et la vie sont présentes dans sa voix. Mais on ne verse jamais avec elle dans le sentimentalisme, c'est très retenu.<br>Ce qui est important aussi, à travers cette figure de renom, c'est que chaque spectateur puisse trouver sa propre relation à son œuvre. Je ne suis pas intéressé par l'accumulation, le côté baroque ou dramatique que l'on pourrait peut-être utiliser avec ce type de sujet. Le principal pour moi, c'est de transmettre la force de la musique. C'est elle qui raconte. Dans mon propre processus, m'imprégner de cette voix, de cette histoire, c'est aussi pousser l'écriture vers une sorte de réduction, notamment à travers le corps, qui est au début, comme vers la fin, allongé au sol. Mais l'univers n'est pas clos pour autant. Le cycle reprend, varie, avec l'apparition, dans la dernière partie, d'un interprète-danseur invité qui a aussi cette qualité de densité dans le mouvement, à même de moduler ce travail de réduction. Il est tout d'abord l'un des regards, au même titre que les autres spectateurs. Son intervention sur scène produit une forme d'interaction, avec l'idée d'aider quelqu'un à se relever. C'est un jeune danseur qui a déjà collaboré dans d'autres pièces, notamment dans Young People, Old Voices. Il a cette qualité étonnante qui m'intéresse beaucoup : celle de remplir la scène, l'espace avec très peu d'éléments. Il est d'une surprenante sobriété et entend très bien la qualité du silence ou de l'immobilité, nécessaires parfois à l'écoute et au travail.<br>En ce qui concerne plus spécifiquement mon propre travail, il s'agit d'une continuation. Chacune de mes pièces s'appuie sur la précédente. Dans cette création, il y a l'approfondissement d'une séquence en solo, créée dans le spectacle du chorégraphe Boris Charmatz, Régi, auquel j'ai récemment collaboré. J'essaie de poursuivre une ligne radicale. De construire un chemin singulier, authentique, de le développer et de le transmettre. Une forme plus petite, comme celle du solo, permet cela : se confronter à soi-même, remettre à l'épreuve le travail, l'écriture. En fait, à partir de la Callas, je pense que 36, Avenue Georges Mandel est devenue une pièce sur l'art.<br>Propos recueillis par Irène Filiberti en février 2007</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_avenueGeorgesMandel_FDA2007/CommAvignon_fds_avenueGeorgesMandel_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Raimund Hoghe<br><br>Raimund Hoghe est né à Wuppertal. Il a commencé sa carrière en écrivant pour l'hebdomadaire allemand Die Zeit des portraits de petites gens et de célébrités, rassemblés par la suite dans plusieurs livres. De 1980 à 1990, il a été le dramaturge de Pina Bausch au Tanztheater Wuppertal, ce qui a également donné matière à la publication de deux livres. Depuis 1989, il s'est attelé à l'écriture de ses propres pièces de théâtre qui ont joués divers acteurs et danseurs. En 1992 débute sa collaboration avec Luca Giacomo Schulte qui est à ce jour son collaborateur artistique. C'est en 1994 qu'il monte en personne sur scène pour son premier solo Meinwärts qui forme, avec Chambre séparée (1997) et Another Dream (2000), une trilogie sur le XXe siècle. Suivront les créations des pièces de groupe Sarah, Vincent et moi (2002); Young People, Old Voices (2002); Tanzgeschichten (2003); Swan Lake, 4 Acts (2005) et le duo Sacre – The Rite of Spring (2004) avec Lorenzo De Brabandere. Parallèlement à son parcours théâtral, Raimund Hoghe travaille régulièrement pour la télévision. En 1997, pour le compte de la WDR (la télévision ouest-allemande) il met en scène Der Buckel, un autoportrait long de soixante minutes. Ses livres ont été traduits en plusieurs langues, et de nombreux pays d'Europe, ainsi que le Japon, la Corée et l'Australie, l'ont invité à présenter ses spectacles. Il vit à Düsseldorf et a reçu plusieurs prix, dont le \"Deutscher Produzentenpreis für Choreografie\" en 2001, le \"Prix de la critique française\" en 2006 pour Swan Lake, 4 Acts dans la catégorie \"meilleur spectacle étranger\".<br><br>Son premier solo Meinwärts (1994) s'inspire de la vie et de l'œuvre du ténor juif Joseph Schmidt dans les années quarante. Chambre séparée traite de son enfance dans l'Allemagne du miracle économique, encore hantée par le spectre du nazisme. Another Dream s'articule autour de la renaissance des années soixante. Le théâtre-danse de Raimund Hoghe, explicitement politique, n'est pas moins préoccupé de recherche formelle. Dans ses pièces minimalistes, la sévérité rituelle du théâtre japonais s'allie à l'art américain de la performance, à l'expressionnisme allemand et à son propre intérêt pour l'émotion humaine et la mémoire sociopolitique. De courts textes anecdotiques mettent en exergue les contradictions de l'époque et les petites et grandes aspirations qui portent l'humanité. L'action scénique est toujours présentée sous la réserve de l'abstraction et l'émotion ne s'exprime que par le biais de chansons populaires, soigneusement sélectionnées selon le sujet, la matière et l'époque. Il formule ses souvenirs de sorte que les événements historiques nous touchent sous la forme de moments subjectifs, dans la plus grande intimité. Son corps et sa bosse, qui ne répondent pas aux normes de la société, deviennent les gardiens d'un lieu privilégié, ouvert à nos propres souvenirs. Entre les choses, les mots et les chansons, il ménage un espace de liberté pour ses propres souvenirs et moments affectifs: de grands moments de réflexion, dont l'humour n'est jamais absent.<br><br>Au Festival d'Avignon, Raimund Hoghe a déjà présenté Verdi prati en 1993.<br><br>et<br><br># Films et documentaires au cinéma Utopia<br>19 juillet □ 14h □ Utopia-Manutention<br>Lettere Amorose (4mn) de Franko B<br>Cartes postales (2005, 26mn) de Richard Copans<br>court et moyen métrages sur Raimund Hoghe, en présence de l'artiste<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_avenueGeorgesMandel_FDA2007/CommAvignon_fds_avenueGeorgesMandel_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Raimund Hoghe<br><br>36, Avenue Georges Mandel<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_avenueGeorgesMandel_FDA2007/CommAvignon_fds_avenueGeorgesMandel_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>17 18 20 21 22 23 24 25 à 19h et aussi le 18 à 23h<br>CHAPELLE DES PÉNITENTS BLANCS □ durée 1h30 □ création 2007<br><br>conception, chorégraphie et danse Raimund Hoghe<br>collaboration artistique Luca Giacomo Schulte<br>danseur invité Emmanuel Eggermont<br>lumière Raimund Hoghe, Amaury Seval<br>son Patrick Buret<br>musique Maria Callas chante des airs de Bellini, Donizetti, Verdi, Spontini, Giordano, Gluck, Massenet, Catalani, Saint-Saëns et Bizet enregistrés entre 1949 et 1974<br>photographie Rosa Frank<br>administration Arnaud Antolinos<br><br>spectacle créé le 11 mai 2007 à l'occasion de \"Spring Wave\", Festival des Arts contemporains de Séoul (Corée).<br><br>production Compagnie Raimund Hoghe (Düsseldorf/Paris)<br>en coproduction avec Ganesa Production-Spring Wave/Festival des Arts contemporains de Séoul (Corée),<br>le Festival d'Avignon, le Centre national de danse contemporaine d'Angers, le Theater im Pumpenhaus Münster<br>avec le soutien du Théâtre de la Bastille (Paris)<br>remerciements à Franko B<br>accueilli avec le partenariat du ministère des Affaires étrangères d'Allemagne et du Goethe-Institut<br>Ce spectacle est accueilli au Festival d'Avignon sous le haut patronage de M. Klaus Wowereit, maire régnant de Berlin<br>et Plénipotentiaire de la République fédérale d'Allemagne pour la Coopération culturelle avec la France<br><br>les dates de 36, Avenue Georges Mandel après le Festival :<br>les 12 et 13 octobre 2007 au VIe Scena Contemporanea Festival à Modène (Emilia Romagna Teatro Fondazione, Italie),<br>du 6 au 14 mars 2008 au Théâtre de la Bastille à Paris<br><br>traduction de l'anglais des extraits d'un entretien à la radio de Maria Callas :<br>\"Il n'y a qu'un seul standard pour tous. Vous êtes musicien, vous êtes chanteur, vous devez connaître vos notes. Vous devez être équipé pour faire votre travail. Alors qu'y a-t-il d'extraordinaire à ce que je fais ? Rien. [...] Attendez une minute. Examinons ce cas, au lieu de tirer hâtivement des conclusions, ce qui est trop facile. Regardez sa carrière. Qu'est-ce que c'est que ça ? Tant d'annulations. Tant de représentations. Elle a inauguré tant de théâtres. Elle a fait ceci, elle a fait cela. Elle a été attaquée par sa mère et elle n'a jamais rien dit pour sa défense. Personne ne pense, quand on me critique, « cette femme, que peut-elle ressentir ? Comment le prend-elle ? Y a-t-il quelqu'un pour lui tenir la main ? Ce doit être l'enfer. » Bien sûr, c'est l'enfer. Et puis, il faut aller chanter, et personne n'a pensé à ce pauvre être humain, ou cet être humain merveilleux, car je ne suis pas pauvre, car j'ai tant de bon sens que c'en est douloureux. [...] D'autre part, quand on travaille, ce serait si bien, quand on rentre, d'avoir une épaule honnête sur laquelle se reposer. J'espérais cela de mon mari, je me suis tellement trompée, car la gloire lui est montée à la tête. La gloire monte à la tête des gens, mais pas à la mienne. La gloire me terrifie parce qu'on est très mal là-haut, mais d'autres personnes autour de vous... Ils s'en saoulent, c'est comme du vin qui monte à la tête. Vous savez qui prend soin de moi et dont je sais qu'elle sera toujours là ? Ma femme de chambre, qui m'adore, m'idéalise et qui a été une infirmière, une sœur, une mère. Une révolution se passe en ce moment à Paris. Croyez-vous que mes parents auraient appelé, ou ma sœur... ? pas une seule fois. Nous avons quatre maisons isolées, la mienne, et trois autres. Misérablement seuls. Au moins, moi, j'ai accompli quelque chose. Pourquoi est-ce moi qui ai accompli quelque chose, et pourquoi est-ce moi qui suis seule maintenant à la maison ? Nous devrions être là ensemble, tous les quatre, en nous aidant l'un l'autre.\"</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_avenueGeorgesMandel_FDA2007/CommAvignon_fds_avenueGeorgesMandel_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>\"Que suis-je? Est-elle seulement une machine à chanter? Non. Elle est un être humain. Moi aussi, j'ai besoin d'aide. Ils disent que la vie est terrible - bien sûr que la vie est terrible, alors rendons-la ainsi. La vie est dure - bien sûr qu'elle est dure. J'aimerais bien prendre du recul et profiter de ma célébrité et de mon argent - mais d'un côté, je ne peux pas. Je dois m'aider moi-même. Depuis que je suis enfant, je sais que je dois m'aider moi-même.\"<br>extraits du CD audio Maria Callas : In her own words, Highbridge Audio, 1997.<br><br># entretien avec Raimund Hoghe<br><br>Pourquoi avoir choisi d'évoquer Maria Callas dans cette nouvelle création que vous traitez à la manière d'un solo ?<br>Raimund Hoghe : Après avoir créé différentes pièces de groupe, j'ai eu envie de revenir au solo. Dans mes précédentes créations, il m'est arrivé plusieurs fois d'utiliser des airs interprétés par la Callas. Lors de l'un de mes voyages à Paris, j'ai trouvé une carte postale, avec une photographie de la maison de la cantatrice et l'adresse: 36, avenue Georges Mandel. J'ai alors pensé à faire une pièce uniquement avec ses musiques. J'avais aussi l'idée d'une personne seule en scène, comme elle dans sa demeure, pour se souvenir. On sait qu'elle a vécu ses dernières années dans l'isolement, sans beaucoup apparaître en public. Comment tenter de rendre compte sur scène de la qualité et de l'esprit de la Callas, de ce qu'elle a apporté à l'opéra ?<br><br>Dans vos pièces, il y a souvent un travail qui mêle biographie, autobiographie et fiction. Avez-vous imaginé une sorte de jeu, une forme de dialogue avec elle, à travers sa voix et vous-même en scène ?<br>La musique raconte son histoire. J'ai trouvé des airs et des chansons qui l'évoquent fidèlement, il me semble. Entre autres, la partition de Gluck, l'aria d'Orphée, le fameux J'ai perdu mon Eurydice qui est dans la dernière partie du spectacle. 36, Avenue Georges Mandel est une pièce construite sur trois plans ou scénarios superposés. Elle juxtapose des temps, des mémoires, des histoires différentes. Il y a celle de l'opéra, la vie de la Callas et ma présence sur le plateau. J'ai aussi utilisé quelques très courts extraits de textes, des fragments documentaires trouvés dans la presse, des films diffusés à la télévision ou des enregistrements radiophoniques. Ce sont des entretiens avec elle. Dans la bande-son, certains d'entre eux sont même des originaux, des voix d'époque. Mais je ne cherche pas à la mettre en scène. Il n'y a pas de costume, pas de personnage. Je ne joue pas non plus la Callas. J'essaie plutôt de trouver comment m'approcher d'elle, comment évoquer une forme d'intériorité, au plus juste de ce que je ressens d'elle.<br><br>Autour de ces éléments, peut-on dire que vous esquissiez un paysage, un portrait ?<br>La pièce débute dans le contexte politique de l'année de son décès, 1977. L'actualité est alors très focalisée sur la guerre du Liban. Les gens fuient leurs maisons sous les bombardements. Si le titre du spectacle donne une adresse, en fait, la pièce parle plutôt du contraire, de l'errance, des individus sans domicile, nomades, apatrides. Que signifie ne pas avoir de \"chez soi\", du point de vue de l'intime comme de celui d'une communauté ? La Callas avait un appartement mais pas de foyer, car elle voyageait beaucoup et vivait entre des extrêmes. Elle était confrontée à la beauté de la musique tout autant qu'à une réalité beaucoup moins belle, souvent douloureuse ou difficile. Elle a connu l'apogée de la gloire, de la célébrité et aussi l'abandon, la solitude la plus aiguë.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_avenueGeorgesMandel_FDA2007/CommAvignon_fds_avenueGeorgesMandel_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Votre travail développe une approche de l'espace particulièrement subtile. De quelle façon l'avez-vous investi dans cette pièce ?<br>Le fait de jouer dans la chapelle des Pénitents Blancs, d'avoir pu y répéter, a été très important, car son architecture, l'atmosphère qui se dégage du lieu, offre la possibilité, en vidant l'espace, d'évoquer à la fois l'intérieur et l'extérieur. Avec Luca Giacomo Schulte, qui est scénographe, nous avons souhaité retrouver le cadre d'origine, en ne gardant qu'un plateau en bois et les gradins. C'est une scène totalement dénudée, sans tapis ni pendrillons, sans séparation avec le public. Un seul espace, concret, ouvert, qui a sa propre histoire. Il est chargé d'une mémoire très forte, les gens se souviennent d'y être venus, de ce qu'ils y ont vu. Cette façon de procéder, en ôtant tout ce qui relève de la boîte noire du théâtre, se rapproche aussi des origines de la tragédie, tout comme il peut aussi rappeler l'opéra. Nous avons travaillé, en filmant parfois juste pour les répétitions, avec très peu d'objets, des cartons, quelques photos. L'espace est très exigeant et c'est ce qui est très intéressant.<br><br>Il y a aussi votre travail avec ces objets justement ?<br>Ils structurent en partie la pièce. Ce sont essentiellement des vêtements. Une tenue de ville, un costume noir, un manteau, des chaussures à talons aiguilles mais aussi des cartons. La gamme des couleurs est très sobre, presque monochrome, avec tout de même quelques variations, entre beige ou gris, brun ou noir. Bien sûr ces objets se réfèrent au voyage, au nomadisme, autant qu'à d'autres éléments plus particulièrement issus de la biographie de la Callas, autour des événements de sa vie, mais aussi de ses relations familiales, de ses amours difficiles. Il y a aussi la façon dont elle a transformé son corps, son physique – c'est peut-être l'un des rares points communs que nous puissions avoir : la nostalgie d'un autre corps. On oublie souvent qu'elle a passé ses derniers jours très démunie, isolée, exclue du cercle qui l'avait célébrée. Mais ce qui m'intéresse en particulier, c'est qu'elle a beaucoup travaillé avec le mouvement. Je pense depuis longtemps que les grands chanteurs sont aussi de grands danseurs. Le corps, les gestes sont extrêmement importants pour eux. À travers des photographies, nous avons cherché à reconstituer sa façon de travailler. Elle dit elle-même dans des entretiens, qu'il est nécessaire d'entrer dans la musique. Son écoute donne le mouvement. Ce qu'elle pratiquait avec une grande économie, concentration et stylisation. À travers cet art du peu, la simple position ou déplacement d'une main, d'un bras, une inclinaison du buste, du visage, prenaient une force incroyable. Simplement à partir de quelques gestes ou de simples postures en accord avec sa voix, elle a développé une très forte conscience dans cette recherche, autour d'un mouvement strictement conduit vers la sobriété.<br><br>Ces approches influencent-elles votre propre écriture ?<br>Tout d'abord, j'ai adopté une posture similaire : j'essaie de transposer ce que la musique me dit. Je me dois d'interpréter, de faire ce que la musique, et les histoires qu'elle contient, me raconte. C'est un processus très intuitif où seul le sens d'une certaine justesse me dicte ce que je dois faire. Sans aucune tentative d'appropriation, au cours de ce travail, j'ai eu le sentiment de mieux comprendre sa personnalité comme sa relation à la musique. D'autres récits, détails, motifs se croisent à travers cette approche. Par exemple, elle n'a jamais voulu interpréter Carmen car l'attitude, le caractère du personnage, ne lui convenaient pas. Elle trouvait que cette femme agissait avec les hommes comme ces derniers le font généralement avec les femmes : à savoir séduire et rejeter. Elle a donc toujours refusé de le jouer sur scène ! Par ailleurs, Puccini n'est pas un compositeur qui figure dans son répertoire, même s'il lui est arrivé de le chanter. Elle disait que c'était très joli mais aussi très facile à chanter, à la portée de n'importe quel interprète, même peu intéressant ! Qui plus est, elle trouvait</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

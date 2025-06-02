@@ -1,0 +1,435 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/collections/2007-collection.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "2007"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ecoledart-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Ecole d art"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-stephenking-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Stephen king"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Richard i i i"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Claire"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-machine-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Machine"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lechange-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Lechange"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Mefisto"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Ajour"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Rendre une vie"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Big3rd episode"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Objectif terre"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Jeune fille bombe"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Incredibly incroyable"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Marionnettes youkiza"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lumieresdaout-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Lumieres d aout"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Festival das mensonges"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Tendre jeudi"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Paccoud chante novaria"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Europe"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Feuillets d hypnos"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Silence"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-sujetsavif-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Sujets a vif"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Inside out"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Theatre des i"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Hippolyte"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Angels"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Auteurs en scene"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-concertmilin-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Concert milin"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Lear"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-dinozord-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Dinozord"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Varda"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Lectures calvet"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Nord"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Lacte inconnu"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Cruda"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "High art"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Nine finger"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Approche"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Quartett"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "France culture"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesparavents-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Les paravents"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Hey girl"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-genese-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Genese"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Jeunes auteurs en afrique"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Rencontres pro"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Les ephemeres"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-avenuegeorgesmandel-fda2007-manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Avenue georges mandel"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,450 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "High art"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_highArt_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_highArt_FDA2007/CommAvignon_fds_highArt_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>est possible de faire avec ce jeu, avec ce mécanisme-là. Parfois, c'est aussi sans évocation. En Catalogne, on nous a demandé pourquoi nous n'avions pas mis leur drapeau. Mais parce qu'on s'en fout et que la plupart des gens aussi. Si à travers le scénario imaginé, on essaie de brosser à gros traits quelques réalités contemporaines sur la politique des nations, que viendrait faire la Catalogne dans cette histoire ? Du coup, cela relativise les situations! Juste parce que l'objet en soi rend compte de certains particularismes ou comportements. C'est toujours en réponse à certains préjugés ou à certaines idées reçues que l'œuvre fait écho. Et c'est très amusant.<br><br>Vous présentez donc deux œuvres dans le Festival, est-ce important pour vous de présenter un parcours ?<br>Oui, parce que nous préférons contextualiser les œuvres. L'idée, c'est aussi de modifier un peu le mode de consommation des pièces. Nous ne sommes pas seulement légers, divertissants et critiques, même s'il est vrai que l'on se moque un peu de l'œuvre en soi. Ce qui nous intéresse à travers cette façon de montrer le travail, c'est la façon dont le spectateur s'approprie ces productions.<br>Propos recueillis par Irène Filiberti en février 2007<br><br>et<br><br># Big 3rd episode Happy/end<br><br>DE SUPERAMAS<br><br>18 19 20 21<br>GYMNASE AUBANEL ¤ 18 h ¤ durée 1 h ¤ spectacle en anglais, surtitré en français<br><br>Avec un goût certain pour le jeu et ses artifices, Superamas met en scène avec humour dans Big 3e episode le monde d'aujourd'hui, en questionnant pratiques sociales et comportements individuels. Arts visuels, musique et danse contribuent à façonner un univers où l'humain se réfléchit entre deux dimensions : réalité et virtualité.<br><br># Conférence de presse en public<br>17 juillet ¤ 11h30 ¤ Cloître Saint-Louis<br>avec Ludovic Lagarde, Jean-François Sivadier, Superamas</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_highArt_FDA2007/CommAvignon_fds_highArt_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Superamas<br># High Art<br><br>61ᵉ Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_highArt_FDA2007/CommAvignon_fds_highArt_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>13 14 15 16 17 18 19 20 21<br>CHAPELLE DU LYCÉE SAINT-JOSEPH ⌘ horaires d'ouverture 13 h 30 - 17 h 30 ⌘ entrée libre<br><br>sculpture chorégraphique de Superamas<br><br>coproduction Superamas, Impulstanz (Vienne)<br>avec le soutien de la Ville de Vienne et du ministère fédéral de l'Éducation, des Arts et de la Culture d'Autriche<br>en collaboration avec le Centre chorégraphique de Linz<br><br>création au festival international Hoellenfahrt dans le cadre de l'année Mozart-Vienne 2006<br><br># superamas<br>En se nommant Superamas – terme emprunté à l'astrophysique et qui désigne les amas galactiques et leur migration, mais aussi nom d'une chaîne de supermarché aux États-Unis – les artistes français et autrichiens qui le composent ont fait leur réputation à travers la création de projets très divers: Installations lumineuses – Diggin-up, Play-Mobile – vidéos – Billy Billy, Sauve qui peut (Romania) – performances – Auto-mobile, Body Builders – et spectacles: Big 1st episode – Artificial Intelligence/Reality Show, Big 2nd episode – Show/Business et Big 3rd episode – Happy/End. Superamas a développé tous ses travaux en relation étroite avec les producteurs internationaux et tourne régulièrement en Europe et aux États-Unis. Le collectif Superamas se compose de musiciens, de designers, de performeurs, de théoriciens de l'image. L'hybridité des travaux exprime cette spécificité. Leur conception du théâtre, qui utilise et recycle les signes de notre époque, se développe à travers une réjouissante méthode de \"dé-montage\". Une écriture scénique et jubilatoire qui s'attache à scanner la réalité, pour à travers le langage multimédia en révéler certains aspects.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_highArt_FDA2007/CommAvignon_fds_highArt_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Superamas<br><br>Vous présentez deux propositions au Festival, High Art et Big 3rd Episode, High Art est une installation qui a été réalisée dans un contexte particulier, quel en était le projet ?<br>Superamas : Nous jouons avec les codes de représentation officiels, ceux que l'on trouve sur les parvis, les bâtiments nationaux ou internationaux, ou que l'on déploie lors des cérémonies. C'est une sorte de chorégraphie composée d'objets particuliers. Cela s'appelle High Art. Autour de cette structure où flottent, montent, descendent différents drapeaux - un nuage de pays dans les airs ! - nous posons d'autres questions : qu'est-ce que l'art, comment fonctionnent les signes ? Les drapeaux sont des symboles, ils affirment une identité, ils lui donnent du poids. Un pays sans drapeau n'est pas un pays. Ce projet a été produit dans un contexte de commémoration : celui de l'année Mozart en 2006. En Autriche, cela a pris une dimension très importante. Nous avons réagi à contre-emploi, en nous posant la question autrement : en 2006, qu'est ce que c'est la musique de Mozart ? Elle n'a probablement rien à voir avec le moment où elle a été créée. Nous avons donc imaginé cet objet particulier : une musique de Mozart sur une chorégraphie de drapeaux. L'effet est très émouvant, touchant, même si au final cela n'a plus grand chose à voir ni avec Mozart, ni avec les drapeaux. Cela devient de la pure construction politique.<br>L'idée est qu'il n'y a pas de politique possible sans mise en scène, ou le contraire : que toute mise en scène relève d'une certaine politique, ou esthétique. Nous constatons à l'œuvre ces mécanismes d'esthétisation de la politique et leur inverse. C'est intéressant parce que ce n'est pas didactique. Nous sommes simplement mis devant, en tant que spectateur qui traverse la majesté de l'événement. Simultanément, nous discernons parfaitement comment ces signes travaillent les uns avec les autres.<br>Cette pièce est un objet assez technologique c'est une machine en opération. Pourtant, dès qu'on lève la tête pour regarder, cela devient très cinématographique, émouvant, spectaculaire. Cette double économie est vraiment intéressante. Lorsque l'on s'approche de l'installation, on peut aussi sentir le vent. Le temps fonctionne en boucle avec plusieurs scénarios qui durent quelques minutes. Nous les avons écrits autour des drapeaux et de manière très précise, en fonction de leur vitesse de passage, de leur hauteur, de leur croisement, pour décrire des événements politiques. C'est très géostratégique.<br>Nous avons travaillé à partir des possibilités de l'objet et des événements choisis. Une fois le scénario écrit, nous avons élaboré une sorte de vocabulaire. Par exemple, si les drapeaux montent, cela signifie quelque chose. Deux drapeaux qui volent en même temps, plus ou moins fort, ont un autre sens. En procédant de cette façon et par répétition, nous mettons en place un processus narratif que les gens intègrent très vite et qu'ils peuvent suivre. Les signes sont forts, le scénario simple et les rapports très explicites. Chacun peut interpréter ces images. Si un élément manque dans ce qu'il a capté, le contexte permet de le restituer. Les extraits musicaux ont été choisis en fonction de leur charge émotive, comme au cinéma, en pensant un peu à Stanley Kubrick dans Orange mécanique ou Francis Ford Coppola avec Apocalypse Now, c'est-à-dire en utilisant le pouvoir de la musique. Tout le monde sait comment ça fonctionne et pourtant ça marche encore.<br>Et le spectateur fait partie de ce paysage, il n'est pas exclusivement un regard. High Art n'est pas une œuvre discursive mais engageante, émotionnellement, poétiquement et esthétiquement. Et d'une manière assez irritante même.<br>Elle est critique, politique, mais toujours en réflexion par rapport à quelque chose. Pas dans son propre contenu. À travers ces levés et descentes de drapeaux, nous évoquons la construction de l'Europe, la préparation à l'entrée de la Turquie, le conflit israélo-palestinien. Ce qu'il</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-highart-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

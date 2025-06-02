@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Tendre jeudi"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_tendreJeudi_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_tendreJeudi_FDA2007/CommAvignon_fds_tendreJeudi_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>fonds de verre abandonnés sur le comptoir du bar de la grosse Ida\". C'est le contenu de ces fonds de verre qu'il s'agit de faire remonter à la surface.<br><br>Votre travail étant aussi musical, utiliserez-vous la comédie musicale Pipe Dream, adaptée de Tendre jeudi, qui a été créée à Broadway en 1955?<br>Une autre particularité de Sentimental Bourreau est celle du travail spécifique réalisé sur la musique. C'est une composante essentielle de la dramaturgie des spectacles, au même titre que le texte. Dans le cas présent, nous utiliserons sans doute des passages de cette comédie musicale très traditionnelle, en les transformant pour qu'ils s'adaptent à notre style de musique car il y aura aussi une partition originale créée par les musiciens du spectacle (guitare, trompette, percussions).<br><br>Le texte sera-t-il intégralement extrait du roman?<br>Oui, car les tentatives que j'ai pu faire d'ajouter d'autres textes à Tendre jeudi ne fonctionnaient pas du tout. La force de l'écriture de Steinbeck se suffit à elle-même. S'il doit y avoir des ajouts, ils seront cinématographiques, comme des portraits d'Américains que j'ai filmés dans les rues de San Francisco.<br><br>Vous avez en effet toujours travaillé avec le cinéma dans vos spectacles de théâtre. Qu'en sera-t-il alors dans Tendre jeudi?<br>À partir du moment où l'on parle de l'Amérique, on ne peut échapper au cinéma. Étant imprégné de culture américaine, en particulier à travers son cinéma et sa musique, je suis sensible à l'Amérique, surtout à la mythologie que nous avons construite autour de ce pays. Je suis donc allé tourner un film à Monterey, là où se trouve la vraie rue de la Sardine. C'est devenu une sorte de Disneyland avec des aquariums partout, très touristique. Impossible d'y retrouver les lieux du roman. Je les ai donc cherchés et trouvés ailleurs. Je ne sais pas encore quelle utilisation on en fera, mais ces images seront présentes. S'y ajouteront des images des comédiens filmés en direct pendant la représentation. Steinbeck lui-même était très lié au cinéma, comme scénariste, et l'on retrouve un peu de cette écriture cinématographique dans ses romans.<br><br>\"Raconter une histoire fausse en faisant croire qu'elle est vraie n'est pas vraiment un mensonge\", dit un personnage du roman. N'est-ce pas une bonne définition de la pratique artistique?<br>Le pouvoir des mots est plus fort que la réalité, comme lorsque le père d'Armand Gatti, qui ne pouvait nourrir ses enfants, leur racontait le repas qu'ils étaient supposés manger alors qu'ils n'avaient rien dans leur assiette et qu'ils sortaient de table totalement repus. Pour les personnages de Steinbeck, il y a de cela... ils rêvent un monde et le monde devient vrai. Est-ce que notre devoir n'est pas de nourrir les spectateurs avec des rêves, est-ce que \"écouter l'autre ce n'est pas le début d'une idée\", comme le dit Fauna? Mac adore raconter des histoires à Doc pour lui soutirer trois dollars, mais le jour où Doc ne l'écoute plus, Mac comprend qu'il y a quelque chose de cassé... il n'a plus le spectateur attentif dont il a besoin.<br>N'y a-t-il pas une grande élégance dans tous ces personnages?<br>Une grande élégance et une totale absence de jugement moral, les deux allant de pair. Les personnages s'acceptent tels qu'ils sont, et s'ils se confrontent souvent, ils ne se jugent jamais. Ils ont conscience que c'est la communauté qu'ils ont constituée qui les sauve et leur permet de survivre \"entre le mal et le moins mal\".<br><br>Propos recueillis par Jean-François Perrier en février 2007 avant le début des répétitions</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_tendreJeudi_FDA2007/CommAvignon_fds_tendreJeudi_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Mathieu Bauer<br>Metteur en scène et musicien, Mathieu Bauer crée la compagnie Sentimental Bourreau avec notamment Sylvain Cartigny, Judith Henry et Martin Selze.<br>Ils présentent Strip et Boniments (d'après Susan Meiselas) en 1990, suivent Les Carabiniers de Jean Luc Godard, La Grande Charge Hystérique (1991), Va t'en chercher le bonheur et ne reviens pas les mains vides (1995), Satan conduit le bal (1997) et Tout ce qui vit s'oppose à quelque chose (1998). À partir de 2001 il assure seul la direction de la compagnie et met en scène Les chasses du comte Zaroff à la Comédie de Valence et à la MC 93 de Bobigny (2001), Drei Time Ajax à la Ménagerie de Verre à Paris, à l'Auditorium du Louvre et au Théâtre de la Bastille à Paris (2003), L'exercice a été profitable, Monsieur d'après Serge Daney à la MC 93 à Bobigny, à la Maison de la culture d'Amiens et au Volcan - Le Havre (2004), Rien ne va plus à la MC 93 (2005) et Top dogs d'Urs Widmer au CDN de Montreuil (2006).<br>Pour Banlieues Bleues, il met en espace Pouchkine, un spectacle musical en cinq tableaux à la MC 93 de Bobigny, en mars 2005.<br>Au théâtre, il collabore comme musicien avec Robert Cantarella sur Le Voyage d'Henri Bernstein, Monstre va! de Ludovic Janvier et Le sang chaud de la terre de Christophe Huysman; avec Michel Deutsch pour Imprécation II, Imprécation IV, Imprécation 36; Armand Gatti pour L'Été indien; André Wilms pour Carte Blanche à André Wilms et Kill your ego, et Wanda Golonka pour Die blauen den Kleinen, die gelben den Sweinen, der Liebsten die roten, die Weißen den Toten de Heiner Müller.<br>Au cinéma, il a collaboré comme musicien avec Charles Castella pour La vie est dure, nous aussi; Stephane Guisti pour L'Homme que j'aime et Bella Ciao; Charles Berling pour La cloche et Stephane Gatti pour Habiter et demeurer quelque part. Il a également été comédien sous la direction de Philippe Faucon dans L'Amour, de Catherine Breillat dans Sale comme un ange, et de Pierre Le Bret dans Les Yeux menteurs du jour.<br>Au Festival d'Avignon, Mathieu Bauer et Sentimental Bourreau ont déjà présenté Faites vos jeux dans le cadre de la Vingt-cinquième heure en 2004.<br><br>et<br><br># Dialogue avec le public<br>13 juillet à 11h30 à Ecole d'Art<br>avec Mathieu Bauer et des membres de l'équipe artistique de Tendre jeudi, animé par les Ceméa<br><br># Rencontres de la Région Île-de-France<br>14 juillet à 11h à Chapelle du Miracle à Rencontre avec Mathieu Bauer<br><br># Films et documentaires au cinéma Utopia<br>15 juillet à 14h à Utopia-Manutention<br>Portraits de cadres au chômage (2006, 55mn)<br>documentaire préparatoire au spectacle Top Dogs de Mathieu Bauer, en présence de l'artiste<br><br>AVEC LA CCAS, DANS LE CADRE DE CONTRE-COURANT<br><br># Concert de Sentimental Bourreau<br>15 juillet à Rond-point de la Barthelasse à 22 h à entrée libre<br>avec Mathieu Bauer (batterie), Sylvain Cartigny (guitares), Arthur Simon (trompette), Judith Henry (voix), Martin Selze (voix), Chet (voix), Alain Demoyencourt (voix), Alain Gravier (son), Lazare Boghossian (sample), Pierre Fruchard (guitare)<br><br>Comme chaque année, l'Adami apporte son aide aux spectacles coproduits par le Festival d'Avignon et favorise l'emploi, notamment sur des spectacles réunissant un nombre important d'artistes. Société de gestion collective des droits des artistes-interprètes (près de 60 000 comédiens, chanteurs, musiciens, chefs d'orchestre, danseurs...), l'Adami a consacré, en 2006, près de 13 millions d'euros à 950 projets dans différents genres artistiques. Ces aides ont contribué à l'emploi direct de plus de 6500 artistes.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_tendreJeudi_FDA2007/CommAvignon_fds_tendreJeudi_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Mathieu Bauer / <br>Sentimental Bourreau<br>Tendre jeudi<br><br>D'APRÈS TENDRE JEUDI DE JOHN STEINBECK<br><br>61ᵉ Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_tendreJeudi_FDA2007/CommAvignon_fds_tendreJeudi_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>7 8 9 10 12 13 14 à 18h et aussi le 13 à 23h30<br>GYMNASE AUBANEL ❑ durée 1h55 ❑ création 2007<br><br>d'après John Steinbeck<br>adaptation et dramaturgie Mathieu Bauer et Irène Bonnaud<br>mise en scène Mathieu Bauer<br>avec<br>Marc Berman Mack<br>Sylvain Cartigny Eddie<br>Alain Demoyencourt Marie-Joseph<br>Judith Henry Fauna<br>Richard Sandra Hazel<br>Georgia Stahl Suzy<br>Martin Selze Doc<br>Arthur Simon Cacahuète<br>Stan Valette Becky<br>musique originale<br>Mathieu Bauer (batterie - percussions)<br>Sylvain Cartigny (guitares, banjo)<br>Arthur Simon (trompette, claviers)<br>Stan Valette (sampler)<br>voix off Mathieu Bauer<br><br>scénographie et lumières Jean-Marc Skatchko<br>stagiaire Salamanque et Avignon Benjamin Moreau<br>images Julien Bureau<br>son Alain Gravier<br>vidéo Stéphane Lavoix<br>régie générale Stan Valette<br>régie lumière Julien Chatenet<br>costumes Nathalie Raoul<br>administration Florence Bourgeon et Véronique Felenbok<br>assistées d'Aurélia Ferrière<br>Tendre jeudi est publié au Livre de poche<br><br>Spectacle créé le 15 juin 2007 à Salamanque (Espagne)<br><br>coproduction Sentimental Bourreau, Festival d'Avignon, Centre dramatique national de Montreuil, Théâtre Nanterre-Amandiers, Maison de la Culture d'Amiens, Théâtre d'Arras, Festival des Arts de Salamanque, Banlieues Bleues avec le soutien du Conseil régional et de la Drac d'Île-de-France, et de la SPEDIDAM<br>Le Festival d'Avignon reçoit le soutien de l'Adami pour la production<br><br>les dates de Tendre jeudi après le Festival:<br>les 14,15 et 16 janvier 2008 au Théâtre d'Arras; le 22 janvier 2008 au Théâtre de Tarbes; les 5, 6, 7 et 8 février 2008 au Centre dramatique d'Orléans; du 11 au 23 février et du 10 au 20 mars 2008 au Centre dramatique national de Montreuil ; le 24 mars 2008 au Théâtre de Cahors, les 26 et 27 mars 2008 à la Maison de la Culture d'Amiens; les 1, 2, 3 et 4 avril 2008 au Centre dramatique Dijon Bourgogne; les 9 et 10 avril 2008 au Centre dramatique de Bretagne, Lorient; les 6 et 7 mai 2008 au Théâtre de Sète</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_tendreJeudi_FDA2007/CommAvignon_fds_tendreJeudi_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Mathieu Bauer<br><br>Vous êtes directeur d'une compagnie, Sentimental Bourreau. Votre parcours de metteur en scène s'est-il toujours inscrit dans le cadre de celle-ci ?<br>Mathieu Bauer : Oui, et cela depuis dix-sept ans. À l'origine, nous étions un collectif créé pour ne pas être dépendants des institutions officielles, et qui a présenté quatre spectacles dans les années 1989-1990. Au fond de la cour du passage Mont-Louis à Paris, nous avions ouvert un lieu que nous imaginions utopique et collégial pour réinventer et réenchanter le monde en le questionnant. Pendant sept années, nous avons mené cette aventure qui naturellement a eu besoin de se ressourcer pour ne pas s'épuiser. Certains des membres fondateurs sont partis et de nouveaux artistes nous ont rejoints. Ils ont apporté de nouveaux univers, de nouvelles façons de bousculer ce qui aurait pu devenir une sorte de routine.<br><br>Comment pourriez-vous définir votre démarche artistique depuis que vous faites du théâtre ?<br>Je me définirais comme un promeneur attentif. La promenade, sur un chemin que je trace, me permet de rester sensible aux surprises, attiré par les chemins détournés et les voies parallèles. C'est ce qui se passe entre les choses qui m'intéresse. La conjonction \"et\" de Deleuze qui créé multiplicité et diversité. Le texte \"et\" la musique, l'acteur \"et\" la vidéo, la musique \"et\" l'acteur..., ce \"et\" qui renvoie au hors-cadre, au hors-champs, qui fait de la représentation un moment de réflexions, de questionnements où une histoire, des histoires, deviennent notre histoire...<br><br>Ne s'agit-il pas aussi pour vous de faire du théâtre avec des formes nouvelles ?<br>C'était un des postulats à l'origine de notre projet. Nous ne voulions pas monter des textes dits classiques, mais plutôt fouiner pour trouver des textes non dramatiques. Nous cherchions plutôt des thématiques à partir desquelles nous pouvions réunir des documents divers pour composer une œuvre de théâtre et trouver sa traduction scénique. Notre premier spectacle se situait dans l'univers des stripteaseuses, puis nous nous sommes intéressés aux hystériques de Charcot, à partir des écrits de Georges Didy-Hubermann. Puis très vite, les cinéphiles que nous sommes ont convoqué le cinéma sur le plateau. Nous avons commencé par Les Carabiniers de Jean-Louis Godard puis Les Chasses du Comte Zaroff mis en parallèle avec Elias Canetti et son ouvrage Masse et Puissance, et enfin la création du spectacle autour de Serge Daney, L'exercice a été profitable, Monsieur.<br>Jusqu'à en faire nous-même, dans Rien ne va plus. C'est autour de cette rencontre entre cinéma, textes littéraires ou philosophiques et textes dramatiques que nous avons bâti notre réflexion.<br><br>Avec le roman Tendre jeudi de John Steinbeck que vous adaptez pour la scène, vous restez donc dans cette démarche ?<br>Ce travail est, pour moi, dans la suite logique d'un spectacle proposé il y a deux ans, Rien ne va plus, dans lequel nous racontions l'histoire d'un metteur en scène qui va jouer ses subventions à Las Vegas pour tenter de les multiplier afin de pouvoir faire le spectacle de ses rêves. Évidemment, il perd tout. Il s'agit d'une réflexion sur la nécessité de la non-rentabilité de l'art, qui trouve un prolongement dans Tendre jeudi. J'ai tout de suite pensé que ce metteur en scène pouvait très naturellement arriver dans le lieu et l'univers décrit par Steinbeck. L'Amérique, c'est aussi bien l'univers de paillettes, de strass et de néons de Las Vegas que l'univers du système D, de la débrouille, des petites misères et des rêves des habitants de la rue de la Sardine à Monterey.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_tendreJeudi_FDA2007/CommAvignon_fds_tendreJeudi_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Est-ce un univers proche de vous?<br>Très certainement, car Steinbeck dans cette apologie du système D, parle surtout de la tendresse qui unit tous les protagonistes, de la mélancolie, de la solitude qui n'empêche pas le dialogue avec l'autre. C'est profondément humain et généreux mais sans pathos, sans mièvrerie. La rue de la Sardine est un lieu de résistance qui est proche de nous, des artistes qui ont de plus en plus de mal à trouver des espaces de créations, lesquels ont tendance à se raréfier. Un lieu de résistance qui ne se revendique pas comme tel mais qui la pratique.<br><br># John Steinbeck parle de ses romans comme des paraboles. Votre spectacle en sera-t-il une aussi?<br>S'il est une parabole, il sera une parabole inscrite dans le temps présent, sans passé et sans futur. Dans le roman, tout ce qui a trait au futur est pipé et ne se réalise jamais. La seule chose qui arrive dans le futur, c'est la relation amoureuse entre Doc et Suzy. Si l'on regarde les dernières images que l'on a eues de \"l'Amérique profonde\", ce sont celles de la Nouvelle Orléans après le passage de l'ouragan avec ces femmes et ces hommes sur le toit de leur maison ayant écrit \"Help us\" sur des draps blancs. On avait l'impression de voir des gens qui vivaient hors temps, à côté de l'Histoire, comme dans le cinéma américain de Samuel Fuller. Ils rejoignaient pour moi les personnages de Tendre jeudi qui se posent vraiment la question de la survie dans un monde dont ils perçoivent bien qu'il sera de moins en moins accueillant pour eux.<br><br># Mais cette survie semble relativement facile dans la rue de la Sardine?<br>Steinbeck a sans doute une vision angélique et naïve de cette marginalité. Le monde contemporain est beaucoup plus violent et la misère est plus dure à vivre. Il ne faut donc pas se tromper et glisser des enjeux entre les mots de l'auteur. Cela étant, dans le roman, ce sont des marginaux qui ont choisi ce mode de vie parallèle, Doc en particulier, qui veut travailler sur l'apoplexie chez les poulpes dans son laboratoire privé pour ne pas aller à l'université. Mais il y a une absence totale de misérabilisme qu'il me paraît nécessaire de faire entendre dans la période que nous vivons.<br><br># Cette vision angélique n'est-elle pas le revers de la grande humanité avec laquelle Steinbeck traite ses personnages?<br>Steinbeck est un auteur populaire, comme peut l'être le cinéma. On se retrouve dans son écriture et dans ses personnages. Il est le romancier qui a su le mieux mettre en scène un chœur de personnages tout en donnant à chacun une grande part dans l'histoire qu'il développait. Je suis très sensible à ce foisonnement des seconds rôles comme on les voyait aussi dans le cinéma américain et français que j'ai aimé et que j'aime encore.<br><br># Avez-vous gardé la totalité des personnages du roman?<br>Non je les ai réduits à six personnages principaux, ce qui me semblait suffisant pour faire entendre l'histoire. Il y a Doc, le biologiste mélancolique qui meurt de solitude (dont Steinbeck a dit qu'il ressemblait à un de ses amis), Suzy la jolie étrangère qui va bouleverser la rue de la Sardine, Mac le chef de bande un peu voyou et roi du système D, Fauna la tenancière du Bordel, Hazel, l'idiot sympathique qui va cependant trouver la solution pour aider Doc, et Marie Joseph, le nouveau propriétaire d'origine mexicaine de l'épicerie du Cheval Celeste. Bien sûr, il faudra faire exister autrement la galerie de personnages hauts en couleur qui entourent cette bande car il s'agit vraiment d'un chœur où les voix se mêlent et se croisent. Si je devais reprendre une définition pour décrire le spectacle, c'est celle de l'Old Tennis Shoes qui conviendrait: \"substance alcoolisée fabriquée à partir de tous les</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-tendrejeudi-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

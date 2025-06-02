@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Hippolyte"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_hippolyte_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_hippolyte_FDA2007/CommAvignon_fds_hippolyte_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Extrait 2<br><br>Hippolyte<br>O grand Dieu Jupiter,<br>Peus-tu voir une horreur si grande, et l'escouter?<br>Où est ton foudre ardant, qu'ireux tu ne le dardes,<br>Tout rougissant d'esclairs, sur les temples paillardes<br>De cette malheureuse! Es-tu si paresseux,<br>O Pere, es-tu si lent à nous lancer tes feux?<br>Que le ciel, esclatant au bruit de ton tonnerre,<br>Jusques aux fondemens ne renverse la Terre?<br>Et n'abysme le jour, tout sanglant, au plus creux<br>Et au gouffre plus noir des enfers tenebreux?<br>Mais toy, Soleil, qui luis par tout ce grand espace,<br>Peux-tu voir sans pallir les crimes de ta race?<br>Cache toy vergongneux, quitte à la nuit ton cours,<br>Destourne tes chevaux gallopant à rebours,<br>Plonge toy, lance toy le chef bas sous les ondes,<br>Et ta torche noircis en tenebres profondes.<br>O femme détestable! ô femme dont le cueur<br>Est en mechancetez de son sexe vaincueur!<br>O pire mille fois et d'ardeur plus enorme<br>Que ta mere qui eut un monstre si difforme!<br>Ce ventre t'a porté, qui s'enfla grossissant<br>Du germe convoité d'un Taureau mugissant.<br><br>Robert Cantarella<br>Après une formation aux Beaux-Arts de Marseille, il suit les cours d'Antoine Vitez à l'école du Théâtre national de Chaillot. En 1987, la création d'Inventaires marque le début d'un long compagnonnage avec l'écrivain Philippe Minyana. Particulièrement attaché aux auteurs contemporains, notamment Christophe Huysman, Noëlle Renaude et Michel Vinaver, il a également mis en scène Cervantes, Shakespeare, Tchekhov, O'Neill… Dernièrement, il a créé à la Comédie-Française (Théâtre du Vieux-Colombier) La Maison des morts de Philippe Minyana puis Ça va en 2006. En 2005, il créé à Los Angeles la dernière pièce de Michel Vinaver, September 11, 2001 présenté au Center for New Performance at CalArts.<br>Il réalise le film documentaire Carrosserie en 2004 et La Route, séquence de la pièce Ça va de Philippe Minyana, en 2006 ; publie un texte aux éditions Léo Scheer et Ce sont des humains qu'il nous faut aux éditions Théâtrales en 2006.<br>Il est aujourd'hui codirecteur avec Frédéric Fisbach du 104, Établissement artistique de la Ville de Paris, qui ouvrira ses portes en 2008.<br>Au Festival d'Avignon, Robert Cantarella a déjà présenté Le Siège de Numance de Cervantes dans la traduction de Philippe Minyana en 1992, L'Homme nu de Roland Fichet et Murder de Philippe Minyana en 1993, et Domaine public en 1996.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_hippolyte_FDA2007/CommAvignon_fds_hippolyte_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>et<br><br># Performance Aura comprise<br>22, 24, 25, 26 juillet □ Gymnase du lycée Mistral □ 9h30, 10h30 et 11h30 □ entrée libre □ durée 30 mn<br>billets à retirer aux guichets de locations du Festival, Cloître Saint-Louis<br><br>de et par Robert Cantarella<br>collaboration artistique Camille Louis<br>le 25 juillet avec Olivia Rosenthal<br><br>production Passer pour des Belges<br><br>Depuis trois ans, j'explore les formes que la représentation de la mémoire peut prendre : images publiques, films, figures. Pour cela, je restitue, je refais de mémoire les cadres, je fais un film, je le détruis, je dis les textes sur des images, je sépare la voix de la bouche, j'improvise.<br>Le terme d'aura comprise me vient alors que je cherche comment donner une forme de représentation à une question : Comment se souvient la mémoire ? En assistant à la détérioration d'une mémoire humaine, celle de mon père, je tiens le relevé des chutes dans l'oubli, et des restes. L'aura reste accrochée à la chose le temps de sa remémoration, parfois c'est elle, l'aura, qui reste, et la chose a disparu du répertoire des objets connus ou reconnus. Je devine et j'interprète. Etant donné la chose que je montre, l'aura le comprend bien, surtout si la chose disparaît.<br>                                                                                                           Robert Cantarella<br><br># \"Ce sont des humains qu'il nous faut\"<br>23 juillet □ 10h □ Chartreuse de Villeneuve lez Avignon<br>Ce sont des humains qu'il nous faut, 316 pages sur le théâtre de Robert Cantarella aux éditions Théâtrales est la récolte de six années de travail artistique auprès d'auteurs, de metteurs en scène, de comédiens, de cinéastes, de plasticiens, de chorégraphes au Théâtre Dijon Bourgogne sous la direction de Robert Cantarella. Une matinée carte blanche proposée à quelques-uns de ces artistes, conçue comme une invitation au dialogue, à la réflexion et à la création.<br><br>HIPOLYTE<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_hippolyte_FDA2007/CommAvignon_fds_hippolyte_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Robert Cantarella<br>Hippolyte<br>DE ROBERT GARNIER<br><br>DEXIA</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_hippolyte_FDA2007/CommAvignon_fds_hippolyte_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>21 22 24 25 26<br>GYMNASE DU LYCÉE MISTRAL ↵ 15h, 17h30, 20h ↵ durée 1h15<br><br>Conception, direction d'acteurs et vidéo Robert Cantarella<br>avec<br>Le Messager Frédéric Fisbach ou Grégoire Tachnakian<br>Phèdre Johanna Korthals Altes<br>La Nourrice Laure Mathis<br>Hippolyte Nicolas Maury<br>Egée Grégoire Tachnakian<br>Thésée Emilien Tessier<br>et le chien Syp<br><br>dispositif scénique, environnement et lumières Laurent P. Berger<br>collaboration à la mise en scène Julien Fišera<br>dramaturgie Camille Louis<br>version pour la scène Robert Cantarella, Julien Fišera, Camille Louis<br>musique Alexandre Meyer<br>régie générale Patrick Buoncristiani<br>maître chien Etienne Girardet<br><br>texte publié aux éditions Les Belles Lettres, Paris<br>version 1 du spectacle présentée le 11 octobre 2005 au Théâtre Dijon Bourgogne<br><br>coproduction Passer pour des Belges, Théâtre Dijon Bourgogne, Festival d'Avignon<br>avec le soutien du ministère de la Culture et de la Communication<br><br><br># instructions<br><br>1。         ne pas toucher au chien.<br><br>2。         version sonorisée au casque si vous<br>           le souhaitez. nombre limité.<br><br>3。         version filmée réalisée en direct et<br>           projetée après la représentation.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_hippolyte_FDA2007/CommAvignon_fds_hippolyte_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Hippolyte<br>L'ombre d'Égée revient du royaume des morts et annonce les malheurs que va connaître sa descendance. Sans en avoir connaissance, son petit-fils Hippolyte confirme ces inquiétants présages en faisant le récit d'un cauchemar fait la veille.<br>Phèdre est consumée d'amour pour son beau-fils Hippolyte, fils de Thésée et d'Antiope, reine des Amazones. La Nourrice essaie de la détourner de cette passion mais Phèdre affirme son désir de mourir. Face à une telle obstination, la Nourrice cède et entreprend donc d'adoucir Hippolyte.<br>Hippolyte fait part à la Nourrice de sa vie solitaire et de son mépris pour les femmes. Phèdre se découvre et lui avoue son sentiment. Il s'en horrifie mais choisit la fuite plutôt que la vengeance. La Nourrice se saisit de l'épée qu'il a jetée et tente de faire croire à une agression de la part d'Hippolyte sur le corps de sa belle-mère.<br>Revenu des Enfers, Thésée obtient de Phèdre l'aveu qu'Hippolyte a cherché à la violenter. Par vengeance, il implore Neptune de punir son fils. Réalisant l'injustice, la Nourrice met fin à ses jours.<br>Un messager fait le récit à Thésée de la mort du jeune homme. Phèdre avoue sa faute puis se tue. La pièce se referme sur Thésée qui, \"aveuglé de fureur\", renonce à la mort.<br><br># Robert Garnier<br>Robert Garnier, né en 1544 dans la Sarthe et mort en 1590, fut avocat au Parlement de Paris. On le considère souvent comme le premier auteur tragique français car il est le premier à se consacrer presque entièrement au genre du \"poème tragique\". La tragédie humaniste, dont Hippolyte est le parfait exemple, s'attache avant tout à un travail sur la langue : l'essentiel ne consiste pas en actions, mais en élégies, déplorations, délibérations. Le récit, siège de l'émotion, occupe donc une place centrale.<br>Hippolyte, composé peu de temps avant la quatrième guerre de religion, est publié en 1573. Si pour sa seconde tragédie, Garnier s'inspire principalement de la Phèdre de Sénèque, il reste le premier en France à oser traiter de cet amour incestueux.<br>Hippolyte a été mis en scène par Antoine Vitez en 1982, en alternance avec L'Orfeo, opéra de Monteverdi. Plus récemment, Didier-Georges Gabily, \"amoureux de Garnier\", aura également contribué à la redécouverte de cet auteur.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_hippolyte_FDA2007/CommAvignon_fds_hippolyte_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Extrait 1<br><br>Phèdre<br>Ah que je sens de mal, que je sens de douleurs !<br>Que je souffre d'angoisse, et que j'espans de pleurs !<br>O beau visage aimé, ma douloureuse peine !<br>O comble de mon heur, douce face sereine !<br>O beau front applany des amours le sejour !<br>O sourcils ebenez, deux voutures d'amour !<br>O beau corps composé d'une taille celeste,<br>Semblable au corps d'un Dieu de maintien et de geste,<br>Je meurs de vous trop voir ! je meurs helas je meurs<br>De vous voir, ô beautez, semences de mes pleurs !<br>O venimeux Amour, que ta mere celeste<br>T'enfantant accoucha d'une cruelle peste !<br>Qu'il eust bien mieux valu, qu'elle eust grosse produit<br>Un millier de serpens, qu'un si malheureux fruit !<br>Helas tousjours ton feu, tousjours ton feu me brusle,<br>Soit que je m'en approche, ou que je m'en recule !<br>Hé Dieux qu'y faut-il faire ? Hippolyte m'espoint,<br>Et quand il est present, et quand il n'y est point.<br>Hippolyte mon cœur, n'aurez-vous point pitié<br>De me voir trespasser serve en vostre amitié?<br>Ah Phedre! ah pauvre Phedre! où as-tu mis ton cœur?<br>Tu ne dois esperer le tirer de langueur.<br>O vous, creuses forests qui recelez ma vie,<br>Que bien jalousement je vous porte d'envie!<br>O vous, coustaux pierreux, qui l'allez esprouvant<br>A la suite d'un Cerf, ou d'un Sanglier bavant,<br>Que je vous suis despite! O vous aussi fontaines,<br>Qui allez ondelant par les herbeuses plaines,<br>Et par tortis cavez, roulez tousjours à val,<br>Que je vous veux helas! que je vous veux de mal!<br>C'est vous qu'il va baisant, quand lassé de la chasse,<br>Degoutant de sueur et d'une honneste crasse,<br>Couché sur vostre bord tout plat il va lavant<br>Ses lèvres et sa soif en vostre eau l'abreuvant.<br>Où courés-vous mon cœur? les Dieux ont-ils fait naistre<br>Tant de beautez en vous pour vous faire champestre<br>Citoyen des forests? les forêts, mon souci,<br>Sont indignes de vous, et les rochers aussi.<br>Laissez-les donc mon cœur! hé voulez-vous despendre<br>En un labeur si dur, vostre jeunesse tendre?<br>Où courez-vous, mon cœur? mon cœur où courez-vous?<br>Laissez les bois deserts, les villes sont pour nous,<br>O mon bel Hippolyte, et ne voyez-vous pas<br>Que pour vous trop aimer, j'approche du trespas?<br>Et ne voyez-vous pas que je meurs pauvre Roine,<br>Et que pour me sauver vous estes seul idoine?<br>Secourez-moy, ma vie, et ne changez à tort,<br>Par faute de pitié, mon amour à la mort.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-hippolyte-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

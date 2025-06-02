@@ -1,0 +1,830 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Les ephemeres"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_lesEphemeres_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lesEphemeres_FDA2007/CommAvignon_fds_lesEphemeres_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Théâtre du Soleil<br>Les Éphémères<br>Intégrales<br><br>61ᵉ Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lesEphemeres_FDA2007/CommAvignon_fds_lesEphemeres_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>14 15 16 19 20 21 24 25<br>CHÂTEAUBLANC □ 14 h □ durée 7 h 30 entracte et pauses compris<br><br>Un spectacle du Théâtre du Soleil<br><br>épisodes rêvés, invoqués, évoqués, improvisés<br>et mis en scène par<br>Shaghayegh Beheshti, Duccio Bellugi-Vannuccini,<br>Charles-Henri Bradier, Sébastien Brottet-Michel,<br>Juliana Carneiro da Cunha, Virginie Colemyn,<br>Olivia Corsini, Delphine Cottu,<br>Marie-Louise Crawley, Eve Doe-Bruce,<br>Emmanuel Dorand, Maurice Durozier,<br>Camille Grandville, Astrid Grant, Émilie Gruat,<br>Dominique Jambert, Jeremy James,<br>Marjolaine Larranaga y Ausin, Virginie Le Coënt,<br>Jean-Jacques Lemêtre, Elena Loukiantchikova-<br>Sel, Vincent Mangado, Alexandre Michel,<br>Alice Millequant, Ariane Mnouchkine,<br>Serge Nicolaï, Seietsu Onochi, Pauline Poignand,<br>Matthieu Rauchvarger, Francis Ressort,<br>Andreas Simma<br>et les enfants Alba Gaïa Kraghede-Bellugi,<br>Galatea Kraghede-Bellugi, Paco Falgas,<br>Iñaki Falgas, Emmie Poinsot, Emma Zinszner,<br>Balthazar Perraud, Rebecca Jodorowsky,<br>Alice Le Coënt, Ruben Delgado, Nathan Agranat,<br>Raquele de Miranda, Orane Mounier,<br>Lucien Jaburek, Simon Rousteau, Nina Gregorio<br><br>production Théâtre du Soleil<br><br># Recueil 1<br>UN MERVEILLEUX JARDIN<br>PREMIER SOUVENIR<br>L'ÉCHOGRAPHIE<br>LA SAISIE<br>LES COQUILLETTES<br>LA FERME D'À CÔTÉ OU LA DÉLIVRANCE<br>L'ANNIVERSAIRE DE SANDRA<br><br>- pause -<br><br>LA SALOPERIE<br>LA LETTRE TANT ATTENDUE<br>KING KONG<br>LE FILS CHÉRI<br>AU PALAIS<br>UNE FAMILLE EN BRETAGNE<br>LA CHAMBRE DE LA MÈRE<br><br>- entracte (une heure) -<br><br># Recueil 2<br>AUX ARCHIVES<br>LA NUIT AU FOYER<br>LA MÉSOPOTAMIE<br>UN BEL INSTANT<br>LA MERVEILLEUSE CORRIDA<br>LA PROMENADE<br>LA MOUSSON<br><br>- pause -<br><br>LE PETIT LÉOPARD<br>LES POMMES D'AMOUR<br>UNE NUIT À L'HÔPITAL<br>LE PARDON<br>UN SAMEDI SUR DEUX<br>VOUS HABITEZ DANS MA MAISON<br>PARIS<br>UN ENDROIT MERVEILLEUX<br><br><br>le spectacle a été créé le 27 décembre 2006 au<br>Théâtre du Soleil à la Cartoucherie (Paris)</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lesEphemeres_FDA2007/CommAvignon_fds_lesEphemeres_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>avec (par ordre d'entrée en scène):<br><br>Delphine Cottu<br>Jeanne Clément Un merveilleux jardin (1), Aux archives (2), Un bel instant (2), Le pardon (2), Un endroit merveilleux (2);<br>Tamar Les coquillettes (1), Le petit léopard (2); Madeleine, la grand-mère La saloperie (1); Clémence de Nercy Le fils chéri (1); Liliane La chambre de la mère (1);<br>Claire Vous habitez dans ma maison (2), Paris (2)<br><br>Serge Nicolaï<br>Alain Un merveilleux jardin (1), Un samedi sur deux (1), Une famille en Bretagne (1); Marc Premier souvenir (1), La nuit au foyer (2), La promenade (2); Le métayer La ferme d'à côté ou la délivrance (1); Martin Un bel instant (2), Le pardon (2); Gilles Un endroit merveilleux (2)<br><br>Juliana Carneiro da Cunha<br>Aline Menuhin Un merveilleux jardin (1); Madame Diaz Premier souvenir (1); Nelly Altunian da Silva L'échographie (1), La Mésopotamie (2), Une nuit à l'hôpital (2);<br>Roxana La lettre tant attendue (1), La merveilleuse corrida (2);<br>Éléonore de Nercy Le fils chéri (1), La mousson (2);<br>Nora Altunian Aux archives (2), Un bel instant (2), Un endroit merveilleux (2);<br>Madame Dubris Vous habitez dans ma maison (2)<br><br>Francis Ressort<br>Jacques de Nercy Un merveilleux jardin (1); Fabien La saloperie (1); Jacques de Roquefeuille La mousson (2)<br><br>Olivia Corsini<br>Gaëlle Premier souvenir (1), Une famille en Bretagne (1), Paris (2); Suzanne La chambre de la mère (1);<br>Moira Un samedi sur deux (2)<br><br>Astrid Grant<br>Jacqueline Premier souvenir (1), Une famille en Bretagne (1), La nuit au foyer (2), La promenade (2);<br>Kate La chambre de la mère (1)<br><br>Shaghayegh Beheshti<br>Perle L'échographie (1), La Mésopotamie (2), Une nuit à l'hôpital (2); Estrella La lettre tant attendue (1)<br><br>Duccio Bellugi-Vannuccini<br>M. Cortesi, l'huissier La saisie (1), King Kong (1); Jean, le grand-père La saloperie (1); Jean-Philippe de Nercy Le fils chéri (1); Un gendarme La promenade (2);<br>Klaus Pfeffer Un endroit merveilleux (2)<br><br>Camille Grandville<br>Nadia Belloch La saisie (1); Elisabeth Dubris Aux archives (2), Vous habitez dans ma maison (2); Odette Rivière (en alternance) Un bel instant (2), Le pardon (2); Eve Les pommes d'amour (2); Morgane Un endroit merveilleux (2)<br><br>Maurice Durozier<br>Toni Belloch La saisie (1); Manolo La lettre tant attendue (1), La merveilleuse corrida (2); Claude La chambre de la mère (1);<br>Mathurin Un endroit merveilleux (2)<br><br>Dominique Jambert<br>Marthe La ferme d'à côté ou la délivrance (1);<br><br>Angèle Une famille en Bretagne (1), Les pommes d'amour (2); Odette Rivière (en alternance) Un bel instant (2), Le pardon (2); Eléonore de Nercy, enfant La mousson (2)<br><br>Jeremy James<br>Sandra L'anniversaire de Sandra (1), King Kong (1)<br><br>Alexandre Michel<br>Arnaud La lettre tant attendue (1), Le fils chéri (1);<br>Le secouriste La promenade (2)<br><br>Alice Millequant<br>Manon Le fils chéri (1), La mousson (2)<br><br>Eve Doe-Bruce<br>Mathilde Au palais (1); Tatiahora La mousson (2)<br><br>Matthieu Rauchvarger<br>Denis Paquier Au palais (1), Paris (2)<br><br>Sébastien Brottet-Michel<br>Rémi Dubris, le juge Au palais (1), Vous habitez dans ma maison (2); Le pompier La promenade (2); André, l'infirmier Une nuit à l'hôpital (2)<br><br>Vincent Mangado<br>Paul Une famille en Bretagne (1), Les pommes d'amour (2);<br>Le père de Tatiahora La mousson (2)<br><br>Virginie Le Coënt<br>Frédérique La nuit au foyer (2)<br><br>Andreas Simma<br>Alexeï Menuhin Un bel instant (2), Le pardon (2), Un endroit merveilleux (2)<br><br>Elena Loukiantchikova-Sel<br>Tatiana Menuhin Un bel instant (2), Le pardon (2), Un endroit merveilleux (2)<br><br>Emilie Gruat<br>Fanny Rivière Un bel instant (2), Le pardon (2);<br>La secouriste La promenade (2)<br><br>Emmanuel Dorand<br>José, le pompier La promenade (2)<br><br>Pauline Poignand<br>Sonia, l'infirmière Une nuit à l'hôpital (2)<br><br>Seietsu Onochi<br>M. Suzuki Paris (2)<br><br>et les enfants(en alternance) :<br>Galatea Kraghede-Bellugi,<br>Alba Gaïa Kraghede-Bellugi, Emmie Poinsot,<br>Emma Zinszner, Rebecca Jodorowsky,<br>Alice Le Coënt, Orane Mounier, Nina Gregorio<br>Aline, Gaëlle, Anna, Luna et ses copines, Rachel;<br>Estrella<br>Iñaki Falgas, Paco Falgas, Ruben Delgado,<br>Balthazar Perraud, Nathan Agranat,<br>Lucien Jaburek, Simon Rousteau<br>Pierre et Hervé; Pierre et Tomás; Aviv<br><br>pousseur de réserve David Baqué</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lesEphemeres_FDA2007/CommAvignon_fds_lesEphemeres_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>la proposition Ariane Mnouchkine<br><br>la musique Jean-Jacques Lemêtre<br><br>l'espace passionnément désiré par Ariane Mnouchkine<br>ardemment mis en œuvre par Everest Canto de Montserrat<br>fiévreusement peint par Elena Antsiferova<br><br>les petits mondes obsessionnellement assemblés par les comédiens sous l'œil attentif de Serge Nicolaï, Duccio Bellugi-Vannuccini, Sébastien Brottet-Michel, Jeremy James, Olivia Corsini, Francis Ressort, Eve Doe-Bruce, Seietsu Onochi et Astrid Grant<br><br>l'assistant à la mise en scène Charles-Henri Bradier<br><br>la lumière Cécile Allegoedt, Cédric Baudic, Nil Tondeur, Frédéric Fourmaux, Elsa Revol<br><br>le son Yann Lemêtre, Judith Marvan Enriquez, Virginie Le Coënt, David Santonja Ruiz<br><br>les costumes, tentures et tapisseries de toutes sortes Nathalie Thomas, Marie-Hélène Bouvet, Annie Tran, Chloé Bucas<br><br>coiffures et perruques Jean-Sébastien Merle Barreau<br><br>les grandes affaires techniques et informatiques Etienne Lemasson<br><br>les constructeurs le bois Jean-Louis Guérard, David Buizard le métal Nicolas Dallongeville, Kaveh Kishipour, Bertrand Mathevet toutes les matières Adolfo Canto Sabido, Samuel Capdeville<br><br>le grand ordonnateur des chariots Sébastien Brottet-Michel<br><br>la régie Pauline Poignand<br><br>les affaires administratives Judit Jancso, Pierre Salesne<br><br>les affaires publiques Liliana Andreone, Sylvie Papandréou, Naruna de Andrade, Maria Adroher Baus<br><br>les affaires humanitaires et les tournées françaises et étrangères Elaine Méric<br><br>les maîtres des cuisines et du bar Pedro Pinheiro Guimarães, Maral Abkarian, Karim Gougam, Sahand Hematijou, Thérèse Spirli<br><br>le grand soigneur Marc Pujo<br><br>les grandes préceptrices Françoise Berge, Frédérique Falgas<br><br>le programme Catherine Schaub-Abkarian, Thomas Félix-François<br>avec les photos de Pedro Pinheiro Guimarães<br><br>les affiches Thomas Felix-François avec les photos de Charles-Henri Bradier<br><br>les photographes Martine Franck, Michèle Laurent</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lesEphemeres_FDA2007/CommAvignon_fds_lesEphemeres_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Ariane Mnouchkine<br><br>Vous revenez en Avignon pour le Festival 2007. Qu'est-ce que cela représente pour vous?<br>Ariane Mnouchkine: La possibilité de retrouver un public composé de femmes et d'hommes qui vouent une partie de leurs vacances au théâtre, qui en mangent autant qu'ils le peuvent, parce qu'ils viennent souvent d'endroits où, le reste de l'année, il y a peu ou pas de théâtre. C'est pour rencontrer des professeurs qui considèrent qu'ils doivent être nos passeurs et qui ont besoin de ce rendez-vous pour continuer à faire ce travail qui nous est indispensable. Cette possibilité de rencontre est peut-être plus difficile aujourd'hui mais il faut la maintenir.<br><br>Comment en êtes-vous arrivés au titre Les Éphémères?<br>Quand il a fallu choisir un titre nous avions pensé à Vivre. Mais c'était celui d'un livre que l'on trouvait massivement dans les gares et les aéroports et pour lequel nous n'avions pas vraiment d'admiration. Nous avons donc cherché autre chose. Il y a eu successivement Les Sauveurs, puis Petits mondes et vastes palais, titre qui nous a semblé trop beau. Les Éphémères semble être très juste par rapport à ce que nous voulons raconter: la brièveté de la vie, des rencontres, des moments que l'on ne sait pas retenir.<br><br>Mais n'y a-t-il pas des moments éphémères dont on se souvient toute la vie?<br>Absolument. Ce sont les humains qui sont éphémères et il y a des moments de vécu qui sont en effet éternels, même si l'on n'en a pas immédiatement conscience. Le temps est éternel, c'est le nôtre qui ne l'est pas. C'est nous qui coulons.<br><br>Le travail a été celui d'improvisations à partir de \"visions\" que certains comédiens proposaient à leurs camarades. Quelle différence faites-vous entre souvenir et vision?<br>Les visions sont des souvenirs transformés, enrichis par ceux d'un autre, ce sont des reconstructions, même si certaines sont des souvenirs personnels et très précis de scènes vécues. Certaines visions sont des souvenirs racontés pas des parents ou des grands-parents. Le travail de répétitions consistait dans une proposition faite par un comédien à certains de ses camarades. À partir de là, ils construisaient eux-mêmes le décor et les accessoires, choisissaient les costumes et l'après-midi proposaient une improvisation. Nous avions déjà procédé de cette façon sur notre précédent spectacle Le Dernier Caravansérail.<br><br>Comment vous est venue l'idée du dispositif bi-frontal qui met les spectateurs au plus près du jeu des acteurs?<br>Je voulais justement passer un coup d'éponge sur Le Dernier Caravansérail qui a été un spectacle prégnant. Il ne fallait pas l'effacer bien sûr, car c'est impossible, mais l'éloigner. Comme le premier jour de répétition, des bancs étaient installés face à face, j'ai gardé cette disposition car elle a semblé immédiatement efficace et juste.<br><br>Dans une période où l'intime s'expose davantage dans les médias, quelle peut être la place particulière d'un théâtre qui parle de l'intime?<br>Je pense que sa place est essentielle car sa façon de parler de l'intime est plus poétique, plus profonde, plus réelle, plus vraie. D'autant que parler de l'intime au théâtre c'est parler d'un intime universel et non pas particulariste. Ici nous nous intéressons à l'intime des autres pour nous y reconnaître, sans voyeurisme, parce que nous nous reconnaissons dans tel désir, dans telle peur. Cela provoque parfois pendant les représentations des chocs que nous n'avions pas prévus. L'intime n'est intéressant que s'il révèle une humanité qui devrait être plus fraternelle, plus aimante, plus compatissante, même si nous nous sommes aperçus en préparant et en jouant le spectacle que l'humanité n'était pas aussi noire que nous nous l'imaginons parfois. De toute façon, nous ne voulons pas parler d'une humanité violente et dévastatrice.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lesEphemeres_FDA2007/CommAvignon_fds_lesEphemeres_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>L'image d'un Théâtre du Soleil engagé dans les combats du monde est-elle modifiée par ce spectacle ?<br>D'abord nous n'avons pas à répondre à une image. Nous n'avons pas à faire ce que l'on attend de nous. Nous avons à faire ce que nous avons envie de faire parce que nous le pensons nécessaire. Si nous apportons de l'inattendu avec ce spectacle c'est plutôt très positif. Je pense que nous parlons du monde d'une autre façon avec ce spectacle, mais nous n'avions pas posé cette nécessité comme un a priori au moment de sa conception. Nous ne sommes pas là pour plaire uniquement à ceux qui voudraient que nous fassions sans cesse des spectacles \"dits\" politiques. Bien sûr nos spectacles ont souvent été historiques, ils racontaient des grands moments de notre histoire, et ils étaient donc plus immédiatement politiques. Mais pour moi Les Éphémères l'est aussi dans le sens où il raconte un moment de l'histoire de notre société : il parle explicitement de la façon dont nous réagissons, humainement ou inhumainement.<br><br>La relative rareté du texte dans votre spectacle correspond-elle au fait qu'il y a des moments d'émotion qui ne peuvent pas se traduire en mots ?<br>En partie bien sûr, mais surtout parce nous travaillons par improvisations et que nous ne sommes pas des Shakespeare, des Tchekhov ou des Cixous. Les acteurs ont leur propre écriture, et ce n'est pas obligatoirement celle des grands textes élaborés. Il peut y avoir des phrases très courtes, qui sont très justes dans leur modestie même. Les acteurs, s'ils ne sont pas tous des poètes du verbe, sont tous des poètes du théâtre.<br><br>Les nombreux accessoires que vous utilisez sont-ils un moyen de fixer la mémoire dans le temps ?<br>Le temps de la mémoire est inscrit dans chaque objet. Nous avons souvent pensé à cette phrase de Borgès: \"L'imagination est un acte créateur de mémoire\". Tout notre spectacle est contenu dans cette phrase. Il se passe au théâtre un phénomène très proche de la biologie : rien ne se perd, tout se transforme. Au théâtre on ne crée rien à partir de rien.<br><br>Comment vous est venue l'idée très originale de faire tourner sans cesse les plateaux sur lesquels sont jouées les scènes, permettant ainsi au spectateur de les voir sous tous les angles possibles ?<br>À partir du moment où nous avons choisi une bi-frontalité pour les spectateurs il fallait leur offrir des angles différents pour qu'ils puissent tous voir la même scène quelle que soit leur place, qu'ils puissent voir la globalité de la scène. Cela n'a pas été très simple pour les acteurs, en tout cas au début des répétitions, car cela leur demande un travail très particulier. Il fallait aussi mettre le temps en espace, et le seul moyen de réaliser cela était ce mouvement permanent. Si le temps devient espace et déplacement, il est presque matérialisé. Je n'avais pas établi cela comme un concept théorique pré-établi avant les répétitions. Mais c'est en regardant, dans la pratique quotidienne que j'ai compris ce qu'il fallait faire. Ce fut très empirique, comme souvent au théâtre.<br><br>Il y a beaucoup d'enfants dans votre spectacle. Ont-ils travaillé comme les adultes ?<br>Ils ont improvisé comme les adultes mais pas dans les mêmes conditions de temps, puisqu'ils sont scolarisés. Un enfant ne travaille pas comme un adulte. Il faut donner de la matière à son imagination, des récits, des sensations. Il ne faut pas qu'il devienne un petit singe qui reproduit des adultes. C'est souvent difficile au théâtre, plus difficile qu'au cinéma où je sais obtenir des enfants ce que je désire puisqu'il s'agit de l'obtenir une seule fois. Mais dans le cas précis des Éphémères ce fut assez facile et heureux. Les enfants sont assez libres sur le plateau. Ce qui leur est imposé sont les entrées et les sorties et certains repères à l'intérieur de la scène. Pour le reste, ils ont une grande liberté.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 7"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/7/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/7/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lesEphemeres_FDA2007/CommAvignon_fds_lesEphemeres_FDA2007_page_7.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/7/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/7/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Sur 450 scènes qui ont été travaillées, le spectacle en compte vingt-neuf. Comment s'est fait le choix ? Avez-vous cherché des liens ?<br>Pendant les répétitions les acteurs ont tenté de chercher des liens, mais ils se sont trouvés ligotés, croyant nécessaire de se trouver des liens de cousinage par exemple. J'ai donc décidé de travailler en éliminant toute idée de raccord, en me réservant ce travail au moment opportun. C'est donc en fonction de tout ce que j'ai vu que le choix a été fait, en tenant compte de la durée possible du spectacle et de l'image globale qu'il devait donner.<br><br>Avec Les Éphémères n'êtes-vous pas très proche d'un autre de vos spectacles, L'Âge d'or ?<br>Nous sommes à la quête de \"l'âge d'or\" depuis toujours. Nous avions, très maladroitement, la volonté de parler de tout de suite, de maintenant. Le lien est donc évident.<br><br>Les Éphémères c'est aussi une partition musicale omniprésente. Quel est son rôle ?<br>Ce spectacle serait impensable sans la musique. Elle est le fleuve sur lequel nous naviguons, le placenta dans lequel les choses peuvent advenir. C'est souvent une musique souterraine, discrète mais absolument indispensable.<br><br>Peut-on dire qu'il y a une grande violence dans ce spectacle, non pas physique mais des sentiments ?<br>Il y avait une violence de l'émotion que j'ai perçue de suite. Je ne travaille que par rapport à elle. Si je ressens des frissons, que je suis émue aux larmes, je sais que nous touchons quelque chose de profond et donc de forcément violent.<br><br>Vous ne travaillez que dans \"l'impérieuse nécessité\" ?<br>Un spectacle doit être une \"impérieuse nécessité\" pour tous ceux qui le font avant qu'il ne le devienne pour tous ceux qui le voient. Un artiste ne devrait pas être ailleurs que dans l'impérieuse nécessité. Sinon à quoi répond son travail ?<br><br>Il y a au Japon des \"trésors nationaux vivants\". Après quarante ans d'existence, le Théâtre du Soleil ne pourrait-il pas rentrer dans cette catégorie ?<br>Vous imaginez bien la difficulté que j'ai à vous répondre. Il faut éviter le côté japonaiserie mystique. Une fois cela fait je pense que le concept est beau, dans le sens où il y a une prise de conscience qu'un artiste, trésor national ou non, ne peut transmettre que s'il est \"vivant\" parce qu'ensuite, ce ne sera plus possible. En cela je pense qu'une troupe comme celle du Soleil est bien vivante.<br><br>Propos recueillis par Jean-François Perrier en février 2007<br><br>les dates des Éphémères après le Festival :<br>- en tournée du 4 au 15 septembre 2007 au Festival de Buenos Aires (Argentine), du 26 au 30 septembre 2007 au Festival Poa Em Cena (Porto Alegre, Brésil), du 12 au 23 octobre 2007 à São Paulo (Brésil), du 22 au 29 décembre 2007 au Festival of National Theater and Concert Hall (Taipei, Taiwan)<br>- reprise à la Cartoucherie en février 2008, puis tournée en France du 22 mai au 8 juin 2008 à la Comédie de Saint-Étienne et à Pau invité par le Parvis de Tarbes en juin 2008 (dates à confirmer)<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/8",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 8"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/8/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/8/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lesEphemeres_FDA2007/CommAvignon_fds_lesEphemeres_FDA2007_page_8.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/8/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/8/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Ariane Mnouchkine et le Théâtre du Soleil<br>1959 Création de l'Association théâtrale des étudiants de Paris 1961 Genghis Khan d'Henry Bauchau, mise en scène d'Ariane Mnouchkine 1963-64 29 mai : naissance du Théâtre du Soleil 1964-65 Les Petits Bourgeois de Maxime Gorki, mise en scène d'Ariane Mnouchkine 1965 Capitaine Fracasse d'après Théophile Gautier, mise en scène d'Ariane Mnouchkine 1967 La Cuisine d'Arnold Wesker, mise en scène d'Ariane Mnouchkine 1968 Le Songe d'une nuit d'été de Shakespeare, mise en scène d'Ariane Mnouchkine 1969-70 Les Clowns, création collective du Théâtre du Soleil 1970 Arrivée à la Cartoucherie 1970 1789, création collective du Théâtre du Soleil 1972 1793, création collective du Théâtre du Soleil 1974 1789, film du spectacle, réalisé par Ariane Mnouchkine 1975 L'Age d'or, création collective du Théâtre du Soleil 1976-77 Molière, un film écrit et mis en scène par Ariane Mnouchkine avec le Théâtre du Soleil 1979-80 Méphisto, le roman d'une carrière d'après Klaus Mann, adaptation et mise en scène d'Ariane Mnouchkine 1981-84 Cycle : Les Shakespeare : Richard II, La Nuit des rois, Henry IV, traduction et mise en scène d'Ariane Mnouchkine 1985-86 L'Histoire terrible mais inachevée de Norodom Sihanouk, roi du Cambodge d'Hélène Cixous, mise en scène d'Ariane Mnouchkine 1987-88 L'Indiade ou l'Inde de leurs rêves d'Hélène Cixous, mise en scène d'Ariane Mnouchkine 1989 La Nuit miraculeuse, un film réalisé par Ariane Mnouchkine 1990-93 Cycle : Les Atrides : Iphigénie à Aulis d'Euripide (traduction de Jean Bollack), Agamemnon d'Eschyle (traduction d'Ariane Mnouchkine), Les Choéphores d'Eschyle (traduction d'Ariane Mnouchkine), Les Euménides d'Eschyle (traduction d'Hélène Cixous), mise en scène d'Ariane Mnouchkine 1993 L'Inde de père en fils, de mère en fille, mise en scène de Rajeev Sethi, sur une idée d'Ariane Mnouchkine 1994 La Ville parjure ou le Réveil des Erinyes d'Hélène Cixous, mise en scène d'Ariane Mnouchkine 1995-96 Tartuffe de Molière, mise en scène d'Ariane Mnouchkine 1996-97 Au Soleil même la nuit, film d'Eric Darmon et Catherine Vilpoux, en harmonie avec Ariane Mnouchkine 1997 Et soudain des nuits d'éveil création collective en harmonie avec Hélène Cixous, Tout est bien qui finit bien de Shakespeare mise en scène d'Irina Brook 1999 D'après La ville parjure ou le Réveil des Erinyes, un film réalisé par Catherine Vilpoux 1999-02 Tambours sur la digue, sous forme de pièce ancienne pour marionnettes jouée par des acteurs d'Hélène Cixous, mise en scène d'Ariane Mnouchkine 2001-02 Tambours sur la digue, sous forme de pièce ancienne pour marionnettes jouée par des acteurs, un film réalisé par Ariane Mnouchkine 2003 3 avril : Le Dernier Caravansérail (Odyssées) : Le Fleuve Cruel 22 novembre : Le Dernier Caravansérail (Odyssées) : Origines et Destins 2006 Le Dernier Caravansérail (Odyssées), film du Théâtre du Soleil réalisé par Ariane Mnouchkine 2006 27 décembre : Les Éphémères.<br>Au Festival d'Avignon, Ariane Mnouchkine a déjà présenté Les Clowns en 1969, Méphisto en 1979, La Nuit des rois et Richard II dans la Cour d'honneur en 1982 et 1984, Henry IV dans la Cour d'honneur en 1984, Tartuffe et La Ville parjure en 1995. Elle devait y présenter Le Dernier Caravansérail (Odyssées) en 2003 dont le film a été projeté en 2006 dans la Cour d'honneur.<br><br>et<br><br># Regards critiques □ 15 juillet □ 11H30 □ École d'Art<br>Quelles histoires pour dire l'Histoire ? □ avec Faustin Linyekula, Ariane Mnouchkine et Arlette Farge, historienne<br><br># Dialogue avec le public □ 16 juillet □ 11h30 □ École d'Art<br>avec Ariane Mnouchkine et des membres de l'équipe artistique des Éphémères, animé par les Ceméa<br><br># Films et documentaires au cinéma Utopia □ 18 juillet □ 14h □ Utopia-Manutention<br>Un soleil à Kaboul... ou plutôt deux (2005, 84mn)<br>film documentaire de Duccio Bellugi-Vannuccini, Sergio Canto-Sabido, Philippe Chevallier, en présence d'Ariane Mnouchkine<br><br># Films et documentaires au cinéma Utopia □ 23 juillet □ 14h □ Utopia-Manutention<br>Tambours sur la digue (2001, 136mn) □ film d'Ariane Mnouchkine d'après la pièce d'Hélène Cixous, un spectacle du Théâtre du Soleil, projection en présence de membres de la troupe</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lesephemeres-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

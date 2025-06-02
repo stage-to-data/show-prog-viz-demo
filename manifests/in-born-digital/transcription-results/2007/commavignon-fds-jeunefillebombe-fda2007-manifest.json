@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Jeune fille bombe"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_jeuneFilleBombe_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_jeuneFilleBombe_FDA2007/CommAvignon_fds_jeuneFilleBombe_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Vous dites que votre texte est romanesque. Mais n'a-t-il pas aussi un aspect de conte ?<br>Dans une première version du texte, j'avais intégré une référence à la Comtesse de Ségur que je n'ai pas gardée dans la version définitive (on voyait Nathalie Moore lire Les Malheurs de Sophie à sa fille Carrie). En effet, je l'ai supprimé parce que ça m'éloignait de l'actualité, mais aussi ça devenait trop anecdotique. À sa place, j'ai préféré évoquer Stephen King, l'écrivain de littérature d'épouvante qui ne lésine pas sur le terrifiant. Mais la Comtesse continue de hanter ce travail, confirmant ce qu'Adorno et Horkheimer écrivent dans La Dialectique de la raison : \"Ce n'est que dans le roman que l'épopée se transforme en conte\".<br><br>Votre récit est inscrit dans un temps précis ?<br>Comme toutes les épopées, il obéit à un temps précis. Il se déroule sur une semaine de la vie de Nathalie Moore pendant l'été 2006. Ça commence par un road-movie qui nous mène de Paris en Franche-Comté, à la frontière Suisse. Puis il y a un détour par Genève en hélicoptère et ça finit par une bagarre, dans le XIe arrondissement à Paris.<br><br>Votre héroïne semble en vouloir particulièrement à la génération des \"baby-boomers\" ?<br>Nathalie Moore n'en veut à personne. Simplement, elle constate qu'elle appartient à ce que les baby-boomers appellent aux États-Unis la X generation et qu'on appelle en France la Bof génération. Elle constate que la société dans laquelle elle vit est due aux mains des baby-boomers qui sont beaucoup moins \"débousssolés\" qu'ils le disent. En caricaturant, on a la sensation qu'ils ont dévoré leurs pères dans les années soixante et que maintenant ils s'apprêtent à dévorer leurs enfants, ce qui est commode étant donné que leurs enfants sont des inconnus : des X ! Nathalie Moore ne se laisse pas faire, même si elle se sent en chute libre. Elle ne s'est pas suicidée comme ce fut le cas de beaucoup d'adolescents dans les années 1980, elle n'est pas morte du sida, elle n'est pas dépressive et elle n'a pas le goût du sacrifice. C'est une mère de famille qui se bat dans un monde infernal à cause du terrorisme et de la société de contrôle.<br><br>Qui vous a aidé dans cette lutte ?<br>Cette lutte n'est pas finie parce que je regarde encore la télévision, mais comme un baromètre de l'air du temps. Pour moi et sans hésitation ce sont Sade, William Burroughs, Guy Debord, Brecht (celui des opéras Les Sept péchés capitaux et Mahagonny, et celui des textes théoriques sur le théâtre). Ils m'ont fait prendre conscience que j'étais non seulement dans une société de contrôle, mais aussi d'oppression, qui utilise la norme pour imposer des attitudes et à des manières de penser. Mais peut-être étaient-ils encore optimistes parce qu'ils pouvaient identifier leurs ennemis : l'idéalisme bien pensant pour Sade, le gaullisme et le capitalisme pour Debord, le national-socialisme et le maccarthysme pour Brecht. Aujourd'hui, l'ennemi semble partout donc nulle part. Si l'art est une arme et pas un outil, faisons attention que ces armes ne se retournent pas contre nous !<br>Propos recueillis par Jean-François Perrier en février 2007 avant le début des répétitions<br><br># Christophe Fiat<br>Christophe Fiat est né à Besançon en 1966. Titulaire d'un DEA de philosophie, il enseigne pendant sept ans en lycée et à l'Université de Franche-Comté. Parallèlement, il assure de 1996 à 1998 la direction du Centre régional des Lettres de Franche-Comté puis anime jusqu'en 2001, la revue de littérature TIJA, The Incredible Justine's Adventures. Il dirige aujourd'hui la revue d'art et de littérature Mission Impossible. En tant qu'écrivain, il publie de nombreux livres dont Ladies in the dark (2001), Ritournelle, une anti-théorie (2002), Bienvenus à Sexpol (2003), Épopée, une aventure de Batman + cd (2004), Héroïnes (2005) ou La reconstitution historique, une aventure de Louise Moore (2006). Il enregistre aussi diverses performances sonores dont le disque vinyle Action! (2004).<br>Il présente des performances dans de nombreux festivals de poésie sonore et de musiques improvisées jusqu'en 2001, année au cours de laquelle il participe au hors-série n°0 du Centre Chorégraphique National de Montpellier Languedoc-</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_jeuneFilleBombe_FDA2007/CommAvignon_fds_jeuneFilleBombe_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Roussillon avec To Dance. Puis, Trois ritournelles live est créée au Festival Montpellier Danse en 2002. En 2003, pour Montevidéo à Marseille, il crée Poème épique, performance qui sera ensuite radiodiffusée sur France Culture et reprise à New York en 2004 au Bowery Poetry Club. Et la même année, Comédie Musicale, AZF mon amour au Centre de Développement Chorégraphique de Toulouse Midi-Pyrénées. Sur une invitation de Thomas Hirschhorn dans le cadre du projet 24 heures Foucault, il présente au Palais de Tokyo en 2004 La vérité est hallucinante, suivie d'un Hommage à Tennessee Williams à l'occasion des vingt ans de la Ménagerie de Verre à Paris. En 2005, dans le cadre des Soirées Nomades de la Fondation Cartier pour l'art contemporain, il présente Tentative de récupération du site de Ground Zero à des fins politiques et pour France Culture, la performance radiophonique Love drink ou la naissance d'une nation. Il est aussi réinvité aux Etats-Unis et présente Agency à la librairie City Light Books à San Francisco. En 2005 toujours, il présente LOVE, LOVE, LOVE, performance extraite de son livre Héroïnes au Centre pour l'image contemporaine à Genève. Le Festival 100 dessus dessous à la Villette le reçoit en 2006 pour la création de la performance Si Carrie White n'était pas une héroïne de Stephen King, elle serait terroriste – reprise cet été au Festival Santarcangelo 07 en Italie – et celle de Isadora Duncan est une danseuse crackée, reprise quant à elle aux Halles de Schaerbeek à Bruxelles, à l'Arsenic à Lausanne et au Centre Chorégraphique national de Tours en 2007.<br>Il signe sa première mise en scène, La reconstitution historique, au Théâtre de la Bastille en mai 2006, performance reprise dans le cadre des Soirées Nomades du Printemps de Septembre à Toulouse la même année.<br>Il a collaboré avec plusieurs artistes tels Thomas Hirschhorn pour ses projets : Bataille Monument en 2002 à la Dokumenta de Kassel, Musée précaire Albinet et 24 heures Foucault en 2004 ; Alexandre Périgot pour Radio Popeye à la Biennale de Venise 2003 ou Christelle Lheureux pour L'expérience préhistorique en 2004, ou Massimo Furlan pour Les filles et les garçons en 2007.<br>Au Festival d'Avignon, Christophe Fiat a déjà présenté European - les trois grandes odes et Un semblant de nature dans le cadre de la Vingt-cinquième heure en 2004.<br><br>et<br><br># Stephen King stories performance de et avec Christophe Fiat<br>11 juillet □ 19h □ Salle Benoît-XII □ durée 40 mn<br><br>À l'occasion du soixantième anniversaire de Stephen King, un hommage pop à l'auteur de Carrie et Shining. \"Happy birthday\" au King de la littérature américaine d'épouvante.<br>C'est une épopée rock qui fait suite à quatre autres épopées, celle de Nijinsky en 2002 dans Trois ritournelles live au Festival Montpellier Danse, de Batman en 2003 dans Poème épique enregistrée à France Culture, de Christopher Marlowe dans Christopher Marlowe is dead créée au Queen College à Cambridge en 2004 et de Michel Foucault dans La vérité est hallucinante dans le cadre du projet 24h Foucault de Thomas Hirschhorn.<br><br># Regards critiques<br>12 juillet □ 11h30 □ École d'art<br>La scène et les états de la langue<br>avec Julie Brochen, Christophe Fiat, Dieudonné Niangouna<br><br>Comme chaque année, l'Adami apporte son aide aux spectacles coproduits par le Festival d'Avignon et favorise l'emploi, notamment sur des spectacles réunissant un nombre important d'artistes. Société de gestion collective des droits des artistes-interprètes (près de 60 000 comédiens, chanteurs, musiciens, chefs d'orchestre, danseurs...), l'Adami a consacré, en 2006, près de 13 millions d'euros à 950 projets dans différents genres artistiques. Ces aides ont contribué à l'emploi direct de plus de 6 500 artistes.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_jeuneFilleBombe_FDA2007/CommAvignon_fds_jeuneFilleBombe_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Christophe Fiat<br># La jeune fille à la bombe<br><br>61e Festival d'Avignon<br><br>DEXIA</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_jeuneFilleBombe_FDA2007/CommAvignon_fds_jeuneFilleBombe_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>8 9 10 11 13 14<br>SALLE BENOÎT-XII □ 15h □ durée 2h □ création 2007<br><br>texte et mise en scène Christophe Fiat<br>interprétation Louise Armand, Soanny Fay, Christophe Fiat, Rémy Héritier, Mickaël Phelippeau<br>scénographie Christophe Fiat<br>vidéo Louise Armand<br>lumière Éric Yvelin<br>musique Christophe Fiat<br>voix off Louise Armand, Christophe Fiat, Soanny Fay<br>régie générale Éric Yvelin<br>administration Carole Bodin<br><br>spectacle créé le 8 juillet 2007 à la Salle Benoît-XII, Festival d'Avignon<br><br>production Cloudbusters<br>en coproduction avec le Festival d'Avignon, le Parc de la Villette (Paris) dans le cadre des résidences d'artistes et Arcadi (Action régionale pour la création artistique et la diffusion en Île-de-France)<br>avec le concours du ministère de la Culture et de la Communication (dicream)<br>avec le soutien de Montévidéo (Marseille)<br>avec l'aide à la création du Centre national du Théâtre<br>remerciements à Pascale Cassagnau, Hubert Colas, David Ruffel, Lionel Ruffel, Jean-Marc Monterra pour l'enregistrement de Kidnappers Guys' Song à Montévidéo et à l'équipe technique de la Salle Benoît-XII<br>Le Festival d'Avignon reçoit le soutien de l'Adami pour la production<br><br>les dates de La jeune fille à la bombe après le Festival :<br>en juin 2008 représentations dans le cadre du Festival 100 dessus dessous, Parc de la Villette (Paris)<br><br># entretien avec Christophe Fiat<br><br>Êtes-vous d'abord écrivain ou d'abord performeur ?<br>Christophe Fiat : Je suis un écrivain et je fais des performances. Les performances sont pour moi des mises en scène de mes textes et de mes livres. Mais je n'écris jamais pour la scène. C'est la scène qui se plie au texte, pas l'inverse. \"Performance\" est le seul terme que j'ai trouvé pour dire comment je lis mes textes sur scène en les accompagnant de sons venus d'une guitare électrique.<br><br>Établissez-vous une différence entre le théâtre et la performance ?<br>Je connais mal le théâtre, même si des écrivains comme Shakespeare ou Brecht me passionnent, tout comme Richard Wagner. En effet, ils ont pratiqué tous les arts de la scène (décors, musiques, littérature) – d'ailleurs, mon prochain livre qui sort en octobre est consacré à Richard Wagner. Je connais bien la scène de la poésie sonore française et européenne de même pour l'art contemporain comme par exemple Thomas Hirschhorn avec lequel j'ai travaillé, et j'entretiens aussi une vraie relation avec la danse contemporaine. À vrai dire, il m'importe peu de savoir si je fais du théâtre ou de la performance. Je ne revendique que la liberté de travailler pour exprimer ce qu'il me paraît important de dire aujourd'hui et aussi concernant l'état de la société en 2007. Ou alors, si je fais du théâtre, ça serait une sorte de \"théâtre des opérations\" : on part du texte, puis c'est amplifié par la scène pour revenir au texte et faire émerger des idées. Ceci pour toucher le spectateur dans sa sensibilité et son intelligence.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2232,
+            "width": 1578,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_jeuneFilleBombe_FDA2007/CommAvignon_fds_jeuneFilleBombe_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2232,
+                                "width": 1578,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/5#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Y a-t-il des différences entre vos premières performances et vos derniers travaux ?<br>Oui. Le premier changement tient à la nature même de mes écrits. Maintenant je travaille sur du romanesque et non plus sur des poèmes. Je trouve que la poésie française autorise trop d'ellipse et de systématisme et d'automatisme, ce qui est pour moi synonyme de facilité quand on est sur scène. La poésie contemporaine a complètement évacué l'imaginaire de son champ, alors que le roman préserve encore cet imaginaire. Avec le roman, je peux raconter une histoire, mais à la condition que l'histoire dépasse la logique de la narration pour stimuler une action critique. C'est ce que j'appelle \"l'épopée\". Le second changement est mon souhait d'associer des interprètes. Dans La jeune fille à la bombe, je suis accompagné d'une chanteuse lyrique, Soanny Fay qui est une soprano, de deux danseurs (Rémy Héritier avec qui j'ai déjà collaboré l'année dernière pour la performance en cinq parties La reconstitution historique et Mickaël Phelippeau) et de la vidéaste, Louise Armand, qui a créé les vidéos du spectacle et qui monte sur scène pour la première fois.<br><br>Votre texte sera lu ou joué ?<br>Il sera lu parce qu'un texte, c'est autant une expérience de la voix qu'une expérience mentale. Et il sera aussi récité quand la mise en scène l'exigera. Je veux créer du jeu dans l'alternance des deux : lecture et récitation. Ce jeu pour moi évoque autant la question de l'usage qui est fait des paroles (ce que les Anglais et les Américains appellent les lyrics) dans le rock (il y aura sur scène une ou plusieurs guitares électriques) que l'usage qui est fait de la voix off dans le cinéma. Mais aussi, si j'aime le mot \"récitation\" c'est parce que dedans il y a \"récit\". Quant à la lecture, elle demande une attention forte de la part du spectateur qui lui donne l'occasion de réfléchir plus fortement à ce qui se dit sur scène.<br><br>Le titre de votre projet est La jeune fille à la bombe.<br>C'est un titre paradoxal, presque un oxymore. Parce que la bombe qui fait référence au terrorisme est toujours associée à l'homme et jamais à la femme, et encore moins à la jeune fille. Dans ce travail, je veux attirer l'attention sur le terrorisme d'aujourd'hui, bien sûr. Mais aussi sur les mesures anti-terroristes qui font autant de dégâts que le terrorisme lui-même. Avec les guerres policières des états démocratiques riches contre les états pauvres, que ce soit en Afghanistan en 2001, ou en Irak depuis 2003, avec la création de lieux hors-la-loi comme le camp de Guantanamo où sont détenus des présumés terroristes, et aussi compte tenu de toutes les mesures de contrôles individuels aux frontières (qu'on pense aux nouveaux passeports électroniques), il y a de quoi avoir une plus grande peur de certains hommes politiques et des lois qu'ils souhaitent voir appliquer que des terroristes eux-mêmes. En parlant de la jeune fille, c'est de cette peur dont j'ai voulu parler. La jeune fille représente encore dans notre inconscient collectif un être vulnérable qui jouit du statut d'objet humain, d'où la référence dans ce travail à l'histoire de la poupée Barbie qui est une baby-boomer. En outre, ce titre est emprunté à Deleuze. Le Deleuze lié à Guattari dans Mille plateaux qui est un livre rude, brutal et léger à la fois, une des machine de guerre philosophique de la fin du siècle dernier dont j'ai parlé dans mon livre Ritournelle une anti-théorie. À l'époque (en 1980), ces deux auteurs faisaient référence aux attentats palestiniens. Aujourd'hui, cela fait référence au Tchétchénie, mais surtout à cette volonté de toujours vouloir stigmatiser les femmes. En 2007, le terrorisme est devenu un discours politique tellement consensuel qu'il est une nouvelle propagande. Je ne nie pas le danger terroriste, mais je m'insurge contre ceux qui en profitent.<br><br>Vous pensez que le problème de cette violence se pose d'une façon plus aiguë aujourd'hui ?<br>Oui, parce qu'on vit la violence comme quelque chose de normal ou comme une fatalité. Alors que la violence est toujours utilisée par les forts contre les faibles. La violence n'est pas naturelle, elle est l'effet de l'intérêt de certains. C'est toujours un rapt, une aliénation. Et dès qu'on aborde la différence des sexes, on se rend compte à quel point le clivage fort/faible est puissant. Plus que jamais les femmes sont réduites à l'idée de nation et plus que jamais,</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_jeuneFilleBombe_FDA2007/CommAvignon_fds_jeuneFilleBombe_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>elles en font les frais, dès qu'il y a un conflit (viols ethniques, viols de fillettes et viols de femmes âgées). Il ne faut pas oublier que le symbole de la République française est Marianne, une femme blanche. Elle n'est pas noire, ni jaune. On définit encore la femme comme une mère nourricière et la jeune fille comme une mère à venir, alors que le fait d'être une mère est un choix, une liberté. Simone De Beauvoir a dit tout cela, au milieu du XXe siècle. Ce qui est compliqué aujourd'hui, c'est que la violence est infligée aussi par ceux qui la subissent, non pas sous la forme du renoncement, mais sous la forme de l'autocensure qui prolifère jusqu'à l'autisme généralisé qui en est l'effet. Dans ce travail, je cherche une issue à cela avec tous mes personnages féminins: Nathalie Moore et sa sœur, Louise Moore, Natacha Felsherinov, Susan Hessling, et surtout la fille de Nathalie Moore, la petite Carrie qui est la femme de l'avenir. Le fait que tous ces personnages soient égarés dans les méandres de la société de contrôle ne fait qu'attiser leur désir de liberté.<br><br># Le terrorisme est abordé à la fois dans la fiction et dans le réel?<br>Quand j'aborde le terrorisme dans le réel, je reprends des événements rapportés par les médias comme l'attentat du 11 septembre 2001 aux États-Unis ou l'attentat déjoué de Londres en juillet 2006 (l'action de La jeune fille à la bombe se passe durant l'été 2006). Mais comme je fais de la fiction, quand j'essaye de comprendre le terrorisme, j'invente un univers pour penser ce réel.<br><br># Dans votre texte, il est question du tournage du film La Jeune fille à la bombe. Ce film sera-t-il présent sur le plateau?<br>Non, il ne sera pas montré pour la simple raison qu'il n'existe pas. Ce qui existe, c'est le récit qu'il y a autour de ce film. Bien sûr, il y aura des vidéos dans ce travail, mais tout comme du chant lyrique et de la danse et de la lecture et aussi des moments musicaux live avec une guitare électrique. Ce sont des éléments qui s'imbriquent les uns dans les autres. Cette œuvre est un tout et aujourd'hui, on ne peut rendre compte de l'idée de totalité qu'en convoquant tous ces éléments qui sont empruntés à la société des médias et de l'interactivité, mais aussi à la culture de masse (le rock) et à la culture d'élite (l'opéra). Cette société est plus répressive qu'informative. J'essaye de trouver un juste milieu, entre la rock attitude de la fin du XXe siècle qui prétendait qu'on vit sa vie comme si on était dans un film (ce que disaient aussi les punks) et la société de contrôle qui repose sur l'idée que filmer, c'est montrer pour tuer (que ce soit le sens, ou les personnes - les médias ne font pas de hiérarchie entre les deux). La solution, c'est qu'il y aura une caméra sur scène qui enregistrera tout sans que cet enregistrement soit montré au spectateur. Bref, c'est une boîte noire. Impossible de parler du terrorisme, sans montrer le spectacle qui va avec. Mais ce spectacle est une apparence, pas la vérité qui se dévoile au fil de l'histoire.<br><br># Les références de votre héroïne sont très liées aux États-Unis. Il n'est pas possible de parler du terrorisme sans parler de l'Amérique?<br>C'est en effet impossible aujourd'hui. C'est pour cela que le terrorisme nous pose tant de problème car depuis les attentats du 11 septembre et la promulgation du Patriot Act les deux sont inextricablement liés. Le plus terrible, c'est que ce mélange arrange beaucoup d'états, puisque les Américains prennent en charge la police du monde. Je ne diabolise pas les Américains. J'aurai plutôt tendance à mépriser toutes les démocraties qui interviennent diplomatiquement pour montrer leur mécontentement, sans intervenir. Aujourd'hui le terrorisme a remplacé le communisme de la guerre froide. Il permet de créer une peur irrationnelle qui justifie aussi les mesures coercitives qui sont prises au nom de la lutte anti terroriste. D'accord, nous sommes passés du terrorisme politique avec des cibles précises au terrorisme aveugle de masse. Mais est-ce une raison pour que les politiques actuelles soient aussi aveugles que ceux qu'elles désignent comme responsables du malheur de la société? À la fin, on ne sait plus qui terrorise qui.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunefillebombe-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

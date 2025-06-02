@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Ajour"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_ajour_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_ajour_FDA2007/CommAvignon_fds_ajour_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Christine Dormoy<br>Née dans le Gers, Christine Dormoy a d'abord fait partie de la compagnie Les Tréteaux puis du Groupe 33 et rejoint la caravane de la compagnie Avant-Quart pour jouer sous chapiteau Brecht, Molière ainsi que des créations avant de fonder sa propre compagnie en milieu rural, interprétant Lorca, Karl Valentin ou Mrozek.<br>Elle découvre le théâtre de Peter Brook, travaille en atelier avec Jean-Louis Hourdin et croise la route de Guy Maneveau, ces trois rencontres infléchissant son parcours : après des études musicales et vocales, elle fonde en 1986 la compagnie Le Grain, vouée entre théâtre et opéra aux écritures contemporaines, aux textes littéraires, aux compositions musicales.<br>Dès les inaugurales Récitations d'Aperghis, elle s'attache à révéler ce que le parlé peut porter de musique et ce que le chanté peut induire d'images, recherche à laquelle sa rencontre en 1991 avec le scénographe Philippe Marioge apporte une nouvelle dimension dont témoigne leur travail sur Chants indiens de Stockhausen, Le Danseur disparu et Devant la parole, textes de Novarina, Octologo et Khoom de Scelsi ou Concertino de Michel Musseau, présentés à Venise, Avignon, Nanterre, Lyon, Marseille, Reims ou Milan… mais aussi au-devant de tous les publics dans des lieux les plus incongrus.<br>En résidence à l'Opéra de Bordeaux, elle crée en 2001 avec dix-sept acteurs, chanteurs, musiciens l'opéra-théâtre Vertiges de Jean-Pierre Drouet et Patrick Kermann, avant de participer à la Biennale de Venise 2002 avec l'opéra Big bang circus de Claudio Ambrosini. Viennent ensuite Les Ailes du vent, d'après Stockhausen, avec les Neue Vocalsolisten de Stuttgart, la création à Reims de Cantatrix Sopranica L. d'Arnaud Petit, texte de Perec, celle du Flâneur, opéra électronique de Jean-Louis Clot, texte de Tiphaine Samoyault, à Marseille.<br>Devenu Le Grain Théâtre de la Voix, la compagnie a récemment donné Worstward Ho! de Beckett, Sequenza III de Berio, et vient de représenter avec succès la France au Festival l'Opéra autrement au Kampnagel de Hambourg avec Vertiges II, Suiyra pour l'Opéra national de Bordeaux cet automne, la mise en scène de la création Génitrix de Laszlo Tihanyi, d'après le roman de Mauriac, production reprise au Printemps de Budapest. Son exploration des voix dans les conférences de Deleuze et Jankélévitch lui vaut une bourse Beaumarchais 2007 pour l'écriture de Philophonie, livret pour un spectacle à venir entre philosophie et musique improvisée, avec le duo François Rossé – Chris Martineau.<br><br># et autour de Valère Novarina<br><br># L'Acte inconnu<br>DE VALÈRE NOVARINA<br><br>7 8 10 11 12<br><br>COUR D'HONNEUR DU PALAIS DES PAPES □ 22 h □ durée estimée 2 h 22 □ création 2007<br><br>L'Acte inconnu est un voyage réjouissant dans l'univers des mots et de la langue qu'ils composent. Une aventure pleine de surprises verbales, de digressions drolatiques, de litanies envoûtantes, de paradoxes assumés, de retours aux sources du langage, mêlant les sens. La scène devient le lieu du plaisir ludique, celui d'ouvrir des espaces inconnus à des corps parlants par mots et par gestes, celui de faire entendre et partager une langue délivrée.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_ajour_FDA2007/CommAvignon_fds_ajour_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># La lumière nuit □ installation et peintures de Valère Novarina<br>Exposition organisée par la Région Île-de-France<br>6 - 27 juillet □ Chapelle du Miracle □ horaires d'ouverture 10h30 - 18h □ entrée libre<br>Deux inscriptions: un néon bleu; douze peintures à la palette graphique et quatre yeux filmés pendant trente minutes. Quatre toiles: Au repas d'Abraham, Donné au Pélican, Observez Adam captif, Arraché à lui.<br>13 juillet □ Chapelle du Miracle □ 16h - 17h30 □ entrée libre<br>Visite commentée de l'exposition par Valère Novarina suivie d'une rencontre avec l'artiste<br><br># 2587 Dessins □ de Valère Novarina<br>6 - 27 juillet □ École d'Art □ horaires d'ouverture 11h - 18h □ entrée libre<br>Les 2587 personnages du Drame de la vie dessinés par Valère Novarina lors d'une performance et exposition à La Rochelle en juillet 1983.<br><br># Les leçons de l'université d'Avignon □ Valère Novarina<br>13 juillet □ 11h30 □ Université d'Avignon □ conférence présentée par Emmanuel Ethis<br><br># France Culture en public □ Écrits d'artistes: Valère Novarina □ 12 juillet □ 12h □ Musée Calvet<br><br># Films et documentaires au cinéma Utopia<br>Ce dont on ne peut parler, c'est cela qu'il faut dire (2002, 66mn)<br>9 juillet □14h □ Utopia-Manutention □ documentaire de Raphaël O'Byrne sur Valère Novarina, en présence de Valère Novarina<br><br># Regard critiques □ À l'origine<br>10 juillet □ 11h30 □ École d'art □ avec Valère Novarina et Olivier Dubouclez, philosophe<br><br># Les rencontres de Foi et Culture □ Valère Novarina<br>10 juillet □ 17h □ Centre Magnanen<br><br># Paccoud chante Novarina Éloge du réel et autres chansons dramatiques...<br>9 juillet □ 19 h □ Gymnase du lycée Saint-Joseph<br>Chanteur, compositeur et accordéoniste, Christian Paccoud met en musique les textes de Valère Novarina depuis 1995. Il se produit régulièrement en concert; dans son dernier récital, Paccoud chante Novarina, il reprend toutes les chansons qu'il a composées pour Le Repas, L'Opérette imaginaire, L'Origine rouge, La Scène, L'Espace furieux.<br><br># et aussi<br>deux propositions de la compagnie le Théâtrographe<br><br># Devant la parole de Valère Novarina<br>Version commando mise en scène et interprétée par Louis Castel<br>Les 8, 9 et 11 juillet à 16h30, le 12 juillet à 11h<br>Musée du Petit Palais, Place du Palais des Papes<br><br># Lumières du corps de Valère Novarina<br>Lecture par Louis Castel<br>Les 12 et 13 juillet à 16h30 au Jardin du Musée du Petit Palais.<br>Le 13 juillet à 19h (de concert avec Roséliane Goldstein) à la librairie La Mémoire du monde, 36 rue Carnot<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_ajour_FDA2007/CommAvignon_fds_ajour_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Christine Dormoy / Valère Novarina<br><br>Ajour DE VALÈRE NOVARINA<br><br>avec la Chartreuse de Villeneuve lez Avignon<br><br>Centre National des Écritures du Spectacle<br>LA CHARTREUSE<br>de Villeneuve lez Avignon                61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_ajour_FDA2007/CommAvignon_fds_ajour_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>les 8 9 11 12 13 14 15 17 18 20 21 22 à 16h<br><br>et aussi les 13 15 18 à 18h30<br><br>CAVE DU PAPE DE LA CHARTREUSE DE VILLENEUVE LEZ AVIGNON □ durée 1h 15<br>création 2007<br><br>mise en scène Christine Dormoy<br>avec Philippe Dormoy<br>Chris Martineau, Géraldine Keller et Katy Deville<br><br>scénographie Philippe Marioge<br>lumière Paul Beaureilles<br>costumes Cidalia Da Costa<br>composition vocale Treize organa d'Arnaud Petit<br>création alto et voix Pneumogonies Chris Martineau<br>réalisation sonore et régie son Laurent Sellier assisté de Benoît Meurant (stagiaire CFPTS)<br><br>Ajour est le 7e chapitre de Lumières du corps (éditions P.O.L). Il est précédé du 6e chapitre Brûler des livres et suivi du début du 8e chapitre L'Acteur sacrifiant<br>Spectacle créé le 8 juillet 2007 à la Cave du pape de la Chartreuse de Villeneuve lez Avignon<br><br>production Compagnie Le Grain<br>coproduction La Chartreuse Centre national des Écritures du spectacle, Office Artistique de la Région Aquitaine, la Muse en circuit Centre national de création musicale avec le concours du Théâtre de Cuisine<br>avec le soutien de la SACEM et du Conseil régional d'Aquitaine et en partenariat avec le Centre François Mauriac de Malagar<br>remerciements à Jean-Paul Gerbaud, Etienne Boullier et l'Opéra National de Bordeaux<br><br>les dates d'Ajour après le Festival :<br>du 6 au 8 février 2008 au Théâtre national de Bordeaux en Aquitaine<br><br># entretien avec Christine Dormoy<br><br>Votre compagnie s'appelle Le Grain, Théâtre de la voix. Pourquoi ce qualificatif?<br>Christine Dormoy : Ma compagnie s'appelle Le Grain, il y a une effectivement une référence à la \"texture\": \"Le Grain de la voix est un mixte érotique de timbre et de langage\", écrivait Barthes. Il a le grain de folie, le décalage. J'aime aussi à penser que le mot grain appelle à la fois l'idée du fruit et celle de la semence de l'arbre qui portera le fruit. Le terme du \"Théâtre de la voix\" désigne un champ artistique entre théâtre et musique, il est venu récemment et découle du long travail de recherche sur les langages contemporains confondus et particulièrement ceux des compositeurs et des auteurs. Il y a un terrain, un terreau entre le son et le sens, un lieu où apercevoir ce qui se joue là où la pensée prend brusquement corps, en cet endroit du larynx où prend forme le son.<br>Le \"théâtre\" de la \"voix\", c'est une redondance. Disons qu'il y a quelque chose qu'il me semble nécessaire d'appeler deux fois plutôt qu'une.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_ajour_FDA2007/CommAvignon_fds_ajour_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Est-ce le théâtre qui vous a amené à la musique? Pensiez-vous qu'il manquait quelque chose à votre pratique théâtrale?<br>C'est effectivement ma pratique théâtrale qui m'a permis d'ouvrir largement des fenêtres, j'étais assoiffée d'arts plastiques et de danse. Curieusement, je ne pensais pas à la musique. Je n'avais pas cette culture. Ce sont les comédiens de la compagnie que je dirigeais, à l'époque, qui constataient mon exigence de rythme, les longueurs de silence que je mesurais comme on coupe des cheveux en quatre, mon attention à la fréquence des voix, à la simultanéité micro-événementielle, aux correspondances entre le son, la lumière et le sens. Je n'ai pas pu faire l'économie d'une remise en question radicale et d'un passage par la musique. Ce fut un travail difficile car j'avais déjà trente ans et mon oreille n'avait pas travaillé. Guy Maneveau m'a accueillie et, avec la simplicité des grands maîtres, il a fermé les yeux sur mon \"inculture\". Avec l'harmonie, la direction de chœur, l'électroacoustique, l'analyse musicale, j'ai découvert les partitions contemporaines. Je n'ai à aucun moment cessé de penser à la scène, aux textes du XXe siècle particulièrement. J'ai agrandi mon écoute. Oui, il manquait à ma pratique théâtrale des outils, ceux d'une dramaturgie d'essence musicale. Après la fission de l'atome, les écritures du XXe siècle ont des formes peut-être éclatées, elles révèlent surtout une empreinte hétérogène. On entend les couleurs, c'est Babel heureuse, les langages sont arborescents. Dans les partitions c'est l'épiphanie... apparition et disparition des phonèmes chez Scelsi, ouverture et fermeture des voyelles et arc en ciel de timbres chez Stockhausen. Tout est venu au début du XXe siècle de la mise en chair de la parole: le passage du parler dans le chanté avec Schönberg a ouvert une brèche, un seuil, que Berio avec Umberto Eco ont ensemble librement exploré. Avec Beckett aussi on se tient sur le seuil.<br><br>Dans Ajour vous allez travailler avec des chanteurs et des musiciens. Revenez-vous vers un théâtre musical?<br>Nous portons une grande attention au son, à l'origine du mot Ajour on trouve la notion de \"conduit\", terme qui correspond en musique à la naissance de la polyphonie au XIIe siècle. Cette notion n'a pas échappé au compositeur Arnaud Petit et au réalisateur-son qui ont rejoint l'équipe constituée de deux acteurs d'une altiste et une d'une chanteuse. L'altiste Chris Martineau pratique également l'improvisation et la composition, elle est aussi comédienne. Je pressens le contrepoint qu'entretiendra le violon-alto de Chris Martineau avec les différents espaces d'Ajour. Comment faire surgir la métaphore d'un \"langage structuré comme une architecture de souffles\", grâce à la sonorité d'une corde frottée? La manière dont le spectacle répondra concrètement à cette question impliquera-t-elle la référence au théâtre musical? Peut-être, mais je ne pense pas qu'une étiquette, quelle qu'elle soit, puisse s'appliquer à une écriture aussi singulière. Novarina qui dit \"écrire par les oreilles, pour des acteurs pneumatiques\" appelle une relation d'écoute liée de façon aiguë à l'espace.<br><br>Le lieu de la représentation joue beaucoup sur votre conception du spectacle?<br>On peut dire que le lieu de cette création va totalement déterminer le spectacle. Prenez un texte et plongez-le dans une cave, laissez-le résonner... il s'agit d'une forme d'expérience \"logoscopique\", une tentative pour une vision du langage en quelque sorte. Pour voir le langage apparaître au sortir des bouches de chair ou de bois, il faudra utiliser cette caverne, toute cette caverne: son acoustique, ses sonorités, ses replis, ses galeries. Une cave offre une bulle d'air, c'est déjà dans la roche un ajour. Sous la Cave du pape de la Chartreuse, il y a peut-être une autre cave, comme dans le texte où Novarina nous dit qu'il y a un théâtre sous le théâtre; où entrepercevoir de la généalogie du langage les racines ou les arborescences, tout dépend dans quelle perspective on se place. Acteurs et spectateurs nous sommes d'ores et déjà pris en flagrant délit de spéléologie, une expédition spéléologique dans le théâtre de la parole.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_ajour_FDA2007/CommAvignon_fds_ajour_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Pourquoi avoir choisi un texte théorique et non pas un texte dramatique de Valère Novarina?<br>En 1995, notre premier atelier Le Danseur disparu explorait des textes tirés de La Lettre aux acteurs et du Théâtre de la parole. En mettant les dents, la langue et les mâchoires au travail nous avions, avec six acteurs chanteurs, pris les textes au pied de la lettre. C'était un exercice jubilatoire que nous avons eu un grand plaisir de partager avec un public de proximité dans les conduits de pierre des théâtres, au creux des petites chapelles de campagne, ou sous la charpente du Théâtre de la manufacture à Colmar. En 2005, c'est dans les cuves du chai du blanc du domaine de François Mauriac que les textes \"théoriques\" de Devant la parole ont résonné. Les acteurs descendaient dans les cuves de béton pour interroger la matière même de la parole. Tels les personnages de Beckett enfermés dans des jarres, les acteurs tendaient leurs têtes hors des cuves pour dire combien la langue est le fouet de l'air\". Pour le Festival d'Avignon, sous le titre Ajour, Valère Novarina m'a proposé de me plonger dans Lumières du corps parce que cette écriture découle de Devant la parole. Je rêve de monter une pièce de Novarina destinée à la scène, avec des personnages qui apparaissent et disparaissent et réapparaissent avec cette coriace nécessité du dire. Disons que pour l'instant, j'entre dans l'œuvre par un rai de lumière transverse. Le regard de l'auteur qui écrit en marge de ses créations scéniques: une écriture sur la parole, un hymne au théâtre et à l'acteur.<br><br># Accordez-vous au corps de l'acteur la même importance que Valère Novarina lorsqu'il dit qu'il doit \"faire danser les mots\"?<br>Dans la lettre aux acteurs, Valère écrit: \"le texte n'est rien que les traces au sol d'un danseur disparu\". Il faut retrouver comment la langue est en mouvement. Dans Ajour il est pressenti que la parole avance par les vides qu'elle crée entre les mots. L'espace de séparation est sexuel car il crée un appel, un vide. Comme une marche dans l'escalier manque de faire chuter... l'acteur procède par sauts dans la pensée... Oui le corps est au centre. Jusque dans sa disparition, même dans son absence il est au centre. Encore plus. Dans l'abstrait.<br><br># Dans la représentation, quel est pour vous le statut du spectateur, différent pour Valère Novarina de celui du public?<br>\"Le spectateur, pas le public dit-il, est le point de fuite de toute perspective\". L'image qui me vient immédiatement est celle d'un taureau qui vient dans l'arène. Il y a quelque chose qui est lié à la lumière aussi. Chaque spectateur est en relation individuelle avec le taureau. Je ne sais pas pourquoi me vient brusquement cette image car mon souvenir d'une corrida remonte loin dans l'enfance. Peut-être parce Novarina écrit qu'on vient au théâtre pour assister à une mort et à une naissance.<br>Le metteur en scène se tient provisoirement à la pointe de ce triangle d'où le spectateur exercera son pouvoir de vision peut-être qu'une invisible scène de mise en lumière d'un sens caché aura lieu.<br><br># Est-ce que le fait d'être présente au Festival d'Avignon est un moyen de mieux révéler ce sens?<br>Est-ce la musique qui se cache dans le théâtre, ou bien l'inverse? Une petite forme dans une cave pour parler du théâtre, en contrepoint de la création de Novarina à la Cour. On parle d'un souterrain qui relie la Cour d'honneur du Palais des papes et la Cave du Pape à la Chartreuse. Un souterrain caché. Ne le révélez pas, chut.<br><br>Extraits de propos recueillis par Jean-François Perrier en février 2007 avant le début des répétitions</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ajour-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

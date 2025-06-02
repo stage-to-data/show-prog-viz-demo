@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Lectures calvet"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_lecturesCalvet_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2232,
+            "width": 1578,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lecturesCalvet_FDA2007/CommAvignon_fds_lecturesCalvet_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2232,
+                                "width": 1578,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/1#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>tcires durs sur l'Italie moderne. Son dernier film, Salò o le 120 giornate di Sodoma (Salò ou les 120 jours de Sodome), inspiré des écrits du scandaleux Marquis de Sade, fut interdit. Salò est une critique du fascisme, de l'Italie et du genre humain. De jeunes gens, filles et garçons, sont conduits à une villa où ils subiront les pires outrages sexuels, jusqu'à ce que mort s'ensuive. Le cauchemar de tout un chacun se considérant civilisé. Un miroir implacable, reflet sans pitié de la société occidentale.<br>Dans Questo fiore è la mia rivoluzione (Cette fleur est ma révolution), Pier Paolo Pasolini rêve de pureté et de valeurs anciennes. Il y raconte les jeunes garçons, issus de la campagne, et la manière dont il leur apprend à trouver leur propre langage. Lorsqu'il se rend à Rome, ses pas y croisent ceux \"des enfants sauvages\" des quartiers misérables de la capitale. Mais le capitalisme, cette nouvelle forme de fascisme, contamine et pervertit les valeurs des quartiers pauvres. Pasolini part alors pour l'Afrique, en quête d'innocence. Mais même là-bas, le rêve de Pasolini s'effondre. Trompé dans ses espoirs, il explique le point exergue de son idéologie: les hommes ne devraient pas procréer. L'homosexualité est une idéologie. Toute idéologie est suicidaire.<br>Questo fiore è la mia rivoluzione est un monologue imaginaire s'adressant à Pasolini, celui-ci étant tellement axé sur sa propre vérité qu'il ne pouvait s'exprimer que par monologues. De temps à autre surgissent des madrigaux, de petits poèmes où Pasolini s'absorbe dans l'observation et la méditation de l'amour et de la pureté, des souvenirs de son frère défunt et l'évocation de son amant, Ninneto Davoli.<br>Dans la seconde partie de la pièce, un dialogue semble se former avec sa mère. Mais en réalité, la mère de Pasolini, ayant écouté ses excuses, aidera son fils dans son ultime voyage: celui qui mène à travers les pièces de la villa du film Salò. Sa mère le conduira jusqu'au centre de la demeure où il pourra enfin mourir. Le suicide, la mort sont-ils le point final inévitable de toute idéologie?<br>Dans la nuit du 2 novembre 1975, le corps de Pier Paolo Pasolini fut retrouvé dans un terrain vague, près de la plage d'Ostia. Un jeune marginal et prostitué de dix-sept ans, Pino Pelosi, fut condamné pour cet assassinat.<br>Peter Verhelst a écrit Questo fiore è la mia rivoluzione pour le projet Intra Muros, pièce produite par le Muziektheater Transparant (Belgique) et mise en scène par Eric Sleichim (2007).<br><br>Peter Verhelst, né en 1962 à Bruges, est devenu un écrivain culte en Flandre. Le public s'est laissé séduire par sa langue sensible, sensuelle, qui déborde de poésie et d'imagination. Tout ce qu'il écrit est habité par une ambiance féerique, mythique. Comme il le dit lui-même, son œuvre parle \"de gens qui échafaudent des idées et qui s'y tiennent si inébranlablement qu'elles finissent par se retourner contre eux. L'enjeu ce sont simplement les insuffisances de l'être humain. Il s'agit toujours de désir. Et de ce que peut encore signifier aujourd'hui l'idée de perfection par exemple. Il s'agit du caractère impossible des utopies. Et de la raison mystérieuse qui fait qu'elles finissent inévitablement par se transformer en leur contraire\". Sa langue sensuelle a trouvé un prolongement nourri de fantaisie dans Het Sprookjeshordeel, donné en représentation par Het Toneelhuis: une pure gourmandise pour le visiteur qui pouvait découvrir les petits contes de fées troussés par l'auteur. Peter Verhelst ne croit d'ailleurs pas en la distinction entre la poésie et la prose, entre la danse et le théâtre: \"Pour moi tout est poésie\". Il a débuté par elle, mais s'est tourné ensuite vers le roman, notamment avec Het Spierenallfabet et De Kleurenvanger. Pour le théâtre, il a écrit entre autres Maria Salomé, Red Rubber Balls et Histoire d'A... Son interprétation de Roméo et Juliette, sélectionnée par le Theaterfestival 1999, a surpris par son pessimisme. AARS! une interprétation étourdissante de l'Orestie d'Eschyle, n'est pas non plus passée inaperçue. Il collabore régulièrement avec les artistes les plus variés comme Wim Vandekeybus, Luk Perceval, Ivo Van Hove et De roovers. Richard III est son premier texte traduit et mis en scène en France.<br><br>Ludovic Lagarde est né à Paris. C'est à la Comédie de Reims et au Théâtre Granit de Belfort qu'il réalise ses premières mises en scène. En 1995, il monte Platonov et Ivanov de Tchekhov. Il fonde sa propre compagnie en 1996 avec laquelle il met en scène Le Cercle de craie caucasien de Bertolt Brecht en 1998. En 2001, il répond à l'invitation de Théâtre national de Strasbourg et présente Maison d'arrêt d'Edward Bond avec les comédiens de la troupe. Parallèlement à son travail de création théâtrale, Ludovic Lagarde mène une activité de pédagogue. Il a aussi réalisé plusieurs mises en scène d'opéra, et travaille régulièrement avec le directeur musical Christophe Rousset: Cadmus et Hermione de Lully en 2001, Actéon et les Arts florissants de Charpentier en 2004, ainsi que Vénus et Adonis de Desmarets en 2006.<br>Il collabore également avec l'écrivain Olivier Cadiot depuis 1993, lorsqu'il lui passe commande d'une pièce, Sœurs et frères, créée au Théâtre Granit de Belfort. Depuis 1997, il a adapté et mis en scène les derniers livres de l'écrivain: Le Colonel des Zouaves (1997), Retour définitif et durable de l'être aimé (2002) et, plus récemment, Fairy queen (2004) ainsi que Oui dit le très jeune homme de Gertrude Stein, traduit par Olivier Cadiot. Ludovic Lagarde mettra en scène l'opéra Roméo et Juliette de Pascal Dusapin sur un livret d'Olivier Cadiot à l'Opéra-comique de Paris en avril 2008.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lecturesCalvet_FDA2007/CommAvignon_fds_lecturesCalvet_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Au Festival d'Avignon, Ludovic Lagarde a déjà présenté en 2004 Fairy queen et Le Colonel des Zouaves d'Olivier Cadiot et Oui dit le très jeune homme de Gertrude Stein. En 2005, il y met en espace des textes d'auteurs belges.<br><br>et<br>Richard III de Peter Verhelst ¬ mise en scène de Ludovic Lagarde ¬ les 18 19 20 22 23 24 25 26 juillet à 22h et aussi dans la nuit du 20 au 21 juillet à 1h du matin ¬ Cloître des Carmes<br><br>21 juillet ¬ 11h<br># Un nid pour quoi faire<br>d'Olivier Cadiot<br>extraits lus par l'auteur<br><br>Cour royale en exil à la montagne cherche conseiller image, chambre tt cft dans chalet atypique, artistes s'abstenir, envoyer prétentions.<br><br>Voici l'annonce qui déclenche ce roman. Une dynastie en fuite? au ski? Le château n'est plus qu'un chalet. Le système de la cour se réduit à des histoires de famille. On y croise un chambellan devenu commercial et un Roi déprimé perdus dans l'histoire, mélangeant héraldiques et logos, entreprise et droit divin. Un professeur de ski? un analyste? un décorateur? un confident de tragédie? un publicitaire? un chasseur de tête? on ne sait pas bien ce qu'ils attendent. Un homme qui croyait avoir déjà bien rempli sa vie, un dandy près de la retraite bien installé dans son basement anachronique décide, sous la pression de son entourage, au lendemain d'une fête mémorable de reprendre du service et de rejoindre ce club d'émigrés. Long voyage, traversée d'un paysage plus grand que prévu, rencontre de constructions étranges, nids à taille humaine, notre homme rentre dans un conte déjà-vu encore jamais vu. Escalades des Rocheuses et plongée dans Forêt Noire. Doué d'une grande faculté d'adaptation, et aidé par une série d'accidents qui vont modifier ses perceptions, il se plie aux dimensions de chacun des cercles qu'il traverse. Comprendre sur le tas pourquoi les princes parlent si mal, à quoi sert un nid, comment inventer un nouveau sport ou l'art de réussir un putsch. Ce caméléon va devenir valet, dame et Roi en accéléré, et faire exploser cette petite société mythologique. Il va rendre le chalet à son état de nature. Et on pourra ainsi redescendre de l'autre côté du livre, par paliers, retraverser tous ces décors, terminer l'histoire avec notre narrateur guéri dans son petit jardin, au secret. Le conseiller travaillait pour lui-même.<br>Construit dans des matériaux légers ce roman articule des paragraphes et des chansons, des boules de paroles et d'actions à de petits notes, pour, en variant les positions du son, essayer de bouger les images.<br><br>Olivier Cadiot est né en 1956 à Paris. En 1988, il publie aux éditions P.O.L un premier livre de poésie l'Art poétic'. Il écrit pour Pascal Dusapin une série de pièces courtes puis le texte de l'opéra Roméo & Juliette (P.O.L, 1989). En 1993, il publie le premier tome d'une série à la limite du roman Futur, ancien, fugitif, suivi du Colonel des Zouaves en 1993, de Retour définitif et durable de l'être aimé et de Fairy queen en 2002 (éditions P.O.L).<br>Pour le théâtre, il écrit pour Ludovic Lagarde une première pièce en 1993 Sœurs et frères, ce seront ensuite ses livres que le metteur en scène adaptera, du monologue du Colonel des Zouaves en 1998 à Fairy queen en 2004. Il poursuit sa collaboration avec des musiciens, avec Georges Aperghis, Gilles Grand, le pianiste Benoît Delbecq, le groupe Katonoma et Rodolphe Burger. Un nid pour quoi faire est son dernier ouvrage, publié en 2007 aux éditions P.O.L.<br>Au Festival d'Avignon, Olivier Cadiot était présent en 2004 avec ses textes Fairy queen et Le Colonel des Zouaves et Oui dit le très jeune homme de Gertrude Stein qu'il a traduit, trois mises en scènes de Ludovic Lagarde.<br><br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lecturesCalvet_FDA2007/CommAvignon_fds_lecturesCalvet_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Lectures au musée Calvet<br><br>61e Festival d'Avignon<br><br>DEXIA</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lecturesCalvet_FDA2007/CommAvignon_fds_lecturesCalvet_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>17 18 19 20 21  MUSÉE CALVET □ 11h □ entrée libre<br><br>17 juillet □ 11h<br># Robert Desnos<br>poèmes lus par Valérie Dréville<br>Destinée abstraite et Corps et biens sont publiés aux éditions Gallimard, coll. Nrf Poésie<br><br>Sélectionnés par Valérie Dréville, les poèmes choisis sont majoritairement extraits du recueil Destinée arbitraire, auxquels ont été ajoutés quelques poèmes d'amour extraits de Corps et biens. À travers ces poèmes, écrits dans la même période que Feuillets d'Hypnos, nous entendons la voix de Robert Desnos, ce poète qui, comme René Char, a participé à l'ébullition surréaliste, avant de rompre avec le mouvement et d'être emporté dans le combat de la Résistance. Destinée arbitraire (recueil posthume, publié en 1975) regroupe divers moments du chemin poétique de Robert Desnos, de sa naissance au surréalisme, à la montée du fascisme et à la guerre, pendant laquelle il ne cesse d'expérimenter le matériau poétique, toujours lié à sa lutte clandestine. Les textes issus de Corps et biens (1930) sont quant à eux ses poèmes de jeunesse, \"corps et biens\" étant lui-même, \"étreinte et abandon qui sont probablement le propre de l'acte d'amour\" (René Bertelé, préface de Corps et biens).<br><br>Robert Desnos, né en 1900 à Paris, grandit dans les quartiers populaires de la capitale, qui traversent son œuvre. Figure de proue du surréalisme, \"prophète\" du mouvement selon André Breton, il est le medium du groupe, célèbre pour ses aphorismes poétiques créés pendant les fameuses séances d'écriture automatique qui séduisent ces laborantins du langage. Poète du courage, il s'engage volontairement sur le front contre le fascisme, avec sang-froid, optimisme et humour: \"J'ai décidé de retirer de la guerre tout le bonheur qu'elle peut me donner: la preuve de la santé, de la jeunesse, et l'inestimable satisfaction d'emmerder Hitler\". Résistant, il publie dans le journal Aujourd'hui, et écrit contre l'occupant, rusant avec la censure: \"Du moins si je n'écris pas tout ce que je pense, je pense tout ce que je dis\". Arrêté en 1944, il est déporté, et meurt en 1945 au camp de Terezin. Jusqu'à la fin de sa vie, il aura lutté pour la liberté, sans cesse réaffirmée dans ses écrits, \"Ce n'est pas la poésie qui doit être libre, c'est le poète\".<br><br>Valérie Dréville a été formée par Antoine Vitez à l'École de Chaillot, ainsi qu'au Conservatoire national supérieur d'Art dramatique dans les classes de Claude Régy, Gérard Desarthe et Daniel Mesguich. Elle débute en 1984 et joue notamment sous la direction d'Antoine Vitez dans Électre de Sophocle en 1986 au Théâtre national de Chaillot, et dans le Soulier de satin de Paul Claudel (Cour d'honneur du Palais des papes, Festival d'Avignon 1987). En septembre 1989, elle est engagée par Antoine Vitez à la Comédie-Française en tant que pensionnaire et y reste pendant quatre saisons.<br>Depuis quelques années, elle se rend régulièrement en Russie pour travailler avec Anatoli Vassiliev et sa troupe. Leur spectacle, Médée-Matériau de Heiner Müller, a été créé en 2001 à Moscou et tourne depuis dans le monde entier. Il a été présenté au Festival d'Avignon 2002.<br>Elle travaille avec de nombreux autres metteurs en scène, parmi lesquels Bruno Bayen, Luc Bondy, Alain Françon, Gilles Gleize, Philippe Mentha, Frédéric Képler, Yannis Kokkos, Alain Ollivier, Lluis Pasqual, Aurélien Recoing, Claudia Stavisky, Anastasia Vertinskaïa et Alexandre Kaliaguine, Jean-Pierre Vincent.<br>Au cinéma, elle travaille notamment sous la direction de Jean-Luc Godard, Philippe Garrel, Alain Resnais, Hugo Santiago, Arnaud Desplechin, Laetitia Masson et Michel Deville.<br>Ses films les plus récents sont 24 heures de la vie d'une femme de Laurent Bouhnik (2002), Cette femme-là de Guillaume Nicloux (2003) et La Question humaine de Nicolas Klotz (septembre 2007).<br>Elle tourne pour la télévision avec Jean-Dominique de La Rochefoucauld, Paul Seban, Marco Pico, Nina Companeez, Claude Santelli, Hélène Marini.<br>Valérie Dréville a joué dernièrement au Festival d'Avignon 2006 dans Chaise d'Edward Bond dans la mise en scène d'Alain Françon repris au Théâtre national de la Colline à Paris et dans Thérèse philosophe mis en scène par Anatoli Vassiliev, créée au Théâtre de l'Odéon à Paris.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lecturesCalvet_FDA2007/CommAvignon_fds_lecturesCalvet_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>18 juillet à 11h<br># Tom est mort<br>de Marie Darrieussecq<br>lecture dirigée par Arthur Nauzyciel<br>extraits lus par Frédéric Pierrot<br>Production Compagnie 41751/ Arthur Nauzyciel<br>Texte à paraître aux éditions P.O.L en septembre 2007<br><br>Un simple récit, phrase après phrase sur un cahier, pour raconter la mort de Tom, quatre ans et demi, à Sydney, en Australie. Tom a un grand frère et une petite sœur, il a un père et une mère. C'est elle qui raconte, dix ans plus tard, Française en exil, cherchant ses mots dans les Montages Bleues.<br><br>Marie Darrieussecq, écrivain née en 1969 au Pays basque. Elle a écrit Truismes, Naissance des fantômes, Le mal de mer, Bref séjour chez les vivants, Le Bébé, White, Le Pays, Zoo, de 1996 à 2006, tous aux éditions P.O.L.<br>Au théâtre, elle collabore avec le metteur en scène Arthur Nauzyciel. Ils ont travaillé ensemble sur la traduction d'Ordet/La Parole de Kaj Munk, qu'il créera au Festival d'Avignon 2008 et qui ouvrira la saison du CDN Orléans-Loiret-Centre en 2008. Elle écrit pour lui sa première pièce, Le Musée de la mer, qu'il mettra en scène à l'invitation du Théâtre national d'Islande, à Reykjavik en 2009. Arthur Nauzyciel lui a proposé d'être, avec Denis Lachaud, auteur associé au Centre dramatique national/Orléans-Loiret-Centre.<br><br>Au cinéma, Frédéric Pierrot a travaillé, entre autre, sous la direction d'Emmanuelle Cuau (Très Bien Merci, Circuit Carole), de Bertrand Tavernier (Holy Lola, Capitaine Conan, L627, La Vie et rien d'autre), Claude Mouriéras (Dis moi que je rêve, Prix Jean Vigo 1998), Laetitia Masson (À Vendre), Jean Luc Godard (For ever Mozart), Ken Loach (Land and Freedom) et au théâtre, dans Grand et Petit (Botho Strauss) mis en scène par Philippe Calvario.<br>Il fera partie d'Ordet/La Parole (Kaj Munk), mise en scène d'Arthur Nauzyciel.<br><br>Arthur Nauzyciel est né à Paris en 1967. Après des études d'arts plastiques et de cinéma, il entre à l'école du Théâtre national de Chaillot, dirigé par Antoine Vitez. Acteur, il a joué sous la direction de B. Bonvoisin, P. Clévenot, E. Vigner, A. Françon, A. Vassiliev, Tsai Ming Liang…<br>Artiste associé au CDDB - Théâtre de Lorient, il fonde sa compagnie à Lorient en 1999 et y crée sa première mise en scène, Le Malade imaginaire ou le silence de Molière d'après Molière et Giovanni Macchia. Présenté au Théâtre de l'Ermitage à Saint-Petersbourg en 2000, il est repris régulièrement depuis sa création, en France et à l'étranger. En 2007, il est recréé à Reykjavik, à l'invitation du Théâtre national d'Islande. En 2003, il crée à Lorient Oh les beaux jours avec Marilù Marini, présenté à l'Odéon-Théâtre de l'Europe, au Teatro San Martin de Buenos Aires (prix de la critique du meilleur spectacle étranger) et à Madrid en 2007. En 2004, il met en scène salle Richelieu Place des Héros, qui marque l'entrée de Thomas Bernhard au répertoire de la Comédie-Française.<br>Parallèlement, il crée aux États-Unis, en anglais et avec des équipes américaines, Black Battles With Dogs (Combats de nègre et de chiens) de B-M Koltès en 2001 au 7 Stages Theatre d'Atlanta (tournées en France, aux États-Unis et aux Festivals d'Avignon et d'Athènes en 2006), Roberto Zucco (Atlanta) en 2004, Abigail's Party de Mike Leigh en 2007 à l'American Repertory Theatre (A.R.T.) de Boston où il mettra en scène Julius Caesar de Shakespeare en 2008.<br>Avec Maria de Medeiros, il crée A Little More Blue, un récital autour de Chico Buarque (2006). Dans le cadre du Centenary Beckett Festival à Dublin, il crée L'Image de Samuel Beckett, avec le danseur Damien Jalet et la comédienne Anne Brochet, présenté en Islande en 2007. À l'invitation de la danseuse et chorégraphe Erna Omarsdottir, L'Image sera présenté dans le cadre des Grandes Traversées à Bordeaux en novembre 2007. En 2008, il créera Ordet/La Parole de Kaj Munk au Festival d'Avignon.<br>Depuis le 1er juin 2007, il dirige le Centre dramatique national/Orléans-Loiret-Centre.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lecturesCalvet_FDA2007/CommAvignon_fds_lecturesCalvet_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>19 juillet ⟐ 11h<br># Auteur/Acteur (et vice versa)<br>textes de Tom Lanoye<br>lus par l'auteur et Alain Van Crugten<br>avec le soutien des autorités flamandes<br><br>Tom Lanoye et son traducteur Alain van Grugten se réunissent pour un dialogue autour de l'œuvre de l'artiste, et plus particulièrement de son Mefisto for ever, mis en scène par Guy Cassiers au Théâtre municipal. À travers la lecture de ce qu'il aime appeler son \"making off\", Tom Lanoye nous parle de sa réécriture du roman de Klaus Mann, nous dévoile ses intentions, ses coupes, ses choix, expliquant notamment les nombreuses citations qui émaillent le texte. Deux monologues extraits de la pièce et lus par l'auteur éclairent et achèvent cet échange. Car plus généralement, Tom Lanoye nous parle de son travail d'auteur, notamment avec des extraits de sa pièce de théâtre La Forteresse Europe ou de son dernier roman Les Trois Mariages.<br>À la fin de la lecture, l'auteur se livrera dans un dialogue ouvert avec le public.<br><br>Né en 1958 dans la petite ville flamande de Sint-Niklaas, Tom Lanoye se fait connaître au début des années 80 par ses performances poétiques dans le milieu estudiantin de Gand. Il débute officiellement avec un recueil de critiques satiriques, Rozegeur en maneschijn (La Vue en rose, 1983). Le succès viendra avec Een slagerszoon met een brilletje (Un fils de boucher binoclarł, 1985), récit dans lequel il met en scène avec humour son enfance provinciale. Ses thèmes de prédilection sont l'amour, la décrépitude, la mort et la gastronomie, le tout situé dans le cadre stéréotypé de la Flandre petite-bourgeoise. Le roman qui a connu le plus de succès est le semi-autobiographique Kartonnen dozen (Cartons, 1991). Au milieu des années 90, Lanoye adapte les drames historiques de William Shakespeare pour les transformer en une pièce de douze heures, Ten Oorlog (À la guerre). Avec Mamma Medea, il adapte également Euripide. Figure médiatique et intellectuelle engagée (en 2000, il s'est présenté aux élections municipales à Anvers sur la liste des Verts), Lanoye propose avec sa trilogie romanesque Het goddelijke monster (Le Divin Monstre, 1997), Zwarte tranen (Larmes noires, 1999) et Boze tongen (Mauvaises Langues, 2002) une satire de la Flandre contemporaine. Il doit aussi son renom à ses performances en solo, qui marient humour, théâtre et poésie.<br>Traductions disponibles: Le beau laid, c'est pas si moche, dans Littérature en Flandre, anthologie, éd. Le Castor Astral, 2003; Extrait, dans 17 écrivains belges, anthologie Belles Étrangères, éd. Le Castor Astral, 1999; Célibat, éd. Lansman, 1996.<br><br>Alain van Crugten est né à Bruxelles en 1936. Il vit à Bruxelles. Il est auteur des romans Bibardu (Luce Wilquin, 2005), Korsakoff (Luce Wilquin, 2003), Spa si beau (L'Âge d'Homme, 1999), Des Fleuves impassibles (L'Âge d'Homme, 1997; traduit en néerlandais et polonais), des nouvelles Stet et autres fictions (Luce Wilquin, 2005), Personnes déplacées (L'Âge d'Homme, 2001), de sept pièces de théâtre, dont Diable!, d'après Le Maître et Marguerite de Bulgakov (L'Âge d'Homme, 1994), d'une monographie, S. I. Witkiewicz - Aux sources d'un théâtre nouveau (L'Âge d'Homme, 1971), d'un roman pour adolescents Pourquoi pas moi? (Éditions Averbode, 2006) et de nombreux essais et écrits critiques. Il est aussi le traducteur de Witkiewicz (L'Inassouvissement; Théâtre complet), de Hugo Claus (Le Chagrin des Belges; Théâtre complet) et de nombreux auteurs polonais, néerlandais, russes, tchèques et anglais (Rozewicz, Mrozek, Pankowski, Grochowiak, Tom Lanoye, J. Zwagerman, Zinoviev, Capek, Robert Nye).<br><br>et<br>Mefisto for ever de Tom Lanoye ⟐ mise en scène de Guy Cassiers ⟐ les 17 18 19 20 22 23 24 juillet ⟐ 21h30<br>Théâtre municipal<br><br>20 juillet ⟐ 11h<br># Questa fiore è la mia rivoluzione (Cette fleur est ma révolution)<br>de Peter Verhelst<br>lecture dirigée par Ludovic Lagarde<br>avec les comédiens et musiciens Pierre Baux, Francesca Bracchino, Antoine Herniotte, Camille Panonacle, Laurent Poitrenaux, Samuel Réhault et David Bichindaritz<br>Production Compagnie Ludovic Lagarde, avec le soutien de la Maison Antoine Vitez et des autorités flamandes<br><br>Pier Paolo Pasolini (1922-1975), poète, essayiste, journaliste, dramaturge et cinéaste italien, fut un homme passionné et complexe, polémiste dans l'âme, autant apprécié pour son talent qu'il était craint et décrié pour son homosexualité, son attirance pour les jeunes garçons, son opiniâtreté politique et ses commen-</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lecturescalvet-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

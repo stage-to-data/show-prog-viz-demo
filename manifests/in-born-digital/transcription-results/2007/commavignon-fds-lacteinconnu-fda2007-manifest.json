@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Lacte inconnu"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_lacteInconnu_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lacteInconnu_FDA2007/CommAvignon_fds_lacteInconnu_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>7 8 10 11 12<br>COUR D'HONNEUR DU PALAIS DES PAPES □ 22 h □ durée 2 h 22 □ création 2007<br><br>texte, mise en scène et peintures Valère Novarina<br>avec<br>Léopold von Verschuer Le Déséquilibriste<br>Manuel Le Lièvre Le Coureur de Hop<br>Michel Baudinat Le Bonhomme Nihil<br>Dominique Pinon Raymond de la Matière<br>Dominique Parent Jean qui corde<br>Olivier Martin-Salvan Le Chanteur en Catastrophe<br>Myrto Procopiou La Dame de Pique<br>Agnès Sourdillon La Femme Spirale<br>Véronique Vella (sociétaire de la Comédie-Française) Le Chantre 1<br>Valérie Vinci Le Chantre 2<br>Jean-Yves Michaux L'Homme nu<br>Christian Paccoud L'Esprit<br>Richard Pierre L'Ouvrier du drame<br>Emmanuelle Ader, Agnès Binet, Magali Boissier, Jean-Paul Bracony, Fabrice Coussoux, Régine Curnier, Justine Desprez, Catherine Donadei, Dorine Duchez, Nicolas Ducron, Emeline Dumas, Armelle Dumoulin, Audrey Langen, Damien Laugier, Patrick Licasale, Emilie Marion, Julien Mathieu, Solène Normant, Priscille Paccoud, Eric Pisani, Annie Raspugil, Carole Unal et leurs instruments<br><br>scénographie Philippe Marioge<br>collaboration artistique Céline Schaeffer<br>lumières Joël Hourbeigt<br>costumes Renato Bianchi<br>musique Christian Paccoud, Pingulf et Vastano pour Le Tango corse, Doret pour Le Petit Chevrier<br>dramaturgie Pascal Omhovère, Roséliane Goldstein<br>maquillage Suzanne Pisteur assistée d'André Michel<br>régie générale Richard Pierre<br>régie plateau et accessoires Pierre Godard<br>assistante à la mise en scène Adélaïde Pralon<br>assistant de l'auteur Sylvain Prudhomme<br>réalisation des peintures et accessoires Jean-Paul Dewynter<br>stagiaire scénographie Myrtille Debièvre<br>construction du décor Atelier de construction du Festival d'Avignon<br>réalisation des costumes Luigi Paddeau et Atelier Bas et Haut<br>répétitrice Amélie Enon<br>direction de production Clara Rousseau (Minijy)<br>administration de production et diffusion Séverine Péan assistée de Elena Fantoni, Nathalie Untersinger<br>logistique Elen Gadonna<br>comptabilité Marie Graindorge (Créatec)<br><br>texte publié aux Editions P.O.L<br>Spectacle créé le 7 juillet 2007 à la Cour d'honneur du Palais des papes<br>Le spectacle sera diffusé sur Arte le 11 juillet à 22h ; une coproduction Arte France, La Compagnie des Indes et L'Union des contraires<br><br>production déléguée L'Union des contraires<br>en coproduction avec le Festival d'Avignon, le Théâtre national de la Colline, le Centre dramatique national/Orléans-Loiret Centre, le Théâtre national populaire - Villeurbanne, La rose des vents, Scène nationale de Lille Métropole - Villeneuve d'Ascq avec l'aide du ministère de la Culture et de la Communication - Direction de la musique, de la danse, du théâtre et des spectacles, du Conseil Régional d'Ile-de-France, de l'aide à la production et à la diffusion du Fonds Sacd<br>Le Festival d'Avignon reçoit le soutien de l'Adami pour la production<br>remerciements à la MC93 Bobigny - Maison de la culture de la Seine-Saint-Denis. Remerciements amicaux à la Fondation Beaumarchais, à la SACD, à la Comédie-Française, à la Collection de l'Art Brut de Lausanne, à Marion Ferry, à René Gonzalez</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lacteInconnu_FDA2007/CommAvignon_fds_lacteInconnu_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Sept questions à Valère Novarina<br><br>1. Quelle est la spécificité, le \"rocher d'ombre\" de L'Acte inconnu ?<br>Certains lecteurs me disent que c'est la naissance, d'autres la résurrection des morts, d'autres l'empire des langues, d'autres la délivrance que peut opérer en nous la parole... Il en est d'autres... Chacun doit apporter son rocher d'ombre à la pièce et le déposer en son centre, en son cœur. Ce dont on ne peut parler c'est cela qu'il faut dire.<br><br>2. Pourquoi réentend-on des chansons de L'Origine rouge et de L'Espace furieux ?<br>Comme le rêve et comme bien des scènes de notre vie, L'Acte inconnu est une réminiscence, une remémoration, une anamnèse. Pour ne pas oublier. Ce que nous oublions se retourne toujours contre nous et nous devons profondément nous souvenir pour repartir à l'aventure. Les deux chansons qui étaient chantées par Daniel Znyk dans L'Origine rouge et L'Espace furieux seront entendues autrement.<br><br>3. Des souvenances de La Genèse, des tentatives d'interprétation de rêves structurent, soutiennent la pièce. De quoi L'Acte inconnu cherche-t-il à se souvenir ?<br>Des premiers mots que nous avons prononcés une fois sur terre, de notre étonnement de parler. Et de voir le monde devant nous se transformer sous l'effet de l'hormone du langage, comme le prétend le Coureur de Hop lorsqu'il assiste Raymond de la matière dans ses expériences concluantes de l'acte II.<br><br>4. Pourquoi le personnage de Christian Paccoud s'appelle t'il l'Esprit ?<br>Parce qu'il souffle où il veut. Où plutôt parce que ses mains soufflent : il joue de l'accordéon depuis l'âge de six ans. Il respire avec ses mains. Comme tout artiste vrai pense avec ses mains.<br><br>5. Qui est l'Ouvrier du drame ?<br>Richard Pierre, notre régisseur. Sans lui le drame n'opère pas, sans lui l'œuvre n'a pas lieu. C'est par lui que L'Acte inconnu doit être pour chacun des spectateurs opérant.<br><br>6. Qu'est-on en droit d'attendre qu'il advienne chaque soir ?<br>Un renouveau. Tuer la mort. Changer de saison. On attend ça.<br><br>7. Qu'appelle le Palais des papes ?<br>Deux mille personnes chaque soir seront en face de nous : quatre mille yeux, quatre mille oreilles, vingt mille doigts. Un mur humain à émouvoir, mettre en mouvement. C'est une tâche presque impossible. Les acteurs ont beaucoup de courage de s'avancer dans cette arène qui me fait penser au stade muet et parfois soudainement bruyant qui jouxtait, derrière un mur, le jardin où j'étais enfant au 50 route de Genève à Thonon, au bord du lac Léman.<br><br>LE VIVANT MALGRÉ LUI,<br>Bien prendre garde à<br>déchirer l'espace comme<br>la page blanche de<br>l'esprit !</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lacteInconnu_FDA2007/CommAvignon_fds_lacteInconnu_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Trois questions à Philippe Marioge<br><br>1. Quelles sont les motivations, les motifs de ce nouveau décor ?<br>La motivation d'un petit cirque dans un grand, me disait Valère Novarina à l'orée du projet... Mais le grand motif de ce décor, c'est de faire en sorte que la matière du langage parvienne à deux mille personnes sans aucune perte d'énergie.<br><br>2. Que représente-t-il ?<br>C'est une question qui me déroute un peu... Effectivement je n'ai pas l'impression de représenter quelque chose, mais s'il fallait trouver une formule, je dirais peut-être : une machine optique obsessionnelle.<br><br>3. Comment agit-il ?<br>Il agit par structuration, concentration, réduction des distances des entrées et des sorties ; et deuxièmement par des formes aiguës, tranchantes, et des couleurs franches.<br><br>Propos recueillis par Pascal Omhovère<br><br># L'Acte inconnu<br><br>L'Acte inconnu est un archipel d'actes contradictoires : acte forain, prologue sous terre, cascades de duos, accidents de cirque, spirales, rébus. Autant de figures, d'attractions, comme autant de mouvements d'un ballet... \"L'Ordre rythmique\", \"Comédie circulaire\", \"Le Rocher d'ombre\", \"Pastorale égarée\" : quatre mouvements renaissent l'un de l'autre et sont jetés aux points cardinaux.<br>Entrent et tournent : Le Bonhomme Nihil, Le Coureur de Hop, Jean qui Corde, Raymond de la Matière, L'Ouvrier du drame, La Machine à dire beaucoup, Le Chantre, la Dame de Pique, L'Homme nu, La Femme Spirale, Le Déséquilibriste, L'Esprit, Autrui.<br><br>Tout passe de cour à jardin, dans le tournoiement du magnétisme animal.<br><br>Le Bonhomme Nihil glisse parfois des prières dans le mur humain.<br><br>Au-dehors le monde court à son renouveau.<br><br>La peinture reste au sol comme des mots renversés.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lacteInconnu_FDA2007/CommAvignon_fds_lacteInconnu_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Valère Novarina<br><br>Au Festival d'Avignon, Valère Novarina a créé la plupart de ses pièces: Le Drame de la vie en 1986, Vous qui habitez le temps en 1989 La Chair de l'homme en 1995 et L'Origine rouge en 2000. Il devait y créer La Scène en 2003. D'autres textes ont fait l'objet d'autres mises en scène à Avignon. L'Inquiétude avec André Marcon en 1991, et L'Opérette imaginaire de Claude Buchvald en 1999. Il a aussi créé Je suis au Festival d'Automne à Paris en 1991, Le Jardin de reconnaissance à l'Athénée à Paris en mars 1997 et L'Espace furieux à la Salle Richelieu de la Comédie-Française en janvier 2006. L'Acte inconnu sera sa neuvième mise en scène.<br>L'Acte inconnu ainsi que tous les textes de Valère Novarina sont édités chez P.O.L. Un CD de lectures de l'auteur, réunis par Pascal Omhovère, Le vrai sang, est disponible aux éditions Héros-limite.\"<br><br>Les dates de L'Acte Inconnu après le Festival:<br>du 15 septembre au 10 octobre 2007 au Théâtre National de la Colline (Paris), du 16 au 19 octobre 2007 au Théâtre National Populaire (Villeurbanne), du 30 octobre au 7 novembre 2007 à la Comédie de Genève, le 10 novembre 2007 à la Maison des Arts Thonon/Evian (Thonon-les-Bains), le 13 novembre 2007 au Carreau-Scène nationale de Forbach et de l'Est Mosellan, les 22 et 23 novembre 2007 au Théâtre Le Quai (Angers), le 27 novembre 2007 au Théâtre de Winterthur (Suisse), les 4 et 5 décembre 2007 au Centre Dramatique National Orléans/Loiret/Centre, du 11 au 15 décembre 2007 au Centre dramatique de l'océan Indien (Saint-Denis, Île de la Réunion), du 22 au 26 janvier 2008 à la Rose des Vents Scène nationale Lille Métropole/Villeneuve d'Ascq, les 29 et 30 janvier 2008 à la Scène nationale Evreux Louviers, les 2 et 3 février au Théâtre Franco Parenti, dans le cadre du Festival Face à Face (Milan, Italie)<br><br>et<br><br># La lumière nuit □ installation et peintures de Valère Novarina<br>Exposition organisée par la Région Île-de-France<br>6 - 27 juillet □ Chapelle du Miracle □ horaires d'ouverture 10h30 - 18h □ entrée libre<br>Deux inscriptions; un néon bleu; douze peintures à la palette graphique et quatre yeux filmés pendant trente minutes. Quatre toiles: Au repas d'Abraham, Donné au Pélican, Observez Adam captif, Arraché à lui.<br>13 juillet □ Chapelle du Miracle □ 16h - 17h30 □ entrée libre<br>Visite commentée de l'exposition par Valère Novarina suivie d'une rencontre avec l'artiste<br><br># 2587 Dessins □ de Valère Novarina<br>6 - 27 juillet □ École d'Art □ horaires d'ouverture 11h - 18h □ entrée libre<br>Les 2587 personnages du Drame de la vie dessinés par Valère Novarina lors d'une performance et exposition à La Rochelle en juillet 1983.<br><br># Les leçons de l'université d'Avignon □ Valère Novarina<br>13 juillet □ 11h30 □ Université d'Avignon □ conférence présentée par Emmanuel Ethis<br><br># France Culture en public □ Écrits d'artistes: Valère Novarina □ 12 juillet □ 12h □ Musée Calvet<br><br># Films et documentaires au cinéma Utopia<br>Ce dont on ne peut parler, c'est cela qu'il faut dire (2002, 66mn)<br>9 juillet □14h □ Utopia-Manutention □ documentaire de Raphaël O'Byrne sur Valère Novarina, en présence de Valère Novarina<br><br># Regard critiques □ À l'origine<br>10 juillet □ 11h30 □ École d'art □ avec Valère Novarina et Olivier Dubouclez, philosophe</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lacteInconnu_FDA2007/CommAvignon_fds_lacteInconnu_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Les rencontres de Foi et Culture □ Valère Novarina<br>10 juillet □ 17h □ Centre Magnanen<br><br>Paccoud chante Novarina Éloge du réel et autres chansons dramatiques...<br>9 juillet □ 19h □ Gymnase du lycée Saint-Joseph<br>Chanteur, compositeur et accordéoniste, Christian Paccoud met en musique les textes de Valère Novarina depuis 1995. Il se produit régulièrement en concert ; dans son dernier récital, Paccoud chante Novarina, il reprend toutes les chansons qu'il a composées pour Le Repas, L'Opérette imaginaire, L'Origine rouge, La Scène, L'Espace furieux.<br><br># Ajour<br>de VALÈRE NOVARINA MISE EN SCÈNE CHRISTINE DORMOY<br>8 9 11 12 13 14 15 17 18 20 21 22 & 16h   13 15 18 à 18h30 □ création 2007<br>CAVE DU PAPE DE LA CHARTREUSE DE VILLENEUVE LEZ AVIGNON □ durée estimée 1 h 15<br>Dans cette caverne platonicienne, la vision du langage chère à Valère Novarina pourra s'effectuer à partir d'un ensemble de quatorze séquences, portées à quatre voix par deux acteurs, une altiste et une chanteuse. Ajour est une invitation à sortir le langage de \"l'enfer de la communication\" pour en faire \"la matière spirituelle du corps humain\".<br><br>et aussi<br>deux propositions de la compagnie le Théâtrographe<br><br>Devant la parole de Valère Novarina<br>Version commando mise en scène et interprétée par Louis Castel<br>Les 8, 9 et 11 juillet à 16h30, le 12 juillet à 11h<br>Musée du Petit Palais, Place du Palais des Papes<br><br>Lumières du corps de Valère Novarina<br>Lecture par Louis Castel<br>Les 12 et 13 juillet à 16h30 au Jardin du Musée du Petit Palais,<br>Le 13 juillet à 19h (de concert avec Roséliane Goldstein) à la librairie La Mémoire du monde, 36 rue Carnot<br><br>Comme chaque année, l'Adami apporte son aide aux spectacles coproduits par le Festival d'Avignon et favorise l'emploi, notamment sur des spectacles réunissant un nombre important d'artistes. Grâce à ce soutien, les spectacles L'Acte inconnu de Valère Novarina, Feuillets d'Hypnos de Frédéric Fisbach et Le Roi Lear de Jean-François Sivadier se donnent dans la Cour d'honneur.<br><br>Société de gestion collective des droits des artistes-interprètes (près de 60 000 comédiens, chanteurs, musiciens, chefs d'orchestre, danseurs...), l'Adami consacre 25% des perceptions issues de la copie privée à l'aide à la création, à la diffusion et à la formation professionnelle des artistes. En 2006, près de 13 millions d'euros ont été consacrés à 950 projets dans différents genres artistiques, dont plus de 4 millions d'euros au domaine du spectacle vivant, sans compter les festivals. Ces aides ont contribué à l'emploi direct de plus de 6500 artistes. Philippe Ogouz, Président du Conseil d'administration de l'Adami<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lacteInconnu_FDA2007/CommAvignon_fds_lacteInconnu_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Valère Novarina<br>L'Acte inconnu<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lacteinconnu-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

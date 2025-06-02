@@ -1,0 +1,830 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Auteurs en scene"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_auteursEnScene_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_auteursEnScene_FDA2007/CommAvignon_fds_auteursEnScene_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Auteurs en scène<br><br>Lectures de textes<br>d'auteurs contemporains<br>francophones<br><br>coproduction Sacd, Festival d'Avignon<br><br>DEXIA</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_auteursEnScene_FDA2007/CommAvignon_fds_auteursEnScene_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Comme un cerveau ne peut fonctionner sans ses deux hémisphères, le théâtre ne saurait exister sans écrivains et metteurs en scène, auteurs œuvrant de concert à la respiration de ce grand corps vivant. Auteurs en scène est né de la volonté de mettre en lumière cette rencontre passionnante entre un texte et son approche scénique. Pour cette deuxième édition, le Jardin de la Vierge s'ouvre à huit écrivains contemporains francophones, dont les textes sont pris en charme dans l'imaginaire du plateau. Émilie Rousset et Bertrand Bossard ont choisi ces huit-là, parmi ceux proposés par la SACD (France, Belgique, Canada) et le Festival d'Avignon, commençant ainsi par ce choix, fondé sur le couple désir/contrainte, leur travail de création. Les treize jeunes comédiens sortant de l'ERAC seront le cœur palpitant de ce corps en marche, lui donnant voix, émotion, présence au monde et au public, l'organe le plus exigeant et vital du théâtre.<br><br>Christian Rullier, président de la commission Théâtre de la SACD (2006-2007)<br>Georges Werler, premier vice-président, administrateur pour la mise en scène<br>Luc Jabon, président du comité belge<br>Robert Favreau, président du comité canadien<br><br>8, 9, 10, 11 Juillet<br>JARDIN DE LA VIERGE DU LYCÉE SAINT-JOSEPH □ 11h et 18h<br><br>direction des lectures Émilie Rousset, Bertrand Bossard<br>avec les comédiens sortant de l'École régionale d'Acteurs de Cannes (ERAC) Baptiste Amann, Solal Bouloudnine, Célia Catalifo, Marie Dompnier, Victor Lenoble, Jan Peters, Yohann Pisiou, Rémy Rutovic, Stina Soliva, Lyn Thibault, Alexia Vidal, Olivier Veillon, Adeline Walter<br>coproduction SACD France, Belgique, Canada et Festival d'Avignon<br>avec l'aide du Fonds d'insertion pour les jeunes artistes dramatiques de la région Provence-Alpes-Côte d'Azur<br>Captation assurée par l'IMCA, Institut des métiers de la communication audiovisuelle/Avignon<br><br>8 juillet □ 11h<br># CITO interdit aux moins de 15 ans<br>de Sonia Chiambretto<br>lecture dirigée par Émilie Rousset<br>avec Baptiste Amann, Solal Bouloudnine, Célia Catalifo, Lyn Thibault, Adeline Walter<br>texte publié aux éditions Inventaire/Invention<br><br>J'ai rencontré une jeune fille dans un centre d'apprentissage de la langue française.<br>Elle arrive de Tchétchénie, en Europe. Elle a 18 ans. Elle fuit la guerre.<br>Je lui demande de témoigner sur son voyage, j'enregistre son histoire.<br>Expériences de langue<br>1 Elle raconte son voyage dans la langue du pays d'accueil, la France. Elle parle encore très peu cette langue.<br>2 Quelques mois plus tard, elle me raconte la même histoire (le voyage). Elle parle plus sa nouvelle langue. Comment la langue se déplace-t-elle et joue-t-elle sur la mémoire?<br>3 Elle me raconte la même histoire dans sa langue (tchétchène). Quand elle parle dans le micro, elle sait que je ne comprends pas, jusqu'où le témoignage est-il possible?<br>Sonia Chiambretto</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_auteursEnScene_FDA2007/CommAvignon_fds_auteursEnScene_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Sonia Chiambretto vit à Manosque et collabore depuis 1999 aux Rencontres Cinématographiques de Digne et des Alpes de Haute-Provence. Elle conduit plusieurs travaux autour des écritures et crée Le Crible et Le Pont Lumière, titres génériques qui se déclinent en revue, journaux muraux et numériques.<br>Elle travaille avec le Théâtre des Bernardines pour \"Les écarts de langues\" dans le cadre de la création d'Agamemnon par Alain Fourneau et le festival Les Informelles, 2003.<br>Au cours de sa résidence à Montévidéo (Marseille), elle se consacre à un travail sur le recueil de témoignages de traversées européennes et de diverses communautés en lien avec la guerre et l'exil et écrit la trilogie CHTO suivi de 12 Sœurs slovaques et Mon képi blanc, parus aux éditions Inventaire/Invention.<br>Mon képi blanc créé pour la scène par Hubert Colas est présenté au festival Perspective à Saarbrück, Allemagne. Il met également en espace les lectures de CHTO interdit aux moins de 15 ans aux Correspondances de Manosque et 12 Sœurs slovaques pour ActOral5 à Montévidéo, Marseille. Lecture publique de 12 Sœurs slovaques par Julie Brochen (aux 35e Rencontres cinématographiques des AHP - 2007).<br>Sonia Chiambretto est également l'auteur d'Une Petite Randonnée (PR), mise en scène de Thierry Raynaud et Pierre Laneyrie, à Montévidéo, 2007, Zone Éducation Prioritaire, d'un impromptu La Sorcière aux dents vertes, sur une vidéo de Laurent Friquet, ActOral 5, Marseille, 2006.<br>CHTO interdit aux moins de 15 ans a été diffusé sur France Culture cette année, dans une réalisation de Franck Smith. Un groupe d'élèves du TNB de l'un des ateliers dirigé par Stanislas Nordey travaille également sur ce texte et 12 Sœurs slovaques. L'auteur sera en résidence à la Chartreuse de Villeneuve lez Avignon en octobre 2007.<br>Sonia Chiambretto anime par ailleurs des ateliers d'écriture et de lecture.<br><br>8 juillet □ 18 h<br># Le Déluge après<br>de Sarah Berthiaume<br>lecture dirigée par Bertrand Bossard<br>avec Alexia Vidal, Solal Bouloudnine, Olivier Veillon, Marie Dompnier, Adeline Walter, Victor Lenoble, Stina Soliva, Jan Peters<br>remerciement au CEAD pour son soutien<br><br>J'ai écrit Le Déluge après alors que je sillonnais les routes du Québec vers la Gaspésie dans la vieille voiture de ma mère, question de voir ce que le fleuve pouvait bien avoir à me raconter. Je suis tombée sur ce bar de danseuses au milieu de nulle part, L'Émotion, avec une enseigne en néons roses qui grésillaient, et j'ai décidé d'inventer l'histoire de ce bar au nom improbable, coincé entre la beauté humide du Fleuve Saint-Laurent et le beige de ses maisons mobiles.<br>                                                                                                                Sarah Berthiaume<br><br>Sarah Berthiaume, québequoise, vient de terminer ses études de comédienne. Parallèlement, elle écrit pour le théâtre. Le Déluge après est son premier texte. Mis en lecture par Geoffrey Gaquère dans le cadre de la cinquième édition du Festival du Jamais Lu, il a obtenu le prix de L'Égrégrore 2005. Il sera également présenté en janvier 2008 au Théâtre de la Rubrique à Jonquières, dans une mise en scène de Michel Bérubé.<br>Elle a co-écrit avec Simon Boulerice et Maxime Desjardins Comme vous avez changé, un texte à partir d'improvisations de la Cohorte des finissants 2007 du collège Lionel-Groulx, présenté en mai 2006 au studio Charles-Valois du collège Lionel-Groulx puis en février 2007 à la salle Fred-Barry du Théâtre Denise-Pelletier dans une mise en scène de Ghyslain Filion.<br>Sa dernière pièce est Célébrité : mode d'emploi (texte pour adolescents), écrit en résidence à la salle Pauline-Julien en mars 2007 et mis en lecture par Robert Bellefeuille dans le cadre du RTA (Rendez-vous Théâtre Ado) en 2007.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_auteursEnScene_FDA2007/CommAvignon_fds_auteursEnScene_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>9 juillet □ 11 h<br># Nouvelles sur le sentiment amoureux<br>de Christine Montalbetti<br>lecture dirigée par Bertrand Bossard<br>avec Baptiste Amann, Solal Bouloudnine, Célia Catalifo, Marie Dompnier, Victor Lenoble, Jan Peters, Johann Pisiou, Rémy Rutovic, Stina Soliva, Lyn Thibault, Alexia Vidal, Olivier Veillon, Adeline Walter<br>texte publié aux éditions P.O.L<br><br>C'est une surprise heureuse que le théâtre m'arrive par ce texte, qui ne lui était pas destiné, et au moment où je suis en quête de ce qu'il pourrait y avoir de spécifique à l'écriture de théâtre, au moment où je m'y essaye, où je tente de me confronter à cela, l'écriture d'une parole destinée à être proférée. Je viens de l'aborder sous la forme particulière du monologue, avec Le Cas Jekyll, écrit pour Denis Podalydès ; mais je m'interroge aussi beaucoup sur la manière dont la parole doit circuler entre plusieurs acteurs. Cette question est à la fois une question pour l'écriture, et une question pour la mise en scène, et je suis curieuse de voir comment les mots vont être distribués, par quels relais d'une voix l'autre, d'un corps l'autre, quelle énergie va à la fois en naître et les faire advenir.<br>Christine Montalbetti<br><br>Christine Montalbetti est née au Havre et vit à Paris. Elle a publié aux éditions P.O.L Sa fable achevée, Simon sort dans la bruine (2001), roman de retrouvailles, L'Origine de l'homme, roman (2002, Folio 2006), Western (2005), roman qui emprunte les motifs du western à l'italienne, Expérience de la campagne (2005), récit dont elle a écrit une version pour le théâtre qui a reçu l'aide d'encouragement de la DMDTS, et ces Nouvelles sur le sentiment amoureux (2007) qui font l'objet de cette mise en voix. Elle vient d'achever l'écriture d'un monologue pour le théâtre, Le Cas Jekyll, inspiré de Stevenson. Ce texte fera l'objet d'une lecture publique le 20 octobre prochain au Théâtre Ouvert à Paris, par Denis Podalydès, dont le projet est de le mettre en scène.<br><br>9 juillet □ 18 h<br># Personnologue<br>de Sebastian Dicenaire<br>lecture dirigée par Émilie Rousset<br>avec Solal Bouloudnine, Marie Dompnier, Jan Peters, Yohann Pisiou, Rémy Rutovic, Stina Soliva, Lyn Thibault, Olivier Veillon, Alexia Vidal<br>avec le soutien du Commissariat général aux relations internationales de la Communauté française de Belgique<br>texte publié aux éditions Le clou dans le fer<br><br>On aurait l'intuition que la langue a quelque chose à dire pas seulement dans la page mais dans le corps. Dans les corps dans lesquels elle s'incarne. Que le corps est pour elle une douce torture. Qu'une fois la langue plantée dans le corps, il y aurait comme quelque chose qui se déroule en elle, qui s'enroule et qui se déroule autour du corps où elle s'est fichée, et qu'il faudrait la tordre dans tous les sens, comme un linge mouillé, pour en extraire du sens, du chant et soulageant sens. Mais on ne serait jamais tout à fait soulagé. La poésie ne s'écrite pas dans les pages de poésie. Elle gît sous la langue des gens qui ne peuvent pas parler, qui s'agitent parce qu'ils ont une langue impossible plantée dans le corps, parce que l'impossible fait corps avec eux et fait danser le corps, n'importe où et n'importe comment. La poésie, ça serait ça, la danse de la langue dans le corps. Peut-être que tout ceci n'est pas vrai. Peut-être que tout ceci est une histoire. C'est en tout cas cette histoire-ci qu'on se raconte ici. Le procès-verbal d'une langue impossible plantée dans une série de corps choisis au hasard ici et là.<br>Sebastian Dicenaire</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_auteursEnScene_FDA2007/CommAvignon_fds_auteursEnScene_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Né à Strasbourg en 1979, Sebastian Dicenaire fait des études de cinéma aux Beaux-arts de Genève. À Bruxelles, où il vit depuis 2001, il donne des ateliers d'écriture et de cinéma pour la revue Indications. Il a publié Döner-kebab en 2004 chez Héros-Limite et Personnologue en 2006 au Clon dans le fer. Sebastian Dicenaire multiplie depuis plusieurs années les expériences de lectures-performances en solo ou en groupe, en public ou à la radio, mêlant voix, samples et mélodies, et mettant en question la dimension sonore du langage.<br><br>10 juillet □ 11 h<br># Darwin<br>de Thierry Debroux<br>lecture dirigée par Bertrand Bossard<br>avec Yohann Pisiou, Rémy Rutovic, Célia Catalifo, Lyn Thibault, Adeline Walter, Baptiste Amann, Jan Peters<br>avec le soutien du Commissariat général aux relations internationales de la Communauté française de Belgique<br>texte publié aux éditions Lansman<br><br>Molière doit se retourner dans sa tombe. Les Tartuffe sont de retour. Ils n'ont d'ailleurs jamais vraiment quitté la grande scène du monde. Un peu partout sur la planète, les \"créationnistes\" tentent de discréditer la théorie de l'évolution de Charles Darwin. Dans une petite ville de Pennsylvanie, un conseil pédagogique inféodé à un groupe protestant fondamentaliste, a exercé des pressions sur des professeurs de biologie pour que ceux-ci enseignent la théorie d'un \"projet\" intelligent qui serait à l'origine de la vie.<br>Thierry Debroux<br><br>Acteur, auteur et metteur en scène, Thierry Debroux est issu de l'INSAS (Institut national supérieur des Arts du spectacle) en Belgique. Il est directeur artistique depuis 1987 de la Compagnie Théâtre Au Lieu. Depuis 20 ans, il joue, écrit et met en scène dans la plupart des théâtres de Bruxelles et en tournées en Belgique et à l'étranger et reçoit de nombreuses récompenses en tant qu'auteur et metteur en scène. Parmi la quinzaine de pièces dont il est l'auteur, et qui sont éditées chez Lansman, il y a notamment Darwin (créée au Rideau de Bruxelles en janvier 2007), mise en scène de Marcel Delval, Eros Médina (créée à la Balsamine en septembre 2007, reprise en janvier 2008 au Théâtre Le Public), mise en scène de Julie Annen, Le Chevalier d'Eon, mise en scène de Catherine Brutout, Le Jour de la Colère au Théâtre du Méridien, mise en scène de Frédéric Dussenne, Cinecittà au Théâtre de la Vie, toujours en tournée, Le Roi Lune, mise en scène de Frédéric Dussenne, Sand la scandaleuse, Le Livropathe, mise en scène de Frédéric Dussenne, Moscou Nuit blanche, La Poupée Titanic, Le Clown et l'enfant sombre, Termini Roma, Crooner. Parmi ses projets, on peut citer la reprise de Darwin au Rideau la saison prochaine, Robespierre, création au Théâtre Royal du Parc en février 2008, Guantanamo (titre provisoire) pour le Rideau, La Place du fils pour le Manège, Mons, un projet sur Sade (commande du Théâtre Octobre à Lille), et un projet d'opéra avec le compositeur Pascal Charpentier.<br><br>10 juillet □ 18 h<br># Castels<br>de Gervais Bouchard<br>lecture dirigée par Émilie Rousset<br>avec Victor Lenoble, Célia Catalifo, Marie Dompnier, Jan Peters, Stina Soliva, Lyn Thibault, Olivier Veillon, Alexia Vidal, Adeline Walter<br>Merci à Alain Jean, Marie-Thérèse Fortin et Jocelyn Branchaud<br><br>Castels est né du désir de mettre à mal les procédés narratifs consacrés et d'explorer, dans tous ses excès, la notion d'animalité. Assez tôt dans mon écriture, cependant, a surgi le thème véritable de cette pièce, l'étrange. L'étrange se découvre par hasard, dans le souci de recherche de sens. En choisissant</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_auteursEnScene_FDA2007/CommAvignon_fds_auteursEnScene_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>de le suivre, j'ai fermé les yeux et je me suis abandonné aux images qui se présentaient à moi. Ce qui a pris forme sur ma feuille est une sculpture tentaculaire qui ressemblait à un arbre imposant. C'est par Castels qu'un monde sauvage s'est ouvert dans mon écriture, un monde au fond duquel résonne un cri perçant, précis, violent. Pour entendre la voix sous le cri, pour écouter son chant, il faut enjamber la noirceur, embrasser la peur, éviter les émotions plus nobles, quitte à éprouver de la honte. Le malaise me semble plus vrai que le rire ou les larmes. C'est lui (mon malaise) que j'ai pisté en écrivant Castels. Je me suis imposé la peur comme d'autres l'authenticité.<br>Gervais Bouchard<br><br>Le canadien Gervais Bouchard, titulaire d'une maîtrise en études littéraires, commence sa carrière d'auteur en participant à Radio-théâtre en cinq temps, à Montréal, de 1999 à 2001.<br>Dans le cadre des laboratoires de l'Agad, il crée, à Montréal, Deux Folles, un projet de mariage et un pot d'arse-nic en 2001 et Les Grandes Vacances en 2002.<br>Pichou est lu en 2005 à Montréal et Ottawa, dans le cadre du Festival Zone théâtrale.<br>L'année suivante sa pièce L'Amour selon Brigitte Morin est créée à Jonquière, dans une mise en scène de Stéphane St-Jean et Castels est lue dans le cadre de la 21e semaine de la dramaturgie à Montréal.<br>Ses textes sont disponibles sur Adel (Auteurs dramatiques en ligne) www.adelinc.qc.ca<br><br>11 juillet ┃ 11 h<br># Criture<br>d'Arno Calleja<br>lecture dirigée par Émilie Rousset<br>Baptiste Amann, Solal Bouloudnine, Célia Catalifo, Marie Dompnier, Victor Lenoble, Jan Peters, Yohann Pisiou, Remy Rutovic, Stina Soliva, Lyn Thibault, Alexia Vidal, Olivier Veillon, Adeline Walter<br>Texte publié aux éditions Inventaire/invention<br><br>Extrait<br>Je fais de la confiture de mots directement dans ma bouche, je pompe du lait caillé directement dans mon vié, je pompe ma moelle pour la monter en mayonnaise, la mayonnaise est une drogue, la drogue est une énergie, la pensée est une force quand la force criture, penser est une transe, un pauvre est un chaman, la criture est l'incontrôle de la pensée, la criture se fait toute seule, elle s'enfante, criture ne produit pas de déchet, n'a pas de reste, criture est pleine, est l'affirmation du plein, criture n'a rien à dire, le plein est déjà trop plein il n'a plus rien à dire,...<br><br>Arno Calleja, né en 1975, vit à Marseille. Depuis 2001, il écrit dans quelques revues (If, La Mer gelée, Action Restreinte, Dirigeable...), compose des cd ou des performances avec Jean-Baptiste André, Fabrice Cesario, Thomas Charmetan, Nicolas Dick, Ilya Green, Laure Maternati, Charles Pennequin, Thierry Raynaud. Auteur de livres, il vient de publier cette année À la bétonnière, éditions Le Quartanier.<br><br>11 juillet ┃ 18 h<br># monde-Monde parano<br>(Psittacismes et echolalies)<br>d'Alain Cofino Gomez<br>lecture dirigée par Bertrand Bossard<br>avec Marie Dompnier, Jan Peters, Stina Soliva, Yohann Pisiou, Olivier Veillon, Rémy Rutovic, Victor Lenoble, Alexia Vidal.<br>avec le soutien du Commissariat général aux relations internationales de la Communauté française de Belgique</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 7"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/7/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/7/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_auteursEnScene_FDA2007/CommAvignon_fds_auteursEnScene_FDA2007_page_7.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/7/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/7/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Oui, c'est quelque chose comme un exil ou un abandon criminel. Oui, on croit entendre les assassins venir, mais rien ne vient que le temps, et outrageant, il passe sans violence, lui. Alors, on ressasse le bien-fondé de ce bannissement. Ou était-ce une fuite hors du monde? Ou était-ce une débâcle face à l'amour? Toujours est-il qu'il y a cet homme ou encore n'est-il juste que la figure fantasmatique de ce qu'on laisse derrière soi? Les amours éperdus, les combats lacunaires, les révolutions parfaites et les rancœurs infinies. Et cet homme donc, fait aller et venir la langue sur les escarres de nos rebus. Sans doute s'agit-il d'un ermite affamé ou d'un fou qui vit au bord du monde, c'est en tout cas plus simple de le croire.<br>Alain Cofino Gomez<br><br>Alain Cofino Gomez étudie la mise en scène à l'Institut national supérieur des Arts du spectacle de Belgique. Il est l'auteur d'une quinzaine de textes pour le théâtre dont Affaire de timbre 1re catégorie et Canapé aux éditions Lansman, Soudure aux éditions Aven, Peaux de chat Carnets Actes/Révoltes, Féminins/Masculins.<br>Ses textes ont été lus et/ou représentés en Belgique, aux Théâtre Océan Nord, à la Balsamine, aux Tanneurs, à la prison de Saint-Gilles, au Théâtre Le Public, aux Brigittines, au Théâtre Varia, à l'Espace Senghor, au Musée des Arts contemporains, aux Archives de Bruxelles, au Théâtre Le Café... et en France, au CDN de Normandie, au CDN de Dijon, au Théâtre de Lenche de Marseille, au Festival d'Avignon, à la Chartreuse, dans de nombreux marchés du Calvados, au Théâtre de La Licorne à Lille, au Théâtre de Lens, au Théâtre de Blaye...<br>Son écriture s'attache à raconter tant le corps humain que le corps social, elle explore les révoltes et les convulsions de la chair et du mouvement et décrit avec terreur et humour les impasses de la condition humaine. Le plus souvent son écriture développe une mystique violente et déchirée dont les blessures exposent une poétique de la politique.<br>Il a également été résident à la Chartreuse de Villeneuve-lez-Avignon et a obtenu des aides, des prix et des bourses tant en France qu'en Belgique.<br><br>Émilie Rousset<br>En 1999, elle suit des cours de formation d'acteur à la Scène sur Saône à Lyon. Elle adapte et met en scène un scénario de Yasunari Kawabata, Une page folle, ainsi que le roman de Nicolas Genka L'Épi-monstre. En 2001, elle intègre la classe de mise en scène de l'INSAS à Bruxelles. Parallèlement, elle suit plusieurs workshops de danse ainsi qu'un stage avec Edward Bond. Elle participe à des performances au centre d'art Nadine et met en scène Manque de Sarah Kane.<br>En 2002, elle entre à l'École du TNS en section mise en scène (groupe XXXV). Elle y travaille notamment avec Stéphane Braunschweig, Anne-Françoise Benhamou, Claire Nancy, Alexandre de Dardel, Frédéric Minière...<br>En 2004, elle est stagiaire à la mise en scène auprès d'Hubert Colas durant la création de Sans faim au Théâtre National de Strasbourg, puis de Lorent Wanson durant l'écriture de Trou/Rupe au Théâtre national de Belgrade. Elle participe à la Masterclass organisée par Luca Ronconi au Piccolo Teatro de Milan.<br>En 2005, elle suit la création de Zarathoustra de Krystian Lupa à Cracovie. Elle participe à l'atelier de troisième année, Espace complémentaire chorégraphié par Odile Duboc. Elle est stagiaire à la mise en scène auprès de Jean-François Peyret durant la création du Cas de Sophie K au Festival d'Avignon.<br>Dans le cadre de sa scolarité, elle met en scène Excédent de poids, insignifiant, amorphe de Werner Schwab et Calderón de Pier Paolo Pasolini lors de sa dernière année d'étude.<br>En 2006, elle est assistante d'Hubert Colas, Judith Depaule et Aurélia Guillet. Elle fait des doublages de voix. Elle dirige une lecture de Sans faim d'Hubert Colas et de Cake de Pauline Sales au Festival Premières Lignes à la Comédie-Française. Elle dirige une lecture de Santiago High Tech de Cristiàn Soto au festival ActOral.5 à Montevidéo. Elle dirige ensuite une lecture, toujours à Montevidéo, de La Reine C. de Laura Ruohonen, dans le cadre d'une collaboration avec l'École Régionale d'acteurs de Cannes et la Maison Antoine Vitez.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/8",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 8"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/8/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/8/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_auteursEnScene_FDA2007/CommAvignon_fds_auteursEnScene_FDA2007_page_8.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/8/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/8/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Bertrand Bossard<br>Avant de créer la compagnie B. Initials en 1999, Bertrand Bossard a travaillé comme comédien avec d'autres metteurs en scène: Stanislas Nordey (Le Songe d'une nuit d'été de William Shakespeare, La Vraie vie de Victor F. de Stanislas Nordey, Vole mon dragon d'Hervé Guibert, Pylade de Pier Paolo Pasolini, Les 14 pièces piégées de Armando Llamas, La Dispute de Marivaux), Frédéric Fisbach (L'Annonce faite à Marie de Paul Claudel, Un avenir qui commence tout de suite de Vladimir Maïakovski), Jean-Yves Ruf (Chaux vive, création collective) Anita Picchiarini (Médée de Hans Henny Jan) et Jean-Pierre Vincent (Tout est bien qui finit bien de William Shakespeare).<br>En avril 1997, il a écrit et mis en scène au Théâtre National de Bretagne son premier spectacle pour le \"jeune public\", Ricky Pompon, publié aux Éditions L'École des loisirs. Il a ensuite créé Incredibly/Incroyable (a stand-up comedy) et Mon île déserte, spectacles qu'il a écrits et joués, notamment au Théâtre de la Cité Internationale et au Théâtre du Rond-Point à Paris. Pendant la saison 2003/2004, il crée Gagarin Way de Grégory Burke au Théâtre du Rond-point. En 2004/2005 il écrit et crée le spectacle jeune public Quand les poules auront deux dents au théâtre de la Commune à Aubervilliers, puis il a mis en scène sa pièce Enfin célèbre! au Théâtre national de Chaillot.<br>Au cinéma, il a tourné avec Raoul Ruiz dans Le Temps retrouvé, avec Frédérique Gutman dans Blanche Colombe et avec Christine Dory dans Blonde et brune.<br>En 2007 il réalise son premier court-métrage Hors course, produit par Agat film. Il est en développement de son premier long métrage.<br><br># L'ERAC<br>L'École régionale d'acteurs de Cannes est un établissement de formation supérieure professionnelle créé en 1990 à l'initiative de la Région Provence-Alpes-Côte d'Azur.<br>Bénéficiant des financements de la Région, du ministère de la Culture, du Conseil général des Alpes-Maritimes et des villes de Cannes et Marseille, l'école prépare pendant trois ans des élèves au métier de comédien et participe à leur insertion professionnelle, grâce au fonds d'insertion professionnelle pour jeunes artistes dramatiques (FIJAD), mis en place par la Région et le ministère de la Culture en 2004.<br>Implantée à Cannes pour les deux premiers cycles et à Marseille pour le dernier, le projet artistique de l'ERAC est établi par un comité pédagogique composé de personnalités du monde du spectacle.<br>L'ERAC fait partie des établissements signataires des accords de la plate-forme des enseignements supérieurs avec le ministère de la Culture.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-auteursenscene-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

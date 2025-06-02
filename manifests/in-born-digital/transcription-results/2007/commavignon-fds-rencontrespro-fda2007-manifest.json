@@ -1,0 +1,830 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Rencontres pro"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_rencontresPro_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_rencontresPro_FDA2007/CommAvignon_fds_rencontresPro_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Les Rencontres professionnelles<br><br>61° Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_rencontresPro_FDA2007/CommAvignon_fds_rencontresPro_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Rencontres professionnelles<br>ISTS □ Cloître Saint-Louis □ tél. 04 90 14 14 17 □ www.ists-avignon.com<br><br>Les rencontres professionnelles organisées à la demande du ministère de la Culture et de la Communication en partenariat avec le Festival d'Avignon, sont mises en place chaque année par l'ISTS (Institut Supérieur des Techniques du Spectacle), dans ses propres locaux.<br>Cette mission a été confiée par le ministère de la Culture à l'Institut dont la fonction première est d'assurer la formation continue des techniciens du spectacle vivant avec le soutien financier de l'État, de la Ville d'Avignon, de la Région PACA, et du Département de Vaucluse.<br><br>L'ISTS propose, chaque saison, un programme de formations portant sur :<br>L'ENCADREMENT<br>Il s'agit des stages longs destinés à des techniciens désirant s'investir dans la prise de responsabilités<br>- \"Directeur technique des entreprises du spectacle vivant\",<br>sanctionné par un titre de niveau I, enregistré au RNCP, délivré par l'ISTS<br>et par un Master 2, délivré par l'Université d'Avignon<br>- \"Régisseur du spectacle\", sanctionné par un titre de niveau III, enregistré au RNCP<br>- \"Chef machiniste\", sanctionné par un titre de niveau III, enregistré au RNCP<br><br>LE PERFECTIONNEMENT :<br>Il s'agit de stages courts, destinés à des professionnels en exercice souhaitant élargir leur champ de compétences ou approfondir leur maîtrise d'une discipline donnée. Les domaines traités sont les suivants :<br>- La formation continue des cadres<br>- la scénographie<br>- l'éclairage<br>- le son<br>- l'image<br>- la prévention des risques<br>De plus amples informations sur cette offre de formation sont disponibles dans les plaquettes tenues à votre disposition à l'accueil de l'ISTS ou sur son site web : www.ists-avignon.com<br><br>L'ISTS répond également à des commandes de formation spécifiques émanant d'entreprises du spectacle ou de collectivités territoriales. L'ISTS assure encore un conseil aux professionnels et aux collectivités territoriales en matière d'équipement et d'aménagement de lieux scéniques ou de mise en œuvre de spectacles. Enfin, l'ISTS tient à la disposition des professionnels son fonds documentaire sur les techniques du spectacle vivant.<br>Durant les rencontres professionnelles du Festival, les organismes professionnels, associations, syndicats, centres de ressources... sont alors accueillis à Avignon au Cloître Saint Louis pour se rencontrer et informer le public, professionnel ou non. C'est l'occasion pour certaines institutions de réunir leurs adhérents sur des questions spécifiques.<br>Enfin, un plus large public est invité aux débats et aux conférences qui traitent aussi bien des pratiques professionnelles que des sujets qui font l'actualité du spectacle vivant.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_rencontresPro_FDA2007/CommAvignon_fds_rencontresPro_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Les permanences<br><br>du jeudi 5 au vendredi 27 juillet ⁄ 9 h – 17 h<br>ISTS (Institut Supérieur des Techniques du Spectacle)<br>Information sur les formations aux techniques du spectacle vivant<br>ISTS-Espace Saint-Louis ⁄ 04 90 14 14 17 ⁄ ists-info@ists-avignon.com ⁄ www.ists-avignon.com<br><br>mardi 17 ⁄ 14 h - 17 h 30 ⁄ mercredi 18 juillet ⁄ 10 h – 17 h<br>ISTS / ANPE / AFDAS<br>Journée d'information sur les formations et leurs conditions d'accès<br>L'ANPE Culture Spectacle et l'AFDAS (fonds d'assurance formation des activités du spectacle) se joignent à l'ISTS pour assurer conjointement une mission d'information sur les formations initiales et continues. ⁄ AFDAS: www.afdas.com ⁄ ANPE: www.culture-spectacle.anpe.fr/<br><br>du jeudi 5 au vendredi 27 juillet ⁄ 10 h 30 – 18 h ⁄ 3e étage<br>Adami (Administration des Droits des aArtistes et Musiciens Interprètes)<br>L'Adami est une société de gestion collective des droits des artistes-interprètes (comédiens, chanteurs, musiciens, chefs d'orchestre, danseurs...). Elle gère aujourd'hui les droits de près de 60 000 artistes-interprètes dont plus de 22 000 associés. \"En compagnie de l'Adami\", parcours découverte Avignon Off 2007, vous propose de découvrir les 40 spectacles aidés par l'Adami dans le Off d'Avignon : théâtre, danse, chansons, cirque, musique, marionnettes... L'Adami apporte aussi son aide à 10 spectacles coproduits par le Festival d'Avignon et favorise ainsi l'emploi des artistes.<br>Permanence de l'Adami et du Bureau Sabine Arman pour les professionnels et les journalistes : tous les jours de 10h30 à 13h00 et l'après-midi sur rendez-vous. Rencontres professionnelles sur invitation.<br>Adami, Emmanuel Bourcet 06 30 20 94 27 ⁄ Sabine Arman 06 15 15 22 24 ⁄ www.adami.fr<br><br>du jeudi 5 au vendredi 27 juillet ⁄ 9 h – 18 h ⁄ 3e étage<br>Sacd (Société des Auteurs et Compositeurs Dramatiques)<br>La Sacd rassemble 44 000 auteurs de l'audiovisuel et du spectacle vivant, perçoit et répartit leurs droits. Installée en France, en Belgique et au Canada, elle représente ses membres dans le monde entier. Dans le cadre de son action culturelle, financée en partie par la copie privée, la Sacd soutient la création contemporaine, mène une politique en faveur de la création et de la diffusion du spectacle vivant et apporte son aide à des actions de formation. ⁄ www.sacd.fr<br><br>du jeudi 5 au vendredi 27 juillet ⁄ 9 h – 18 h ⁄ 2e étage<br>CulturesFrance - EGIDE<br>Culturesfrance est l'opérateur délégué des Ministères des Affaires Etrangères et de la Culture et de la Communication pour les échanges culturels internationaux. À cette occasion, elle recevra les personnalités étrangères et favorisera la mise en relation avec les professionnels français. ⁄ www.culturesfrance.com<br><br>du jeudi 5 au vendredi 27 juillet (sauf le 18 juillet) ⁄ 9 h – 18 h ⁄ 2e étage<br>jeudi 19 ⁄ après-midi ⁄ Salle de réunion 1e étage<br>ARCADE<br>Depuis 1974, l'ARCADE, sous l'impulsion conjointe du ministère de la Culture et de la Région Provence-Alpes-Côte d'Azur, développe un véritable programme partenarial de développement et de services pour les arts du spectacle en région. L'Arcade est le centre de ressources et de développement des arts du spectacle de Provence-Alpes-Côte d'Azur.<br>L'Arcade propose, aux professionnels et à l'ensemble des publics, des services dans les domaines de l'information et de l'observation, de la formation et de l'accompagnement de projets : bases de données, site internet, conseil personnalisé, rencontres professionnelles, études, programme de formation, aide à la diffusion...<br>ARCADE Provence-Alpes-Côte d'Azur, Agence régionale des arts du spectacle ⁄ 17 rue Venel - BP 84 - 13101 Aix-en-Provence cedex 1 ⁄ tél.: 04 42 21 78 00 ⁄ fax: 04 42 21 78 01 ⁄ arcade@arcade-paca.com ⁄ www.arcade-paca.com</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_rencontresPro_FDA2007/CommAvignon_fds_rencontresPro_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Les rendez-vous<br><br>mercredi 11 juillet □ 14 h – 18 h □ 1er étage, salle de réunion<br># APAD (Association des Professeurs d'Art Dramatique)<br>Réunion interne préparatoire au Conseil d'Administration de l'APAD et travail avec les modérateurs sur les thèmes des tables rondes ouvertes au public.<br><br>jeudi 12 juillet □ 9 h – 13 h □ 1er étage, salle des commissions 1<br># British Council - Rencontres Franco-britanniques<br>Le British Council en France et les services culturels de l'Ambassade de France à Londres ont décidé d'unir leurs forces dans les deux années à venir pour encourager les échanges et soutenir l'émergence de projets entre professionnels du spectacle vivant des deux côtés de la Manche. Pour marquer le début de ce projet une trentaine de programmateurs et artistes français et britanniques se retrouvent en Avignon afin de faire connaissance et de jeter les bases de futures collaborations.<br>informations : artsfr@britishcouncil.fr □ ou maya.sawmy@diplomatie.gouv.fr<br><br>jeudi 12 juillet □ 14 h 30 – 18 h 30 □ 1er étage, salle des commissions 1<br># Relais Culture Europe<br>Réunion sur \"la coopération culturelle euro-méditerranéenne : contexte, outils et perspectives\".<br>Le Relais Culture Europe est un centre de ressources sur l'Europe et la Culture. Point de contact national pour le programme Culture, sa mission générale est d'inciter les acteurs culturels à s'emparer de la question culturelle européenne. Le Relais Culture Europe joue un rôle d'information et d'accompagnement sur les enjeux et dispositifs européens pouvant intéresser le secteur culturel. Son action s'organise autour de deux missions principales : un pôle de services dédiés et une offre de formation.<br><br>dimanche 15 juillet □ 10 h – 13 h □ 2e étage, salle des colloques<br># QUINT'EST<br>Rendez-vous de l'association QUINT'EST, réseau professionnel rassemblant les directeurs des structures culturelles du Grand Est (Alsace, Bourgogne, Champagne-Ardennes, Franche Comté et Lorraine) sur la mise en place d'outils permettant d'améliorer la circulation des œuvres du spectacle vivant entre les cinq régions, de faciliter l'accompagnement des créations artistiques (coproductions partagées et résidences nomades), d'améliorer les conditions des pratiques professionnelles et de développer la coopération interrégionale. □ contact : Philippe Sidre 06 71 47 22 68 □ philippe@tgpfrouard.fr<br><br>du dimanche 15 au mardi 17 juillet □ 9 h – 13 h □ 1er étage, salle de réunion<br># CITF (Commission Internationale du Théâtre Francophone) □ Assemblée générale<br>Durant cette assemblée générale, les représentants des différents gouvernements associés financièrement (la France, le Canada, le Québec, la Communauté française de Belgique et la Roumanie) étudieront les dossiers de demande de subvention qui leur sont soumis par des créateurs issus de l'ensemble de l'espace francophone, établiront de nouveaux contacts avec des décideurs culturels et politiques présents au Festival et lanceront l'année de leur 20e anniversaire.<br>contacts : Sophie Hubert et Émile Lansman □ tél. : +32 64 237 840 ou (pendant le festival) 06 81 89 71 76<br><br>lundi 16 juillet □ 10 h – 13 h □ 2e étage, salle des colloques □ sur invitation<br># Journée de l'Onda (Office National de Diffusion Artistique)<br>L'Onda, association subventionnée par le ministère de la Culture et de la Communication (Direction de la Musique, de la Danse, du Théâtre et des Spectacles & Délégation au Développement et aux Affaires internationales), a pour mission d'encourager et de soutenir la diffusion et la circulation sur le territoire national d'œuvres de l'ensemble du spectacle vivant qui relèvent d'une démarche de création contemporaine. Son action s'inscrit dans un partenariat avec les structures des réseaux de création et de diffusion pluridisciplinaire. L'Onda participe activement au développement des échanges artistiques internationaux : information, rencontres internationales, aide à l'accueil et aux tournées, aide à la mobilité et au surtitrage.<br>Directeur : Fabien Jannelle □ Onda, 13 bis rue Henry Monnier, 75009 Paris<br>tél. : +33 (0)1 42 80 28 22 fax : +33 (0)1 48 74 16 03 □ www.onda-international.com □ info@onda-international.com</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_rencontresPro_FDA2007/CommAvignon_fds_rencontresPro_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>mardi 17 juillet □ 10h - 12h30 □ 1er étage, atelier théâtre<br># SNSP (Syndicat National des Scènes Publiques)<br>Assemblée générale extraordinaire du SNSP. Réunion réservée aux adhérents du SNSP.<br><br>jeudi 17 juillet □ 10h - 13h □ 1er étage, salel des comissions<br># SYNDEAC<br>Conseil national élargi (sur convocation)<br><br>du mardi 17 (13h) au vendredi 20 juillet (13h) □ 9h - 18h □ 2e étage, salle des colloques<br># Journées d'étude du FNAS (Fonds National des Activités Sociales des Entreprises Artistiques et Culturelles)<br>Comme chaque année, la structure de comité d'entreprise du spectacle vivant subventionné qu'est le FNAS organise des journées d'étude (réservées aux élus, aux délégués syndicaux et aux représentants des salariés intermittents dans les instances du FNAS). La journée du mercredi sera consacrée à la partie du salaire différé qui concerne : la santé, la prévoyance et les retraites. La journée du jeudi sera centrée plus précisément sur les questions de culture : rôle et responsabilité du comité d'entreprise dans la définition et le contenu des activités culturelles et de loisirs proposées au salarié de l'entreprise.<br><br>mercredi 18 juillet □ 10h30 - 13h □ 3e étage, centre de documentation<br># SNSP (Syndicat National des Scènes Publiques)<br>Réunion d'information du SNSP (ex SNDTV, Syndicat National des Théâtres de Ville) ouverte aux directeurs(rices) des structures de spectacle vivant (gérées sous droit public ou privé), dont la subvention principale est accordée par une collectivité territoriale et proposant à l'échelle d'un territoire une programmation artistique. Cette réunion animée par Jean-Paul Birie, Président du Syndicat, permettra de présenter l'activité du SNSP, de faire le point sur les dossiers en cours concernant le Spectacle Vivant et de répondre aux différentes interrogations des professionnels présents.<br>Le SNSP, Syndicat National des Scènes Publiques, créé en 1995, est la nouvelle appellation depuis février 2007 du SNDTV, Syndicat National des Théâtres de Ville. Le SNSP rassemble plus de 130 structures de spectacle vivant, dont la subvention principale est accordée par une collectivité territoriale et proposant à l'échelle d'un territoire une programmation artistique. Ces structures assurant des missions de service public sont gérées aussi bien sous statut privé (association, SEM...) que sous statut public (régies, EPCC...). Elles sont représentées par leurs directeurs. Maillon important du spectacle vivant subventionné, le SNSP assure des missions de politique générale affirmant dans sa concertation régulière avec les tutelles, la nécessité absolue d'un service public du spectacle vivant ; chambre professionnelle : représentation de ses membres dans les organismes professionnels du spectacle vivant, négociation de la convention collective... ; services directs : information et assistance juridiques et professionnelles, journées d'étude, conseil et médiation, soutien aux adhérents en difficulté...<br>renseignements : 01 40 18 55 95 □ contact@snsp.fr □ www.snsp.fr<br><br>mercredi 18 juillet □ 10h30 - 13h □ 2e étage, salle des commissions<br># CNT Une étude sur les \"bureaux de production\" en Île-de-France<br>7 \"bureaux de production\" : Bureau Cassiopée, Créatec, Et bientôt..., Lelabo, Minijy, Les productions de la Seine et Scènes de cirque ont lancé une étude participative sur les bureaux de production en Île-de-France, en partenariat avec ARCADI, le Centre National du Théâtre/ CNT et l'ONDA. Les résultats seront publiés début 2008. Un atelier de travail avec des artistes, des représentants d'institutions, des partenaires de coproduction ou de diffusion...<br><br>mercredi 18 juillet □ 14h - 18h □ 1er étage, salle de réunion<br># CNT Réunion du groupe de pilotage de l'étude.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_rencontresPro_FDA2007/CommAvignon_fds_rencontresPro_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>jeudi 19 juillet ❏ 9 h - 18 h ❏ 2e étage, salle des comissions<br>DMDTS (Direction de la Musique, de la Danse, du Théâtre et des Spectacles)<br>Réunions des conseillers sectoriels des Directions Régionales des affaires culturelles.<br>www.culture.gouv.fr/culture/dmdts/depart.htm<br><br>vendredi 20 juillet ❏ 9 h - 18 h ❏ 1er étage, atelier théâtre<br># Les Rencontres<br>L'association Les Rencontres, créée pour et par des élus et des professionnels en charge de la culture et de l'éducation dans les différentes collectivités territoriales de l'Union européenne et au-delà, constitue une plate-forme de coopération, de débats et d'actions dans le domaine de la politique culturelle des villes, départements, régions, provinces. L'association travaille en collaboration étroite avec des experts, des universitaires, des réseaux culturels, des associations d'élus et des artistes.<br>En collaboration avec l'Association des Directeurs des Affaires Culturelles des grandes villes et agglomérations de France, Les Rencontres souhaitent favoriser la concertation entre les Directeurs des Affaires Culturelles dans les collectivités territoriales de la Grande Europe. Cette réunion qui rassemblera au moins un représentant par pays de la Grande Europe, abordera des questions spécifiques (politiques culturelles locales, formations, administration culturelle, gestion, échanges européens, ...) afin de permettre l'échange d'expériences, le débat d'idées et la mise en place d'un \"sous-réseau\" dans le cadre de l'association Les Rencontres. Roger Tropeano, président des Rencontres<br>contact : Angie Cotte, Secrétaire Générale ❏ tél. : +33 (0)1 56 54 26 31 ❏ angie.cotte@lesrencontres.org<br><br># Les rencontres ouvertes au public<br>du jeudi 5 au samedi 14 juillet ❏ 9 h - 18 h ❏ 2e étage, salle des commissions 2<br>CITF - Rencontres de la Francophonie<br>La CITF organise une \"pépinière à projets\" dans le cadre du Festival d'Avignon<br>Afin de permettre à des créateurs théâtraux issus d'horizons les plus divers de concevoir et de mener à bien des projets multilatéraux. Il importe de leur donner l'occasion de se côtoyer, de se découvrir progressivement et, en fonction de leurs affinités artistiques et humaines, de poser les premiers jalons d'une possible collaboration. C'est pourquoi la CITF (Commission Internationale du Théâtre Francophone), qui fête cette année ses vingt ans, a invité vingt créateurs européens, africains et nord-américains à vivre ensemble intensément les divers aspects du Festival d'Avignon.<br>Outre les spectacles vus et les rencontres internes, deux rendez-vous seront ouverts au public (sur inscription préalable au 06 81 89 71 76) :<br>lundi 9 juillet ❏ 16 h 30 - 18 h ❏ 2e étage, salle des commissions<br>La langue théâtrale, expression d'une spécificité individuelle ou manifestation d'une identité culturelle ?<br>Les participants à la \"pépinière à projets\" évoqueront avec des invités la problématique de la langue (des langues?) théâtrale(s) dans la création contemporaine.<br>mardi 10 juillet ❏ 16 h 30 - 18 h ❏ 2e étage, salle des commissions<br>Le festival Off : principes, fonctionnement et perspectives<br>Les participants à la \"pépinière à projets\" rencontrent des responsables et membres de l'association Avignon Festival et Compagnies pour s'informer de l'organisation du festival \"Off\" et de son évolution.<br><br>mardi 10 juillet ❏ 14 h 30 - 18 h 30 ❏ 2e étage, salle des colloques<br>SNMS (Syndicat National des Metteurs en Scène)<br>Le statut du metteur en scène aujourd'hui<br>Qui sait, aujourd'hui, que les metteurs en scène ont un double statut social : salarié et auteur?<br>Qu'en est-il concrètement de ce double statut, tant du point de vue de la rémunération que du droit des metteurs en scène sur leurs travaux? Quels avantages et quels devoirs ce statut peut-il signifier pour nous, metteurs en scène? À l'heure de l'harmonisation européenne, quel est notre intérêt à défendre et améliorer encore ce statut conquis de haute lutte? Ces questions en ouvrent bien d'autres, elles seront abordées au cours de cette rencontre. Venez nombreux débattre avec nous!</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 7"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/7/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/7/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_rencontresPro_FDA2007/CommAvignon_fds_rencontresPro_FDA2007_page_7.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/7/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/7/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Nous proposons deux parties à ce débat :<br>1 - Le metteur en scène et la Sacd □ 14h30 - 16h30 □ modérateur Georges Werler, actuel Vice-Président de la SACD, avec la participation de représentants de la Sacd.<br>   a - Les Compagnies indépendantes et la Sacd □ b - la Sacd et le metteur en scène<br>2 - Le statut social du metteur en scène □ 16h30 - 18h30 □ modérateur Jean François Prévand, Président du Syndicat.<br>   c - le metteur en scène, directeur de compagnie □ d - le Statut social du metteur en scène<br>Cette rencontre sera organisée par les membres de notre Conseil d'Administration ; Guy-Pierre Couleau, Jacques Connort, Alexandre Tchobanov, Jean-Luc Paliès, avec la participation de nombreux metteurs en scène du syndicat ; Didier Long, Daniel Roussel, Isabelle Starkier, Michel Boy, Jacques Kraemer, Pascal Parsat, Ivan Morane, Serge Barbuscia, Christina Fabiani, Jean-Paul Tribout, Gérard Vantaggioli, Jean Pierre Müller, Lucia Pozzi, Alain Timar, Gérard Gélas, Marie Pagès...<br>Syndicat National des Metteurs en Scène/APMS □ Maison des Auteurs, 7 rue Ballu, 75009 Paris □ tél.-fax 01 40 07 97 76 □ apms@magic.fr<br><br>jeudi 12 juillet □ 10 h - 13 h □ 2e étage, salle des colloques<br># SPEDIDAM - Société de gestion collective des droits de Propriété Intellectuelle des Artistes-interprètes de la Musique et de la Danse<br>De 10h00 à 11h30 □ rencontre sur le thème de l'utilisation de la musique enregistrée dans le spectacle vivant. Intervenants de la SPEDIDAM : Xavier Blanc, François Lubrano, François Nowak.<br>De 11h30 à 13h00 □ la Commission pour la Relance de la Politique Culturelle présente :<br>- Le Livre blanc sur la Propriété Intellectuelle,<br>- Le Pacte Culturel : le statut des auteurs et des artistes, le rôle social des arts, les pratiques professionnelles...<br>Seront présents : Mme Agnès Defaux (SAIF), M. Jean-Paul Bazin (SAMUP), M. Florent Briqué (UMJ), M. François Lubrano (SPEDIDAM).<br><br>du jeudi 12 au samedi 14 juillet □ 9 h - 18 h □ 1er étage, atelier théâtre<br># APAD (Association des Professeurs d'Art Dramatique)<br>L'APAD est une association créée en 1986 qui regroupe des artistes-enseignants transmettant l'art du théâtre. Ces pédagogues travaillent aussi bien dans des établissements publics d'enseignement artistiques (Conservatoires: CRR, CRD, CRI / CRC) que dans les écoles agréées par le ministère de la Culture. L'APAD a pour mission de promouvoir l'enseignement public de l'art du théâtre en France, favorisant les échanges avec les institutions locales, régionales et nationales, questionnant les pratiques pédagogiques (éveil, initiation, professionnalisation) ou contribuant à une réflexion sur la formation initiale et continue des Artistes enseignants.<br>L'APAD réunit ses adhérents pour des échanges avec des acteurs culturels et des représentants des collectivités territoriales, sur le thème : \"Formation par le Théâtre / Formation au Théâtre : Liens entre Éducation Artistique et Enseignement Artistique\". En partenariat avec la sous direction des Enseignements et des pratiques artistiques du ministère de la Culture.<br>La question de l'éducation artistique se pose aujourd'hui avec insistance, et les textes officiels rappellent clairement aux \"conservatoires\" leurs missions en ce sens. Qu'est-ce que l'éducation artistique ? Comment conjuguer missions pédagogiques et éducatives ? Quel rôle pour les conservatoires dans les politiques territoriales d'éducation artistique ? Quelles articulations mettre en place au cœur des schémas départementaux des enseignements artistiques ? Quelles relations entre établissements scolaires et conservatoires ? Nous tenterons de définir des éléments de réponses durant ces trois jours.La décentralisation en matière d'enseignements artistique est une occasion de questionner les pratiques et les politiques culturelles à l'œuvre et de rechercher les pistes d'innovation.<br>Renseignements : APAD secrétariat, 21 rue des Études, 84000 Avignon □ APAD siège □ CRR de Nancy, 3 rue M. Ney, C-O 36, 54035 Nancy cedex □ tél. : +33 (0) 6 71 48 38 24 □ tél., fax : +33 (0) 4 90 85 79 19 □ apad.info@free.fr</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/8",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 8"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/8/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/8/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_rencontresPro_FDA2007/CommAvignon_fds_rencontresPro_FDA2007_page_8.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/8/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/8/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>vendredi 13 juillet □ 10h – 13h □ 2e étage, salle des colloques<br># ANRAT (Association Nationale de Recherche et d'Action Théâtrale)<br>L'ANRAT, fondée en 1983, est présidée par Joël Jouanneau. Elle est soutenue par les ministères de l'Éducation nationale et de la Culture. Elle rassemble des artistes et des enseignants engagés dans des actions d'initiation, de formation et d'accompagnement des jeunes aux pratiques théâtrales au sein de l'École. Ce réseau d'adhérents praticiens produit une réflexion et des orientations communes en matière d'éducation artistique partenariale, notamment en théâtre et spectacle vivant.<br>Thèmes de la rencontre :<br>- Formation au Théâtre/ Formation par le théâtre pour les jeunes de 8 à 18 ans.<br>- La question des politiques territoriales d'éducation artistique et culturelle<br>- La complémentarité des formations en \"temps\" et \"hors temps\" scolaire.<br><br>samedi 14 juillet □ 10h – 13h □ 1er étage, salle des commissions 1 □ entrée libre<br># EAT (Écrivains Associés du théâtre) Désirs d'auteurs<br>Présidés par Jean-Paul Alègre, les Écrivains associés du Théâtre organisent leur réunion plénière mensuelle à Avignon. L'association, créée en 2000, présentera ses nouvelles actions, notamment les Question(s) de théâtre trimestriels et le Prix des Cent Livres Emmanuelle-Marie. Elle souhaite aussi réfléchir avec les auteurs et les artistes aux thèmes suivants : les relations entre l'auteur dramatique et l'institution ; le statut d'auteur associé dans les CDN ; les résidences d'écriture ; la formation permanente ; les relations avec les associations d'auteurs en région ; la création d'un Observatoire de l'écriture contemporaine...<br><br>jeudi 19 et vendredi 20 juillet □ 9h – 18h □ 1er étage, salle des commissions 1<br># CGT (Action pour la création artistique et la diffusion en Île-de-France)<br>\"Faire vivre les cultures au travail, c'est aussi agir pour une démocratie culturelle\"<br>La Confédération Générale du Travail (CGT) conçoit la culture comme un enjeu fondamental et central de transformations sociales, tant au travail (trop souvent oublié quand on évoque les rapports de la culture et de l'art avec l'ensemble de la société) que dans les autres sphères de l'activité humaine. Pour la CGT émancipation des salariés et construction d'une société libre, démocratique, émancipée, prospère sont indissociablement liés. Au cours de ces deux jours, ouverts à tous, nous nous interrogerons sur nos responsabilités communes à faire vivre les cultures au travail et sur les conditions à réunir, avec tous, pour la mise en œuvre d'une véritable démocratie culturelle.<br>contact culture@cgt.fr □ www.cgt.fr/internet □ Jacques Aubert 06 09 48 42 85<br><br>vendredi 20 juillet □ 14h – 18h □ 2e étage, salle des colloques<br># ARCADI (Action pour la création artistique et la diffusion en Île-de-France)<br>Rencontre \"Politique publique/politique, public ?\"<br>Depuis sa création, Arcadi organise des ateliers sur des thèmes culturels ou artistiques en région Île-de-France ainsi qu'au festival d'Avignon. Après \"Le partage des outils : équipes artistiques et lieux de diffusion\" en 2004, \"La diffusion du spectacle vivant : concurrence ou coopération ?\" en 2005, \"Y-a-t-il un producteur dans la salle ?\", voici en 2006, \"Politique publique/politique, public ?\".</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rencontrespro-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

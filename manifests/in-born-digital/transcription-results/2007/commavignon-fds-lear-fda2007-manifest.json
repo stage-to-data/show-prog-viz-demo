@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Lear"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_lear_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lear_FDA2007/CommAvignon_fds_lear_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Quelle traduction utilisez-vous?<br>C'est une traduction nouvelle que j'ai commandée à Pascal Collin.<br><br>Le rôle du Roi Lear est souvent considéré comme une récompense pour acteur en pres-<br>que fin de carrière. Qui jouera ce rôle dans votre mise en scène?<br>C'est Nicolas Bouchaud qui a une quarantaine d'années. Le Roi Lear pose plus la question<br>de la maturité que celle de la vieillesse. Il n'y a pas d'âge pour parler de la maturité. Ce qui<br>m'intéresse dans le travail avec les acteurs c'est comment ils interrogent en eux les thèmes<br>de la pièce qu'ils jouent.<br><br>Dans vos précédentes mises en scène, vous avez toujours créé un lien direct entre le<br>public et la scène. En sera-t-il de même avec Le Roi Lear?<br>Cette question du rapport au public peut se résumer en un désir que j'ai toujours eu de faire<br>du public un acteur de la représentation en train de se faire sous ses yeux. Il ne s'agit donc<br>pas de participation, mais de la conscience que le spectateur doit avoir d'être partie inté-<br>grante de la construction de la pièce au moment même où elle se construit. Même dans un<br>lieu comme la Cour d'honneur, les acteurs doivent pouvoir s'adresser directement aux spec-<br>tateurs et les associer à ce qui se crée sur le plateau, au moment où cela se crée. C'est l'uto-<br>pie même du théâtre que de faire en sorte qu'il puisse se créer chaque soir avec ceux qui le<br>regardent.<br><br>Vous travaillez avec des comédiens qui vous accompagnent sur presque tous vos specta-<br>cles. Est-ce encore le cas?<br>Oui bien sûr. Cela est aussi valable pour les techniciens. Nous grandissons tous ensemble,<br>et j'ai besoin de ce compagnonnage.<br><br>Comme beaucoup de metteurs en scène français qui seront présents au Festival cette<br>année, vous avez eu une formation d'acteur avant de devenir metteur en scène.<br>Comment vous est venu ce désir de mettre en scène?<br>Mon désir de monter des textes vient avant tout de celui de diriger des acteurs, et d'écrire.<br>Mettre en scène c'est construire l'écoute d'une œuvre donc pratiquement la réécrire à vue,<br>dans le présent du plateau. Ce prolongement de l'écrit dans le corps de l'acteur est peut-<br>être ce qui m'intéresse le plus sur le plateau.<br>Propos recueillis par Jean-François Perrier en février 2007 avant le début des répétitions<br><br>(1) L'éthique de la psychanalyse - Le Séminaire - Livre VII - éditons du Seuil, 1986.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lear_FDA2007/CommAvignon_fds_lear_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Jean-François Sivadier<br>Né en 1963, ancien élève de l'école du Théâtre national de Strasbourg, Jean-François Sivadier est comédien et metteur en scène. Proche de Didier-Georges Gabily – qui l'a dirigé dans plusieurs spectacles – il a participé à la création de Dom Juan/Chimère et autres bestioles en 1996 au Théâtre national de Bretagne à Rennes, terminant la mise en scène interrompue par la mort de Gabily.<br>Comme comédien, il a notamment joué avec des metteurs en scène comme Jacques Lassalle (Léonce et Léna de Georg Büchner et Bérénice de Racine), Daniel Mesguish (Titus Andronicus de Shakespeare), Alain Françon (La vie parisienne d'Offenbach), Stanislas Nordey (Jeanne au bûcher, opéra d'Arthur Honegger), ou Dominique Pitoiset (Faust (Urfaust) de Goethe)... En 1996, il écrit et met en scène Italienne avec orchestre, créée au Cargo de Grenoble puis jouée près de deux cents fois en France et à l'étranger. Il écrit et monte en 1998 Noli me tangere, impromptu créée au Théâtre national de Bretagne pour le festival Mettre en scène.<br>Depuis il a mis en scène La folle journée ou Le Mariage de Figaro de Beaumarchais (2000), La vie de Galilée de Bertolt Brecht, créé au TNB en 2002, Italienne Scène et orchestre en 2003 et repris dans une nouvelle version en 2004, créée à l'Opéra de Lille Madame Butterfly de Puccini en 2004, et Wozzeck d'Alban Berg en 2007.<br>Au Festival d'Avignon, Jean-François Sivadier a déjà joué dans Enfonçures de Didier-Georges Gabily en 1993 et dans Henry IV de Shakespeare mis en scène par Yann-Joël Collin en 1999 et présenté La Vie de Galilée de Brecht en 2002 et un diptyque La Vie de Galilée de Brecht – La Mort de Danton de Büchner en 2005.<br><br>et<br><br># Dialogue avec le public<br>25 juillet □ 11H30 □ École d'Art<br>avec Jean-François Sivadier et des membres de l'équipe artistique du Roi Lear, animé par les Ceméa<br><br>Comme chaque année, l'Adami apporte son aide aux spectacles coproduits par le Festival d'Avignon et favorise l'emploi, notamment sur des spectacles réunissant un nombre important d'artistes. Grâce à ce soutien, les spectacles L'Acte inconnu de Valère Novarina, Feuillets d'Hypnos de Frédéric Fisbach et Le Roi Lear de Jean-François Sivadier, se donnent dans la Cour d'honneur.<br>Société de gestion collective des droits des artistes-interprètes (près de 60 000 comédiens, chanteurs, musiciens, chefs d'orchestre, danseurs...), l'Adami consacre 25% des perceptions issues de la copie privée à l'aide à la création, à la diffusion et à la formation professionnelle des artistes. En 2006, près de 13 millions d'euros ont été consacrés à 950 projets dans différents genres artistiques, dont plus de 4 millions d'euros au domaine du spectacle vivant, sans compter les festivals. Ces aides ont contribué à l'emploi direct de plus de 6500 artistes. Philippe Ogouz Président du Conseil d'administration de l'Adami<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lear_FDA2007/CommAvignon_fds_lear_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Jean-François<br>Sivadier<br>Le Roi Lear<br><br>DE WILLIAM SHAKESPEARE<br><br>DEXIA                                61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lear_FDA2007/CommAvignon_fds_lear_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>21 22 23 25 26 27<br>COUR D'HONNEUR DU PALAIS DES PAPES □ 21 h 30 □ durée 4h entracte compris □ création 2007<br><br>de William Shakespeare<br>traduction Pascal Collin<br>mise en scène Jean-François Sivadier<br>collaboration artistique Véronique Timsit, Nadia Vonderheyden, Nicolas Bouchaud<br>avec<br>Nicolas Bouchaud Lear, un vieux paysan<br>Stephen Butel Edgar (fils de Gloucester), un serviteur<br>Murielle Colvez Goneril (fille de Lear), un serviteur, un médecin<br>Vincent Dissez Comte de Gloucester, un chevalier, le héraut<br>Vincent Guédon Edmond (fils de Gloucester), un serviteur, un chevalier<br>Norah Krief Cordelia, le Fou<br>Nicolas Lê Quang Duc de Cornouailles (époux de Régane), Curan, un serviteur, un gentilhomme<br>Christophe Ratandra Régane (fille de Lear), un serviteur, Curan, un médecin<br>Nadia Vonderheyden Monseigneur de Kent, un témoin<br>Rachid Zanouda Duc d'Albany (époux de Goneril), Oswald (serviteur de Goneril), un chevalier, un gentilhomme<br>Jean-François Sivadier Roi de France<br>Jean-Jacques Beaudouin Duc de Bourgogne<br><br>scénographie Jean-François Sivadier, Christian Tirole<br>costumes Virginie Gervaise<br>lumière Philippe Berthomé,<br>en collaboration avec Jean-Jacques Beaudouin et Ronan Cahoreau-Gallier<br>musique Frédéric Fresson<br>collaboration exceptionnelle Vincent Rouche, Anne Cornu<br>son Jean-Louis Imbert<br>accessoires Christian Tirole, Bruno Bergin<br>maquillages et perruques Cécile Kretschmar<br>régie générale Dominique Brillault<br>assistantes à la mise en scène Véronique Timsit, Anne de Queiroz<br>régie plateau Dominique Brillault, Christian Tirole, Salah Zemmouri, Arnaud Murat<br>régie lumière Jean-Jacques Beaudouin, Ronan Cahoreau-Gallier<br>poursuiterus Koceila Aouabed, Thomas Rebou<br>régie son Vanessa Court<br>régie costumes Lucia Scalisi<br>réalisation du décor atelier proscenium (Rennes) et atelier Nanterre : Jean Michel Hiard, Christian Bouyssoux, Hakim Miloudi, Arnaud Murat, Alain Dilogran, Salah Zemmouri<br>peintures Alwyne de Dardel, Régis Lebourg, Federica Giaretta<br>réalisation des costumes Lionel Hermouet, Tanya Sayer, Stéphanie Wambre, Sylvie Hamelin<br>réalisation des effets aériens Claude Lergenmuller (moyens techniques: Les élastonautes)<br>maître d'armes Dan Schwartz, Patrick Steltzer<br>stagiaires Caroline Guiela (mise en scène), Claire Gondrexon (lumière), Antonin Boya (costumes), Adèle Guyodo, Anne Caroline Delostal (accessoires)<br><br>texte publié aux Éditions Théâtrales (collection \"En scène\"), en coédition avec le TNB<br>spectacle créé le 21 juillet 2007 à la Cour d'honneur du Palais des papes, Festival d'Avignon<br><br>Jean-François Sivadier est artiste associé au Théâtre national de Bretagne (Rennes)<br>producteur délégué Théâtre National de Bretagne (Rennes)<br>coproduction Festival d'Avignon, Théâtre Nanterre-Amandiers, La Rose des Vents Scène Nationale Lille Métropole/<br>Villeneuve d'Ascq, L'Espace Malraux-Scène nationale de Chambéry et de la Savoie, Italienne avec Orchestre,<br>TNT-Théâtre National de Toulouse Midi Pyrénées<br>Le Festival d'Avignon reçoit le soutien de l'Adami pour la production<br><br>remerciements à Julie Brochen et l'équipe de l'Aquarium, Claudine et Jacques Thoridet, Delphine Héliett, Robert<br>Juliat, Ayas Transtechnik et à Jean Pierre Druelle et à toute l'équipe de Nanterre</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lear_FDA2007/CommAvignon_fds_lear_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Les dates du Roi Lear après le Festival :<br>2007: du 8 au 24 novembreau Théâtre national de Strasbourg, du 28 au 30 novembre à la Comédie de Clermont-Ferrand, du 4 au 8 décembre à Comédie de Béthune, du 12 au 14 décembre au Carré Saint-Vincent (Orléans), du 19 au 21 décembre à Bonlieu (Annecy)<br>2008: du 9 au 11 janvier à l'Espace Malraux (Chambéry), du 17 au 19 janvier au Théâtre des Salins (Martigues), du 23 au 26 janvier au Théâtre de Nice, du 30 janvier au 1er février au Volcan (Le Havre), du 6 au 10 février au T.N.T (Toulouse), du 14 au 16 février à la Comédie de Valence, du 20 au 22 février au Forum Meyrin à Genève, du 27 au 29 février à la Maison de la Culture (Bourges), du 5 au 15 mars à La Rose des Vents (Villeneuve d'Ascq), du 19 au 29 mars au T.N.B. de Rennes, du 2 au 4 avril à La Coursive (La Rochelle), du 9 au 11 avril au TNBA à Bordeaux<br><br># entretien avec Jean-François Sivadier<br><br>Vous revenez au Festival pour mettre en scène Le Roi Lear dans la Cour d'honneur du Palais des papes. Quels sentiments vous animent face à ce lieu mythique ?<br>Jean-François Sivadier : Le premier sentiment c'est la joie. Il y a longtemps qu'Hortense Archambault et Vincent Baudriller m'ont proposé de monter un spectacle dans la Cour. J'ai attendu. Je voulais y venir avec un vrai désir. Ne pas me tromper d'enjeu. Quand nous avons présenté La Mort de Danton et La Vie de Galilée il y a deux ans dans la Cour du lycée Saint-Joseph, j'ai pensé que le moment était venu de répondre positivement à l'invitation. En assistant l'an dernier à quelques répétitions des Barbares, j'ai été surpris de l'osmose entre l'espace du public et celui du plateau, et du rapport entre l'intime et l'immensité, ce qui est un des grands thèmes du Roi Lear.<br><br>Pourquoi avoir choisi de mettre en scène une pièce elle-même mythique, Le Roi Lear, qui n'y a pas été jouée depuis vingt-six ans ?<br>Après Le Mariage de Figaro, La Vie de Galilée et La Mort de Danton, un ensemble de trois pièces portant des messages politiques percutants, trois pièces traversées par des idées, des théories et des discours, c'est comme si nous abandonnions un théâtre de la Raison. La langue au travail dans la pièce parle à l'inconscient du spectateur parfois plus qu'à son intellect. Pourquoi choisit-on de monter telle pièce ? Parce qu'on a l'intuition que les questions qu'elle pose vont nous faire grandir. Celles du Roi Lear sont considérables.<br><br>De nombreuses pièces de Shakespeare sont des pièces où le théâtre est au centre des préoccupations de l'auteur. En est-il de même avec Le Roi Lear ?<br>Lear c'est tout le théâtre à partir de rien. En posant moi au cœur du plateau au début de la pièce, Cordélia offre inconsciemment à son père, qui possède tout, de se confronter à l'épreuve du manque. N'est-ce pas l'essence même du théâtre de devoir tout réinventer ? Elle lui offre un désert pour qu'il découvre l'homme caché sous la couronne du roi. Le personnage dans la pièce passent leur temps à changer de place et d'identité pour essayer de savoir qui et où ils sont. La grande question de Lear c'est \"être et ne pas être\".<br><br>Beaucoup de psychanalystes se sont intéressés au Roi Lear, en particulier Jacques Lacan qui disait \"Il croit qu'il est fait pour être aimé ce vieux crétin\"(1), considérant que cette tragédie était aussi une tragédie de l'amour filial et donc des rapports père-filles. Cet aspect-là vous paraît-il essentiel ?<br>Oui et plus largement l'amour entre les pères et les enfants qui est mis en crise tout au long de la pièce. L'amour est un thème qu'on n'associe pas immédiatement au Roi Lear et pourtant il en est pratiquement question dans chaque scène. Le rapport entre Lear et ses filles</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_lear_FDA2007/CommAvignon_fds_lear_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>est vertigineux car très vite on ne sait plus qui accouche ou conduit l'autre. On parle beaucoup de Bergman en répétitions, de comment se construit ce chaos intime, comment naissent des questions du genre: qui est au fond cette personne que je devrais, parce qu'elle est mon père ou mon enfant, aimer naturellement? Est-ce que l'amour entre parents et enfants est naturel?<br><br>Pensez-vous comme le Fou le dit à Lear que: \"c'est d'avoir fait de vos filles des mères qui vous a rendu fou.\", c'est-à-dire que l'inversion de la filiation est contre nature, comme il est politiquement contre nature de donner son pouvoir?<br>Ce qui entraîne le chaos dans la famille et dans l'État est d'abord l'acte de Lear qui descend du trône en gardant le nom de roi et partage son royaume sans désigner de successeur, ensuite celui de mettre une histoire privée (l'amour de ses filles) au cœur d'un enjeu politique, et enfin de décider de ne pas reconnaître la vérité et la raison à l'instant où elles se manifestent. Tout cela renverse dès le début tout l'ordre du monde.<br><br>Vous parliez de la scène de la tempête de l'acte III qui est sans doute la scène mythique de cette pièce mythique. Avez-vous déjà une image de ce qu'elle sera?<br>À l'instant de la tempête Lear n'a plus d'autre adversaire que lui-même. La colère dans son corps et dans sa tête est plus violente que celle du ciel. Il est dans la tempête comme un acteur sur un plateau, à la fois dieu et juste un homme exposé, nu. Le plus excitant dans cette scène est ce défi que lance Shakespeare de représenter l'irreprésentable. Il s'agit donc bien de théâtre. Il me semble que le plus important c'est le texte, \"avant\" le décor, le fracas dans la langue et pas les effets spéciaux.<br><br>La folie est double dans la pièce puisqu'il y a le fou du roi et le roi fou?<br>La folie de Lear dans la pièce ne va pas de soi. Ce qui lui fait perdre totalement la raison, au troisième acte est quelque chose de forcément plus profond que la douleur causée par ce qu'il appelle l'ingratitude de ses filles. Pour aller à la rencontre de lui-même Lear va devoir réaliser sensiblement qu'il y a deux corps en lui, le corps politique du roi et le corps naturel, mortel de l'homme. Tout comme il y a d'un côté le corps de l'acteur et de l'autre le rôle qu'il incarne. Cette folie-là est comme celle de l'acteur, à la fois à l'extérieur et à l'intérieur du personnage.<br>Quant au thème du double il ne concerne pas seulement le roi et son fou mais tous les personnages. Chacun est le double de quelqu'un d'autre. Dans Lear tout est altérité.<br><br>Il y a donc une surabondance de thèmes et d'événements dans ce Roi Lear?<br>C'est tout le génie de Shakespeare d'aborder en une seule pièce autant de sujets de réflexion extraordinaires sans s'y appesantir. Il n'y a ni discours ni bavardage mais on peut discourir des heures sur telle ou telle scène. Le sens de la pièce est incroyablement ouvert. Certaines répliques du Fou sont comme des sujets de philosophie.<br><br>Victor Hugo disait de Shakespeare qu'il faisait partie des \"hommes océans\" comme Eschyle, Dante, Michel-Ange. Est-ce dangereux de naviguer dans cet océan-là?<br>C'est excitant d'apprendre à naviguer dans un océan comme celui-là. Comme au théâtre on ne fait jamais que des hypothèses, des expériences, il est impossible d'avoir des certitudes, surtout avec Shakespeare. Le plus important n'est pas la réponse mais la manière dont on pose la question sur le plateau.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-lear-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

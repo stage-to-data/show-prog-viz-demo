@@ -1,0 +1,830 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Varda"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_varda_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 1754,
+            "width": 2481,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_varda_FDA2007/CommAvignon_fds_varda_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 1754,
+                                "width": 2481,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/1#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Agnès Varda<br>Hommage aux Justes de France<br>INSTALLATION D'AGNÈS VARDA</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/1#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 1754,
+            "width": 2481,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_varda_FDA2007/CommAvignon_fds_varda_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 1754,
+                                "width": 2481,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/2#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># 7 - 27 juillet<br>LA MIROITERIE ⁭ horaires d'ouverture 11 h - 18 h ⁭ entrée libre<br><br>conception et réalisation des films Agnès Varda<br>scénographe Christophe Vallaux<br>coordinatrice Rosalie Varda<br><br>Hommage aux Justes de France est une commande publique de l 'État (ministère de la Culture et de la Communication) présentée pour la première fois au Panthéon dans le cadre de l'Hommage de la Nation aux Justes de France, le 18 janvier 2007.<br>L'œuvre est inscrite sur les inventaires du Fonds national d'art contemporain/Centre national des arts plastiques<br><br>Films :<br>prises de vues Valentin Caron, Stéphane Krausz, Sophie Bosquet<br>montage Baptiste Filloux<br>montage son Fabien Caron<br>musique Violaine Sultan<br>production Franco American Films, Jacques Arnaud<br><br>Photographies des Justes<br>Mémorial de la Shoah, CDJC, Yad Vashem, Emmanuel Finkiel, USHMM<br>Portraits des \"Justes inconnus\" Agnès Varda, Valentin Vignet<br><br>Extraits de films :<br>INA<br>ECPAD<br>La Colline aux mille enfants de Jean-Louis Lorenzi, production Jean-Luc Michaux/Native<br>Jacquot de Nantes d'Agnès Varda, production ciné-tamaris<br><br>Merci aux personnes qui ont participé aux tournages dans la Drôme provençale, dans le Vexin et à Paris<br><br>La présentation de cette installation pendant le Festival d'Avignon 2007 a reçu le soutien du ministère de la Culture et de la Communication : Délégation aux Arts plastiques, Direction régionale des Affaires culturelles de Provence-Alpes-Côte d'Azur et Centre national des arts plastiques.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/2#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 1754,
+            "width": 2481,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_varda_FDA2007/CommAvignon_fds_varda_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 1754,
+                                "width": 2481,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/3#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Pourquoi montrer Hommage aux Justes de France à Avignon, installation créée au Panthéon en janvier dernier ?<br>Agnès Varda : C'est à l'invitation de Vincent Baudriller et d'Hortense Archambault qui l'avaient vue à Paris. Ils m'ont dit que la thématique de l'Histoire était très présente dans le Festival cette année... Cette installation, le changement de lieu va la transformer. Son thème et sa forme seront vus tels que créés : une installation pas une cérémonie. Elle quitte le Panthéon, temple géant et solennel de la République, tombeau des grands hommes, pour une ancienne miroiterie, près des remparts d'Avignon, un grand bâtiment des années trente qui est aujourd'hui vidé, et va être démoli bientôt. L'Histoire va y être représentée de façon moins solennelle Ce n'est plus un temple mais une usine : un temple mais de l'industrie... Cela implique toute une réflexion sur l'adaptation de l'installation à ce nouvel espace. Il a fallu changer l'ensemble des proportions, passer par exemple d'un socle de dix-sept mètres de diamètre à neuf mètres cinquante, de trois cents photos dressées à deux cents, et il faut retrouver de bonnes proportions pour les quatre écrans, la grande photo de l'arbre au fond de l'installation. La nature fait le lien entre les écrans, mais elle n'intervient pas de la même façon au Panthéon et dans une usine. Tout ce travail sur l'espace m'excite beaucoup, et les maquettes ont été indispensables.<br><br>Quelle idée vous a tenu le plus à cœur en travaillant sur les \"Justes\" ?<br>Il y avait deux défis. Parvenir à faire ressentir l'histoire et la persécution des Juifs en dix minutes, synthèse nécessaire pour que les gens restent voir les films et soient touchés. Les gestes de l'ignominie : le tampon, l'étoile jaune, l'arrestation. Et puis la vie à la campagne, c'est le parti que j'avais choisi, le comportement des paysans, leur générosité quotidienne, les risques pris, tout cela pour des enfants qu'il fallait nourrir et cacher. Je voulais raconter cette histoire avec un certain naturel, en faisant sentir les enfances, leur solitude, la peur omniprésente, mais aussi la découverte de la campagne. Le travail de Violaine Sultan sur la musique est très beau, qui propose une composition minimale sur une chanson yiddish. Elle joue de l'alto.<br>L'autre défi consistait à réaliser deux films qui, simultanément racontant la même chose mais selon des points de vue différents. Un film en noir et blanc, d'esprit classique, et l'autre en couleur où la texture, les matières, les détails, les gestes sont mis en avant à partir des mêmes scènes de refuge, de protection, de cache, de vie quotidienne à la campagne, d'arrestation. Dans le premier, on voit l'histoire ; dans le second on la touche, on la sent, on la tient, à travers les tissus, les corps, les objets filmés en gros plans. Les gestes font le contact avec ce qu'on raconte, par exemple la manière dont un homme tient son béret enroulé dans la main... ou les grosses chaussettes courtes dans les sabots. De même, les bruits et les sons, très importants dans cette installation.<br>Au Panthéon, ce fut une bonne surprise : 45 000 visiteurs, l'exposition prolongée de trois à dix jours, beaucoup d'émotion. Là, au Festival, j'amène des images filmées, des sons et les centaines de portraits de vrais Justes. J'espère être en contact tactile et émotif avec des spectateurs qui viennent surtout pour du théâtre.<br><br>On a l'impression que, depuis quelques années, ces travaux d'exposition constituent un nouveau moment dans votre vie d'artiste ?<br>Quand, pour la biennale de Venise dans la section Utopia Station, en 2003, Hans Ulrich Obrist, commissaire d'exposition et génial secoueur du système, m'a proposé de venir, cela a changé ma vie. Il a eu le culot de m'inviter et je suis venue... en courant ! J'ai proposé Patatutopia, une installation en trois écrans, trois écrans plein de patates. Au milieu il y avait des patates en forme de cœurs qui</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/3#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 1754,
+            "width": 2481,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_varda_FDA2007/CommAvignon_fds_varda_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 1754,
+                                "width": 2481,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/4#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>respiraient. Il m'a offert la possibilité d'oser. Maintenant, osons ! J'aime énormément ce travail d'exposition et d'installation, qui remet en jeu l'espace, la durée, intègre le regard des autres dans un parcours. Le risque est plus fort, la mise en risque de soi-même très exci-tante. Cela permet de créer quelque chose qui n'existe pas dans le cinéma, une relative annulation de la mise en scène classique par la participation du visiteur, le désir du spectateur, la mise en espace des images, la conception d'autres formes en trois dimen-sions. Graphiquement c'est très riche, propice à l'imagination. Et comme au cinéma, il faut être réalisatrice aussi.<br><br># Votre rapport aux images a donc beaucoup changé ?<br>C'est quelque chose que j'avais en moi, qui existait parfois à l'état latent dans mes films, et que je peux désormais travailler plus intensément et directement à partir de propositions de musées et d'institutions d'art. Parallèlement, je réalise depuis cinq ans un tra-vail très concret et plutôt ludique pour les DVD. C'est une autre manière de proposer les films et de les faire voir, en y ajoutant des sup-pléments. Les boni ! Un bonus, des boni, c'est plus latin c'est plus joli. Mais il faut d'abord restaurer les films. Ça, c'est moins ludique, c'est technique. J'ai commencé par des films de Jacques Demy, puis on est passé aux miens.<br><br># Vous travaillez beaucoup sur les bonus de vos DVD...<br>Oh oui ! Cela ressemble pour moi à un carnet de notes, d'impressions, d'idées diverses, qui nourrissent le film lui-même, permettent de le voir ou le revoir autrement. Cela mêle un côté Pléiade et en même temps un côté art populaire. C'est un travail assez long, trop orienté vers le passé mais j'aime le faire. Je vois ces boni comme des antipasti qui précèdent la vision du film, ou le suivent ; des petits boniments qui l'entourent je suis une conteuse, une raconteuse d'histoires en images, et ces petits films que je réalise spécialement ont cette vertu-là... Enfin je l'espère. Dans la multitude actuelle des DVD, on propose des choses personnelles et différentes, c'est aussi la seule chance que ces DVD soient remarqués et intéressent. Après Cléo plus Daguerréotypes, on est en train d'éditer avec l'équipe Cinétam' et en partenariat avec le CNDP un double bien tassé de mes seize courts métrages, réalisés sur cinquante ans. Je les pré-sente je les replace dans leur temps j'essaie de me souvenir de mon plaisir à tourner court.<br><br># À Avignon cette année, vous allez montrer vos premières photos, d'il y a soixante ans, et votre plus récente installation, d'il y a quelques mois. C'est une forme de grand écart impressionnant...<br>Ah j'aimerais savoir faire le grand écart ! Oui c'en est un ! Un travail avec les images mais aussi avec le temps. Pas contre le temps, mais en le faisant rebondir à partir des images pour un public nouveau.<br>À part tout ça, je suis en train d'écrire un scénario de film... Mais il y aura quand même des installations dedans ! Je suis devenue \"installation-dépendante\".<br><br>Propos recueillis par Antoine de Baecque en avril 2007</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/4#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 1754,
+            "width": 2481,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_varda_FDA2007/CommAvignon_fds_varda_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 1754,
+                                "width": 2481,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/5#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>[The text in the image appears to be upside down. I'll transcribe it in the correct reading orientation:]<br><br>Par rapport à l'exposition Je me souviens de Virar en 1991, qu'avez-vous changé ?<br><br>Outre le lieu, le parcours, la lumière, ce qui est fondamental, j'ai voulu introduire d'autres grandes figures autour de Virar, qui font partie de notre mémoire, des acteurs, des actrices : Georges Wilson, Daniel Sorano, Christine Minazzoli, Philippe Noiret et Monique Chaumette, ensemble, puisque c'était un couple dans la troupe. J'ai toujours envie de m'excuser auprès de tous les autres partici-pants de l'époque. Mais dans ma tête, en montrant ces photos, c'est comme si je citais tous le monde.<br><br>Et puis sur, gloire à Maria Casarès. Vivar et Casarès, grands par leur talent ensemble, représentant pour moi le virai auto d'Avignon. Re-mission d'intelligence.<br><br>Propos recueillis par Antoine de Baecque en avril 2007</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/5#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 1754,
+            "width": 2481,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_varda_FDA2007/CommAvignon_fds_varda_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 1754,
+                                "width": 2481,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/6#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>PAGE 1<br><br># Agnès Varda<br><br>Vous êtes doublement présente cette année à Avignon.<br><br>Cinéaste, Vincent Baudriller et Hortense Archambault sont venus me voir à Ciné Tamaris. Ils m'ont demandé pour ce Festival la création d'une installation. J'aime les commande, ils savaient vu Elle et Elles et la Fondation Cartier. Ils voulaient développer la part des artistes et des expositions dans le Festival. C'est ainsi que j'ai un lieu particulier avec Avignon: son Festival à ses débuts, mais il était impossible pour moi de faire une nouvelle création pour ce Festival 2007. Alors j'ai pensé à deux choses l'exposition de photographies que j'avais réalisée en 1991 à l'Hospices Saint-Louis, Je me souviens de Vidar en Avignon et l'installation que je viens de faire au Panthéon, en janvier, sur les Justes de France, Répondants des expositions. Les femmes, d'abord le portrait et un travail. Comme quand nos chers résistants, cela permet de reconnecter une nouvelle génération. Des spectateurs, d'abord. Celui qui découvre la résistance d'une exposition. Avec Panthéon, mon ami Angelopoulos, décédé trop tôt et le travail d'Anne Justice qu'il dénonçait. C'est ce problème ancien et qui touche notre époque, qui est de délité, travaillons du Panthéon et de la Fondation Cartier: nous aimons travailleur sur macquettes. Nous savons les lieux dans l'œil en photo mais grâce aux maquettes, chez moi on passe aux installations, et à lumière. Pour voir chez moi en ce moment une chapelle Saint-Charles, à l'échelle et la Madeleine. Et il y a encore un homme Panthéon en réduction. J'ai sous les yeux ce que est possible ou non.<br><br># Je me souviens de Vidar en Avignon va être montré dans la chapelle Saint-Charles...<br><br>Ses proportions sont extraordinaires. Elles permet plusieurs manières de visiter, de regarder, de prendre son temps : il y a des ressources visuelles et une grande écriture photographique. C'est un cloître, plusieurs entrées, un petit espace en hois, et une grande écriture harmonieuse. On y clonate la structure des lois qui minute de la forme, des espacements. A l'heure de cet espace. Mes espaces formels ont trait à cette-oeuf photographiques, parois regroupées en ensemble, parois non. Ces montages de grands formats en fragments permettent de faire ressortir des choses qu'on ne voit pas forcément un premier regard. D'un côté de la chapelle, un décisif philipe de cinq mètres de haut, fragmenté en quinze cadres, dresse dans la beauté de la légende, en Prince de Hombourg, tout en blanc sur fond de feuillage, dans la lumière d'un éclat de lune relevante en plein jour. De l'autre côté, un Jean Vilar de six mètres de large, en vingt-trois morceaux. Il est dans sa loge, au Palais des papes, sous une inestimable ampleur, avec sa vieille chemise, son regard intense et fixe, son nez pointu, qui se regarde dans un miroir... Il y a la toute la solitude du comédien. Sur les côtés, on voit des images des foules portés et les grilles du Palais. Comme s'il se trouvait entendre lui-même dans son propre piège, dans son propre palais. Je raconte cette image composée car je le trouve juste ; enaquante ans après l'avori prise, cette photographie de Vilar me touche encore beaucoup. Cette solitude était la vérité de Vilar.<br><br>Vous avez été la première photographe du Festival d'Avignon, dès 1948, lors de la deuxième édition...<br><br>Bien auparavant j'ai été la baby sister des Vilar, à l'époque de leur premier enfant | Je me souvenais alors un Jean Vilar dans son premier rôle, dans un théâtre rue de Lannoy. Quand j'ai commencé dans la photo, à vingt ans, il m'a demandé de venir à Avignon pour donner un coup de main et photographier le Festival. On citait en 1948. J'y suis retournée tous les étés jusqu'en 1960. Ce qui m'a frappé, tout de suite, c'était l'intelligence de Vilar mise au service d'un projet sensible et politique. Même si on ne se parlait pas souvent.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/6#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 7"
+                ]
+            },
+            "height": 1754,
+            "width": 2481,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/7/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/7/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_varda_FDA2007/CommAvignon_fds_varda_FDA2007_page_7.jpg",
+                                "type": "Image",
+                                "height": 1754,
+                                "width": 2481,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/7#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/7/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/7/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Z / 27 juillet<br><br>CHAPELLE SAINT-CHARLEMAGNE - horaires d'ouverture 11 h - 13 h - entrée libre<br><br>conception Agnès Varda<br>scénographie Christophe Veilhan<br>coordination Rosalie Varda<br>interférements<br>à l'équipe du festival d'Avignon<br>au laboratoire Central Color pour les tirages<br>aux ateliers Aubusti et Tomawak pour les collages et encadrements<br>et un spécial merci à Mark Brugierstend<br><br>Née en Belgique en 1928, Agnès Varda fait ses études à Paris, l'École du Louvre et un CAP de photographie. Dès les débuts de Jean Vilar au Théâtre des peuples à Avignon, elle photographie le Festival puis la troupe du TNP au Palais de Chaillot. Elle fait de nombreux reportages à l'étranger. En 1954, sans aucune formation ni assitanat, elle crée la société Tamaris, écrit et réalise La Pointe Courte, film précoco d'un cinéma radical, qui lui vaut le titre de \"grand-mère de la Nouvelle Vague\". Après des court métrages, son film Cléo de 5 à 7 en 1961 se détache du style des autres cinéastes de la Nouvelle Vague. Le Bonheur (1965), Les Créatures (1966), Lions love (... and lies) (1969), Jane chante l'autre pas (1976), Documenteur (1981) Sans toit ni loi (1985), Jane B. par Agnès V. (1987), Kung-Fu master! (1987), Jacquot de Nantes (1990) et Les Cent et une nuits (1994). Puis ces films originaux tournés en France ou à Los Angeles, qui ont été remarqués et ont remporté des prix. Agnès Varda passe du court au long métrage, de la fiction au documentaire avec Daguerréotypes (1975), Mur Murs (1980), Les Demoiselles ont eu 25 ans (1992), L'Univers de Jacques Demy (1993-95), Les Glaneurs et la glaneuse (2000), Deux ans après (2002) et Quelques Veuves de Noirmoutier (2006), fin 2001, elle reçoit un César d'honneur pour l'ensemble de sa carrière.<br><br>Depuis Patatutopia, triple vidéo présentée en 2003 à la Biennale de Venise, Agnès Varda remiet en jeu sa pratique de cinéaste dans de nouvelles configurations. Elle propose en 2006 le triptyque de Noirmoutier et Les Veuves de Noirmoutier à la Galerie Martine Aboucaya. En 2006 à la Fondation Cartier pour l'Art Contemporain à Paris, une très grande exposition L'Île et Elle, dédiée des installations ayant toutes pour point de départ l'Île de Noirmoutier dont La Grande Carte Postale et Le Tombeau de Zgougou. En 2007, à l'occasion d'une cérémonie au Panthéon, elle prend un Hommage aux Justes de France avec deux films simultanés, une image d'archive et une installation photographique.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/7#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/8",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 8"
+                ]
+            },
+            "height": 1754,
+            "width": 2481,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/8/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/8/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_varda_FDA2007/CommAvignon_fds_varda_FDA2007_page_8.jpg",
+                                "type": "Image",
+                                "height": 1754,
+                                "width": 2481,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/8#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/8/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/8/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Agnès Varda<br><br>Je me souviens de Vilar en Avignon<br><br>PHOTOGRAPHIES (1949 - 1956) D'AGNÈS VARDA</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-varda-fda2007/canvas/8#xywh=0,0,2481,1754"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

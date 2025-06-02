@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Cruda"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_cruda_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_cruda_FDA2007/CommAvignon_fds_cruda_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>temps, je me suis rendu compte que je considérais le théâtre de plus en plus comme une architecture, et pas seulement comme un espace de parole. J'ai remarqué aussi que dans mes pièces, les mots, le propos s'entendaient mieux, prenaient plus d'impact, si la parole se faisait moins présente et plus constante, d'un point de vue sonore, autrement dit si j'utilisais moins de matière phonique. J'ai trouvé qu'en développant plus d'actions physiques, elle prenait davantage de poids. Par ailleurs, en travaillant entre images et actions, je me suis aperçu que souvent, celles-ci se suffisaient à elles-mêmes. D'autres en revanche, plus abstraites, demandaient une sorte d'ancrage, il me fallait compléter ces actions par des mots. Je n'ai pas peur d'être explicite, le problème est plutôt de garder la capacité poétique de la pièce. Je procède toujours de cette façon trouble, en mêlant ces deux partis pris, en passant d'un coté à l'autre. C'est l'effort de chaque pièce: comment trouver un équilibre entre l'abstraction et l'engagement? En même temps, cela m'a coûté aussi de renoncer à écrire comme je faisais à mes débuts car j'aime vraiment ça. Je suis resté très attaché à l'aspect littéraire, et je ne déroge pas à cette attention. Mais il est vrai qu'il n'est plus la colonne vertébrale d'une œuvre. J'aime aussi mettre en scène ce qui s'exprime non seulement corporellement mais matériellement, et si les arts plastiques ont en partie inspiré mon travail, je n'ai pas cherché à faire entrer sur scène ces pratiques, de manière littérale, mais plutôt à garder un état d'esprit, une liberté de geste, une singularité, qui selon moi les caractérisent. Par exemple, je ne suis pas intéressé par l'idée d'intégrer une installation plastique sur le plateau d'un théâtre, de travailler à partir de concepts. Dans ces milieux préservés, beaucoup travaillent avec cette culture de l'esthétique, en questionnant son histoire, ses formes, son langage. Ce que je cherche à créer, ce sont des œuvres élémentaires, basiques, qui préservent la fragilité, la faiblesse, dans l'acte même de créer. Je travaille dans l'intranquillité. C'est une sorte de caractère, il y a de la vaillance et aussi de la douleur parfois à parler de choses très personnelles.<br>Extraits de propos recueillis par Irène Filiberti en février 2007<br><br># Rodrigo García<br><br>Rodrigo García est né en 1964 à Buenos Aires, en Argentine. Depuis 1986, il vit et travaille à Madrid. Il est auteur, scénographe et metteur en scène. En 1989, il crée la compagnie La Carnicería Teatro.<br>Rodrigo García revient aux origines du rite théâtral, sa fonction, son ambition, son impact, convoquant tous les sens du spectateur à une expérience à la fois intime et collective. C'est pourquoi son théâtre attend et exige une réaction: sensible et intellectuelle, intempestive, dubitative. Il s'attache à transformer la scène en une espèce d'œil du cyclone capable de saisir, et de formuler le bruit et la fureur de nos sociétés guerrières. Si le théâtre de García dérange et fascine, c'est parce qu'il n'a pas peur de nommer les choses, et de les montrer. C'est tout à la fois la comédie humaine, la farce sociale et le journal intime d'un artiste qui ne se satisfait pas de l'ordre du jour. Sa poésie à l'esthétique imprévisible et sa liberté de regard donnent à son écriture une mobilité, une précision et un impact redoutables.<br>Il a écrit et mis en scène entre autres Acera derecha (1989), Matando horas (1991), Prometeo (1992), Notas de cocina (1994), Carnicero español (1995), El Dinero (1996), Protegedme de lo que deseo (1996), Nuevas Ofensas (1998), Ignorante (2000), After Sun (2000), J'ai acheté une pelle chez Ikea pour creuser ma tombe, (2002), L'Histoire de Ronald, le clown de McDonald's et Jardinería humana (2003), et Et balancez mes cendres sur Mickey (2006).<br>Il a aussi travaillé comme metteur en scène sur les textes de Thomas Bernhard, W.H. Auden, Baudelaire ou Heiner Müller.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_cruda_FDA2007/CommAvignon_fds_cruda_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Rodrigo García réalise également des installations théâtrales, dont Hamlet à l'Audiovisual Festival Experimental (AVE), (Hollande, 1993) ou Dime poesías-boxea à l'Espacio Arte au théâtre Pradillo (Madrid, 1993). Il travaille également comme vidéaste.<br>Ses pièces sont montées dans toute l'Europe. La plupart de ses textes récents sont traduits aux éditions des Solitaires Intempestifs.<br>Au Festival d'Avignon, Rodrigo García a déjà présenté After sun, Je crois que vous m'avez mal compris en 2002 et L'Histoire de Ronald, le clown de McDonald's en 2004.<br><br>et<br><br># Approche de l'idée de méfiance<br>UNE PROPOSITION DE RODRIGO GARCÍA<br><br>22 23 24 25<br>CLOÎTRE DES CÉLESTINS ¤ 22h ¤ durée estimée 1h<br><br>Approche de l'idée de méfiance conduit le public du côté de l'intime et du rêve, entre \"lecture\", avec un texte projeté sur écran, et \"vision\", un paysage scénique élaboré par les acteurs. Un questionnement poétique qui du pamphlet à l'autocritique interroge le politique et la représentation.<br><br>Dialogue avec le public<br>9 juillet ¤ 11h30 ¤ École d'art<br>avec Rodrigo García, animé par Irène Filiberti<br><br>Regards critiques<br>20 juillet ¤ 11H30 ¤ École d'art<br>Le théâtre, la marge, le lien social<br>avec Krzysztof Warlikowski, Rodrigo García et Louis Schweitzer<br><br>Conférence de presse en public<br>21 juillet ¤ 11hH30 ¤ Cloître Saint-Louis<br>avec Rodrigo García<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_cruda_FDA2007/CommAvignon_fds_cruda_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Rodrigo García<br><br>Cruda. Vuelta y vuelta.<br>Al punto. Chamuscada.<br>(Bleue. Saignante.<br>À point. Carbonisée.)<br><br>61ᵉ Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_cruda_FDA2007/CommAvignon_fds_cruda_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>6 7 8 9 11 12 13<br>CLOÎTRE DES CARMES ⌐ 22 h ⌐ durée 1 h 15 ⌐ spectacle en espagnol, surtitré en français<br>création 2007<br><br>texte, espace scénique et conception Rodrigo García<br>avec Juan Loriente<br>et Ramiro Basilio, Guillermo Cerna, Pablo Ceresa, Rodrigo Díaz, Jorge Ferreyra, Manuel Sacco, Gaston Santamarina, Pablo Suarez, Kevork Tastzian, Oscar Truncellito, Victor Vallejo, Juan Vallejo, Leandro Vera, David Villalba<br><br>films à Buenos Aires (carnaval 2007) Chus Domínguez, Daniel Iturbe, Rodrigo García<br>lumières Carlos Marquerie<br>création sonore Nilo Gallego<br>projections des textes Ramón Diago<br>assistant à la mise en scène John Romão<br>costumes Silvia Ojeda<br>traduction Christilla Vasserot<br>régie générale Ferdy Esparza<br><br>arrangements musicaux Nilo Gallego et les murgueros d'après Sonic Youth et les murgas porteñas<br>Miei genitori, adio extrait de Il Primo Omicidio d'Alessandro Scarlatti (arrangement Pablo Politzer)<br>travail vocal Pablo Politzer<br>professeur de guitare Miguel de Olaso<br><br>production déléguée Festival d'Avignon<br>production à Buenos Aires Felicitas Luna, Maxime Seugé<br>les textes de Rodrigo García sont publiés aux éditions Les Solitaires Intempestifs<br>Spectacle créé le 14 juin 2007 à Salamanque (Espagne)<br><br>coproduction Festival d'Avignon, Festival international des Arts de Castille et León (Salamanque), le Festival d'Athènes et la Fondation Musica per Roma-Festival international de la Villa Hadrien<br>avec l'aide du programme Culture (2007-2013) de l'Union européenne et de l'Onda pour les surtitrés<br><br># entretien avec Rodrigo García<br><br>Vous avez donné un curieux titre à cette nouvelle création, Bleue. Saignante. À point. Carbonisée., que représente-t-il pour vous?<br>Rodrigo García: L'espagnol ne fait pas de différence entre chair et viande, un même mot les réunit, la \"carne\". Sur scène les acteurs sont assez nombreux, il y a donc beaucoup de chair humaine. Par ailleurs, comme on peut s'en apercevoir, ce titre se réfère à la viande, il nomme les différents temps de cuisson: bleue, saignante, à point, carbonisée. On associe beaucoup l'Argentine à la viande. On peut aussi dire que l'Argentine se fait manger. Il y règne toujours beaucoup de corruption avec cette oligarchie au pouvoir. Ce sont ces gens-là qui font les affaires. Pour les autres, il n'y a rien, aucune répartition de l'argent, pas la moindre distribution ou mise en œuvre de quelque chose de plus juste. J'ai mis longtemps à trouver ce titre tout comme je souhaitais depuis longtemps travailler avec des gens qui ne sont pas des acteurs professionnels.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_cruda_FDA2007/CommAvignon_fds_cruda_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Cette création est l'objet d'un processus différent de vos autres pièces?<br>Le carnaval fait partie de mes souvenirs d'enfance. Je voulais faire un spectacle avec ses danseurs. À l'époque, cette manifestation me fascinait complètement, d'abord parce que tout se passait dans la rue. Le bruit, la musique, la façon dont les gens dansaient, tout cela me plaisait et m'effrayait beaucoup, c'était extraordinaire pour moi. À Buenos Aires, le carnaval est très simple, il n'a rien à voir avec celui du Brésil par exemple, qui est beaucoup plus riche musicalement comme du point de vue de la recherche des costumes. En Argentine, tout cela est plus pauvre, rudimentaire. Il y a essentiellement des percussions, une sorte de marche avec des tambours. Les gens cousent ou bricolent eux-mêmes leur costume, ils dansent de façon très basique. Par ailleurs, autrefois, les personnes qui participaient à ce carnaval n'étaient pas bien vues. Issues de basses classes sociales, elles incarnaient la rue. On les appelait \"les murgas\", la Murga étant ce regroupement de gens qui jouent de la musique et dansent. J'ai donc voulu travailler à partir de ce phénomène, avec eux. C'est seulement quand je suis retourné en Argentine que j'ai pu me rendre compte des questions et des problèmes que cela pouvait soulever. J'y suis revenu pour réaliser un travail de vidéo, filmer le carnaval, la rue, ce qui s'y passe. Mais je me suis rendu compte que je n'éprouve aucun intérêt à faire du documentaire. Je me suis retrouvé devant ce problème à résoudre: comment faire une pièce avec ces éléments, comment inventer ma propre fiction? Comment créer avec des gens qui ne savent rien du théâtre, qui ne comprennent absolument pas mon langage, qui savent seulement ce qu'est la Murga et peu d'autres choses? Ce qui m'intéresse, c'est que la création puisse rejoindre, atteindre un certain niveau poétique. Et aussi de trouver une véritable communication avec ces personnes différentes, en cherchant une façon de faire surgir quelque chose d'intéressant.<br><br># Comment s'organisent les danses de la Murga?<br>Les murgueros ont une façon de bouger et de danser très réglée, avec un registre très limité: seulement six ou sept mouvements, que toute la Murga répète à l'identique, mais à l'intérieur de ce cadre, chacun travaille avec sa personnalité. On voit bien la singularité à l'intérieur même de la structure de la danse. J'ai commencé à travailler avec eux ces mouvements, mais je ne suis pas chorégraphe, j'ai donc surtout cherché à partir de leur propre registre, pour trouver une autre façon de faire, par exemple en coupant ces structures, en modifiant les règles, afin d'ouvrir sur un autre monde.<br><br># Est-ce que cela modifie la façon dont vous investissez l'espace, la scène?<br>Je ne travaille pas avec l'idée d'une scénographie. Le dispositif scénique n'est pas investi sur le principe de décor. Il y a, au final, une proposition claire, précise, définie, mais qui est toujours générée à partir de ces matériaux, en particulier les fluides que j'aime beaucoup. Comme l'image du reflet de la lune dans l'eau, par exemple. Mais pour en revenir au processus, durant cette création, j'ai traversé des moments très déconcertants. J'ai d'abord passé dix jours à filmer et rencontrer les gens pour déterminer ceux avec lesquels j'allais travailler. Ensuite nous avons enchaîné sur une période de deux semaines de travail. Au bout de ce premier mois, je ne savais toujours pas comment j'allais pouvoir m'y prendre avec ce matériel que nous avions recueilli, qui me permet habituellement d'élaborer mes pièces, et qui était très étrange. Là, j'avais besoin de le laisser décanter, pour réfléchir, avec très peu de temps disponible pour sédimenter: trouver un sol, donner une structure, une forme à ce matériel. Au bout de ce temps, il ne me restait essentiellement que des images, et cela m'inquiétait beaucoup. Car avec mes acteurs, d'habitude je ne suis pas confronté à ce genre de préoccupation. Ils sont habitués à cette façon de travailler, ils savent ce que je peux leur</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_cruda_FDA2007/CommAvignon_fds_cruda_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>demander, je sais ce qu'ils peuvent donner. Mais avec des personnes inconnues, c'est très différent. Je n'ai pas changé de manière de faire avec les murgueros. Mais nous avons dû commencer par apprendre respectivement à nous faire confiance. D'une manière générale, dans les répétitions, je préfère ne pas discuter. Je fais des propositions, nous faisons des essais et je rentre chez moi. Je ne parle pas, je n'explique rien, parce que je crois que cela annule le mystère et la capacité de la personne à proposer quelque chose. Je ne tente rien de didactique, ni d'éducatif. Je mets en place le même espace ouvert, la même dimension de liberté que d'habitude. Je ne dis jamais ce qui me plaît ou pas. Le silence et la liberté. Ce n'est pas toujours facile déjà pour les acteurs qui travaillent avec moi, alors dans ce cas... Qui plus est, certains murgueros sont très jeunes, ils ont entre dix-huit et vingt et un ans.<br><br># Peut-on revenir sur les raisons de votre choix d'une création autour de la Murga ?<br>La Murga représente beaucoup pour moi parce que j'ai vécu dans un quartier marginal, dans lequel je me suis éduqué. Tous mes amis étaient des délinquants, des voleurs, ceux qui travaillaient, des maçons. Personne n'allait au collège. C'est important pour moi de revenir sur ce passé, cela me fait très plaisir de rencontrer ces gens. C'est un retour à mes origines que de présenter cela. Je suis parti d'Argentine à l'âge de vingt-deux ans, j'en ai le double aujourd'hui. Et jusqu'à dix-huit ans j'ai vécu comme eux. Ensuite, je suis allé étudier à Buenos Aires. Il y a un fondement politique dans ce que j'ai voulu faire. J'ai choisi de travailler avec les gens que je connais, ceux de mon passé. Je sais bien que ce qu'ils ont à proposer n'est pas riche artistiquement. J'aurais pu tout aussi bien voyager par le monde et ramener des choses plus subtiles, issues de cultures ou de traditions savantes de ces autres pays, mais je ne cherche pas un beau résultat artistique, mais plutôt à me reconnecter avec une réalité qui a été la mienne. Enfin, ce que je voudrais souligner, c'est que la frivolité comme la \"haute culture\" ne font pas partie de mes domaines d'investigation. J'aime ramener des choses mal faites, des choses de peu, parfois sinistres, menaçantes. Travailler en pensant à sa carrière ou bien pour créer un produit qui puisse ensuite être reconnu, voilà ce qui m'horrifie. Moi, j'ai besoin de faire avec les petites choses de ma vie, pour ensuite les présenter au public.<br><br># Vous avez écrit le texte à partir de ces éléments ?<br>Oui, c'est un choc ce travail. Tout ce que je viens d'évoquer représente beaucoup de peur. J'ai dû réaliser le montage vidéo sans savoir encore ce qu'allait pouvoir être la pièce, alors que j'en avais besoin pour déterminer mes choix autour du film, et j'ai dû écrire à peu près au même moment. Jusqu'ici, j'ai beaucoup parlé de la murga, mais il y a aussi Juan Loriente, l'acteur qui travaille depuis longtemps avec moi. C'est la seule personne extérieure à la murga, et j'ai écrit le texte pour lui. Le problème le plus important a été de me déterminer autour de la présence d'éléments autobiographiques. Comment savoir s'il valait mieux que je raconte quelque chose de mon histoire ou que j'invente un univers complètement fictionnel? Comment faire pour que ces personnages réels, qui ont à voir avec ma vie, entrent dans une grande fiction? Ce problème, j'ai dû le résoudre au cours du travail, de manière intuitive. Le plus important pour moi, avant de commencer une pièce, quelle qu'elle soit, c'est le choix des personnes, et même cela, je l'imagine de manière intuitive. Une fois les personnes réunies, je commence les répétitions. J'amène des propositions aux acteurs et j'écris le texte, je fais tout en parallèle.<br><br># Comment avez-vous fait évoluer votre travail au fil du temps ?<br>J'ai d'abord commencé par écrire, puis à faire du théâtre. Tout d'abord de façon plus classi-que. Je me suis de plus en plus rapproché du corps, de la lumière, des musiques. Au fil du</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-cruda-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

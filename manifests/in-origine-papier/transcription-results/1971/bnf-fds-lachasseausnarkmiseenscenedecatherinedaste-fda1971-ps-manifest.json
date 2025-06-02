@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "La chasse au snark mise en scène de catherine dasté"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Bnf_fds_LaChasseAuSnarkMiseEnScèneDeCatherineDasté_FDA1971_ps.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1971"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-origine-papier"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 6047,
+            "width": 3110,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaChasseAuSnarkMiseEnSc%C3%A8neDeCatherineDast%C3%A9_FDA1971_ps/Bnf_fds_LaChasseAuSnarkMiseEnSc%C3%A8neDeCatherineDast%C3%A9_FDA1971_ps_page_1.jpg",
+                                "type": "Image",
+                                "height": 6047,
+                                "width": 3110,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/1#xywh=0,0,3110,6047"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Le XXVe Festival d'Avignon Direction Jean Vilar et l'O.R.T.F. présentent<br><br>Les 23, 24, 25<br>et 26 juillet 1971<br>à 21 h 30<br><br># La chasse au snark<br><br>Théâtre musical<br><br>Cloître des Célestins</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/1#xywh=0,0,1938,4409"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2957,
+            "width": 1407,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaChasseAuSnarkMiseEnSc%C3%A8neDeCatherineDast%C3%A9_FDA1971_ps/Bnf_fds_LaChasseAuSnarkMiseEnSc%C3%A8neDeCatherineDast%C3%A9_FDA1971_ps_page_2.jpg",
+                                "type": "Image",
+                                "height": 2957,
+                                "width": 1407,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/2#xywh=0,0,1407,2957"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># La chasse au snark<br><br>Spectacle musical d'après Lewis Carroll<br><br>Musique de Michel Puig<br>Mise en scène de Catherine Dasté<br>Adaptation française de Huguette Champroux<br><br>Décors de Jean-Baptiste Manessier<br>Costumes de Anne Le Moal,<br>avec la collaboration de Marie-Hélène Dasté<br><br>Instruments spéciaux de Jacques Morhange</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/2#xywh=0,0,1938,4409"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2957,
+            "width": 1406,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaChasseAuSnarkMiseEnSc%C3%A8neDeCatherineDast%C3%A9_FDA1971_ps/Bnf_fds_LaChasseAuSnarkMiseEnSc%C3%A8neDeCatherineDast%C3%A9_FDA1971_ps_page_3.jpg",
+                                "type": "Image",
+                                "height": 2957,
+                                "width": 1406,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/3#xywh=0,0,1406,2957"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># La chasse au snark<br><br>■ Lewis Carroll<br><br>Lewis Carroll, de son vrai nom Charles L. Dodgson, 1832-1898.<br>Nationalité anglaise.<br>Charles Dodgson, professeur d'université, est l'auteur de plusieurs ouvrages mathématiques. Sous le pseudonyme de Lewis Carroll, il publie « Alice au pays des merveilles », « De l'autre côté du miroir », « La chasse au Snark », « Sylvie et Bruno » et des recueils de poèmes. Son œuvre apparaît comme le plus grand exemple de littérature du « non-sens ».<br><br>■ La chasse au snark<br>agonie en huit paroxysmes<br><br>Le poème met en scène un étrange équipage composé : d'un cireur de bottes (ou homme de barre), d'un avocat, d'un joueur de billard, d'un banquier, d'un boulanger qui a perdu son nom et ses bagages, mis à part sept manteaux qu'il porte superposés, d'un boucher qui ne tue que les castors, d'un castor et d'un homme à la cloche, capitaine de cet équipage. Après un voyage long et mouvementé — aucun ne connaît la navigation — ils débarquent sur une île pour y chasser le « snark ». L'homme à la cloche explique ce que l'on sait du « snark », et en particulier que la plupart sont inoffensifs, mais pas ceux qui sont des « boojums ». Cette nouvelle bouleverse le boulanger sur qui pèse une prédiction de disparaître à jamais s'il vient à rencontrer un « boojum ». Puis ce sont les préparatifs et le départ pour la chasse, la rencontre du boucher et du castor, et le cri de l'oiseau « jubjub » ; le rêve de l'avocat, la bataille du banquier et du bandersnatch, enfin le dernier paroxysme : le boulanger et le « boojum ».<br>Le spectacle introduit l'enchevêtrement de deux actions simultanées. D'une part, un groupe d'Anglaises victoriennes chantent le texte original, en anglais. D'autre part, l'équipage joue, en français, une adaptation scénique de La chasse au snark.<br>Cette aventure scénique et musicale pose, bien sûr, des problèmes :<br>• pour Catherine Dasté, dans sa mise en scène, celui de la juste simultanéité de deux actions de nature différente qui se déroulent</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/3#xywh=0,0,1938,4409"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2957,
+            "width": 1450,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaChasseAuSnarkMiseEnSc%C3%A8neDeCatherineDast%C3%A9_FDA1971_ps/Bnf_fds_LaChasseAuSnarkMiseEnSc%C3%A8neDeCatherineDast%C3%A9_FDA1971_ps_page_4.jpg",
+                                "type": "Image",
+                                "height": 2957,
+                                "width": 1450,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/4#xywh=0,0,1450,2957"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>d'abord parallèlement, puis qui se bousculent et se fondent. Les chanteuses anglaises, d'abord mécontentes, dérangées par l'arrivée inopinée de ce vaisseau, de cet équipage inconnu, sont peu à peu intéressées, fascinées, et participent enfin à l'action. Les Français, eux, jouent imperturbablement leur spectacle.<br>• pour les comédiens, une recherche vocale qui leur permette de briser certains automatismes, certaines intonations qui, pour être naturalistes et correspondre à un sérieux travail d'introspection, n'en sont pas moins conventionnelles.<br>• pour l'adaptation française de Huguette Champroux, la nécessité d'un dialogue très condensé qui trouve les équivalences à travers les contingences particulières à un opéra dans ses données modernes. La plus déterminante est que le mot, la phrase sont dans un autre rapport avec le sens, la voix étant ici à elle seule un langage, le son donnant volume à un fragment de mot, qui peut devenir totalité. En quelque sorte, l'adaptation va d'une matière parlée à une matière sonore.<br>• enfin, la recherche musicale de Michel Puig qui sous-tend et stimule la tentative.<br>Savoir si un théâtre réel, ni réaliste ni symboliste, est possible par la musique. Dans une pièce la musique, quand il en existe une, crée le climat, l'atmosphère, souligne, aide l'action ; et le comédien dit son texte. Mais si ce dernier quitte l'étroit passage de la parole parlée, alors tout devient chant, la musique omni-présente, la pièce opéra. Car l'opéra c'est d'abord le chant. Savoir si la recherche vocale peut s'amplifier dans différentes directions, si la généralisation de l'expression directe d'un mot, d'une situation peut aller de pair avec un chant noté et les problèmes posés par son organisation.<br>Savoir si le chant ainsi compris rend lisible une action à peine explicitée tout en donnant leur présence à toutes ses facettes.<br>Savoir enfin si la musique gagne à cette recherche sa liberté ; si la force d'expression, la richesse de vie d'une action scénique apportent au compositeur tout ce que l'homme de théâtre croit y deviner.<br>Autant de questions que nous nous posons et dont nous attendons réponse à travers cette « chasse au snark ».</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/4#xywh=0,0,1938,4409"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 4409,
+            "width": 2325,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaChasseAuSnarkMiseEnSc%C3%A8neDeCatherineDast%C3%A9_FDA1971_ps/Bnf_fds_LaChasseAuSnarkMiseEnSc%C3%A8neDeCatherineDast%C3%A9_FDA1971_ps_page_5.jpg",
+                                "type": "Image",
+                                "height": 4409,
+                                "width": 2325,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/5#xywh=0,0,2325,4409"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Les interprètes<br><br># La Pomme verte<br><br>La Pomme Verte est la compagnie théâtrale permanente de Catherine Dasté.<br>Elle est implantée au Théâtre de Sartrouville, où elle mène, parallèlement à ses activités théâtrales, une recherche d'animation culturelle en direction des enfants.<br>La chasse au snark est le quatrième spectacle réalisé par La Pomme Verte après Il était une île (pour enfants, Les loups (pour adolescents) — ces deux spectacles ayant été présentés lors du 24e Festival d'Avignon — et Glomoël et les pommes de terre (pour enfants), en coproduction avec le théâtre de la Commune d'Aubervilliers.<br><br>■ Catherine Dasté<br><br>Catherine Dasté a mis en scène tous les spectacles de la Pomme verte qu'elle dirige. Conseiller technique et pédagogique à la Jeunesse et aux Sports, a réalisé par ailleurs : Les musiques magiques (1960), Cycolème le triste (1961), L'arbre sorcier, Jérôme et la tortue (1968) et Tchao et Lon-né (1969).<br><br>■ Michel Puig<br><br>Il ne cesse de poursuivre depuis dix ans des recherches sur les rapports du théâtre et de la musique, de la voix chantée, déclamée, confrontée à la matière instrumentale.<br>Il est l'auteur notamment de Messe pour l'Arbresle, de Stigmates et de Provisoires Agglomérats. Il vient de terminer avec l'écrivain Alejo Carpentier Les portes du Soleil, opéra sur l'univers poétique d'Antonin Artaud.<br>En 1970, il a collaboré avec Catherine Dasté pour la création des Loups.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/5#xywh=0,0,1938,4409"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 4409,
+            "width": 1938,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaChasseAuSnarkMiseEnSc%C3%A8neDeCatherineDast%C3%A9_FDA1971_ps/Bnf_fds_LaChasseAuSnarkMiseEnSc%C3%A8neDeCatherineDast%C3%A9_FDA1971_ps_page_6.jpg",
+                                "type": "Image",
+                                "height": 4409,
+                                "width": 1938,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/6#xywh=0,0,1938,4409"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Distribution<br><br>Francesca Solleville<br>Anne Dorn<br>Florence Haguenauer    les Anglaises<br>Karen Fenn<br>Christine Bayle<br><br>Gérard Melki    l'homme à la cloche<br>Claude Merlin    le boulanger<br>Emile Salvador    le banquier<br>François Lauzon    l'avocat<br>Michel Vinter    le boucher<br>Gilles Mathias    l'homme de barre<br>Dominique Trichet    le marqueur de billard<br>Joëlle Rouland    le castor<br><br># Ensemble instrumental<br>placé sous la direction du compositeur :<br><br>Jean-Pierre Drouet    percussion<br>J.-F. Jenny Clark    contrebasse<br>Michel Portal    clarinette<br>Claude Vassé    trompette<br>Laurie Whiffin    piano<br><br>Jean-Michel Roux    régie<br><br>Pierre Leenhardt    administration</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lachasseausnarkmiseenscenedecatherinedaste-fda1971-ps/canvas/6#xywh=0,0,1938,4409"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

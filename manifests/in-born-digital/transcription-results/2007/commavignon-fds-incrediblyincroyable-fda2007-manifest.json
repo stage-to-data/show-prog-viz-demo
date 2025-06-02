@@ -1,0 +1,260 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Incredibly incroyable"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_incrediblyIncroyable_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_incrediblyIncroyable_FDA2007/CommAvignon_fds_incrediblyIncroyable_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># 13 juillet<br>GYMNASE DU LYCÉE SAINT-JOSEPH □ 19 h □ durée 1h15<br>spectacle en \"anglais accessible aux Français\"<br><br>écrit, mis en scène et interprété par Bertrand Bossard<br>lumières et son Jean-Damien Ratel<br>administration Jean-Christophe Levassør<br>production Cie B Initials, production exécutive Théâtre de la Manufacture – Centre dramatique national Nancy Lorraine<br><br>\"I'm a serious actor in French. I'm a stand-up comic only in English. I mean, I'm not funny in French\". Nous sommes à la fin des années quatre-vingt-dix. Bertrand Bossard, acteur dit sérieux pour Stanislas Nordey et Frédéric Fisbach entre autres, part en cure à Édimbourg. Il en revient avec Incredibly Incroyable, sa première stand-up comedy pour Français en anglais conçue en Écosse. Mais de quoi parle-t-elle ? Un peu comme au bistrot, c'est de Dieu, de politique, de la reine d'Angleterre, de la révolution d'Octobre, d'Anastasia, de Dallas et du mime Marceau qu'il s'agit. De poissons rouges aussi. En faisant défiler plus de trente personnages et vingt animaux, Bertrand Bossard tire le fil de sa pensée sur le théâtre, son métier d'acteur, sa condition de Français, le monde et le reste. Il n'y est pas question d'engagement, d'identité. C'est l'apologie d'une pensée qui s'amuse, libérée par la découverte d'une autre langue que celle que l'on connaît trop bien pour ne pas tomber dans ses pièges.<br><br># Bertrand Bossard<br>Avant de créer la compagnie B. Initials en 1999, Bertrand Bossard a travaillé comme comédien avec d'autres metteurs en scène : Stanislas Nordey (Le Songe d'une nuit d'été de William Shakespeare, La Vraie vie de Victor F. de Stanislas Nordey, Vole mon dragon d'Hervé Guibert, Pylade de Pier Paolo Pasolini, Les 14 pièces piégées de Armando Llamas, La Dispute de Marivaux), Frédéric Fisbach (L'Annonce faite à Marie de Paul Claudel, Un avenir qui commence tout de suite de Vladimir Maïakovski), Jean-Yves Ruf (Chaux vive, création collective) Anita Picchiarini (Médée de Hans Henny Jan) et Jean-Pierre Vincent (Tout est bien qui finit bien de William Shakespeare). En avril 1997, il a écrit et mis en scène au Théâtre National de Bretagne son premier spectacle pour le \"jeune public\", Ricky Pompon, publié aux Éditions L'École des loisirs. Il a ensuite créé Incredibly/Incroyable (a stand-up comedy) et Mon île déserte, spectacles qu'il a écrits et joués, notamment au Théâtre de la Cité Internationale et au Théâtre du Rond-Point à Paris. Pendant la saison 2003/2004, il crée Gagarin Way de Grégory Burke au Théâtre du Rond-point. En 2004/2005 il écrit et crée le spectacle jeune public Quand les poules auront deux dents au théâtre de la Commune à Aubervilliers, puis il a mis en scène sa pièce Enfin célèbre! au Théâtre national de Chaillot. Au cinéma, il a tourné avec Raoul Ruiz dans Le Temps retrouvé, avec Frédérique Guitman dans Blanche Colombe, avec Christine Dory dans Blonde et brune et avec Véronique Lalubie dans Terminus Nord.<br>En 2007 il réalise son premier court-métrage Hors course, produit par Agat film. Il est en développement de son premier long métrage et prépare deux mises en scène au théâtre.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_incrediblyIncroyable_FDA2007/CommAvignon_fds_incrediblyIncroyable_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Bertrand Bossard<br>Incredibly Incroyable<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-incrediblyincroyable-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

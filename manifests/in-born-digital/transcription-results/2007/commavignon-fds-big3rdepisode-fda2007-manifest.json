@@ -1,0 +1,450 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Big3rd episode"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_big3rdEpisode_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_big3rdEpisode_FDA2007/CommAvignon_fds_big3rdEpisode_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>On aime bien travailler sur des contradictions partageables. C'est pour cela qu'on s'intéresse à des labels comme Rolls Royce. L'identification est possible, le lien avec la salle est très vite établi et à partir de là, on peut travailler sur la relation.<br>Nous ne faisons que créer un contexte. Big 3rd episode est le dernier d'un cycle de pièces qui utilisent et réfléchissent au théâtre certains des codes de la culture populaire dans un contexte de flux et de répétition qui est grosso modo celui des mass media. Pour conclure cet entretien, on pourrait citer une phrase de David Lynch que nous avons repérée en travaillant ce matin: \"Pourquoi les gens demandent-ils aux œuvres d'art d'avoir un sens alors que la plupart du temps, leur vie n'en a aucun?\" !<br>Propos recueillis par Irène Filiberti en février 2007<br><br># Superamas<br>En se nommant Superamas – terme emprunté à l'astrophysique et qui désigne les amas galactiques et leur migration, mais aussi nom d'une chaîne de supermarché aux États-Unis – les artistes français et autrichiens qui le composent ont fait leur réputation à travers la création de projets très divers: Installations lumineuses – Diggin-up, Play-Mobile – vidéos – Billy Billy, Sauve qui peut (Romania) – performances – Auto-mobile, Body Builders – et spectacles: Big 1st episode – Artificial Intelligence/Reality Show, Big 2nd episode – Show/Business et Big 3rd episode – Happy/End. Superamas a développé tous ses travaux en relation étroite avec les producteurs internationaux et tourne régulièrement en Europe et aux États-Unis. Le collectif Superamas se compose de musiciens, de designers, de performeurs, de théoriciens de l'image. L'hybridité des travaux exprime cette spécificité. Leur conception du théâtre, qui utilise et recycle les signes de notre époque, se développe à travers une réjouissante méthode de \"dé-montage\". Une écriture scénique et jubilatoire qui s'attache à scanner la réalité, pour, à travers le langage multimédia, en révéler certains aspects.<br><br>et<br><br># High Art<br>SCULPTURE CHORÉGRAPHIQUE DE SUPERAMAS<br><br>13 14 15 16 17 18 19 20 21<br>CHAPELLE DU LYCÉE SAINT-JOSEPH ¤ horaires d'ouverture 13 h 30 - 17 h 30 ¤ entrée libre<br><br>Dix drapeaux dansent sur la musique de Mozart dans cette \"sculpture chorégraphique\" d'une grâce poétique surprenante. C'est le grand bal des Nations qui se rallient et se déchirent aujourd'hui autour du Moyen-Orient.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_big3rdEpisode_FDA2007/CommAvignon_fds_big3rdEpisode_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Superamas<br># Big 3rd episode<br># Happy/end<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_big3rdEpisode_FDA2007/CommAvignon_fds_big3rdEpisode_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>18 19 20 21<br>GYMNASE AUBANEL □ 18h □ durée 1h □ spectacle en anglais, surtitré en français<br><br>mise en scène Superamas<br>avec Alix Eynaudi, Susi Wisiak, Agata Maszkiewicz et Superamas<br>et la participation de Nicole Bossa-Blancoeil, Samantha Duroquet, Marie Fondecave, Emilie Garetier, Johan Huau, Véronique Kyriacopoulos, Stéphanie Moshetti, Sandrine Ragusi, Marine Scivy, Céline Schneider, Charlotte Vanderbrouke<br>voix de doublage Susanne Bentley, Allen Brownes, Tim Crouch, Alexis Destoop, Ted Fletcher, Marianne Groves, Jennifer Lacey, Andros Zinsbrowe<br><br>coproduction Superamas, Parc de la Villette dans le cadre des Résidences d'Artistes 2006, Szene Salzburg, Buda Kunstencentrum (Kortrijk), Mousonturm (Francfort), Impulstanz (Vienne)<br>avec le soutien de la Ville de Vienne et du ministère fédéral de l'Éducation, des Arts et de la Culture d'Autriche<br>avec le soutien de la Région Île-de-France et du ministère de la Culture et de la Communication<br>avec l'aide de l'Onda pour les surtitres<br><br>les dates de Big 3e episode après le Festival :<br>les 22 et 23 septembre 2007 au teatergarasjen à Bergen, Norvège ; les 27 et 28 septembre 2007 au blackbox theater à Olso, Norvège ; du 10 au 13 janvier 2008 au Kitchen, New York ; du 5 au 16 mars 2008 Big 1er episode, Big 2nd episode et Big 3e episode au Centre d'Art Vooruit à Gand, Belgique ; les 27 et 28 mars 2008 au Théâtre de Nîmes ; du 1er au 3 avril 2008 au Théâtre de Garonne (Toulouse)<br><br># entretien avec Superamas<br><br>Vous présentez deux œuvres dans le Festival, Big 3rd episode et High Art ; est-ce important pour vous de présenter un parcours ?<br>Oui, parce que nous préférons contextualiser les œuvres. L'idée, c'est aussi de modifier un peu le mode de consommation des pièces. Nous ne sommes pas seulement légers, divertissants et critiques, même s'il est vrai que l'on se moque un peu de l'œuvre en soi. Ce qui nous intéresse à travers cette façon de montrer le travail, c'est la façon dont le spectateur s'approprie ces productions.<br><br>Quand vous avez initié les Big, vous aviez déjà à l'esprit cette présentation modulable, à travers un rapport au public différent de celui de l'installation, puisqu'il s'agit de la scène ?<br>Oui, car notre idée était de travailler sur la série et le plateau. Ce qui nous intéresse ne réside pas dans le contenu mais dans les modes de consommation qu'en fait la télévision. Le plaisir à être là, la simplicité. Regarder par exemple The Office, sur la BBC, c'est assez agréable. Beaucoup plus que la danse contemporaine !<br>On voulait réfléchir sur ces modes de consommation. Autour de ces activités artistiques méjugées que sont les séries, qui ont pourtant une réalité d'usage très étendue. Nous en sommes tous consommateurs et spectateurs. Cela nous fait donc réagir, penser et comprendre différemment les choses de la vie. Le feuilleton, qui plus est, a une histoire très ancienne, qui s'est d'abord développée à travers l'écriture, la littérature, conjointement au développement de l'imprimerie, de l'édition et de la presse, avant d'être repris à l'image, au cinéma et à la télévision. Donc nous nous sommes demandés comment nous pouvions transposer ce genre dit mineur dans le spectacle vivant, comment l'utiliser et réfléchir sur ce mode-là. Du coup, en cherchant de ce côté, ce que nous avons créé n'a finalement rien à voir. Nous n'avons pas</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_big3rdEpisode_FDA2007/CommAvignon_fds_big3rdEpisode_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>réalisé une série pour la scène. Il n'y a pas de personnages suivis sur ces trois épisodes. Les histoires que nous évoquons n'ont rien à voir entre elles. Ce que nous en avons essentiellement retenu est du ressort de la répétition, du revoir. La façon dont ce phénomène creuse notre regard. Le scénario en lui-même n'est pas passionnant. En revanche, il nous permet de dégager différentes stratégies, qui se succèdent et se reproduisent au fil de la pièce. À travers ce processus, ce que nous touchons au plus près, ce sont des modes de comportement.<br>Les textes qui sont écrits d'abord en anglais ne sont vraiment pas d'une grande force! C'est encore plus évident lorsqu'on les traduit en français ou en espagnol, selon les endroits où nous jouons. C'est même un peu effarant de stupidité! Mais en revanche, du côté des économies sociales ou comportementales, cela bouscule la réflexion, y compris autour de l'écriture, du théâtre et de la danse. Mais alors, comment éviter un discours qui se construit et s'autovalide? Comment relier ces démarches, ces réflexions, à un contexte plus ouvert? Du coup, on se dit qu'il doit y avoir moyen d'être ailleurs, c'est un enjeu important. Nous cherchons donc à rester ludiques avec des choses qui peuvent faire réfléchir, de manière plus générale, sur nos propres comportements de consommateurs qui sont à l'œuvre partout, en politique comme en cuisine.<br><br>Comment avez vous fait évoluer chaque épisode jusqu'au dernier, sous-titré Happy/end?<br>Le sous-titre en effet est très important. Le spectacle s'écrit avec lui.<br>Si on revient un peu à l'historique de cette série, elle a été conçue autour de la notion de représentation. Entre spectacle et réalité. D'où le premier épisode intitulé Reality Show / Artificial intelligence, avec l'idée que la science tentait de modéliser un certain type de comportement et que nous pouvions appliquer ces stratégies dans nos spectacles. La mise en parallèle de ces deux systèmes de pure représentation fait apparaître quelques similitudes, notamment autour de leur capacité à \"scanner\" une forme de réalité et à la restituer sous un mode spectacularisé, mais de façon plus critique.<br>Adorno analyse le cinéma et ses avatars sous l'angle marxiste, qui montre comment l'image est utilisée pour asservir les peuples et fabriquer du consensus. Un point de vue que nous ne partageons d'ailleurs pas. Ces outils ne sont pas seulement un dessein plus ou moins malfaisant mais aussi l'expression d'une humanité. Et c'est le plus intéressant. En conclusion, cette pièce propose de considérer ces outils, le cinéma, la télévision, le web, comme ce qu'ils sont, comme faisant partie de la réalité même, ce qui la modifie. Finalement, il s'agit pour chacun de nous de changer le cadre de sa pensée, de réfléchir avec ces outils et pas forcément contre. C'est vraiment difficile, car évidemment l'outil formate l'échange.<br>Et Big 3rd episode tourne autour du \"happy end\". Ce que l'on attend quand on regarde un bon vieux film par exemple. Autour de nos désirs: partir en vacances, être heureux. Le désir du bonheur qui est un peu un leurre, sinon un mythe, est un formidable moteur à fantasmes, à projections diverses et à croyances aussi. Il y a là toute une économie assez intéressante, parce que fragilisante.<br>La série, avec ses trois pièces-épisodes se développe de la notion de spectacle à celle de marché. Qu'est-ce qu'on nous vend autour de cette idée de bonheur? Dans chaque pièce, on ne fait que parler de nous, pas de façon individuelle, mais en tant qu'hommes d'une quarantaine d'années, vivant en Europe, dans ce que nous traversons comme pensées, comme envies. Ce qui nous rassemble. Ce sont en fait des histoires de réalités et de rencontres. Dans Big 3rd episode, c'est autour de ces stratégies du bonheur. Par exemple, la séquence réalisée sur la Biodanza. Comment est-ce qu'on fabrique une croyance? Pourquoi a-t-on tellement besoin, envie de croire? En général, on n'aime pas tellement penser dans la vie. C'est pourquoi nous sommes souvent en lutte avec nous-même entre ces deux attitudes. C'est un comportement très commun et donc très intéressant, d'autant qu'il peut assez facilement se partager!</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-big3rdepisode-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

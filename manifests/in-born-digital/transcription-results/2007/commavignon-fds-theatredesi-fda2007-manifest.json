@@ -1,0 +1,830 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Theatre des i"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_theatreDesI_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_theatreDesI_FDA2007/CommAvignon_fds_theatreDesI_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Le Théâtre des idées<br><br>61ᵉ Festival d'Avignon<br><br>DEXIA</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_theatreDesI_FDA2007/CommAvignon_fds_theatreDesI_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Théâtre des idées<br>10 11 14 15 17 19 21 23 juillet<br><br>Depuis 2004, le Théâtre des idées, \"université populaire\" du Festival d'Avignon fondée sur des interventions dialoguées, contribue à éclairer certaines questions soulevées par la programmation. Élaboré à partir de discussions menées avec Frédéric Fisbach, Hortense Archambault Vincent Baudriller, il construit un espace critique en résonance avec les thématiques abordées par les propositions artistiques. À l'heure où la crise de la représentation politique, la fracture sociale et générationnelle suscitent de nouvelles résistances, les invités de l'édition 2007 du Théâtre des idées se demanderont comment il est aujourd'hui possible de faire à nouveau communauté, notamment grâce à une démocratie renouvelée par de nouveaux modes de participation, un art scénique traversé par une éthique de la représentation, une parole ouverte sur la pluralité des langues et des manières d'être au monde.<br><br>Conception et modération : Nicolas Truong<br><br>10 juillet □ # Générations : ce dont on hérite, ce qu'on transmet<br>avec : François Cusset, historien des idées ; Charlotte Nordmann, philosophe<br><br>\"Notre héritage n'est précédé d'aucun testament\", écrivait René Char dans Feuillets d'Hypnos (1943-1944) au moment où l'Europe était plongée dans les sombres temps de l'Occupation et du nazisme. De cet étrange et abrupt aphorisme, la philosophe Hannah Arendt tira une pénétrante réflexion sur la crise de la culture, sur la façon de passer le témoin entre les morts et les vivants, de conjuguer tradition et modernité. Nos temps sont heureusement bien moins tragiques. Éloignés des guerres qui se vivent par procuration devant les écrans de télévision, les jeunes Européens vivraient même selon certains dans une époque \"post-historique\" où seraient à jamais bannis et enfouis les temps héroïques des grandes luttes politiques. Qu'ils soient intégrés ou désœuvrés, orphelins ou héritiers de la génération des \"héritiers\" (nom donné aux étudiants des années 1960 fortement dotés en \"capital culturel\", comme l'avait dévoilé la sociologie de Pierre Bourdieu), les nouvelles générations seraient devenus amnésiques, plongées dans un présent perpétuel et permanent, dilapidant l'héritage dans l'immense supermarché de notre nouveau monde marchand. Pourtant, il y a encore des jeunes gens \"assez passionnés pour déserter les perspectives balisées qu'on veut leur faire prendre pour la vie\", comme l'écrit Annie Le Brun. Mais la donne a changé : pour la première fois depuis 1945, la nouvelle génération est peu assurée de connaître un meilleur avenir économique et social que celle qui l'a précédée. Au point qu'une \"fracture générationnelle\", écrit le sociologue Louis Chauvel, gangrène une société sans projet et sans place faite aux impétrants. Au moment où la \"génération 68\" passe le témoin à une autre, deux héritiers des luttes passées et spectateurs engagés des combats présents tenteront de lancer quelques salves d'avenir.<br><br>François Cusset enseigne l'histoire intellectuelle contemporaine à Sciences-Po Paris et dans la branche française de l'université Columbia. Il a passé dix années à New York, où il a notamment dirigé le Bureau du Livre Français. Il est l'auteur de Queer Critics : la littérature française déshabillée par ses homo-lecteurs (PUF, 2002), French Theory : Foucault, Derrida, Deleuze et Cie et les mutations de la vie intellectuelle aux États-Unis (La Découverte, 2003) dans lequel il montrait comment les concepts de déconstruction, de biopouvoir ou de simulacre ont voyagé outre-Atlantique, et plus récemment de La Décennie : le grand cauchemar des années 1980 (La Découverte, 2006), ouvrage critique sur la contre-révolution intellectuelle et idéologique dans la France des années 1980.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_theatreDesI_FDA2007/CommAvignon_fds_theatreDesI_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Née en 1978, Charlotte Nordmann est essayiste, traductrice et professeur de philosophie dans un lycée de banlieue parisienne. Elle a participé au lancement des éditions Amsterdam, où elle a traduit Le Pouvoir des mots. Politique du performatif, de Judith Butler, (2004) et dirigé l'ouvrage collectif Le Foulard islamique en questions (2004). En 2001, elle a contribué à l'ouvrage collectif Le 17 octobre 1961 - Un crime d'État à Paris, sous la direction d'Olivier Lecour Grandmaison (La Dispute, 2001). En 2006, Charlotte Nordmann a publié Bourdieu/Rancière - La politique entre sociologie et philosophie, réflexion sur l'émancipation, la transmission et la démocratisation des savoirs (Éditions Amsterdam, 2006) qu'elle poursuivra dans La Fabrique de l'impuissance 2. L'éducation entre domination et émancipation (éditions Amsterdam, septembre 2007).<br><br># Précaires, invisibles, clandestins: comment les marges questionnent les certitudes de nos sociétés<br>avec Arlette Farge, historienne ; Guillaume Le Blanc, philosophe<br><br>Banalisée par l'idéologie de la flexibilité, la précarité s'installe et bouscule les normes sociales. Masqués par les statistiques et privés de représentation politique, les invisibles et les clandestins du monde entier révèlent la part immergée de nos sociétés. Mais il convient tout d'abord de les entendre et de les reconnaître. À l'aide d'une enquête philosophique inédite, Guillaume Le Blanc s'est attelé à montrer ce qui distingue une vie ordinaire d'une vie précaire. Du déclassement au discrédit, de la marginalité au mépris, de la dépossession de soi à l'autonomie, le philosophe montre comment la voix des précaires, en nous reconduisant vers le soin et la reconnaissance des \"vies autres\", lui apparaît paradoxalement comme \"l'ultime voix de la démocratie\". À partir d'archives judiciaires du XVIIIe siècle, Arlette Farge redonne corps à l'histoire des petites gens sommées de répondre de leurs actes devant les tribunaux des puissants. À travers les corps des pauvres anonymes des rues et des bois du passé, mais aussi à partir de l'analyse critique de la fracture sociale, l'historienne fait bouillir la \"marmite de sons\", donne à voir des êtres réduits le plus souvent à l'invisibilité, fait écouter le murmure et les soubassements d'un peuple oublié. \"Nul n'est tenu de trouver que ces voix confuses chantent mieux que les autres où sont innocentes. Il suffit qu'elles existent et qu'elles aient contre elles tout ce qui s'acharne à les faire taire pour qu'il y ait un sens à les écouter\", écrivait Michel Foucault à propos des fous et des prisonniers. Enfermés dans des catégories préétablies, les précaires, invisibles et clandestins interrogent et ébranlent notre normalité. Un dialogue philosophique, historique et politique afin de donner voix aux sans-voix et droit de cité aux vies ordinaires socialement disqualifiées.<br><br>Historienne du XVIIIe siècle (Vivre dans la rue au XVIIIe siècle, Gallimard, 1979), directrice de recherches au CNRS, enseignante à l'EHESS, Arlette Farge a commencé ses travaux en compagnie de Michel Foucault avec qui elle publie Le Désordre des familles (Gallimard, 1982). Guidée par un savoir intime des archives (Le Goût de l'archive, Seuil, 1989), Arlette Farge invente un langage pour restituer des scènes de vie ordinaire au XVIIIe siècle (La Nuit blanche, Seuil, 2002). Violence, cruauté, pauvreté, souffrance, bonheur, résistance : elle s'est attachée à reconsidérer un champ émotionnel largement déserté par les sciences humaines. Elle a notamment publié Fracture sociale (avec Jean-François Laé, Desclée de Brouwer, 2000), Sans visages. L'impossible regard sur le pauvre (Bayard, 2005) et Effusion et tourment. Le Récit des corps. Histoire du peuple au XVIIIe siècle (Odile Jacob, 2007).<br><br>Guillaume Le Blanc est professeur de philosophie à l'université Michel-de-Montaigne-Bordeaux III. Il est un des jeunes philosophes dont la réflexion, nourrie des apports de Canguilhem, Foucault et Ricoeur, tente d'associer à sa discipline ce qui peu apparaît le \"critique sociale\". Il a notamment publié Canguilhem et les normes (PUF, 1998), La vie humaine. Anthropologie et biologie chez Georges Canguilhem (PUE 2002), Foucault au Collège de France, un itinéraire (PUB, 2003), Les Maladies de l'homme normal (Vrin, 2007), L'Esprit des sciences humaines (Vrin, 2005), La Pensée Foucault (Ellipses, 2006). Vies ordinaires, vies précaires, son dernier ouvrage paru en mars 2007 aux éditions du Seuil, s'attache à définir une \"politique de soin\" en direction des précaires afin de \"défaire la précarité\".</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_theatreDesI_FDA2007/CommAvignon_fds_theatreDesI_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>14 juillet □ # Quelle(s) communauté(s) après l'effondrement du communisme et à l'heure du réveil des communautarismes?<br>avec Jean-Luc Nancy, philosophe<br><br>Contrairement à ce que disait Sartre, le communisme n'est plus aujourd'hui \"l'horizon indépassable de notre temps\". Mais l'échec du système qui s'est présenté comme tel doit-il pour autant nous obliger à faire le deuil de l'idée de communauté? N'y a-t-il plus d'alternative possible au monde comme il va? Et sommes-nous condamnés à laisser l'idée de communauté aux communautarismes qui hantent une planète déchirée? Si les communistes semblent réduits au silence, pour paraphraser le titre de la pièce mise en espace cette année au Festival d'Avignon par Jean-Pierre Vincent, la \"communauté découvrée\" cherche une voix. Face aux multiples formes de replis identitaires, à la résurgence de nationalismes réactionnaires, à l'implacable fabrique des \"perdants radicaux\", comme le dit Hans Magnus Enzensberger, incapables d'articuler le \"je\" et le \"nous\", c'est-à-dire l'individuel au collectif sans passer aux pires actes meurtriers, les outils conceptuels viennent à manquer. En 1986, le livre de Jean-Luc Nancy, La Communauté désœuvrée, marque un tournant dans la réflexion sur le communisme d'après le communisme soviétique. \"Le témoignage le plus important et le plus pénible du monde moderne [...] est le témoignage de la dissolution, de la dislocation ou de la conflagration de la communauté\", écrit le philosophe dès les premières lignes de cet ouvrage. Le \"communisme littéraire\" y semble une des voies à emprunter afin de réinventer \"l'être-en-commun\" et résister à l'achèvement de l'idée de communauté. Depuis, la mondialisation a entraîné le développement illusoire ou avéré d'une communauté mondialisée, la révolution numérique a laissé entrevoir l'émergence d'une communauté virtuelle. Comment penser \"l'être avec\" à l'heure où chaque communauté veut faire droit à sa singularité? Une conversation pour tous ceux qui n'ont pas renoncé à l'exigence d'un monde commun.<br><br>Philosophe, Jean-Luc Nancy a enseigné à l'Université Marc Bloch de Strasbourg de 1968 à 2001 et, en tant qu'invité ou détaché, aux universités de Berlin, San Diego, Berkeley, Irvine. Il codirige la collection \"La Philosophie en effet\" aux éditions Galilée, où il a publié la plupart de ses ouvrages. Sur la question de la communauté, Jean-Luc Nancy a publié La Communauté désœuvrée (1986, Christian Bourgois éditeur, 3e édition, 2000). Cet ouvrage a été suivi par La Comparution avec Jean-Christophe Bailly (Christian Bourgois éditeur, 1991) et par Être singulier pluriel (Galilée, 1996). Parmi ses tout derniers ouvrages: Chroniques philosophiques (Galilée, 2004). La Déclosion – déconstruction du christianisme, 1 (Galilée 2005); Tombe de sommeil (Galilée, 2007); Juste impossible (Bayard, 2007); À plus d'un titre (portrait de Derrida par Adami) (Galilée, 2007).<br><br>15 juillet □ # Ce que parler veut dire<br>avec Alain Bentolila, linguiste; Barbara Cassin, philosophe et philologue<br><br>Au commencement du théâtre, le verbe s'est fait chair, la parole s'est incarnée dans le corps d'acteurs venus dire le monde aux spectateurs assemblés. Mais peut-on dévoiler l'essence du monde à l'aide du langage? Et qu'est-ce que parler veut dire, à l'heure du règne de la communication universelle? Faut-il ouvrir les dictionnaires au vocabulaire des classes populaires ou casser les ghettos linguistiques? Toutes les paroles se valent-elles? Avec Ce que parler veut dire (Fayard, 1982), Pierre Bourdieu avait montré comment la langue et la parole étaient aussi bien des outils de communication que des signes extérieurs de richesse et des instruments de domination. Et de citer le poète Francis Ponge: \"C'est alors qu'enseigner l'art de résister aux paroles devient utile, l'art de ne dire que ce que l'on veut dire. Apprendre à chacun l'art de fonder sa propre rhétorique est une œuvre de salut public\". Aujourd'hui, la communication triomphe et l'acheminement vers la parole s'avère incertain, fragile, précaire. À la fracture sociale semble s'ajouter une fracture linguistique qui divise et distingue. Pour le linguiste Alain Bentolila, \"lorsque la parole et l'écriture ont perdu leur pouvoir de transformer pacifiquement le monde et les autres, d'autres moyens s'imposent pour imprimer sa marque\". En résumé, les individus en viennent aux maux lorsque les mots leur font défaut. Le verbe est donc ce qui peut résister à la \"barbarie\", soutient-il. D'où l'importance d'apprendre très tôt aux enfants en situation d'insécurité linguisti-</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_theatreDesI_FDA2007/CommAvignon_fds_theatreDesI_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>que ce que parler veut dire, c'est-à-dire à s'adresser à ceux qui ne pensent pas comme nous. Car, comme nous l'apprend la réflexion sur la sophistique menée par Barbara Cassin, le langage est performatif, il \"fait\" quelque chose, il fabrique de la politique et du monde commun. Il a pu même être le vecteur d'une politique du pardon, comme l'ont montré en Afrique du Sud les travaux de la commission \"Vérité et réconciliation\". Un dialogue sur la parole poétique, politique et dramatique.<br><br>Philologue et philosophe, Barbara Cassin est directrice de recherches au CNRS. Spécialiste de la Grèce ancienne, elle a notamment participé au Séminaire du Thor donné par Martin Heidegger, en 1969, chez René Char. Ses recherches portent sur les rapports entre la philosophie et ce qui se trouve posé comme n'étant pas elle: sophistique, rhétorique, littérature (L'Effet sophistique, Gallimard, 1995; Voir Hélène en toute femme, d'Homère à Lacan, Les Empêcheurs de penser en rond, 2000). Elle a travaillé sur la Commission \"Vérité et Réconciliation\" en Afrique du Sud, et sur ce que peuvent les mots et les récits au sein d'un tel dispositif (Vérité, réconciliation, réparation, Seuil, 2005). Codirectrice avec Alain Badiou de la collection \"L'Ordre philosophique\" aux éditions du Seuil ainsi que de la série \"Points-bilingues\", Barbara Cassin a dirigé le Vocabulaire Européen des Philosophies, Dictionnaire des Intraduisibles (Seuil/Le Robert, 2004). Elle vient de publier Google-moi. La deuxième mission de l'Amérique (Albin Michel, janvier 2007).<br><br>Linguiste et professeur à l'université de Paris V-Sorbonne, Alain Bentolila a d'abord travaillé sur des langues \"exotiques\" (africaines, créoles, kitchua). Dès 1980, ses recherches se sont orientées vers la genèse de la conscience sémiologique chez l'enfant de 5 à 6 ans et se sont ensuite étendues aux questions relatives à la maîtrise de la langue orale et écrite chez les élèves de l'école primaire et les jeunes adultes. Depuis 1997, il dirige les recherches sur la mesure et les causes de l'illettrisme en France (De l'illettrisme en général et de l'école en particulier, Plon, 1996). Il est conseiller scientifique de l'Observatoire national de la lecture depuis 1997 et conseiller scientifique de l'Agence nationale de lutte contre l'illettrisme. En octobre 2006, le ministre de l'Éducation nationale lui a confié la rédaction d'un rapport sur l'enseignement de la grammaire et, en janvier 2007, un nouveau rapport sur l'acquisition du vocabulaire à l'école élémentaire. Il a notamment publié Le Propre de l'homme : parler, lire et écrire (Plon, 2000) et Le Verbe contre la barbarie (Odile Jacob, 2007).<br><br>17 juillet ̧ # Quelle résistance aujourd'hui ?<br>Avec Edgar Morin, philosophe et sociologue<br>Comment résister, lors de l'Occupation, bien sûr, mais aussi à l'heure de la colonisation des territoires et des imaginaires? Même s'il ne saurait être la propriété d'aucun groupe historique, d'aucune catégorie sociale ni d'un comportement héroïque, le qualificatif de \"résistant\" dispense parfois de penser. Apposé à une cause, adossé à une revendication, il suffirait à lui seul à s'opposer avec légitimité face à l'ennemi que l'on combat ou bien au monde tel qu'il va. Le terme de \"résistance\" est parfois même revendiqué avec une certaine obscénité. Comme le rappelaient Lucie et Raymond Aubrac, \"l'armée des ombres\" avait \"catalysé l'élan vital qui [lui] avait permis de remettre debout un pays de citoyens capables de rétablir une démocratie créatrice\". Le programme du Conseil national de la Résistance a en effet préparé les grandes réformes de l'après-guerre, de la sécurité sociale à la liberté de la presse. Autrement dit, \"résister, c'est oser, écrivaient-ils encore très récemment. Et oser, c'est créer\". À quoi faut-il résister aujourd'hui? \"À l'égoïsme, la résignation, la peur du changement, l'implantation solide, dans notre pays, de forces politiques, sociales et financières qui ont le plus grand intérêt à ce que rien ne change\", poursuivaient-ils. Résister, c'est aussi refuser la domination d'une seule forme de rationalité. Résister, c'est inventer de nouveaux concepts, percevoir ou agencements de liberté, de nouvelles façons de représenter et de signifier. S'ouvrir au monde et à sa complexité sans perdre sa capacité à s'indigner. Faire des pas de côté sans renter sa colère. Rencontre avec un résistant historique qui, de sa rupture avec le parti communiste en 1949 à l'urgence écologique, de la réforme de la pensée jusqu'à l'analyse du conflit israélo-palestinien, poursuit inlassablement un travail de résistance intellectuelle, politique et culturelle.<br><br>Né en 1921, combattant volontaire de la Résistance, lieutenant des Forces françaises combattantes (1942-1944), Edgar Morin est directeur de recherches émérite au CNRS, président de l'Agence européenne pour la culture (Unesco) et de l'Association pour la pensée complexe. Il se consacre depuis vingt ans à la recherche d'une Méthode apte</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_theatreDesI_FDA2007/CommAvignon_fds_theatreDesI_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>à relever le défi de la complexité qui s'impose non seulement à la connaissance scientifique, mais aussi à nos problèmes<br>humains, sociaux, politiques (La Méthode, 1. La Nature de la nature, 2. La Vie de la vie, 3. La Connaissance de la<br>connaissance, 4. Les Idées, 5. L'identité humaine, Seuil). Il a effectué d'importantes recherches en sociologie<br>contemporaine (L'Esprit du Temps, La Métamorphose de Plozevet, La Rumeur d'Orléans), il s'est efforcé de concevoir la<br>complexité anthropo-sociale en y incluant la dimension biologique et la dimension imaginaire (L'Homme et la mort, Le<br>Cinéma ou l'homme imaginaire, Le Paradigme perdu). Avec Pour sortir du XXe siècle, Penser l'Europe, Terre-Patrie et plus<br>récemment L'An 1 de l'ère écologique (Taillandier, 2007), Edgar Morin énonce un diagnostic et une éthique pour les<br>problèmes fondamentaux de notre temps. Il a également publié Le Monde moderne et la question juive (Seuil, 2006).<br><br>19 juillet □ # Peuple, public : comment peut-on être vraiment démocrate ?<br>avec Yves Sintomer, sociologue ; Pierre Rosanvallon, historien<br><br>La célébration de la fête de la démocratie qu'aurait été la dernière élection présidentielle française,<br>en raison du fort taux de participation qui la caractérisa, a été aussitôt tempérée par le scrutin des<br>législatives qui n'ont pas déclenché un débordement de passions politiques. Les signes d'un mécontentement public et populaire ne datent pas d'hier. Le 21 avril 2002 fut non seulement marqué par la<br>présence de Jean-Marie Le Pen au second tour de l'élection présidentielle, mais également par le fait<br>que le président sortant ne rassembla que 19,9 % des suffrages exprimés au premier tour tandis que les<br>candidats de partis n'ayant aucun représentant au Parlement en totalisaient 29,6 %. Trois ans plus tard,<br>les citoyens français étaient 55 % à refuser le projet de Constitution européenne alors que 92 % de leurs<br>représentants y étaient favorables. Et la liste est longue. Entre abstention et défiance, vote sanction et<br>méfiance, nous vivons une crise de la représentation politique qui oblige à penser à nouveaux frais le<br>concept de démocratie. Pierre Rosanvallon a mené une grande enquête intellectuelle sur \"la politique<br>à l'âge de la défiance\". De ce voyage en \"contre-démocratie\", cette autre démocratie qui ne se réduit<br>pas aux formes classiques de la représentation politique, de ce portrait du nouveau \"Janus citoyen\"<br>qui défie le pouvoir sans s'en désintéresser, il dégage une éthique politique pour nos temps de défiance<br>généralisée. Si l'idée de démocratie participative est à présent tolérée, celle de jurys citoyens tirés au<br>sort a déclenché un tollé. Selon Yves Sintomer, il n'était pas justifié, car sa recherche a montré que la<br>désignation aléatoire des dirigeants était une dimension constitutive de la naissance de la démocratie, à Athènes. Et de montrer toute une floraison d'expériences qui, des conseils de quartiers au budget<br>participatif, pourraient renouveler nos démocraties fatiguées. Faut-il renouveler la démocratie par une<br>participation accrue du peuple aux processus de décision ? La revivifier par l'usage du tirage au sort<br>et le recours aux jurys citoyens ? Et comment rendre la démocratie plus populaire sans tomber dans<br>l'ornière populiste ?<br><br>Directeur-adjoint du Centre Marc Bloch à Berlin depuis septembre 2006, professeur de sociologie et de sciences<br>politiques à l'université de Paris VIII, Yves Sintomer a notamment publié La Démocratie impossible ? Politique et<br>modernité chez Weber et Habermas (La Découverte, 1999), Porto Alegre, l'espoir d'une autre démocratie (en<br>collaboration avec M. Gret, La Découverte, 2002), Le Pouvoir au peuple. Jurys citoyens, tirage au sort et démocratie<br>participative (La Découverte, 2007). Il s'apprête à faire paraître en septembre 2007 Budgets participatifs en Europe.<br>Les affinités électives de la modernisation administrative et de la participation citoyenne (en collaboration avec C.<br>Herzberg et A. Röcke, La Découverte) et, en 2008, Délibérer, participer, représenter. Vers une sociologie de la<br>délibération politique (éditions Economica).<br><br>Professeur au Collège de France où il est titulaire d'une chaire d'Histoire moderne et contemporaine du politique,<br>président du Conseil scientifique de l'école normale supérieure, Pierre Rosanvallon a notamment publié L'Age de<br>l'autogestion (Seuil, 1976), Pour une Nouvelle Culture politique (Seuil, 1977), La République du centre ou la fin de<br>l'exception française (Calmann-Lévy, 1988), Le Sacre du citoyen. Histoire du suffrage universel en France (Gallimard,<br>1992), La nouvelle question sociale. Repenser l'État-providence (Seuil, 1995), Le Peuple introuvable. Histoire de la<br>représentation démocratique en France (Gallimard, 1998), La Démocratie inachevée. Histoire de la souveraineté du</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 7"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/7/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/7/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_theatreDesI_FDA2007/CommAvignon_fds_theatreDesI_FDA2007_page_7.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/7/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/7/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>peuple en France (Gallimard, 2000), Pour une histoire conceptuelle du politique, Leçon inaugurale faite le jeudi 28 mars 2002 au Collège de France (Seuil, 2003), La contre-démocratie. La politique à l'âge de la défiance (Seuil, 2006).<br><br>21 juillet ⁄ # Culture populaire ou culture de masse ?<br>avec Martin Winckler, médecin et écrivain; Marie-José Mondzain, philosophe<br>Créateur du Festival d'Avignon en 1947 et fondateur du Théâtre national populaire en 1951, Jean Vilar disait que \"si l'on ne peut imaginer une éducation qui ne soit nationale\", lui, ne pouvait \"imaginer une forme de théâtre contemporain qui ne soit pas populaire\". Un théâtre national populaire conçu comme \"un service public. Tout comme le gaz, l'eau, l'électricité\", écrivait-il dans le Manifeste du TNP. Un théâtre qui cherche à \"réunir dans les travées de la communion dramatique le petit boutiquiei de Suresnes et le haut magistrat, l'ouvrier de Puteaux et l'agent de changes, le facteur des pauvres et le professeur agrégé\". De 1947 à 2007, les séries télévisées, BD et jeux vidéos ont envahi l'espace culturel, des écrans mondialisés jusqu'aux scènes théâtrales contemporaines. L'édification d'une culture de masse, c'est-à-dire d'un ensemble d'œuvres, d'objets et d'attitudes reproduits en série, conçus et fabriqués industriellement, qui a longtemps culminé avec l'avènement de la télévision, s'est accompagnée dès sa naissance d'une critique de la fausse démocratisation de la culture. Des représentants de l'École de Francfort à Christopher Lasch, la culture de masse est accusée d'écraser la culture populaire et de réduire l'homme au consommateur. Entré dans l'âge de sa reproduction mécanique, l'art aurait irrémédiablement perdu de son aura, comme l'avait observé Walter Benjamin. Mais qu'est-ce que la \"pop culture\"? N'est-elle qu'un avatar de la société de consommation? La scène doit-elle accompagner cette sérialisation des œuvres de l'esprit opérée par l'industrie culturelle? Comment peut-elle y résister? Faut-il opposer la scène aux écrans? La culture de masse est-elle compatible avec la culture populaire?<br><br>Né en 1955, Martin Winckler est médecin et écrivain. Auteur de romans (La Maladie de Sachs, P.O.L, 1998; Les Trois Médecins, P.O.L, 2004; Le Numéro 7, Le Cherche Midi, 2007) et d'essais sur le soin (Nous sommes tous des patients, Stock, 2003; Contraceptions, mode d'emploi, Au Diable Vauvert, 2001), il est aussi critique et auteur de plusieurs ouvrages consacrés aux arts populaires (Le Rire de Zorro, Bayard, 2005; Super Héros, EPA, 2005) et aux séries télévisées (Les Miroirs de la vie, Le Passage, 2001; Séries Télé, Librio, 2005; Le Meilleur des Séries, Hors Collection, 2007). Il co-anime depuis 2006 un cours à Sciences-Po consacré aux séries télévisées américaines.<br>Philosophe, directrice de recherche au CNRS, Marie-José Mondzain travaille depuis vingt-cinq ans sur la présence de l'image dans les civilisations occidentales et orientales, \"l'impérialisme visuel et audiovisuel\", la place du spectateur. Traductrice des textes de Nicéphore le Patriarche (Discours contre les iconoclastes, Klinscksiek, 1990), analyste de la crise de l'iconoclasme à Byzance, qu'elle envisage non seulement comme une crise théologique mais également comme une crise politique (Image, icône, économie. Les sources byzantines de l'imaginaire contemporain, Seuil, 1996), Marie-José Mondzain questionne l'art visuel (notamment dans Van Gogh ou la peinture comme tauromachie, Épure, 1997), la guerre des images et l'empire du visible (L'image peut-elle tuer?, Bayard, 2002), la passion de voir (Le Commerce des regards, Seuil, 2003). Membre de l'association Sans Cible (groupe de recherche sur le théâtre) et de l'Association L'Exception (groupe de recherche sur le Cinéma), elle fera paraître prochainement Homo spectator (Bayard, 2007).<br><br>23 juillet ⁄ # Quelle éthique, esthétique et politique de la représentation ?<br>avec Marie-José Mondzain, philosophe; Hans-Thies Lehmann, théoricien du théâtre<br>Dans quelle mesure une représentation théâtrale peut-elle être politique? L'esthétique est-elle porteuse d'une éthique? Quelle est la responsabilité du metteur en scène? Sur quels fondements repose son autorité? La toute-puissance de l'audiovisuel altère-t-elle la capacité d'écoute et d'imagination du spectacle vivant? Faut-il résister, contourner, s'opposer ou s'adapter aux formes de narrations véhiculées par la télévision? Sommes-nous entrés dans l'ère du théâtre \"post-dramatique\" au sein duquel l'importance du texte laisse place à celle des dispositifs scéniques et de la transdisciplinarité? Hans-Thies Lehmann le pense et le théorise. D'Alfred Jarry à Pina Bausch, de Frank Castorf à Jan Lauwers, un nou-</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/8",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 8"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/8/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/8/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_theatreDesI_FDA2007/CommAvignon_fds_theatreDesI_FDA2007_page_8.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/8/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/8/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>veau continent esthétique a émergé, explique-t-il. Et la scène s'est depuis radicalement transformée \"dans la lumière équivoque de la civilisation des médias\". Cette nouvelle esthétique fondée sur un dialogue entre tous les arts induit-elle de nouvelles responsabilités envers le public? En philosophe, Marie-José Mondzain se demande comment se distribuent les pouvoirs et l'égalité entre acteurs, spectateurs et metteurs en scène. Et quels sont les dispositifs de représentation qui favorisent au mieux les subjectivités démocratiques. Les esthétiques diffèrent souvent et divergent parfois. Mais un même souci, une même attention à la manière de représenter les corps sans en faire le commerce, de ne pas reproduire la gestuelle standardisée, sont-ils partagés par les artistes de la programmation du Festival d'Avignon?<br><br>Hans-Thies Lehmann, professeur de théâtre et de littérature, a étudié à Berlin sous la direction de Peter Szondi. Il a été maître auxiliaire à l'institut de littérature générale et comparée et professeur invité à l'école des Beaux-Arts. En 1981 et 1987, il a été déterminant dans la mise en place des études de dramaturgie appliquée à l'université de Giessen, des études de théâtre, cinéma et science des médias à Francfort et des études doctorales de dramaturgie à l'université Johann Wolfgang Goethe de Francfort. Depuis 1988, il occupe la chaire d'études théâtrales à l'université Johann Wolfgang Goethe de Francfort. Ses conférences l'ont conduit entre autres à Amsterdam, Vienne, Tokyo, Paris, Cracovie, Kaunas et Charlottesville. Par ailleurs, il a mené ses propres projets scéniques et a travaillé comme dramaturge pour plusieurs théâtres. Il a notamment écrit Le Théâtre post-dramatique, 1999, L'Arche, 2002.<br><br>Nicolas Truong<br>Responsable du Théâtre des idées au Festival d'Avignon, Nicolas Truong est né en 1967 à Paris. Après des études à l'EHESS sous la direction de Cornelius Castoriadis et de Vincent Descombes, il enseigne la philosophie et crée la revue Lettre (1989-1993). Collaborateur de France Culture et du Monde diplomatique, il rejoint en 1997 la rédaction du Monde de l'éducation où il s'occupe notamment de la rubrique \"Livres\". Co-auteur avec l'historien Jacques Le Goff, de Une histoire du corps au Moyen-Âge (Liana Levi, 2006), il a mis en scène un cycle d'\"idées en théâtre\" intitulé La vie sur terre, notamment à partir des Lettres, articles et essais de George Orwell. Depuis 2006, il est également conseiller de la rédaction de Philosophie magazine.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-theatredesi-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

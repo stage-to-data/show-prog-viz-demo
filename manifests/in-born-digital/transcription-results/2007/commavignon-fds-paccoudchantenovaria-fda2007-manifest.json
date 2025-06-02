@@ -1,0 +1,260 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Paccoud chante novaria"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_paccoudChanteNovaria_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_paccoudChanteNovaria_FDA2007/CommAvignon_fds_paccoudChanteNovaria_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>9 juillet □ GYMNASE DU LYCÉE SAINT-JOSEPH □ 19 h<br><br>paroles des chansons Valère Novarina □ compositeur et interprète Christian Paccoud<br><br>production déléguée L'Union des contraires □ avec le soutien de l'association Beaumarchais<br><br>Depuis plus de dix ans, ma musique côtoie l'œuvre de Valère Novarina. Tout a commencé par une chanson de Damia que je devais interpréter dans Le Repas pour France Culture en 1995, pièce qui fut montée par la suite par Claude Buchvald avec de vraies chansons dont les acteurs s'emparèrent comme d'un soulagement qui les conduisit à cette joie de toucher le réel dans l'harmonie d'un chœur épique. C'est de la joie de chanter les mots de Novarina pendant mais aussi après le spectacle et parfois même jusqu'au restaurant, c'est de cette folie chantante qu'est née L'Opérette imaginaire, réclamée à corps et à cris par les acteurs. Par la suite les chansons ont émaillé les créations de Valère : L'Origine rouge, La Scène et plus récemment L'Espace furieux à la Comédie-Française comme des fragments d'humains venus du populaire.<br>Alors j'ai sorti ces chansons de leur espace théâtral et leur ai redonné leur rôle initial, comme on concocte un \"tour de chant\".<br>Voyez cette farandole de chansons échappées des lignes du poète. Elles s'habillent de nous, de la terre, des vivants et des morts et dansent une langue éclairée qui nous est apparue dès le premier instant.<br>Je n'ai jamais travaillé les textes de Valère, je les ai voyagés, je les ai rencontrés, palpés, respirés et parfois même vomis. Ils se sont collés à mes musiques avec la dignité des petites gens et sont devenus des paroles de chansons que tout le monde, du facteur au pompier, de l'infirmière à la boulangère, peut ramener à la maison pour les chanter les soirs d'hiver. Je n'ai pas conçu de tour de chant ni préparé de récital, je n'ai eu qu'à prendre mon accordéon et qu'à vous les servir comme ça venait, comme si tout ça avait toujours existé, comme ma grandmère quand elle susurrait \"colchiques dans les prés fleurissent, fleurissent\".           Christian Paccoud<br><br># \"Un animal chuté qui ressuscite en chantant\"<br>Dans Le Repas (12 fois), dans L'Operette imaginaire (27 fois), dans L'Origine rouge (51 fois), j'ai vu Christian Pacoud attentif, entendre dans notre langue la musique captive et venir la libérer... Rien d'ornemental, de décoratif, de secondaire, de plaqué: Il sort de lui une musique vraie qui vient du centre profond, de la source rythmique de notre langue. Comme dans Schubert, Monteverdi, Debussy et Damia. Invisible ou visible sans jamais se montrer, il veille, il tient le temps entre ses mains: Il accompagne l'acteur dans sa passion: Il pousse l'homme aux extrêmes, \"un animal chuté qui ressuscite en chantant\".           Valère Novarina<br><br>et<br><br># L'Acte inconnu TEXTE TE MISE EN SCÈNE DE VALÈRE NOVARINA □ 7 8 10 11 12<br>COUR D'HONNEUR DU PALAIS DES PAPES □ 22 h □ durée 2 h 22 □ création 2007<br>L'Acte inconnu est un voyage réjouissant dans l'univers des mots et de la langue qu'ils composent. Une aventure pleine de surprises verbales, de digressions drolatiques, de litanies envoûtantes, de paradoxes assumés, de retours aux sources du langage, mêlant les sens. La scène devient le lieu du plaisir ludique, celui d'ouvrir des espaces inconnus à des corps parlants par mots et par gestes, celui de faire entendre et partager une langue délivrée.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_paccoudChanteNovaria_FDA2007/CommAvignon_fds_paccoudChanteNovaria_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Christian Paccoud<br>Paccoud chante Novarina<br>Éloge du réel<br>et autres chansons dramatiques...<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-paccoudchantenovaria-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

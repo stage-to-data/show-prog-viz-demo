@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Un contre tous daprès les discours politiques de victor"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Bnf_fds_UnContreTous DaprèsLesDiscoursPolitiquesDeVictor _FDA1971_ps.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1971"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-origine-papier"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 6047,
+            "width": 3110,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_UnContreTous%20Dapr%C3%A8sLesDiscoursPolitiquesDeVictor%C2%A0_FDA1971_ps/Bnf_fds_UnContreTous%20Dapr%C3%A8sLesDiscoursPolitiquesDeVictor%C2%A0_FDA1971_ps_page_1.jpg",
+                                "type": "Image",
+                                "height": 6047,
+                                "width": 3110,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/1#xywh=0,0,3110,6047"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>PFA.1971(2.22)<br><br># Le XXVe Festival d'Avignon Direction Jean Vilar et l'O.R.T.F. présentent<br><br>Les 1, 2<br>et 3 août 1971<br>à 21 h 30<br><br># Victor Hugo : Un contre Tous<br><br>Théâtre musical<br><br>Cour d'Honneur<br>du Palais des Papes</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/1#xywh=0,0,1917,3982"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2969,
+            "width": 1463,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_UnContreTous%20Dapr%C3%A8sLesDiscoursPolitiquesDeVictor%C2%A0_FDA1971_ps/Bnf_fds_UnContreTous%20Dapr%C3%A8sLesDiscoursPolitiquesDeVictor%C2%A0_FDA1971_ps_page_2.jpg",
+                                "type": "Image",
+                                "height": 2969,
+                                "width": 1463,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/2#xywh=0,0,1463,2969"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Victor Hugo : Un Contre Tous<br><br>Pour soliste, chœur et orchestre<br>conçu par Roger Pillaudin<br>d'après les discours politiques de Victor Hugo<br>musique et mise en son du texte d'Ivo Malec<br>orchestre lyrique et chœurs de l'O.R.T.F.<br>direction Daniel Chabrun<br>chef des chœurs Jean-Paul Kreder<br>Régie Pierre Barrat<br>Récitants Gabriel Monnet<br>Pierre Rousseau<br><br># Ivo Malec<br><br>Ivo Malec est né en 1925 à Zagreb où il étudie à l'Université et à l'Académie Musicale (1er prix de conservatoire et prix de la ville de Zagreb).<br>A partir de 1955, il fait de fréquents séjours à Paris et collabore aux travaux du Groupe de Recherches de Musiques Concrètes tout en suivant, en qualité d'auditeur, la classe de Messjaen au Conservatoire.<br>Il s'installe définitivement à Paris en 1959, restant d'ailleurs très attaché à la vie musicale de son pays et notamment à la Biennale de Zagreb.<br>Il entre au Service de la Recherche de l'O.R.T.F. dès sa création en 1960 et travaille au sein du Groupe des Recherches Musicales, entre autre comme l'animateur du secteur des manifestations musicales (expositions de musique expérimentales, journée-rencontre), tout en participant en tant qu'auteur à de nombreux festivals de musique contemporaine.<br>Ses œuvres, qui lui ont valu entre autres deux grands prix du disque, sont destinées tantôt à l'orchestre (Sygma, Oral, Vocatif, Lied, Ga(m)mes) ou à des ensembles divers (Miniatures pour Lewis Carroll, Echos, Dodecameron), tantôt à la bande magnétique (Maséna, Reflets, Dahovi 1 et 2, Luminétude). D'autres associent des interprètes à la bande (Cantate pour Elle, Tutti, Lumina).</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/2#xywh=0,0,1917,3982"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2969,
+            "width": 1401,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_UnContreTous%20Dapr%C3%A8sLesDiscoursPolitiquesDeVictor%C2%A0_FDA1971_ps/Bnf_fds_UnContreTous%20Dapr%C3%A8sLesDiscoursPolitiquesDeVictor%C2%A0_FDA1971_ps_page_3.jpg",
+                                "type": "Image",
+                                "height": 2969,
+                                "width": 1401,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/3#xywh=0,0,1401,2969"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Victor Hugo : Un contre Tous<br><br>L'une des préoccupations des musiciens d'aujourd'hui est de faire éclater la mise en place traditionnelle de l'orchestre symphonique, d'aboutir donc à une spatialisation de la musique — ce qui a également des répercussions sur l'écriture même de cette musique.<br>Le concert s'ouvre ainsi à une forme de théâtre musical, à une théâtralisation de l'écriture musicale elle-même.<br>L'oratorio, que Ivo Malec préférerait appeler une « affiche musicale », produit à partir de cette préoccupation d'une organisation spectaculaire du son, cherche donc à mettre en scène les rapports dialectiques entre la voix d'un récitant directe ou retransmise et l'intervention de chœurs et d'ensembles instrumentaux (et cela tant par la mise en rapport de masses sonores que par leur situation signifiante dans l'espace) à partir de thèmes majeurs isolés dans les discours politiques de Victor Hugo.<br>Roger Pillaudin, réunissant les textes de Hugo qui sont à la base de ce travail — à savoir les discours prononcés par lui entre 1849 et 1851 à l'Assemblée Constituante et à l'Assemblée Législative pour en obtenir des votes concrets — loin de les utiliser dans leur fonction première — fonction réaliste — les a réorganisés en une méditation politique sur quatre thèmes dominants.<br>L'œuvre s'organise donc en quatre grands temps musicaux, précédés d'un bref prologue qui décrit le retour d'exil de V. Hugo en 1870, après la proclamation de la République. Les quatre mouvements du discours musical vont retracer les thèmes des différents combats menés avant l'exil — et mis à jour par cet exil même.<br><br>• Premier mouvement : la justice politique.<br>• Deuxième mouvement : la misère.<br>• Troisième mouvement : l'ignorance.<br>• Quatrième mouvement : défense de la République.<br><br>Entre le deuxième et le troisième mouvement se situe un chœur de slogans d'après le texte de Victor Hugo.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/3#xywh=0,0,1917,3982"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2969,
+            "width": 1400,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_UnContreTous%20Dapr%C3%A8sLesDiscoursPolitiquesDeVictor%C2%A0_FDA1971_ps/Bnf_fds_UnContreTous%20Dapr%C3%A8sLesDiscoursPolitiquesDeVictor%C2%A0_FDA1971_ps_page_4.jpg",
+                                "type": "Image",
+                                "height": 2969,
+                                "width": 1400,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/4#xywh=0,0,1400,2969"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Les interprètes<br><br>Chaque mouvement est joué par un ensemble instrumental différent, situé comme les chœurs dans un rapport d'espace différent par rapport au récitant.<br>Orchestre et chœurs sont entièrement constitués au dernier mouvement, figurant ainsi l'hémicycle de l'Assemblée Législative et restituant de ce fait l'ensemble du discours à son temps présent.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/4#xywh=0,0,1917,3982"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 4425,
+            "width": 2134,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_UnContreTous%20Dapr%C3%A8sLesDiscoursPolitiquesDeVictor%C2%A0_FDA1971_ps/Bnf_fds_UnContreTous%20Dapr%C3%A8sLesDiscoursPolitiquesDeVictor%C2%A0_FDA1971_ps_page_5.jpg",
+                                "type": "Image",
+                                "height": 4425,
+                                "width": 2134,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/5#xywh=0,0,2134,4425"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Les interprètes<br><br>■ Daniel Chabrun<br><br>Né le 26 janvier 1925 à Mayenne, fait des Etudes Musicales au Conservatoire National de Paris, sous la direction d'Yves Nat et de Louis Fourestier et obtient un 1er prix de direction d'orchestre en 1954.<br>Depuis 1964, il exerce une activité régulière de chef d'orchestre à l'O.R.T.F., dirige de nombreuses œuvres en 1re audition.<br>Ses activités s'étendent également à l'étranger où il a dirigé notamment en Belgique, au Canada, en Pologne, en Suisse et au Mexique.<br><br>■ Orchestre lyrique de l'O.R.T.F.<br><br>Créé en 1941, assure toutes les émissions lyriques « vivantes » de la Radio.<br>Son répertoire est des plus étendu, puisqu'il va des ouvrages du XVIIIe siècle aux partitions contemporaines, de l'opérette à l'opéra et au drame lyrique, des œuvres très connues du répertoire classique jusqu'à certains ouvrages aujourd'hui négligés. Il a de ce fait acquis une souplesse et une virtuosité que son chef permanent, Pierre-Michel LE CONTE, entretient soigneusement.<br><br>■ L'Ensemble des Chœurs de l'O.R.T.F.<br><br>Il groupe 120 chanteurs professionnels et constitue, sauf erreur, le plus grand ensemble professionnel attaché à un organisme de radiodiffusion.<br>Pour s'adapter aux exigences du très vaste répertoire, Marcel Couraud a réparti cette masse en divers groupes :<br>— un groupe de 12 chanteurs (les solistes des chanteurs de l'O.R.T.F.),<br>— un groupe de 30 chanteurs : groupe qui, sans être réellement spécialisé, est destiné plus particulièrement au répertoire (A Capella),</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/5#xywh=0,0,1917,3982"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 3982,
+            "width": 1917,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_UnContreTous%20Dapr%C3%A8sLesDiscoursPolitiquesDeVictor%C2%A0_FDA1971_ps/Bnf_fds_UnContreTous%20Dapr%C3%A8sLesDiscoursPolitiquesDeVictor%C2%A0_FDA1971_ps_page_6.jpg",
+                                "type": "Image",
+                                "height": 3982,
+                                "width": 1917,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/6#xywh=0,0,1917,3982"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>— enfin, trois groupes de 25 chanteurs environ.<br>Il s'agit en effet de donner à chaque œuvre l'effectif souhaitable depuis le répertoire d'exception des solistes des chanteurs, jusqu'au Requiem de Brahms en passant par les ouvrages lyriques et la musique de chambre.<br>L'activité des Chœurs de l'O.R.T.F. s'est considérablement intensifiée tant à l'intérieur de l'Office que dans les manifestations extérieures, tournées, festivals, etc.<br>Le groupe qui participe cette année au Festival d'Avignon comprend 50 chanteurs plus particulièrement affectés à l'exécution des œuvres lyriques.<br><br># Pierre Barrat<br><br>Metteur en scène d'œuvres dramatiques et lyriques, Pierre Barrat est chargé en 1968, par le ministère des Affaires culturelles, de diriger le premier Centre Lyrique de France. Rattaché à la Maison de la Culture d'Angers, ce Centre Lyrique de recherche et de création prend le nom de Théâtre Musical d'Angers.<br>Il présente lors des derniers festivals d'Avignon :<br>— « On veut la lumière ? allons-y ! » de Claude Prey (1969).<br>— « Aventures et nouvelles Aventures » de Ligeti (1970).<br>En février 1971, Pierre Barrat est appelé à prendre la direction de l'Opéra du Rhin, Opéra régional d'Alsace qui inaugure la réforme des opéras de province mise en place par Marcel Landowski, directeur de la Musique au ministère des Affaires culturelles.<br><br># Gabriel Monnet<br><br>Né en 1921. Il pensa d'abord faire carrière dans l'enseignement scientifique, mais abandonna pour le théâtre. En 1945, il est instructeur national d'art dramatique en compagnie de Jean Rouvet et Hubert Gignoux. Il fonde les nuits théâtrales d'Annecy et en 1957, devient le collaborateur de Jean Dasté à la Comédie de Saint-Etienne. De 1963 à 1968, il est directeur de la Maison de la Culture de Bourges, et depuis 1969, du Centre National Nice-Côte d'Azur.<br><br># Pierre Rousseau<br><br>Formation de mime et d'acrobate, s'est dirigé vers le théâtre dès son entrée dans la troupe Barrault-Renaud au Théâtre Marigny. Il reçoit une formation classique avec Berthe Bovy. Comédien de théâtre, de cinéma et de télévision. Depuis la création d'Oral d'Yvo Malec, travaille régulièrement avec les compositeurs contemporains.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-uncontretous-dapreslesdiscourspolitiquesdevictor-fda1971-ps/canvas/6#xywh=0,0,1917,3982"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

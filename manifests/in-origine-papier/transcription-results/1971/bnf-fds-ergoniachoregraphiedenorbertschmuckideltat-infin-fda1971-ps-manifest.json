@@ -1,0 +1,450 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Ergonia chorégraphie de norbert schmucki delta t infin"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Bnf_fds_ErgoniaChorégraphieDeNorbertSchmuckiDeltaT Infin_FDA1971_ps.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1971"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-origine-papier"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 6047,
+            "width": 3110,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_ErgoniaChor%C3%A9graphieDeNorbertSchmuckiDeltaT%20Infin_FDA1971_ps/Bnf_fds_ErgoniaChor%C3%A9graphieDeNorbertSchmuckiDeltaT%20Infin_FDA1971_ps_page_1.jpg",
+                                "type": "Image",
+                                "height": 6047,
+                                "width": 3110,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/1#xywh=0,0,3110,6047"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>PFA - 1741 (2,4)<br><br>Maquette et mise en page : Simone Rinaudo - Théâtre de la Ville.<br><br>XXVe FESTIVAL<br>D'AVIGNON<br>Direction Jean Vilar<br><br>Dans la Cour d'Honneur<br>du Palais des Papes<br>le jeudi 12 août<br>à 21 h 30<br><br># Ballets<br>Quatrième programme<br>Logos<br>△ t = ▽ (création)<br>La Curieuse<br>Ergonia (création)<br>Chorégraphies<br>de Norbert Schmucki<br><br>Jacno</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/1#xywh=0,0,2519,5098"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 4417,
+            "width": 1921,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_ErgoniaChor%C3%A9graphieDeNorbertSchmuckiDeltaT%20Infin_FDA1971_ps/Bnf_fds_ErgoniaChor%C3%A9graphieDeNorbertSchmuckiDeltaT%20Infin_FDA1971_ps_page_2.jpg",
+                                "type": "Image",
+                                "height": 4417,
+                                "width": 1921,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/2#xywh=0,0,1921,4417"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># A Jean Vilar<br><br>Logos<br><br>musique : Igor Wakhevitch<br>argument, chorégraphie, costumes : Norbert Schmucki<br>avec Nicole Chouret<br>     Jean Guizerix<br>et   Régine Boury<br>     Annette Mulard<br>     Françoise Vaussenat<br>     Martine Vuillermoz<br>     Richard Duquenoy<br>     Jacques Garnier<br>     Patrick Marty<br>     Jacques Namont<br>     Didier Schirpaz<br>     Georges Teplitsky<br>     Jean-Marc Torres<br><br>△ t = ∞<br><br>musique : Georges Zamfir<br>          et chœurs liturgiques orthodoxes<br>chorégraphie et costumes : Norbert Schmucki<br>avec      Jacqueline Rayet<br>          Michaël Denard<br><br>La Curieuse<br><br>montage musical et chorégraphique : Norbert Schmucki<br>avec Brigitte Lefèvre<br><br>Ergonia<br><br>musique : Igor Wakhevitch<br>argument : Jacques Breyer<br>chorégraphie et costumes : Norbert Schmucki<br>avec      Brigitte Lefèvre<br>          Françoise Vaussenat<br>          Richard Duquenoy<br>          Jean Guizerix<br>et        Régine Boury<br>          Annette Mulard<br>          Martine Vuillermoz<br>          Patrick Marty<br>          Jacques Namont<br>          Didier Schirpaz<br>          Georges Teplitsky<br>          Jean-Marc Torres</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/2#xywh=0,0,2519,5098"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 4417,
+            "width": 2342,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_ErgoniaChor%C3%A9graphieDeNorbertSchmuckiDeltaT%20Infin_FDA1971_ps/Bnf_fds_ErgoniaChor%C3%A9graphieDeNorbertSchmuckiDeltaT%20Infin_FDA1971_ps_page_3.jpg",
+                                "type": "Image",
+                                "height": 4417,
+                                "width": 2342,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/3#xywh=0,0,2342,4417"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Logos. : L'action se déroule dans un endroit imaginaire. Des êtres inhabités errent à la recherche de leur conscience. Une Présence initiatrice éveille leur esprit. L'un d'eux tente d'accéder à l'initiation suprême et tombe foudroyé. Ses compagnons l'ayant sauvé au prix de leur propre vie, il se retrouve seul. Face à la solitude, il choisit la mort.<br><br>Δt = ∞. : « Le temps n'existe pas pour les êtres qui s'aiment. » L'instant qui sépare deux balles d'une rafale de mitrailleuse devient éternité.<br><br>La Curieuse. : Elle est curieuse (essai)<br>...un vilain défaut.<br><br>Ergonia. : Ce ballet est une évocation du Grand-Œuvre, ou Pierre Philosophale, Symbole de l'Evolution Universelle.<br>C'est en s'inspirant des figures traditionnelles de « l'Alchimie Opérationnelle » qu'Ergonia se propose de nous faire vivre cette Evolution au travers de la Nature Humaine.<br>Depuis le Magma primordial, jusqu'à la Perfection Suprême, six paliers chorégraphiques nous entraînent dans un voyage dynamique au cœur même de la puissance animatrice des Mondes.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/3#xywh=0,0,2519,5098"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 5098,
+            "width": 2519,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_ErgoniaChor%C3%A9graphieDeNorbertSchmuckiDeltaT%20Infin_FDA1971_ps/Bnf_fds_ErgoniaChor%C3%A9graphieDeNorbertSchmuckiDeltaT%20Infin_FDA1971_ps_page_4.jpg",
+                                "type": "Image",
+                                "height": 5098,
+                                "width": 2519,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/4#xywh=0,0,2519,5098"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Danseur dans le corps de ballet de l'Opéra de Paris, Norbert Schmucki a fait ses débuts de chorégraphe en 1964, encouragé par son maître de ballet Michel Descombey. Il eut alors pour premiers interprètes plusieurs étoiles et premiers danseurs qui furent ses camarades de classe à l'Opéra.<br>Parmi les thèmes qui inspirent son imagination de chorégraphe, on note diverses formes du fantastique : la science-fiction et la conquête du cosmos dans Logos ; la métempsycose, la magie et l'alchimie dans Ergonia. Dans L t = ∆σ il puise dans des réalités telles que l'amour et la guerre. Un certain humour dans sa vision du genre humain apparaît avec La Curieuse : dans ce solo, la recherche chorégraphique part d'une idée satirique.<br>Malgré ses sources d'inspiration et malgré la musique qu'il choisit (il s'agit le plus souvent d'une musique d'avant-garde), il a suivi l'exemple de Maurice Béjart en alliant la chorégraphie contemporaine à la technique de la danse classique, base de sa formation.<br>Voulant avant tout être un créateur de spectacles, c'est dans la mise en scène de grands ensembles qu'il aime le mieux exprimer son goût du mouvement et de la couleur. Peintre et dessinateur, il dessine en général lui-même les costumes de ses ballets. Participant au travail de Norbert Schmucki, on retrouve aujourd'hui le plus souvent les mêmes interprètes et les mêmes compositeurs, dans un esprit d'amitié et de continuité.<br><br># Chorégraphies de Norbert Schmucki.<br><br>1964. Brio : pas de deux - (Chostakovitch). L'Insecte : pas de deux - (Prokofiev). Adgag : pas de deux humoristique - (Chostakovitch).<br><br>1965. Fantaisie choréique : ballet - (Haendel).<br><br>1966. Echeveau : ballet - (Michel Magne).<br><br>1967. Arachnea : ballet - (Igor Wakhevitch). La Légende : poème crié et dansé.<br><br>1968. Divertissement pour l'opéra Médée - (Cherubini). Ballade : mise en scène chorégraphique - (Patrick Demeyer).<br><br>1969. Chanteclair : pas de deux - (sur le texte d'Edmond Rostand). Athanor : pas de deux - (Igor Wakhevitch). Divertissement pour Les Italiens à Paris et Le Malade imaginaire - (Michel Magne).<br><br>1970. Anticorps : pas de deux - (Michel Magne). La Curieuse : solo humoristique. Logos : ballet - (Igor Wakhevitch). Divertissement de Jarry - (Michel Legrand).<br><br>1971. Orestie : ballet - (Yannis Xenakis). Hymnen : chorégraphie collective - (Stockhausen). Les Murmures : pas de deux - (Wagner). L t = ∆σ - pas de deux. Tancrède : pas de deux (Monteverdi).</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-ergoniachoregraphiedenorbertschmuckideltat-infin-fda1971-ps/canvas/4#xywh=0,0,2519,5098"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

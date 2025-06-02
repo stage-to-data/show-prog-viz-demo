@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Nine finger"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_nineFinger_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_nineFinger_FDA2007/CommAvignon_fds_nineFinger_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>danse, en évitant de simplement alterner, ou passer d'un langage à l'autre. Il nous fallait trouver des liens entre les deux sans être illustratif et en restant entre des éléments concrets et des figures abstraites. Il est clair que même pour Alain, la présence du texte apportait une structure que nos travaux respectifs ne nous apportent pas d'habitude. On a travaillé avec le moins de matériel possible. Les improvisations, les listes de mots-clés, le travail avec les objets nous ont surtout aidé à chercher des possibilités, des matériaux pour la pièce.<br><br>Fumiyo Ikeda est danseuse et Benjamin Verdonck, acteur. De quelle façon avez-vous traité ces différences de langage ?<br>Alain Platel : Ils ont surtout cherché ensemble comment trouver des liens. Ils voulaient aussi avoir des moments dansés à deux. Si Benjamin est un acteur très engagé physiquement, sa manière de bouger n'a évidemment rien à voir avec celle de Fumiyo, qui est très élaborée. Mais la confrontation entre les deux est très belle, touchante. Le matériel gestuel a été développé avec elle. De son côté, Benjamin a travaillé sur une manière de parler qui suggère plutôt qu'elle ne raconte. Elle est aussi liée à l'écriture. L'anglais utilisé par l'auteur est celui d'un enfant, un langage élémentaire avec beaucoup d'onomatopées. Les mots sont très liés aux sons. Ce qui nous a beaucoup intrigué. Par la suite, nous avons fait le choix des passages que nous voulions raconter, et qui sont devenus des scènes. En travaillant sur l'état de confusion donné par le texte, nous avons élargi la dimension de ce récit, qui est au singulier, en donnant à chaque scène une perspective plus générale. Le matériel gestuel et textuel a été redistribué entre eux deux et la parole a été traitée au même niveau que le corps. Les mots sont relayés par le mouvement ou les actions. À travers cette pièce nous ne cherchons évidemment pas à convertir ou culpabiliser le public. L'idée c'est toujours de partager un sentiment.<br><br>Propos recueillis par Irène Filiberti en février 2007<br><br># Fumiyo Ikeda<br>Fumiyo Ikeda est née en 1962 à Osaka, au Japon, et a suivi des cours de ballet dès l'âge de dix ans. Elle est admise en 1979 au MUDRA, l'école de danse dirigée par Maurice Béjart où elle rencontrera Anne Teresa De Keersmaeker. En 1983, elle rejoint la toute jeune compagnie de danse Rosas et pendant la période allant de 1983 à 1992, elle dansera et participera à toutes les créations : Rosas danst Rosas, Elena's Aria, Bartók/Aantekeningen, Mikrokosmos, Ottone, Ottone, Stella, Achterland. Elle quitte la compagnie Rosas en 1992 pour revenir un an plus tard dans Toccata. Fumiyo a également collaboré à plusieurs films et vidéos de la compagnie Rosas : Répétitions, Hoppla!, Le Monologue de Fumiyo Ikeda à la fin de Ottone Ottone, Ottone Ottone I & II, Rosa, Achterland en CounterPhrases. Outre ses activités au sein de cette compagnie, Fumiyo a aussi travaillé avec Steve Paxton et a participé à plusieurs films et pièces de théâtre. Elle a réintégré Rosas en 1997 et a successivement participé aux créations de Just Before, Drumming, I said I, In Real Time and Rain, April me, the Repertory Evening, Bitches Brew/Tacoma Narrows, Kassandra, les reprises de Mozart/Concert Arias et de Woud et à la création D'un soir un jour.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_nineFinger_FDA2007/CommAvignon_fds_nineFinger_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Alain Platel<br>Alain Platel, né à Gand en 1956, est orthopédagogue de formation. Il s'est intéressé dès son plus jeune âge à l'art et au théâtre. À onze ans, il est admis à l'École de Mime Marcel Hoste. Après ses études, il suivra les cours de l'Académie du Ballet Paul Grimwis et participera en 1980 à un atelier de la chorégraphe canadienne Barbara Pearce. C'est en 1986 qu'il fonde Les Ballets Contemporains de la Belgique, en abrégé Les Ballets C. de la B., Alain Platel a fait fureur avec deux triptyques impressionnants, d'une part les grandes pièces de danse avec musique live intitulées La Tristeza Complice, Iets op Bach et Wolf et d'autre part avec les représentations théâtrales Moeder en Kind, Bernadetje et Allemaal Indiaan, réalisées en collaboration avec Arne Sierens. L'œuvre d'Alain Platel n'est pas facilement étiquetable, ce que confirment d'ailleurs ses choix de danseurs et d'acteurs. Des professionnels associés à des amateurs, des enfants à des adultes, des personnes provenant des cultures les plus diverses et de toutes les couches de la société. L'imperfection et le vulnérable constituent les points de départ de son œuvre qui se caractérise en outre par l'humour, la vitalité et le chaos apparent.<br><br># Benjamin Verdonck<br>Benjamin Verdonck est né en 1972 et a terminé ses études au Conservatoire Royal Flamand d'Anvers le 1er avril 1995, dans le département Arts de Scène/Dora Van Der Groen. Il joue au Zuidelijk Toneel (Ivo Van Hove) et dans le Groupe Théâtral Hollandia (Johan Simons et Paul Koeck) où il propose ses propres représentations de théâtre musical en collaboration avec Valentine Kempynck et la Muziekmakerij Think of One. Il joue dans De Roovers, Dood Paard, Walpurgis, Dito Dito, Lampe, Arne Sierens et Het Muziek Lod. À partir de l'an 2000, il se concentre sur une étude portant sur la puissance et les fonctions de la théâtralité dans l'espace public, ce qui se traduit par des projets tels que Bara/ke 2000 (projet de cabane sur la Place Bara à Bruxelles et sur la Place Sint Jans d'Anvers), Hong Kong Woman disappeared dans le cadre de l'Été Anversois et Hirondelle/Dooi vogeltje/The Great Swallow (une représentation de 7 jours à partir d'un nid d'oiseaux situé à 32 m de hauteur, installé sur la façade du centre administratif de la ville de Bruxelles et une année plus tard sur celle du Rotunda Building de Birmingham). Il propose aussi des spectacles à moins grande échelle tels que Shopping = Fun, I'll come running straight to you ou encore I Like Amerika and Amerika likes me (un entretien de trois jours avec un porc afin d'illustrer le désarroi et l'inquiétude liés aux tensions entre les États-Unis et l'Irak), le tout en étroite collaboration avec Valentine Kempynck, Geert Opsomer (dramaturgie), Samuel Verdonck et Sven Roofthooft (réalisation). Il construit aussi des maisons dans les arbres et écrit pour et sur le théâtre (Metamorphosen et I'm happy men) tout en jouant (Misschien wisten zij alles en Wewillllivestorm).<br>Pour la période 2006-2009, Benjamin Verdonck est soutenu par le Nieuwpoorttheater, le Toneelhuis et le KVS.<br><br>Au Festival d'Avignon, Fumiyo Ikeda a dansé dans Rosas danst Rosas d'Anne Teresa De Keersmaeker en 1983; Alain Platel a déjà présenté Bonjour madame... en 1996, Bernadetje en 1997, Tous des Indiens en 2000 et devait présenter Wolf en 2003. Il était invité au Festival 2006 avec vsprs.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_nineFinger_FDA2007/CommAvignon_fds_nineFinger_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Fumiyo Ikeda : <br>Alain Platel : <br>Benjamin Verdonck<br>Nine Finger<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_nineFinger_FDA2007/CommAvignon_fds_nineFinger_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># 24 25 26 27<br>GYMNASE AUBANEL ❏ 18h ❏ durée 1h ❏ spectacle en anglais, surtitré en français<br><br>un spectacle créé par Fumiyo Ikeda, Benjamin Verdonck, Alain Platel, Anne-Catherine Kunz, Herman Sorgeloos<br>joué par Fumiyo Ikeda, Benjamin Verdonck<br>traduction des surtitres Anne Vander Schueren<br>opératrice surtitrage Anne Van Aerschot<br>administration Hanne Van Waeyenberge, Johan Penson<br><br>spectacle créé le 17 janvier 2007 au KVS à Bruxelles (Belgique)<br><br>coproduction Rosas (Bruxelles), KVS (Bruxelles), De Munt/La Monnaie (Bruxelles) et le Théâtre de la Ville-Paris<br>avec le soutien des autorités flamandes<br><br>les dates de Nine Finger après le Festival:<br>le 5 octobre 2007 au Magdalenazaal (Bruges, Belgique)</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_nineFinger_FDA2007/CommAvignon_fds_nineFinger_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Fumiyo Ikeda, Alain Platel et Benjamin Verdonck<br><br>Quelle est l'origine de ce projet?<br>Fumiyo Ikeda: Il y a cinq ans, Anne Teresa de Keersmaeker m'a demandé si je ne voulais pas créer une pièce à part, en dehors de ses propres chorégraphies que j'interprète depuis longtemps. Je ne savais pas vraiment comment m'y prendre. L'équipe de la compagnie Rosas m'a alors conseillé de choisir d'abord les personnes avec lesquelles j'avais envie de travailler plutôt qu'un sujet ou une musique. J'ai donc réfléchi dans ce sens et demandé à Benjamin Verdonck qui est acteur et performeur, et que je connais depuis quinze ans. Nous nous sommes rencontrés sur un projet de film alors qu'il était encore au Conservatoire. Par ailleurs, j'avais depuis longtemps envie de travailler avec le chorégraphe Alain Platel, mais avec une équipe plus restreinte que dans ses propres pièces qui réunissent beaucoup de monde. Nous n'avions jamais eu d'occasion de ce genre jusqu'à aujourd'hui. L'une de nos plus grandes difficultés a été de trouver des dates. Il nous a fallu beaucoup de temps pour caler nos emplois du temps respectifs et trouver des temps de répétition communs! Nous nous sommes d'abord retrouvés régulièrement, simplement pour discuter autour d'éléments divers. Alain nous faisait beaucoup parler de ce qui nous intéressait à ce moment-là, autour de l'actualité, des films, de la musique. Mais rien encore qui puisse présager de ce dont nous traitons dans la pièce. Tout était toujours très ouvert dans ces discussions. Nous ne savions rien encore lorsque Benjamin a proposé un titre: Nine Finger. Il avait alors déjà dessiné ce visage avec des larmes, qui est aujourd'hui l'affiche du spectacle. Le premier jour de répétition, il a amené le livre d'Uzodinma Iweala (écrivain né à Washington de parents nigérians), qui raconte la guerre à travers les yeux et les mots d'Agu, un enfant-soldat.<br><br>Alain Platel, comment vous-êtes vous retrouvé dans ce projet?<br>Alain Platel: Quand Fumiyo m'a demandé si je voulais participer à cette création, je voulais d'abord m'assurer qu'il ne s'agissait pas d'un solo, car ce qui m'intéresse dans le travail est la dimension collective, la notion de groupe. En même temps, je connaissais le travail de Benjamin, et cela me rendait très curieux de voir comment des caractères si différents, presque à l'opposé, pouvaient créer ensemble. Nous avons d'abord, à travers nos rencontres régulières, cherché à trouver un sol commun. Quand Benjamin a proposé de travailler sur ce livre de l'enfant-soldat, une autre question s'est posée à nous. A-t-on le droit en tant qu'Européen de prendre cette parole à notre compte, d'en faire une pièce? Nous avons donc cherché comment raconter cette histoire. Et comme le sujet traite de l'insupportable, il fallait aussi être certain de pouvoir transmettre ce propos et cette langue au public. Le texte seul, dans sa violence, faisait très peur. Nous avons demandé à d'autres personnes de nous rejoindre dans ce processus et nous leur avons montré des étapes du travail. Leurs réactions nous ont encouragés dans cette voie.<br>Choisir un texte comme celui-ci, c'est aussi une forme d'engagement. Chacun est lié à ce qui se passe dans le monde. C'est pourquoi nous avons décidé d'intégrer cette histoire avec des éléments plus personnels, notamment autour du sentiment d'impuissance que l'on ressent lorsque l'on est confronté au témoignage de cette réalité. D'un point de vue simplement humain, individuel. Cela nous a permis d'introduire un espace entre notre regard extérieur sur cette réalité, et le sujet du livre. La présence de Fumiyo fait le lien entre les deux.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_nineFinger_FDA2007/CommAvignon_fds_nineFinger_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Comment vous est venu le titre de cette pièce Nine Finger?<br>Benjamin Verdonck : En fait, c'est une association. Au mot \"finger\", il manque volontairement un \"s\". C'est cette idée qui m'intéressait. Après nos discussions, il me semblait que ce titre reflétait la question qui occupait nos temps de rencontre : comment se positionner envers l'actualité, avec notre langage. Nine Finger, \"neuf doigt\" et ce quelque chose qui manque, me semblait être une image adaptée à ce projet à venir. Cette image, je l'ai représentée par un dessin, un visage et des larmes. Sans encore avoir une idée très précise de ce que nous allions faire, puisque nous n'avions pas encore commencé les répétitions. Mais il y avait pour moi cette direction qui s'esquissait à travers nos échanges. Même aujourd'hui, après la création, j'ai vraiment l'impression que cette pièce est en fait très fidèle à ce premier temps du processus de travail. Nous ne sommes pas partis du texte, nous avions commencé avant. Mais nous avons immédiatement été tous les trois d'accord sur l'idée de le mettre en scène. Cette décision a évidemment enclenché un autre type de travail et de questionnement. Comment traiter par l'esthétique un propos aussi cru et difficile, qui témoigne d'une histoire à laquelle nous sommes liés mais qui n'est pas la nôtre? Nous vivons dans ce qu'on appelle un pays riche. Nous ne vivons pas en Afrique et en général l'idée que nous pouvons nous en faire passe par les images diffusées par les médias. Nous avons cherché comment nous pouvions nous situer, quelle place pouvait être la nôtre face à cette réalité.<br>Fumiyo Ikeda : En fait, en reprenant ce texte à notre compte, ce que nous essayons de dire, c'est que nous sommes tous concernés par la guerre et la violence. Cela n'arrive pas qu'aux autres. Nous ne pouvons pas faire comme si cela n'existait pas parce ce que cela se passe loin de chez nous.<br><br># Vous avez chacun un parcours différent et cette pièce vous réunit pour la première fois tous les trois, comment avez-vous travaillé avec Alain Platel?<br>Benjamin Verdonck : Nous avons essayé de dire ce nœud qui nous prend au ventre quand nous nous tenons informés de ce qui se passe dans le monde. Très concrètement, Alain m'a demandé de jouer la réaction physique du texte, d'évoquer ce que j'en ressentais et non pas de jouer un enfant-soldat. De travailler plutôt sur ma propre relation, intime, au personnage de l'enfant-soldat. J'ai surtout étudié comment je réagissais à ce qu'il disait.<br>Fumiyo Ikeda : C'est surtout un travail sur la distorsion. De la manière dont c'est écrit. On a l'impression qu'il y a toujours un décalage entre les mots, le temps, les actions et les émotions. C'est un drôle de sentiment. C'est très physique. Le texte raconte assez, nous cherchons plutôt à tenir, à abstraire.<br>Benjamin Verdonck : La position d'Alain nous accompagne beaucoup, il cherche surtout à écouter les gens avec lesquels il collabore, à faire émerger ce qu'ils ont en eux. Je pense qu'il a vraiment travaillé à partir de nos envies et de nos façons d'être. Dès le premier jour des répétitions, il était très clair que j'allais intervenir à partir du texte, avec un micro, Fumiyo avec la danse. Mais nous nous sommes beaucoup interrogés sur la manière de traiter ce sujet. Nous avons cherché à préserver un mouvement même dans le jeu, entre être dedans et dehors, l'expression et la retenue. Cela nous semblait très important autour de ce sujet et aussi dans la relation au public car ce n'est pas une pièce faite pour plaire, le sujet est très dur, cru et direct. Il y a une sorte d'impossibilité à dire, à nommer avec un tel propos, que l'on essaie pourtant de donner à entendre, réfléchir, partager.<br>Fumiyo Ikeda : Nous avons sélectionné et intégré plusieurs séquences de texte. Ensuite, nous avons cherché comment mettre en relation le jeu et le mouvement, le théâtre et la</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-ninefinger-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Silence"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_silence_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Jean-Pierre Vincent<br><br>Jean-Pierre Vincent est né en 1942.<br>Ses premières activités théâtrales ont eu lieu, à partir de 1958, au Groupe Théâtral du Lycée Louis-le-Grand, où ont débuté aussi Patrice Chéreau, Hélène Vincent, Jérôme Deschamps... Ce groupe a franchi les étapes vers le professionnalisme à travers la Compagnie de Patrice Chéreau et son installation à Sartrouville, jusqu'en 1968 pour Jean-Pierre Vincent.<br>À cette date, il est devenu metteur en scène, avec Jean Jourdheuil pour compagnon dramaturge, d'abord pour quelques mises en scène dans les Centres dramatiques nationaux, puis en créant le Théâtre de l'Espérance (1972-1975).<br>Jean-Pierre Vincent est alors nommé directeur du Théâtre National de Strasbourg et de son École. Il y travaille jusqu'en 1983 avec un collectif artistique permanent qui produit une série d'expériences théâtrales qui ont fait mémoire.<br>Au terme de cette aventure risquée et réussie, il est nommé Administrateur général de la Comédie-Française (1983-1986). Il préfère alors reprendre sa liberté pour être metteur en scène itinérant (avec Bernard Chartreux pour dramaturge, désormais) et professeur au CNSAD (1986-1990). C'est alors qu'il prend le relais de Patrice Chéreau à la tête du Théâtre des Amandiers à Nanterre, qu'il dirige de 1990 à 2001.<br>Depuis ce temps, Jean-Pierre Vincent et Bernard Chartreux ont créé grâce au ministère de la Culture leur nouvelle compagnie, \"Studio Libre\", avec laquelle ils ont co-produit plusieurs spectacles avec les théâtres nationaux de la Colline et de l'Odéon. \"Studio Libre\" a aussi mené un compagnonnage avec l'ERAC (École Régionale d'Acteurs de Cannes) jusqu'en 2007.<br>Jean-Pierre Vincent est sans doute le metteur en scène le plus régulièrement présent dans la programmation du Festival d'Avignon depuis 1971 (ouverture de \"Théâtre Ouvert\" avec Le Camp du drap d'or de Serge Rezvani). Le Silence des communistes est sa treizième apparition en Avignon.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>et<br><br># Les Leçons de l'université □ Jean-Pierre Vincent<br>16 juillet □ 11h □ Université d'Avignon □ conférence présentée par Emmanuel Ethis<br><br># Regards critiques<br>22 juillet □ 11h30 □ École d'Art<br>L'artiste et le pouvoir □ avec Guy Cassiers, Ludovic Lagarde, Jean-Pierre Vincent et Jack Ralite, sénateur<br><br>Comme chaque année, l'Adami apporte son aide aux spectacles coproduits par le Festival d'Avignon et favorise l'emploi, notamment sur des spectacles réunissant un nombre important d'artistes. Société de gestion collective des droits des artistes-interprètes (près de 60 000 comédiens, chanteurs, musiciens, chefs d'orchestre, danseurs...), l'Adami a consacré, en 2006, près de 13 millions d'euros à 950 projets dans différents genres artistiques. Ces aides ont contribué à l'emploi direct de plus de 6500 artistes.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Jean-Pierre Vincent<br># Le silence des communistes<br>D'APRÈS VITTORIO FOA, MIRIAM MAFAI, ALFREDO REICHLIN<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>8 9 10 11 13 14 15 16 & 18h<br><br>et aussi les 11 15 & 15h<br>SALLE DE CHAMPFLEURY □ durée estimée 1h30 □ création 2007<br><br>d'après Vittorio Foa, Miriam Mafai, Alfredo Reichlin<br>traduction Jean-Pierre Vincent<br>d'après la version scénique de Luca Ronconi, Turin 2006<br>mise en espace Jean-Pierre Vincent<br>avec<br>Gilles David Vittorio Foa<br>Melania Giglio Miriam Mafai<br>Charlie Nelson Alfredo Reichlin<br>dramaturgie Bernard Chartreux<br>lumières Alain Poisson<br>production déléguée Festival d'Avignon<br><br>texte publié aux éditions de l'Arche<br>Le spectacle a fait l'objet d'une première lecture le 28 août 2006 aux Rencontres de la Mousson à Pont-à-Mousson<br><br>production Festival d'Avignon en coproduction avec \"Studio Libre\"<br>remerciements Teatro Stabile di Torino, Théâtre de Nanterre-Amandiers<br>Le Festival d'Avignon reçoit le soutien de l'Adami pour la production</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Jean-Pierre Vincent<br><br>Le texte que vous mettez en scène, Le Silence des communistes, est constitué d'un ensemble de lettres échangées entre des militants de la gauche italienne...<br><br>Jean-Pierre Vincent: Le texte intégral est en effet composé de sept lettres, écrites en 2002. À l'origine de ces échanges épistolaires, un militant de la gauche syndicale, Vittorio Foa, qui écrit à deux membres de l'ex-parti communiste italien (PCI) de la génération de l'après seconde guerre mondiale, Miriam Mafai et Alfredo Reichlin. Au centre de ses préoccupations, il y a la disparition du PCI et le silence de nombreux militants à la suite de cette disparition. Mais rapidement cette question est relayée par d'autres problématiques. Vittorio Foa interroge ses camarades non seulement sur leur silence d'aujourd'hui mais aussi sur celui de l'époque où le PCI était une force prépondérante en Italie. Le grand intérêt de cet ensemble réside dans l'honnêteté et la franchise des interlocuteurs qui affrontent leur passé et leur présent. Ils ne s'attardent pas trop sur le stalinisme et la IIIe Internationale, mais ils esquissent chacun pour eux une réflexion sur l'état du monde et les possibilités de constituer une nouvelle gauche en Italie. Ces militants ne sont pas des héros mais des êtres pensants et réfléchissants sur leurs pratiques politiques dans le monde qui les entoure, à la lueur d'un passé souvent problématique. Leurs moyens ne sont pas supérieurs à ceux des spectateurs qui écouteront leurs textes. Ils cherchent à mieux comprendre ce qui est à la base de l'idée du communisme, c'est-à-dire la communauté. Cela ne va pas sans une réelle émotion, car c'est à partir d'une enquête solitaire, intime, que leurs pensées progressent : une intimité qui de loin s'adresse, une bouteille à la mer.<br><br>Est-ce vous qui avez traduit ce texte ?<br>Oui, dès que j'ai vu le spectacle de Luca Ronconi, qui a eu l'idée de mettre en scène ce texte dans son intégralité à Turin en 2006, j'ai voulu le traduire. Je me suis alors demandé s'il ne serait pas intéressant de susciter cette correspondance entre des militants français. Mais j'ai très vite compris qu'aucun communiste français ne pouvait écrire ça, car l'histoire intellectuelle du PCF est très différente. Le PCF existe encore... on ne peut donc encore réfléchir sur sa mort... alors que le PCI, qui est officiellement mort, reste très vivant dans l'esprit des militants qui peuvent plus facilement analyser son histoire. Donc j'ai entrepris de chercher à le présenter tel quel.<br><br>Les auteurs de ces lettres étant des militants âgés, entre 70 et 80 ans, comment avez-vous choisi les acteurs ?<br>J'ai suivi l'idée très juste de Ronconi, qui avait choisi des acteurs de la quarantaine, ce qui permet de ne pas se servir de l'âge des personnages pour avoir une explication immédiate, un alibi ou des lamentations. Le refus du naturalisme est indispensable ; il est préférable de présenter ces trois militants dans la force de leur âge, quand ils étaient dans l'action politique de gauche. Ou bien, tout simplement, d'avouer que ce sont des acteurs plus jeunes qui reprennent leurs paroles.<br><br>C'est un présent et un passé de l'histoire italienne dont il est question dans ces textes. Cela ne pose-t-il pas des barrières par rapport au public français ?<br>Je n'ai jamais été communiste, mais je suis sûr que le P.C.I. a joué un rôle esthétique, politique et émotionnel dans ma vie, en particulier en mai 68. Ce parti, qui nous apparaissait comme moins stalinien, était relié à un certain nombre de comportements politiques différents du P.C.F. et aussi à tout un monde artistique, des modèles comme Lucchino Visconti, Francesco Rosi ou Giorgio Strehler et tant d'autres... C'était un véritable mythe. Dès que j'ai terminé ma traduction, je l'ai adressée à une vingtaine d'amis très différents pour voir si, tel</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_silence_FDA2007/CommAvignon_fds_silence_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>quel, ce texte italien pouvait intéresser des Français. Toutes les réponses ont été positives ; certaines s'agrémentant de souvenirs politiques très intimes, ce qui m'a prouvé que je n'étais pas le seul à être touché par ces paroles militantes venues de l'autre côté des Alpes. J'ai voulu alors vérifier si, chez l'auditeur, l'émotion était aussi forte que chez le lecteur, en dirigeant une lecture aux rencontres de la Mousson d'Été de Pont-À-Mousson. J'ai constaté que la réaction était au moins aussi forte. C'est donc un travail très progressif que j'ai fait avec ce texte. S'il doit y avoir une suite aux représentations d'Avignon, je ne voudrais pas que ce soit simplement la tournée d'un spectacle fini, mais comme une suite d'opérations uniques qui se recréent à chaque fois en fonction du lieu, du nombre de spectateurs, de la géographie émotionnelle, du rapport politique potentiel avec une population dans un espace donné qui ne soit pas, si possible, un théâtre mais un lieu décalé dans la ville où nous irions jouer.<br><br># Avez-vous adapté le texte aux réalités politiques françaises ?<br>Non, les gens sont assez grands pour transposer ! Et l'évocation de l'Italie est passionnante. Nous avons seulement allégé des détails et des particularismes historiques qui ne feraient que compliquer la compréhension des spectateurs français, afin de concentrer l'attention sur l'essentiel.<br><br># Beaucoup de questions abordent aussi la valeur du travail dans nos sociétés occidentales développées. Ne pensez-vous pas que ces militants italiens osent poser des questions qui dérangent lorsqu'elles sont posées en France ?<br>Peut-être que la disparition du P.C.I. a libéré dans la tête de ces gens-là des possibilités de lecture de la réalité. Pendant plusieurs décennies, le travail était l'élément majeur de la socialisation des individus. Mais aujourd'hui, on doit se poser des questions sur la capacité des nouvelles relations sociales qui peuvent vraiment recréer un sens de la communauté. Ce sont justement ces questions-là que se posent les auteurs sans d'ailleurs apporter de réponses fracassantes. Ils luttent à leur manière contre le catastrophisme ambiant face à l'organisation mondiale de la solitude. Ils n'y voient pas une fatalité absolue. Cette réflexion « à tâtons » est sans doute ce qui touche si fortement le public. Peut-être qu'en scrutant les différences que nous avons avec nos voisins européens, nous en apprendrons plus sur nous-mêmes.<br><br># La représentation de ce type de texte pose aussi le problème de la scénographie ?<br>Je me sens plus proche d'une mise en espace que d'une mise en scène. Étant le premier à avoir proposé des mises en espace, au Festival d'Avignon en 1971, avec une pièce de Rezvani Le Camp du drap d'or pour Théâtre Ouvert, je suis très attiré par ce genre de proposition. J'adore ce type de travail pour sa légèreté, pour la simplicité du rapport au texte et aux acteurs – qui n'empêchent pas une vraie profondeur d'analyse –, pour la limpidité du rapport aux spectateurs. Avec ce texte-là, je ne ferai pas autre chose qu'une mise en espace privilégiant à la fois la présence du texte-papier dans les mains des acteurs et la fonction de l'acteur comme passeur de texte sans véritable incarnation. Il y aura bien un travail sur des personnages, puisque les trois rédacteurs des lettres sont très différents, mais sans insister.<br><br># Ce texte peut-il être reçu comme une « leçon » politique ?<br>Non, surtout pas de leçons ! Des questions profondes ! C'est comme un bateau qui serait parti d'un quai qui est le passé et qui filerait doucement, inexorablement, vers le présent, vers nous, d'une façon troublante, avec une noblesse de phrasé politique, un sens de la remise en question, que je ne trouve pas en France en cette période électorale. Ces militants pensent le monde et trouvent avec simplicité les mots pour le dire. Ils brassent les acquis culturels de l'Europe depuis l'époque des Lumières, et dans ce brassage, ils parlent de notre réalité inédite, sans donner des leçons.... C'est très rare. Ce n'est pas triste, mais ça peut faire pleurer...<br><br>Propos recueillis par Jean-François Perrier en février 2007</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-silence-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

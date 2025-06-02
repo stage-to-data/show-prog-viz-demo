@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Approche"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_approche_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_approche_FDA2007/CommAvignon_fds_approche_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>théâtre, de l'apprentissage du texte par le comédien. Pourquoi l'acteur doit-il apprendre à dire les mots de quelqu'un d'autre? Si l'on se pose la question de cette façon basique, on peut même trouver que le jeu au sein de cette structure théâtrale est passablement autoritaire. D'abord, il y a l'auteur qui écrit, puis l'acteur étudie et répète ses mots. Comment accepter l'idée qu'un être humain qui s'engage sur une scène n'a rien d'autre à dire qui soit plus important? En plus, apprendre par cœur est une torture. Cela m'a toujours profondément gêné. J'y vois un système de classe dans le théâtre même. Cette manière de procéder peut aussi bien suggérer que le comédien est une personne de moindre valeur que l'auteur. Et entre les deux, au milieu, il y a le metteur en scène. Dit comme ça, c'est pathétique.<br>Par ailleurs, comme j'aime vraiment la littérature, entendre, écouter des textes beaux, bien écrits, la question a été pour moi de trouver comment inscrire une parole écrite dans une pièce de théâtre, en évitant que les acteurs qui la transmettent la disent de mémoire. Évidemment, il y a la lecture. Mais c'est à cause de cette contradiction que j'ai commencé à écrire pour que les acteurs puissent faire leurs propres actions, et pour que les textes soient les compléments de ces actions. Cela soulève un second problème. Si les textes sont un complément direct des actions, le résultat peut aboutir à une catastrophe, ne serait-ce qu'en se montrant terriblement didactique et simpliste. Alors, comment compléter de manière évidente les actions, sans perdre la capacité, la force, les possibilités de la pièce? C'est pourquoi dans Approche de l'idée de méfiance, j'ai tenté de trouver un équilibre entre le texte en train de se dire et les images. Et c'est sans doute pour cela aussi que j'ai cherché des images plus abstraites, coordonnées à un texte clair, concret, à la première personne, qui parle de choses en train de se passer. Ainsi se produit la confrontation entre ce texte clair, des images et des actions, un peu irréelles, qui tiennent davantage du rêve.<br><br># Cela s'est construit en modifiant, en travaillant sur la temporalité?<br>Oui, c'est très important. Parce que dans Ronald, il y a un temps très théâtral. Je prends des éléments de la performance ou des actions, mais ce qui m'intéresse, c'est de les structurer de façon très particulière. Dans cette pièce, le temps change totalement, parce que le public est constamment obligé de lire, il doit regarder le texte. Pour cela, les actions doivent être étirées dans le temps et contenir beaucoup de nuances sans être trop différentes les unes des autres. J'ai cherché à préserver la tranquillité du public, le temps de la lecture. Être simultanément obligé de lire et de regarder des scènes mouvementées est un facteur d'anxiété. On ne peut pas tout suivre à la fois. Donc, cette nécessité a été très positive. Elle a conditionné l'espace comme l'écriture du plateau. Cette qualité de temps, son étirement, m'a imposé un autre type de scènes, plus concrètes, avec des actions minimales. C'était très intéressant, cette recherche d'une grande théâtralité apparemment pauvre. Comment créer une empreinte théâtrale particulière avec très peu d'éléments : l'action de lire, le silence, et quelques images scéniques.<br><br>Propos recueillis par Irène Filiberti en février 2007</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_approche_FDA2007/CommAvignon_fds_approche_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Rodrigo García<br><br>Rodrigo García est né en 1964 à Buenos Aires, en Argentine. Depuis 1986, il vit et travaille à Madrid. Il est auteur, scénographe et metteur en scène. En 1989, il crée la compagnie La Carnicería Teatro.<br>Rodrigo García revient aux origines du rite théâtral, sa fonction, son ambition, son impact, convoquant tous les sens du spectateur à une expérience à la fois intime et brutale. C'est pourquoi son théâtre attend et exige une réaction : sensible et intellectuelle, intempestive, dubitative. Il s'attache à transformer la scène en une espèce d'œil du cyclone capable de saisi, et de formuler le bruit et la fureur de nos sociétés guerrières. Si le théâtre de García dérange et fascine, c'est parce qu'il n'a pas peur de nommer les choses, et de les montrer. C'est tout à la fois la comédie humaine, la farce sociale et le journal intime d'un artiste qui ne se satisfait pas de l'ordre du jour. Sa poésie à l'esthétique imprévisible et sa liberté de regard donnent à son écriture une mobilité, une précision et un impact redoutables.<br>Il a écrit et mis en scène entre autres Acera derecha (1989), Matando horas (1991), Prometeo (1992), Notas de cocina (1994), Carnicero español (1995), El Dinero (1996), Protegedme de lo que deseo (1996), Nuevas Ofensas (1998), Ignorante (2000), After Sun (2000), J'ai acheté une pelle chez Ikea pour creuser ma tombe, (2002), L'Histoire de Ronald, le clown de McDonald's et Jardinería humana (2003), et Et balancez mes cendres sur Mickey (2006). Il a aussi travaillé comme metteur en scène sur les textes de Thomas Bernhard, W.H. Auden, Baudelaire ou Heiner Müller.<br>Rodrigo García réalise également des installations théâtrales, dont Hamlet à l'Audiovisual Festival Experimental (AVE), (Hollande, 1993) ou Dime poesías-boxea à l'Espacio Arte au théâtre Pradillo (Madrid, 1993). Il travaille également comme vidéaste.<br>Ses pièces sont montées dans toute l'Europe. La plupart de ses textes récents sont traduits aux éditions des Solitaires Intempestifs.<br>Au Festival d'Avignon, Rodrigo García a déjà présenté After sun, Je crois que vous m'avez mal compris en 2002 et L'Histoire de Ronald, le clown de McDonald's en 2004. Il a présenté cette année au Festival Cruda. Vuelta y vuelta. Al punto. Chamuscada. (Bleue. Saignante. À point. Carbonisée.) du 6 au 13 juillet au Cloître des Carmes.<br><br><br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_approche_FDA2007/CommAvignon_fds_approche_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Rodrigo García<br>Approche<br>de l'idée de méfiance<br><br>DEXIA                                61ᵉ Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_approche_FDA2007/CommAvignon_fds_approche_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>22 23 24 25<br>CLOÎTRE DES CÉLESTINS □ 22 h □ durée 1 h<br><br>texte, scénographie et conception Rodrigo García<br>traduction Christilla Vasserot<br>avec Juanjo de la Jara, Agnès Mateus, Jean-Benoît Ugeux<br>et la participation de Tristan Alexandre, Sylvette Ardoino, Louis Berenger, François Boulat, Aurélie Bourgeois, Elisa Carré, Noëlle Chambon, Caroline Cordier, Bernadette Demongodin, Robert Demongodin, Francis Deraisy, Matthieu Devie, Alban François, Margot Grillet, Valentin Létoquart, Camille Olivier, Joséfine Rougeot, Boris Wilmart, Lydia Wudy<br><br>lumières Carlos Marquerie<br>projections Ramón Diago<br>caméra Daniel Iturbe<br>régie générale Ferdy Esparza<br>assistant à la mise en scène Alessandro Romano<br><br>les textes de Rodrigo García sont publiés aux éditions Les Solitaires Intempestifs<br>spectacle créé en février 2006 à Bonlieu la Scène nationale d'Annecy<br><br>coproduction Rodrigo García et la Carnicería Teatro, Bonlieu Scène nationale d'Annecy et le Centre des Arts scéniques de Reus (Espagne)<br><br># entretien avec Rodrigo García<br><br>Comment avez-vous fait évoluer votre travail au fil du temps?<br>Rodrigo García: J'ai d'abord commencé par écrire, puis à faire du théâtre. Tout d'abord de façon plus classique. Je me suis de plus en plus rapproché du corps, de la lumière, des musiques. Au fil du temps, je me suis rendu compte que je considérais le théâtre de plus en plus comme une architecture, et pas seulement comme un espace de parole. J'ai remarqué aussi que dans mes pièces, les mots, le propos s'entendaient mieux, prenaient plus d'impact, si la parole se faisait moins présente et plus construite, d'un point de vue sonore, autrement dit si j'utilisais moins de matière phonique. J'ai trouvé qu'en développant plus d'actions physiques, elle prenait davantage de poids. Ce qui permettait d'éviter de la vider de son sens. Par ailleurs, en travaillant entre images et actions, je me suis aperçu que souvent, celles-ci se suffisaient à elles-mêmes. Elles n'avaient pas besoin de commentaires, de mots ou de discours en plus. D'autres en revanche, plus abstraites, demandaient une sorte d'ancrage, il me fallait compléter ces actions par des mots. J'ai beaucoup apprécié cette découverte et la mise en place de ce processus, parce que je pouvais pratiquer l'écriture, d'une part en solitaire autour de mon imaginaire et d'autre part, écrire pour des actions qui nécessitaient d'être complétées par les mots. L'abstraction m'intéresse beaucoup mais jusqu'à un certain point. Seulement de mon point de vue, sa limite est son aspect formel, autrement dit elle m'intéresse pas politiquement. Je n'ai pas peur d'être explicite, le problème est plutôt de garder la capacité poétique de la pièce. Je procède toujours de cette façon trouble, en mêlant ces deux partis pris, en passant d'un côté à l'autre. C'est l'effort de chaque pièce: comment trouver un équilibre entre l'abstraction et l'engagement? En même temps, cela</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_approche_FDA2007/CommAvignon_fds_approche_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>m'a coûté aussi de renoncer à écrire comme je le faisais à mes débuts car j'aime vraiment ça. Je suis resté très attaché à l'aspect littéraire, et je ne déroge pas à cette attention. Mais il est vrai qu'il n'est plus la colonne vertébrale d'une œuvre, sa présence est devenue plus mineure dans les pièces. J'aime aussi mettre en scène ce qui s'exprime non seulement corporellement mais matériellement, et si les arts plastiques ont en partie inspiré mon travail, je n'ai pas cherché à faire entrer sur scène ces pratiques, de manière littérale, mais plutôt à garder un état d'esprit, une liberté de geste, une singularité, qui selon moi les caractérisent. Par exemple, je ne suis pas intéressé par l'idée d'intégrer une installation plastique sur le plateau d'un théâtre, de travailler à partir de concepts. Dans ces milieux préservés, beaucoup travaillent avec cette culture de l'esthétique, en questionnant son histoire, ses formes, son langage. Ce que je cherche à créer, ce sont des œuvres élémentaires, basiques, qui préservent la fragilité, la faiblesse, dans l'acte même de créer. Je considère que je ne connais pas le travail, que je ne sais rien de la danse, du théâtre, de la littérature. Je ne veux pas avoir à résoudre les problèmes artistiques que je peux me poser en recourant à une méthode ou à des techniques. Je travaille dans l'intranquillité. C'est une sorte de caractère, il y a de la vaillance et aussi de la douleur parfois à parler de choses très personnelles.<br><br># Que mettez-vous en scène dans Approche de l'idée de méfiance ?<br>C'est une œuvre très étrange qui a été conçue de façon totalement inattendue en une semaine. À l'origine, il s'agissait d'un temps de travail et de recherche, mené avec trois acteurs que je ne connaissais pas, dans le cadre d'une collaboration avec la Scène nationale de Bonlieu, à Annecy, où la pièce a été créée en février 2006. Mais il n'était pas du tout prévu que cela débouche sur une création. Cette pièce est finalement très importante dans mon parcours, parce qu'après L'Histoire de Ronald, le clown de McDonald's, je voulais arrêter de travailler. C'est d'ailleurs encore mon souhait aujourd'hui : je voudrais à nouveau me consacrer uniquement à l'écriture. Cette résidence de travail s'est déroulée à un moment où j'étais vraiment fatigué et très déçu par le théâtre, je n'avais pas envie du tout de m'y investir à nouveau. Et finalement, ce que nous avons fait pendant ce temps particulier est resté quelque chose qui a pris une certaine valeur, à travers la rencontre avec ces acteurs, mais aussi pour d'autres personnes. Peut-être justement parce que je ne voulais plus travailler pour ce public moderne et cultivé que l'on croise quand on est programmé dans les festivals. Toute cette consommation, ce système, tout cela me semble toujours très en contradiction avec le travail. Le fait que mes créations soient déjà beaucoup montrées devant un public européen qui ne me plaît pas tellement, au sens où celui-ci n'a pas vécu dans sa chair ce que d'autres subissent ailleurs, est aussi une des raisons pour lesquelles j'ai fait des choses plus agressives, pour qu'il en prenne conscience, qu'il se sente mal. Mais cela ne rime à rien car au final le marché peut tout à fait m'assimiler sans danger. Même si mon œuvre se veut le contraire de cela. Du coup, j'ai l'impression d'être entretenu par un système qui intègre ma conception du théâtre au sein des phénomènes de la modernité, entre autres parce que j'utilise des matériaux comme le lait, la farine, le sel. J'ai vécu un moment de grande désillusion, en comprenant que je ne pouvais faire autre chose que de travailler pour une société de merde. Parce que je vis dans cette société de merde, de bien-être, où tout est beau, magnifique, sans danger, sans menace. Ici, personne ne va venir te tuer, alors que partout ailleurs c'est différent. Je m'étais donc arrêté de travailler quand j'ai entrepris cette recherche. Et curieusement ce qui est sorti de ces expérimentations avait une qualité, un caractère complètement différent.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_approche_FDA2007/CommAvignon_fds_approche_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Ceux qui ont suivi votre parcours savent que vous avez une façon particulière d'investir le plateau. Qu'en est-il dans cette création ?<br>Le paysage scénique de cette pièce se présente sous une forme très introspective, calme, sans violence ni aucun autre effet spectaculaire. Il n'y a pas de musique, il y règne un grand silence, les actions sont peu nombreuses. Le texte est dans sa presque intégralité projeté sur les murs. Cela n'a rien à voir avec Ronald, ou d'autres propositions plus baroques. Je suis encore étonné que cette pièce, qui va contre toutes les précédentes, soit comme naturellement sortie de moi. Depuis After Sun, les créations me semblaient participer d'un même cycle, développant un chemin plus ou moins poétique, mais chaque fois plus explicite, clair, social, jusqu'à Agamemnon, où tout est politique. Mais cette pièce est aussi comme une sorte de point final. Et j'ai eu besoin de tout arrêter pour achever ce cycle. C'est important, car cette pièce m'a conduit à entrer dans une grande réflexion sur mon propre théâtre. En prenant ce temps de recul, j'ai pu interroger cette démarche de manière autocritique. Du coup, pour ceux qui sont habitués à ce que je fais, il y aura sans doute une grande déception. Parce que c'est une œuvre calme, où il ne se passe pratiquement rien. Mais j'espère tout de même avoir préservé la force de l'œuvre, qui existe autour d'éléments toujours importants pour moi, comme la violence. Même si cela s'exprime d'une autre façon, comme sous la terre, comme un relief, je ne sais pas.<br>À travers cette pièce plus intime, abstraite, suggestive, nous avons par exemple développé une scène avec des poules, que les acteurs hypnotisent, endorment, ou d'autres choses comme ça. C'est très tranquille. Le texte est à la première personne. Il parle donc de façon intime. Ce sont des réflexions personnelles sur la vie. J'ai essayé de faire une pièce contre l'excès. Pour moi, il était difficile de trouver comment travailler un matériel plus fragile. Quand il me vient une idée, j'ai plutôt besoin de vitesse, de contact. Le calme nécessaire à l'exposition, au développement, n'est pas d'emblée un élément très présent dans mon langage. Même si j'ai toujours essayé de faire des pièces moins fragmentaires, de m'en tenir à deux ou trois matériaux, seulement pour pouvoir les développer. En général, j'aurais plutôt tendance à peindre à gros trait. Approche de l'idée de méfiance est une expérience positive en ce sens. Un exercice qui m'a été utile, pour aller vers un peu plus de délicatesse. Mais on retrouve, comme dans toutes mes pièces, des paysages où le corps et la matière sont prépondérants. Dans ce travail, les acteurs sont souvent très mouillés, tartinés de miel, couverts de boue. Et ce rapport me plaît vraiment. Disons que dans cette création, cette manière de faire est affaiblie, adoucie. Mais le corps n'est pas pour autant occulté, il reste encore très modifié par la matière, ainsi que par la réaction du corps, de la personne à la matière.<br><br>Peut-on parler dans ce cas d'un changement de cycle ou de processus de travail ?<br>Je connais mes limites, et les changements se vivent de l'intérieur. Je ne pense pas qu'un public puisse voir ce qui se modifie à cet endroit. Ce n'est pas simple un changement en soi-même. Finalement, c'est peut-être que cette pièce, simplement, me demandait un texte avec moins d'humeur que les autres. Formellement déjà, il est différent, à cause du support. D'emblée, je savais que je n'allais pas écrire pour l'acteur. À l'inverse de ce que je pratique d'habitude, il n'était pas prévu que le comédien soit le médium du texte parce que celui-ci était destiné à être projeté sur un écran frontal. Évidemment, cela lui donne une autre forme, parce que je sais toujours si j'écris pour que le texte puisse être vu ou entendu. La parole dite est plus éphémère, elle passe plus rapidement. Celle projetée est plus tranquille, elle a plus de temps. Pour le lecteur, dans l'activité même de lire, il y a une intimité et un rapport direct avec l'auteur, ou celui qui écrit. Le fait que l'acteur dise, prenne en charge un texte produit instantanément une étrange fiction. J'ai toujours buté sur cette relation au travail dans le</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-approche-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

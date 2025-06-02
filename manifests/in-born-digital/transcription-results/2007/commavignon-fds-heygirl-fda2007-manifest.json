@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Hey girl"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_heyGirl_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_heyGirl_FDA2007/CommAvignon_fds_heyGirl_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>mais qui sont aussi des images à pervertir, à détourner. Les objets peuvent avoir une valeur qu'ils n'ont pas dans la vie, ce qui peut être perturbant. Comme disait Antonin Artaud, il faut \"brûler les questions\", et j'ajouterai qu'il ne faut pas apporter de réponses parce qu'il n'y a pas de réponses possibles. Ce n'est pas, pour moi, le rôle du théâtre.<br><br>Après Hey girl!, envisagez-vous un Hey boy!?<br>En créant Hey girl!, je cherchais un théâtre plus intime après l'expérience de l'énorme machine infernale que fût la Tragedia Endogonidia. À l'avenir, j'aimerai faire un Hey boy! comme dans un tableau de la Renaissance, de Piero de la Francesca par exemple, où il y a deux portraits côte à côte, celui de la femme et celui de l'homme.<br><br>Votre compagnie s'appelle Societas Raffaello Sanzio. Qu'y a-t-il de \"raphaélesque\" dans Hey girl!?<br>La même chose que dans les autres... Raphaël était tourmenté dans ses tableaux par la perfection de la forme, des lumières, des volumes, des équilibres et en même temps, il avait le sentiment du doute et la perception de l'abîme. Cette ambivalence explique que nous l'ayons choisi comme figure tutélaire de notre travail.<br>Propos recueillis par Jean-François Perrier en février 2007</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_heyGirl_FDA2007/CommAvignon_fds_heyGirl_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Romeo Castellucci<br><br>Romeo Castellucci (1960), metteur en scène ; Chiara Guidi (1960), dramaturge ; Claudia Castelluci (1958), écrivain, constituent le noyau artistique de la Societas Raffaello Sanzio, qu'ils ont fondé en 1981, à Cesena, dans la région d'Émilie Romagne (Italie).<br><br>L'orientation générale qui sous-tend l'œuvre complète de la Societas Raffaello Sanzio, tout en gardant les différences nécessaires, est la conception d'un théâtre intense, d'une forme d'art qui réunit toutes les expressions artistiques, en vue d'une communication qui vise tous les sens et dans tous les sens de l'esprit. La majesté de l'équipement visuel et sonore, qui s'appuie tant sur l'artisanat théâtral d'antan que sur les nouvelles technologies, crée une dramaturgie qui désavoue l'hégémonie de la littérature. La recherche menée dans les domaines de la perception visuelle et auditive vise à étudier les effets des nouveaux équipements ou, plus souvent, à inventer de nouvelles machines.<br><br>Parmi ses nombreuses productions, citons Hamlet, La Véhémente Extériorité de la mort d'un mollusque (1992), un des spectacles de la Compagnie, L'Orestie (une comédie organique?) (1995), Guilio Cesare (1997), Genesi, from the museum of sleep (1999), Voyage au bout de la nuit (1999) et Il Combattimento qui devient un point de repère permanent de l'œuvre musicale de la Compagnie.<br><br>Romeo Castellucci crée également des œuvres plastiques et des représentations figuratives esthétiques-biologiques qui se matérialisent dans la puissance invisible des bactéries. En 2002, le Festival d'Avignon lui consacre une exposition qui, dans la Chapelle Saint-Charles, présente To Carthage then I came : un ensemble d'œuvres animées par un principe de mouvement répétitif, qui pose la question du début comme véritable énigme du monde.<br><br>En 2001, la Societas Raffaello Sanzio lance un vaste projet appelé Tragedia Endogonidia, un système de représentation ouvert qui, tel un organisme, se transforme dans le temps et dans le parcours géographique qu'il effectue, en attribuant à chaque stade de sa transformation le nom d'\"épisode\". L'anonymat des personnages, l'alphabet, la loi, l'âpreté du rêve et la ville constituent des thèmes qui sont autant de conditions de la tragédie contemporaine, vécues à travers la condition du spectateur, qui est probablement le véritable objet de l'esprit de cette Tragedia Endogonidia.<br><br>Le Cycle des films de la Tragedia Endogonidia, mémoire vidéo de Cristiano Carloni et Stefano Franceschetti, vient d'être édité sur DVD et est distribué par le Groupe éditorial Minerva/RaroVideo.<br><br>Au-delà des spectacles, la Societas Raffaello Sanzio a publié plusieurs livres de théorie de théâtre et a produit de manière autonome toute une série de vidéos. La Compagnie est invitée dans les principaux théâtres et festivals internationaux, et a remporté de nombreux prix en Italie et à l'étranger.<br><br>Au Festival d'Avignon, Romeo Castellucci a déjà présenté Giulio Cesare en 1998, Voyage au bout de la nuit en 1999, Genesi en 2000, du cycle de la \"Tragedia endogonidia\" : A.#02 Avignon en 2002, B.#03 Berlin, BR.#04 Bruxelles et les Crescite XII et XIII Avignon en 2005.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_heyGirl_FDA2007/CommAvignon_fds_heyGirl_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Socìetas<br>Raffaello Sanzio/<br>Romeo Castellucci<br>Hey girl!<br><br>DEXIA                   61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_heyGirl_FDA2007/CommAvignon_fds_heyGirl_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>dans les nuits du<br>10 au 11, 11 au 12, 12 au 13, 13 au 14,<br>15 au 16, 16 au 17, 17 au 18<br>à 1 h du matin □ ÉGLISE DES CÉLESTINS □ Durée 1 h 15<br><br>avec<br>Silvia Costa<br>Sonia Beltran Napoles<br><br>mise en scène, scénographie, lumières : Romeo Castellucci<br>musique originale : Scott Gibbons<br>statique et dynamique : Stephan Duve<br>technique des éclairages : Giacomo Gorini<br>réalisation sculptures de scène : Plastikart, Istvan Zimmermann<br>assistance de production : Eugenio Resta<br>organisation : Gilda Biasini, Cosetta Nicolini<br>promotion : Benedetta Briglia<br>administration : Elisa Bruno, Michela Medri<br>consultation administrative : Massimiliano Coli<br><br>spectacle créé le 16 novembre 2006 au Théâtre de l'Odéon, Paris (France)<br><br>production Odéon-Théâtre de l'Europe avec le Festival d'Automne (Paris), steirischerherbst (Graz), Le-Maillon Théâtre (Strasbourg), de Singel (Anvers), Productiehuis Rotterdam (Rotterdamse Schouwburg), Cankarjev dom (Ljubljana), Trafó House of Contemporary Arts (Budapest), Societas Raffaello Sanzio (Cesena)<br><br>les dates de Hey Girl ! après le Festival :<br>les 3 et 4 août 2007 au Centrale Fies (Dro, Italie), les 11 et 12 septembre 2007 au Schouwburg de Rotterdam (Hollande), les 2 et 3 novembre 2007 à la Scène nationale de Dieppe (France), les 8 et 9 novembre 2007 au Peterskirche, Euro Scène (Leipsick, Allemagne), du 14 au17 novembre 2007 au Maillon Théâtre de Strasbourg (France), du 21 au 24 novembre 2007 à Bonlieu Scène nationale (Annecy, France), les 15 et 16 janvier 2008 au Centre Wewner pour les Arts (Columbus, États-Unis), les 19 et 20 janvier 2008 au Musée d'Art contemporain de Chicago (États-Unis), du 23 au 26 janvier 2008 au Push Intern performing Festival (Vancouver, Canada), du 31 janvier au 3 février 2008 au On the boards (Seattle, États-Unis), du 7 au 10 février 2008 à l'université de Montclair (Montclair, États-Unis), du 14 au 17 février 2008 au Centre d'Art Walker (Minneapolis, États-Unis), les 14 et 15 février 2008 au Bit Teatergarasjen (Bergen, Norvège), les 3 et 4 avril 2008 à l'Estive, Scène nationale de Foix et Argière (France), les 7 et 8 avril 2008 au Centre Cuzin, Scène conventionnée d'Auch (France), du6 au 14 mai 2008 au Teatro Comandin (Cesena, Italie), du 21 au au 23 mai 2008 au Teatro Valle (Rome, Italie)</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_heyGirl_FDA2007/CommAvignon_fds_heyGirl_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Romeo Castellucci<br><br>Comment est né le projet Hey girl !?<br>Romeo Castellucci : L'idée du titre est antérieure au projet. Elle m'est venue un jour où, assis dans ma voiture, je me suis arrêté à un feu rouge. J'ai vu sur le trottoir un groupe de jeunes filles attendre pour traverser. Ce fut un déclic, comme une lueur, et le titre du spectacle est arrivé très simplement. Je n'ai eu qu'à suivre cette indication dans le travail qui s'est organisé à partir de là. Un travail nouveau pour moi puisque pour la première fois, je n'avais pas de projet pré-établi. J'avais un titre... c'était tout.<br><br>Ce titre peut être interprété de multiples façons : un cri d'admiration, un appel à la rencontre... Pour vous, qu'en est-il ?<br>C'est absolument les deux, avec une part de vulgarité assumée. Mais ce \"Hey\" peut être aussi une sorte d'équivalent du mot \"Ave\" dans la formulation \"Ave Maria\". Toutes les interprétations, de la plus sombre à la plus lumineuse, de la plus noire à la plus heureuse, sont possibles. Ce qui est le plus constant sur le plateau, c'est la polarité des êtres, des sensations et des objets. Certains symboles sont envisagés de plusieurs points de vue différents, positifs ou négatifs, ce qui permet de se libérer d'une symbolique, d'une mythologie, univoque, lourde et devenue sans intérêt. Il faut traverser les symboles, les percer de part en part pour obtenir cet anéantissement.<br><br>C'est ce qui justifie la présence d'une épée dans les mains de l'héroïne ?<br>Oui mais c'est une épée qui brûle les mains de la femme qui l'utilise. L'épée permet donc de vaincre l'ennemi, mais elle se retourne aussi contre son utilisatrice. Cette ambiguïté, née de la polarisation, est au centre de mon travail.<br><br>Dans ce spectacle, comme dans les épisodes de la Tragedia Endogonidia, les objets, les accessoires présents et utilisés par les actrices peuvent-ils donner lieu à des interprétations multiples ?<br>Le théâtre doit offrir à chaque spectateur la possibilité de rêver, d'imaginer et de fantasmer à partir de ce qui est présent sur le plateau. Le spectateur doit composer son propre spectacle, c'est sa responsabilité entière. Il ne faut pas la lui retirer. C'est la constellation de tous ces rêves, de tous ces fantasmes qui fait la force du théâtre. Dans l'époque actuelle, nous devons repartir de ce rôle du spectateur pour reconstruire politiquement le théâtre. Tout au long de la journée, nous sommes des spectateurs souvent impuissants alors qu'au théâtre, le spectateur est actif et responsable. Je ne suis pas pédagogue, mais je dois redéfinir ce qu'est le regard au théâtre. Ce n'est pas un regard de voyeur mais un regard qui traverse tout le corps. Un regard qui peut toucher, bouleverser.<br><br>Une fois le titre trouvé, comment avez-vous procédé ?<br>J'ai demandé à une actrice de travailler avec moi à partir d'exercices que je lui ai proposés. Je me suis aussi servi de ses propositions, et les répétitions ont duré deux mois, ce qui est exceptionnel pour moi puisque je préfère des répétitions très concentrées. Il ne reste d'ailleurs qu'une infime partie de ce travail dans le résultat final qui est présenté au public parce qu'il a fallu trouver une structure capable de soutenir le regard et de toucher le spectateur. Kafka disait qu'après un incendie, on voyait la structure de la maison brûlée et c'est en ce sens que j'emploie le mot structure. Il faut trouver l'élégance de cette structure, sa dynamique, faite de plein et de vide, et le rythme qui l'impulse, fait d'accélérations et de</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_heyGirl_FDA2007/CommAvignon_fds_heyGirl_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>ralentissements. Au final, il y a une forme que l'on peut appeler le corps du spectacle, celui qui doit embrasser le corps des spectateurs.<br><br># Mais dans le spectacle que vous présentez, il y a deux actrices?<br>Oui, la seconde actrice est arrivée plus tard dans le processus de création. Je voulais qu'il y ait une sorte de double du personnage principal, une sorte d'alter ego amplifié. Il s'agit du même personnage, mais il se multiplie, se fragmente, c'est le résultat d'une dynamique de croissance. Ces deux actrices incarnent plusieurs personnages appartenant tous à la mythologie de la femme ou de la jeune fille: Jeanne d'Arc, Juliette, Ophélie, Iphigénie, la Vierge Marie...<br><br># Lorsque vous parlez d'ambiguïté des personnages et des objets présents sur le plateau, ne pensez-vous pas qu'il y ait aussi une ambiguïté sur ce que raconte ce spectacle? Est-ce la journée d'une femme de son réveil à son coucher où un voyage dans l'univers de la féminité, vue par un homme?<br>Les deux sont intimement liés, comme les deux faces d'une même réalité qu'on verrait à travers un objet transparent. La banalité du quotidien trouve une certaine grandeur sur le plateau du théâtre. Il faut la penser à travers une forme paradoxale de la mythologie qui pourrait être: \"le rien\", \"le vide\", \"la solitude\".<br><br># Vous retrouvez-vous dans cette femme que vous mettez en scène?<br>Oui car le spectacle n'est pas sexiste. Je me sens comme Flaubert qui disait \"Madame Bovary, c'est moi\". Ce n'est pas un spectacle parlant d'une femme aux autres femmes.<br><br># On reconnaît des images de femmes combattantes, de femmes séductrices, de femmes esclaves... mais y a-t-il une image de la femme amoureuse?<br>Elle est présente par les extraits de Roméo et Juliette de Shakespeare qui défilent sur des écrans. Ces textes sont en décalage avec ce qui se passe sur scène, mais ils dégagent une force incroyable. Ils témoignent de la distance qui existe entre le langage et l'expérience vécue. Le langage est vécu comme une forme possible de \"l'ordure\" puisque Shakespeare lui-même, dans son texte, critique radicalement le langage, la politique du langage. Juliette, en parlant du pouvoir de la parole, dit clairement que le langage, et les mots qui le composent, empêchent la vie et l'amour: les mots sont des projectiles dangereux qui percent la tête à grande vitesse. Elle dit à Roméo \"c'est ton nom qui est mon ennemi, pas ton corps\". L'amour est donc présent dans le spectacle, c'est même le noyau central, mais sous la forme du manque d'amour qui entraîne une grande solitude.<br><br># Quel statut donnez-vous au texte dans votre travail en général?<br>C'est un des éléments indispensables à la représentation, mais il ne faut jamais oublier que le texte, qu'il soit de Molière ou de Shakespeare, était lié à une représentation sur la scène, à une écriture de la scène. Aujourd'hui, il ne reste que les mots sur le papier qui ne peuvent pas être la mémoire complète de ce qu'était la représentation. Il y a une déformation, un manque que l'on ne doit jamais oublier. Avec ces textes, il y avait des choses à voir et pas seulement des mots à entendre.<br><br># Vos spectacles ne sont-ils pas des appels à venir rencontrer des inconnus qui nous deviennent familiers et qui nous soumettent des énigmes, sans apporter forcément de réponses?<br>Oui mais parfois la rencontre peut ne pas se faire... Je travaille cependant volontairement sur des images universelles et radicalement simples qui appartiennent à tout le monde</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-heygirl-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

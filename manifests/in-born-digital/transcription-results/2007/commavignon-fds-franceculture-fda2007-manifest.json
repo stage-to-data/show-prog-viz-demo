@@ -1,0 +1,830 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "France culture"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_franceCulture_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_franceCulture_FDA2007/CommAvignon_fds_franceCulture_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>France Culture<br>en public<br><br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_franceCulture_FDA2007/CommAvignon_fds_franceCulture_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>1947 – 2007 : cet anniversaire est aussi partagé par France Culture, tant la radio a accompagné fidèlement le festival d'Avignon depuis ses débuts, fabriquant au fur et à mesure du temps une partie de sa mémoire et s'y associant depuis sa naissance comme lieu de création et de production.<br><br>Soutenir la création contemporaine et rendre vivant le patrimoine, c'est l'action de France Culture tout au long de l'année, avec près de sept heures hebdomadaires entièrement dédiées aux auteurs et aux acteurs. C'est cet effort que nous poursuivons à Avignon, rejoignant des formes plus spectaculaires, plus théâtrales, exposant la radio, la rendant plus visible à nos auditeurs dans le calme d'un jardin ou celui d'une cour.<br>Ainsi nous nous échappons le temps d'un festival de nos studios pour vous proposer lectures, rencontres et magazines enregistrés en public. René Char, Alfred Jarry, Jean-Luc Lagarce, Joël Pommerat seront à l'honneur cette année et bien sûr Heiner Müller avec cet événement exceptionnel que constitue la lecture de Quartett dans la Cour d'honneur du palais des Papes.<br><br>Nous avions proposé à Jeanne Moreau et à Sami Frey la lecture de cette pièce de Müller, ayant eu connaissance grâce à Jean Jourdheuil, son traducteur, du désir de l'auteur de voir un jour interpréter la Marquise de Merteuil, par Jeanne Moreau.<br>Vincent Baudriller et Hortense Archambault ont souhaité associer le Festival d'Avignon à cette lecture en lui offrant pour décor la Cour d'honneur du palais des Papes, rendant ainsi hommage à Heiner Müller et à ses interprètes d'un soir.<br>C'est donc ensemble, avec le Festival d'Avignon, que nous sommes heureux d'offrir aux spectateurs et aux auditeurs ce moment hors du commun à l'occasion du soixantième anniversaire du Festival d'Avignon.<br><br>Après cette soirée inaugurale, vous pourrez retrouver l'ensemble de nos lectures et rencontres dans la cour admirable du musée Calvet, devenue un lieu symbolique de la présence de France Culture à Avignon depuis plusieurs années, ainsi que nos magazines quotidiens dans le jardin des Culture de l'Europe / CEILA.<br><br>Avec les Ecrits d'artistes, chaque jour à midi, nous avons voulu renouveler ces moments très intenses de rencontres avec le public d'Avignon, autour de metteurs en scène invités du Festival, à l'exception de Stéphane Braunschweig qui nous rejoindra d'Aix en Provence.<br><br>Hélène Delavault pour Alfred Jarry, François Berreur pour Jean-Luc Lagarce, André Velter pour René Char, seront les maîtres d'œuvre de trois soirées interprétées par de magnifiques acteurs qui nous accompagnent depuis plusieurs années. Ces soirées feront honneur à des poètes, que nous considérons comme de grands maîtres de la langue, mais qui furent aussi des hommes attentifs à la complexité humaine et à la liberté de penser.<br><br>Enfin, je suis heureux d'accueillir Joël Pommerat au Musée Calvet, pour une lecture intégrale de sa pièce Les Marchands, couronnée il y a peu par le Grand Prix de littérature dramatique.<br><br>David Kessler<br>Directeur de France Culture</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_franceCulture_FDA2007/CommAvignon_fds_franceCulture_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Lecture proposée par France Culture<br>et le Festival d'Avignon<br>lundi 9 juillet □ 22h - 0h10<br>COUR D'HONNEUR DU PALAIS DES PAPES<br><br># QUARTETT<br>de Heiner Müller<br>lecture par JEANNE MOREAU ET SAMI FREY<br>traduit de l'allemand par Jean Jourdheuil et Béatrice Perregaux<br>publié aux Editions de Minuit<br>lecture proposée par Jean Jourdheuil<br>réalisée par Blandine Masson<br><br>Frédéric Mitterrand recevra mademoiselle Jeanne Moreau dans son émission Ça me dit, l'après-midi samedi 7 juillet 2007 de 15h à 17h au Jardin des Cultures d'Europe / CEILA<br><br>La diffusion de Quartett sera suivie, jusqu'à 0h10, sur l'antenne de France Culture, d'un entretien avec Jean Jourdheuil autour de l'œuvre d'Heiner Müller<br><br># ÉCRITS D'ARTISTES<br><br>9 10 11 12 13<br>MUSÉE CALVET □ 12h - 13h<br><br>Avec les Écrits d'artistes nous avons souhaité poursuivre une aventure intellectuelle et artistique initiée en 2005 en offrant aux metteurs en scène européens, invités du Festival d'Avignon, un espace libre de pensée et de prise de parole.<br>Secrète ou publique, l'écriture accompagne l'art du metteur en scène. L'approche du plateau, la direction d'acteurs, la dramaturgie, la scénographie ne s'élaborent pas sans un certain nombre \"d'entretiens\" avec soi-même. Et si l'art de la mise en scène se pratique en partie de manière collective, le projet du metteur en scène passe aussi par le travail intellectuel et la rêverie solitaire. Il n'est pas rare, alors, que l'écriture accompagne ce retrait au monde pour mettre à jour lentement les cheminements de la création. C'est pourquoi nous avons souhaité renouveler cette année ces moments privilégiés où des metteurs en scène invités par le Festival d'Avignon, avec une exception pour Stéphane Braunschweig, viennent lire un texte inédit commandé par France Culture.<br><br>lundi 9 juillet<br>STEPHANE BRAUNSCHWEIG<br>lira des extraits de son livre Petites portes, grands paysages (Actes Sud, collection \"Le Temps du Théâtre\") ainsi que des textes inédits.<br><br>mardi 10 juillet<br>DIEUDONNÉ NIANGOUNA</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_franceCulture_FDA2007/CommAvignon_fds_franceCulture_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>mercredi 11 juillet<br>KRZYSZTOF WARLIKOWSKI<br>avec Piotr Gruszczynski<br>lira des extraits de textes et d'entretiens inédits à paraître sous le titre Théâtre écorché (conçu et réalisé par Piotr Gruszczynski). Traduit du Polonais par Marie-Thérèse Vido-Rzewuska. Collection \"Le Temps du Théâtre\" (dirigée par Geoarges Banu), coédition Actes Sud / Théâtre royal de la Monnaie.<br><br>jeudi 12 juillet<br>VALÈRE NOVARINA<br><br>vendredi 13 juillet<br>FRÉDÉRIC FISBACH<br>lira des extraits d'un scénario inédit La Pluie des prunes écrit en collaboration avec Anne-Louise Trividic.<br><br>diffusion dans l'émission \"Surpris par la nuit\" lundi 16, mardi 17 et mercredi 18 juillet 2007 à 22h15<br><br># LECTURES ET RENCONTRES<br><br>10 12 13 14<br>MUSÉE CALVET<br><br>mardi 10 juillet □ 19h30 - 21h □ en direct<br># DE JARRY À JARRY PAR LES ÎLES<br>Choix des textes d'Alfred Jarry par Hélène Delavault et Patrick Besnier<br>présenté par Patrick Besnier<br>avec Hélène Delavault, André Wilms, Jean-Claude Durand<br>musique Jean-Pierre Drouet<br>réalisation Jacques Taroni<br><br>Cent ans après sa mort (il avait 34 ans), l'image de Jarry reste dominée par celle de sa créature Ubu: la gloire que le monstrueux roi de Pologne apporte à son inventeur ressemble aussi à une malédiction, car cette gloire se limite au personnage d'Ubu, reléguant dans l'ombre l'œuvre variée et considérable de Jarry, admirée pourtant à l'époque par Mallarmé, Apollinaire ou Gauguin.<br>Mais, en ses diverses métamorphoses, Ubu n'est qu'un des pôles de l'univers de Jarry; le pataphysicien docteur Faustroll en représente un autre: dans le roman qui porte son nom, il navigue au milieu des grandes créations contemporaines, curieux de toutes les nouveautés littéraires ou picturales. Jarry les présente comme autant d'\"îles\" que visite un bizarre trio de voyageurs, Faustroll, le singe papion Bosse-de-Nage et le huissier Panmuphle. Pays de dentelles, île Sonnante, île Amorphe ou île de Ptyx sont quelques-unes des escales de cette traversée poétique et surprenante.<br><br>Patrick Besnier</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_franceCulture_FDA2007/CommAvignon_fds_franceCulture_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Patrick Besnier est professeur à l'Université du Maine, il a publié une biographie d'Alfred Jarry (Fayard, 1985)<br><br>Dès La Tragédie de Carmen – revisitation par Peter Brook de l'opéra de Bizet, qui triompha dans le monde entier dans les années 80 –, Hélène Delavault prit des chemins de traverse pour chanter, outre Offenbach , Monteverdi et Schubert, nombre de compositeurs de son temps (Aperghis, Hersant, Jolas, Koering, Prin, Dusapin) et créer ses propres spectacles, à la frontière du classique et du cabaret. En 1993, elle avait déjà joué et chanté Alfred Jarry, en adaptant en \"opérette moderne\", avec Patrick Besnier et Marcel Bozonnet, Le Surmâle (musique de Bruno Gillet, Actes Sud).<br><br>jeudi 12 juillet □ 18h - 21h<br># SOIRÉE JEAN-LUC LAGARCE<br>Jean-Luc Lagarce aurait eu 50 ans...<br>Nous avons souhaité nous associer à cette \"Année Lagarce\", particulièrement à Avignon, en proposant une rencontre avec Jean-Pierre Thibaudat et l'enregistrement d'une des rares pièces qui n'avaient pas été créée à France culture. En effet, France Culture, à travers l'engagement de Lucien Attoun et de son \"Nouveau répertoire dramatique\", créé en 1969, a accompagné très fidèlement la vie et l'œuvre de Jean-Luc Lagarce, depuis la toute première mise en voix enregistrée de Carthage encore, à la fin de 1979. Ainsi, quasiment l'intégralité des pièces de Lagarce a été créée à la radio avant de connaître les plateaux de théâtre. Sans oublier les innombrables entretiens avec l'auteur, conservés aujourd'hui par l'INA. C'est cette fidélité qui nous permettra de vous proposer, en écho aux lectures et rencontres une \"Nuit Lagarce\" le 9 juillet, de 1h à 6h du matin.<br><br>18h - 19h □ Rencontre avec Jean-Luc Lagarce<br>avec Jean-Luc Lagarce (par la voix de Laurent Poitreneaux), François Berreur, metteur en scène et directeur des éditions Les Solitaires intempestifs, Jean-Pierre Thibaudat, auteur du Roman de Jean-Luc Lagarce (Les Solitaires Intempestifs) et d'un essai sur l'œuvre de Lagarce (Culturesfrance).<br><br>Rencontre à retrouver à la rentrée 2007 sur l'antenne de France Culture, dans les programmes de fictions, accompagnée d'une lecture d'une version radiophonique du journal de Jean-luc Lagarce, proposée par François Berreur et Laurent Poitrenaux.<br><br>19h30 - 21h □ Juste la fin du monde de Jean-Luc Lagarce<br>Lecture dirigée par François Berreur avec Elisabeth Mazev, Danielle Lebrun, Clotilde Mollet, Laurent Poitrenaux, Hervé Pierre, Bruno Wolkowitch<br>réalisation Marguerite Gateau<br>en partenariat avec la SACD<br><br>C'est au début de l'année 1988, quelques mois avant d'apprendre qu'il est séropositif, que Jean-Luc Lagarce a l'idée d'une \"courte pièce\" titrée Les Adieux. L'histoire d'un \"fils qui revient\" voir sa famille et \"va mourir probablement\". Le titre, Les Adieux, Lagarce le gardera pour un roman (qui ne sera pas publié). L'idée de la pièce restera sous le titre final Juste la fin du monde. Lagarce finira d'écrire la pièce – qui est loin d'être courte – lors de son séjour à Berlin au printemps et au début de l'été 1990. À son retour à Paris, il la fait circuler dans le milieu du théâtre. Personne n'en veut. Aujourd'hui, on considère Juste la fin du monde comme l'un de ses chefs-d'œuvre.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_franceCulture_FDA2007/CommAvignon_fds_franceCulture_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Ce texte aujourd'hui un des plus joué et des plus traduit sera officiellement la saison prochaine au programme du baccalauréat L3 et rentrera en mars 2008 au répertoire de la Comédie Française.<br>Cette lecture donnée avant-première à Avignon sera créée dans une mise en scène de François Berreur à Grenoble le 2 octobre à la MC2 et en tournée jusqu'à fin janvier 2008 (à Paris à la Cité Internationale avec le Théâtre de la Ville).<br><br>Rencontre à retrouver à la rentrée 2007 sur France Culture<br><br><br>vendredi 13 juillet □ 19h30 - 21h<br># LES MARCHANDS<br>de Joël Pommerat<br>lu par Fanny Cottençon<br>réalisation Blandine Masson<br><br>L'an dernier, nous avions reçu Joël Pommerat pour l'enregistrement en public d'un texte inédit commandé par France Culture dans le cadre des Écrits de metteurs en scène. Ce texte vient d'être publié par les Editions Actes Sud-Papiers, sous le titre Théâtres en présence dans la collection \"apprendre\". Nous réinvitons cette année Joël Pommerat à l'occasion du Grand Prix de littérature dramatique qui lui a été décerné en mai 2007 pour sa pièce Les Marchands.<br><br>Le Grand Prix de littérature dramatique<br>Pour la troisième année, un écrivain de théâtre d'expression française a reçu le Grand Prix de littérature dramatique. Ce prix est initié par le ministère de la Culture et de la Communication, organisé par ANETH, avec la Sacd et les EAT, en partenariat avec France Culture, la Comédie-Française, le jeune théâtre national. Le prix est doté par le ministère de la Culture et de la Communication (CNL et DMDTS).<br><br>A retrouver dans les programmes de Fictions à la rentrée 2007.<br><br><br>vendredi 13 juillet □ 21h30<br># ÉCOUTE RADIOPHONIQUE<br>JERK<br>texte de Dennis Cooper (inédit en français) par Dennis Cooper et Gisèle Vienne<br>avec Jonathan Capdevielle (David Brooks), Thomas Scimeca (le spectateur), Catherine Robbe-Grillet (Professeur Catherine Griffith), Serge Ramon (l'étudiant)<br>musique originale Peter Rehberg<br>réalisation Jean Couturier<br><br>Jerk est une reconstitution imaginaire étrange, poétique, drôle et sombre des crimes perpétrés par le serial killer américain Dean Corll, qui, avec l'aide de deux adolescents, David Brooks et Wayne Henley, a tué plus d'une vingtaine de garçons dans l'État du Texas au milieu des années soixante-dix.<br>Dans Jerk, la nouvelle de Dennis Cooper, David Brooks purge une peine à perpétuité en prison, où il apprend l'art de la marionnette comme une sorte de thérapie qui lui permet de</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 7"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/7/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/7/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_franceCulture_FDA2007/CommAvignon_fds_franceCulture_FDA2007_page_7.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/7/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/7/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>faire face à ses responsabilités quant à sa participation aux crimes. Il a écrit une pièce qui reconstitue les meurtres de Dean Corll, en utilisant des marionnettes pour interpréter les rôles. Il présente son spectacle en prison pour une classe d'étudiants en psychologie d'une université locale.<br>La création radiophonique réalisée à partir de Jerk met en avant le caractère profondément schizophrénique de l'exercice qu'est celui du marionnettiste en présentant l'expérience du spectacle du point de vue du marionnettiste.<br><br>samedi 14 juillet ⬝ 18h - 21h<br># SOIRÉE RENÉ CHAR<br><br>18h - 19h<br>ÉCOUTE RADIOPHONIQUE<br>Alain Trutat - René Char<br><br>En souvenir des \"nuits des ondes\" inventées par Alain Trutat, dans les années quatre-vingt-dix, au cours desquelles les spectateurs d'Avignon se métamorphosaient en auditeurs, confortablement installés à partir de minuit, dans des chaises longues sur le pont d'Avignon, nous avons souhaité vous proposer ce moment d'écoute radiophonique non plus sur le pont d'Avignon, mais dans la cour du musée Calvet. En hommage à l'amitié indéfectible qui liait Alain Trutat (disparu le 21 août 2006) à René Char et à Jean Vilar, nous diffuserons en public la pièce Claire de René Char, créée en 1955 pour la radiodiffusion française par Alain Trutat.<br><br>Claire<br>de René Char<br>musique originale Pierrick Houdy<br>réalisation Alain Trutat<br>avec Jacqueline Pagnol, Pierre Vaneck, Roger Blin, Jean Topart, Michel Dumure, Pierre Larquey<br><br>Réalisateur dès 1947, Alain Trutat fut un des fondateurs de France Culture, mais aussi le créateur de l'atelier de création radiophonique, et conseiller de programmes pour la fiction durant plus de vingt ans, inventeur de programmes pour France Culture au Festival d'Avignon en particulier autour de la poésie, en alliance étroite avec Alain Crombecque. il avait réalisé pour la radio dès 1948 Soleil des eaux de René Char, avec une création musicale de Pierre Boulez. L'enregistrement de cette œuvre a malheureusement été perdu.<br><br>19h30 - 21h<br># René Char : La Rébellion à l'œuvre<br>textes de René Char choisis par André Velter<br>lus par Mireille Perrier et Hugues Quester<br>réalisation Jacques Taroni<br><br>René Char n'était pas l'homme des célébrations ni des engouements consensuels. Que le centenaire de sa naissance donne lieu à un déferlement d'hommages l'aurait sans aucun doute troublé et agacé. Une évidence s'impose cependant : sa poésie d'éclairs et d'offenses,</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/8",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 8"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/8/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/8/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_franceCulture_FDA2007/CommAvignon_fds_franceCulture_FDA2007_page_8.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/8/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/8/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>de résistance et d'intuition extatique, n'a jamais été aussi lue, citée, commentée. Il y a là bien plus qu'un fait de circonstance ou une vogue passagère, on dirait que monte une ferveur acharnée, comme si le poète de l'Isle-sur-Sorgue était devenu l'allié substantiel de tous ceux qu'exaspèrent les devoirs et les leurres d'une société civile. L'auteur de Fureur et mystère est pourtant un allié indocile, secret, parfois déroutant et porteur d'une infracassable nuit; un allié sans défaillance, un allié farouche et de disloquante énergie. Ayant participé à tous les grands combats du XXe siècle, y compris les armes à la main, Char s'affirme comme un hôte réfractaire, un poète aux poings gigantesques et serrés, et au cœur alarmé. C'est ce géant intraitable, celui-là même que Paul Veyne voyait pareil à un grizzli qui aurait avalé un rossignol, que nous voulons accueillir et entendre, en contre-point absolu à toutes les paroles fausses et frelatées qui envahissent partout le haut de l'écoute.<br>André Velter<br><br># LES ÉMISSIONS EN DIRECT ET EN PUBLIC<br><br>7 9 10 11 12 13 14 16<br>JARDIN DES CULTURES D'EUROPE / CEILA<br><br>samedis 7 et 14 juillet ⓐ 15h - 17h<br>Ca me dit l'après-midi par Frédéric Mitterrand<br><br>lundis 9 et 16 juillet ⓐ 17h - 18h<br>Sur scènes par Joëlle Gayot<br><br>jeudi 12 juillet ⓐ 15h - 16h<br>Masse critique par Frédéric Martel<br><br>vendredi 13 juillet ⓐ 7h - 9h<br>Les Matins de France Culture par Ali Baddou<br><br>vendredi 13 juillet ⓐ 10h - 11h<br>Les Vendredis de la philosophie par François Noudelmann<br><br>lundi 16 juillet ⓐ 15h30 - 16h30<br>Masse critique par Frédéric Martel<br><br>lundi 9 au vendredi 13 juillet ⓐ 12h - 13h30<br>Tout Arrive par Arnaud Laporte<br><br>lundi 9 au vendredi 13 juillet ⓐ 18h30 - 19h30<br>Travaux Publics par Jean Lebrun</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-franceculture-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

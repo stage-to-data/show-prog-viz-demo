@@ -1,0 +1,830 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Feuillets d hypnos"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_feuilletsDHypnos_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_feuilletsDHypnos_FDA2007/CommAvignon_fds_feuilletsDHypnos_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Frédéric Fisbach<br># Feuillets d'Hypnos<br>DE RENÉ CHAR<br><br>237 actions pour la scène<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_feuilletsDHypnos_FDA2007/CommAvignon_fds_feuilletsDHypnos_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>15 16 17<br>COUR D'HONNEUR DU PALAIS DES PAPES □ 22 h □ durée 1h50 □ création 2007<br><br>texte de René Char<br>mise en scène Frédéric Fisbach<br>avec Wakeu Fogaing, Pulchérie Gadmer, Johanna Korthals-Altes, Nicolas Maury, Benoit Résillot, Stéphanie Schwartzbrod, Fred Ulysse<br><br>collaboration artistique et scénographie Laurent P. Berger<br>assistants à la mise en scène Alexis Fichet, Lucie Nicolas<br>lumières Daniel Lévy<br>costumes Olga Karpinsky<br>régie générale Gonzag<br>régie lumières Alain Paradis<br>régie son Jules Berbessou<br>stagiaire à la mise en scène Rémy Barché<br>stagiaire à la scénographie Lou Bory<br>stagiaire lumières Romain Lagarde, Yukiko Yoshimoto<br><br>et la participation de cent six amateurs de la région d'Avignon et de Vitry-sur-Seine :<br>Françoise Allouch, Michel Andersen, Joëlle Arduin, Jean Azorin, Florence Blanchard, Céline Bottero, Yamina Boujaddi, Fanny Bouriche, Philippe Boyere, Claude Bruchou, Michel Bruneau, Marie-Joëlle Callies, Audrey Canor, Marie-Jo Carriau, Céline Cavalli, Sabrine Cazaux, Monique Charasse, Isabelle Charasse, Francine Chassagnac, Chantal Chiron-Lopes, Patricia Clifit, Jean-Paul Colomb, Éléonore Coma, Sylvie Corbière, Jeanne Deck, Geneviève de Buzelet, Aliénor de Mezamat, Patrick de Michèle, Marie Degano, Bernard Dinambro, Samir Douoiio, Bernadette Eche, Gisèle Fau, Jany Faure, Patrick Favier, Anne Fournier, Camille Fourniols, Joseph Garrido, Vérane Garrigos, Doriane Glaize, Laurie Gobert, Léo Gobin, Éliane Goudet, Danièle Goupil, Dominique Gratini, Martine Gravier, Marjorie Gros, Douce Hollebecq, Marguerite Karcz, Simone Kereszites, Françoise Joire, Michel Joire, Marion Juillian, Jacques Kosuiba, Françoise Le Gail, Cécile Leroy, Françoise Lenoir, Marianne Le Gall, Véronique Liberti, Josiane Lob, Yves Loriette, Nadège Louvet, Pierre Lucion, Marie-Christine Madier, Nadine Maire, Béatrice Malet, Marie-Josée Mas, Nawel Masia, Véronique Missud, Stéphanie Morel, Aurélia N'guyen Van Meo, Marie Neff, Sylvie Nevière, Pascal Ollivier, Suzanne Ollivier-Brossard, Étienne Parc, Anabel Paris, Valérie Patis, Amélie Pépin, Stéphanie Pierredon, Anne-Marie Pons, Roseline Pons, Dominique Protat, Geneviève Récubert, Anita Rigal-Roy, Pascale Rivray-Coupard, Valérie Ruivet, Régine Ryckoort, Karine Sagez, Josiane Salas, Emmanuel Sandorfi, Célia Sarrasin, Christian Séguin, Jean-Michel Soler, Françoise Sudre, Sylvie Svetoslavsky, Jean Svetoslavsky, Virginie Tahirovic, Julien Tanner, Dominique Thiériot, Jean-François Tinevez, Aurélie Vallet, Patrick Vaniscotte, Hélène Vautrin, Véronique Vilhet, Ariane Viroulet<br><br>administration Christine Chalas, Emmanuelle Favre-Bulle<br><br>Feuillets d'Hypnos (1946) in Fureur et mystère éditions Gallimard<br>et six messages radiophoniques (Radio Londres)<br>spectacle créé le 15 juillet 2007 à la Cour d'honneur du Palais des papes, Festival d'Avignon<br><br>coproduction Studio-théâtre de Vitry, Festival d'Avignon<br>avec le soutien du Théâtre Jean Vilar de Vitry-sur-Seine, du Théâtre de Cavaillon- Scène nationale<br>et de la Région Île-de-France<br>remerciements à Alexandra Baudelot, Cyrille Berger et Maimé Dufoukowalski<br>Le Festival d'Avignon reçoit le soutien de l'Adami pour la production</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_feuilletsDHypnos_FDA2007/CommAvignon_fds_feuilletsDHypnos_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Les Journées à la Cour d'honneur<br>avec l'équipe de Feuillets d'Hypnos<br><br>Chaque jour en amont de la représentation, l'équipe du spectacle propose différents rendez-vous et visites aux spectateurs. Pour y assister, merci de vous présenter à l'entrée porte Notre-Dame du Palais des papes muni de votre billet de la représentation du soir. Nombre de places limité, chaque spectateur ne peut assister qu'à un seul rendez-vous; accès par ordre d'arrivée.<br>8h45 □ petit-déjeuner avec les membres de l'équipe (accès limité à 45 personnes)<br>10h - 11h30 □ atelier de pratique théâtrale avec les membres de l'équipe (accès limité à 100 personnes)<br>14h, 15h et 16h □ visites du dispositif scénographique, lieu de vie de l'ensemble de l'équipe (par groupes de 15 personnes)<br>17h30 - 19h □ rencontres avec un invité différent chaque jour (accès limité à 300 personnes):<br>15 juillet □ François Cusset, historien des idées<br>Lire ensemble?<br>À partir des Feuillets d'Hypnos de René Char, et par le détour de quelques autres pensées actives, François Cusset se livre à un exercice de questionnement à voix haute. Un travail, ou un anti-travail, de perplexité collective, histoire d'interroger, là où ils se manifestent, les liens effectifs noués entre texte, communauté, vie quotidienne, lutte sociale et résistance des corps. Cocasses, tragiques ou juste incongrues, quelques expériences spécifiques se jouent là, qui consistent à brancher différentes machines politiques, petites ou grandes, les unes sur les autres, et à laisser s'y dissoudre la subjectivité – pour voir ce qu'elle devient lorsqu'on s'essaie pour de bon à \"lire ensemble\".<br>François Cusset enseigne l'histoire des idées à Sciences-Po et à Columbia-Paris. Il est l'auteur de Queer Critics (PUF, 2002), French Theory (La découverte, 2003) et La Décennie: le grand cauchemar des années 1980 (2006).<br><br>16 juillet □ Marie-José Mondzain, philosophe<br>La résistance poétique, la poésie comme résistance mêlées au journal des combats des peurs des deuils, la prévision des lâchetés à venir, tout cela nous parle aujourd'hui. À ceci près que l'ennemi d'alors avait un visage bien réel et la liberté sonnait lourd. Aujourd'hui c'est la destruction de l'invisible qui nous abat. Naguère la résistance invoquait l'armée des ombres. Nous vivons désormais dans un monde sans ombre, sans silence et sans ténèbres où le spectaculaire détruit le spectateur, où c'est dans l'éclat et le bruit qu'on rémunère le visible. La peur n'est plus une réalité politique ni même une réalité guerrière mais une industrie et un commerce alimenté chaque jour par ceux qui nous jugulent. Alors où trouver les figures d'une résistance et d'une liberté en partage ?<br>Marie-José Mondzain est philosophe et directeur de recherche au CNRS. Elle est membre du Collectif Sans Cible (groupe de réflexion sur le théâtre) et du Collectif L'Exception (groupe de recherche sur le cinéma).<br><br>17 juillet □ Étienne Balibar, philosophe<br>Résistance, insurrection, insoumission<br>Plusieurs fois, dans l'histoire de la France contemporaine, le refus d'obéir à l'injonction du pouvoir s'est traduit en pensée et en écriture : Char, Camus et la Résistance, Blanchot, Sartre et le droit à l'insoumission en Algérie, Foucault, Godard et l'insurrection de mai 68... Suscitant l'admiration ou l'exécration, ces rencontres appartiennent aujourd'hui presque au mythe. On tentera de dire ce qui fit leur singularité mais aussi - qui sait ? - leur réserve encore un avenir.<br>Étienne Balibar est philosophe, professeur émérite à l'Université de Paris X Nanterre. Dernier ouvrage paru : Europe, Constitution, Frontière, éditions du Passant à Bordeaux (2005).</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2232,
+            "width": 1578,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_feuilletsDHypnos_FDA2007/CommAvignon_fds_feuilletsDHypnos_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2232,
+                                "width": 1578,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/4#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>La scénographie de Laurent P. Berger pour les Feuillets d'Hypnos est un dispositif d'habitation conçu spécifiquement pour la Cour d'honneur du Palais des papes. Cette architecture éphémère fonctionne à la fois comme un espace intérieur et extérieur. Les chambres, la cuisine, salle de bains, couloirs, aire de jeux et de rencontre rythment la vie quotidienne des interprètes qui pendant les trois jours de représentations vivent sur le plateau. Agencés en modules, ces espaces fonctionnels assurent à la fois l'intimité des comédiens et les possibilités de jeux et de dispositifs d'accueil qui sont offerts aux spectateurs du matin jusqu'au soir. Ce dispositif met également en scène une chaîne climatique pensée d'après les mouvements de températures et d'exposition de la Cour d'honneur. Zone froide et chaude, pluie, brume créent ainsi un environnement à part entière et ouvrent l'idée d'un espace extérieur au cœur même de l'édifice du Palais des papes. Cette architecture mouvante est à la fois scénographie lorsque celle-ci se dévoile au moment des représentations, lieu de vie pour les comédiens et dispositif plastique et environnemental pour les spectateurs qui la visitent.<br><br># entretien avec Frédéric Fisbach<br><br>Comment vivez-vous aujourd'hui votre statut d'artiste associé du Festival ?<br>Frédéric Fisbach : J'ai eu la chance d'être choisi quatre ans à l'avance, ce qui a permis un dialogue sur le long terme. J'ai vu les éditions précédentes, ce qui m'a permis de mieux comprendre ce qu'était le Festival pour moi. Ce statut exceptionnel m'a permis de réfléchir à comment inscrire dans la durée quelque chose qui est par essence éphémère puisque le Festival dure trois semaines.<br>Comment, à travers la formidable agitation, partager avec tous les spectateurs les temps de travail et de réflexion en amont ? Il s'agit de proposer des ouvertures, de nouveaux horizons en terme de création et de pensée. En fait c'est comme si on entrait sur un grand terrain de jeu artistique dans lequel il faut inscrire des œuvres qui durent. Je prends aussi cela comme une responsabilité dans la prise de parole au milieu de l'effervescence médiatique car ce statut met l'artiste en plein centre des enjeux artistiques auxquels nous sommes confrontés.<br><br>Vous allez mettre en scène Feuillets d'Hypnos dans la Cour d'honneur du Palais des papes. Pourquoi avoir choisi ce texte ?<br>J'ai découvert ce texte quand j'avais vingt ans, j'ai été impressionné dès la première lecture et j'ai toujours gardé ce livre à mes côtés. Un de mes rêves de mise en scène était Le Soulier de satin, mais j'ai très vite su que je ne pourrais pas le monter, faute de temps, et je n'avais pas envie d'une pièce de substitution. L'occasion du centième anniversaire de la naissance de René Char et son implication dans l'origine du Festival d'Avignon, la célèbre Semaine d'art en 1947, m'ont permis de revenir à ce texte que j'avais relu au Japon à l'occasion du tournage de La Pluie des prunes que j'ai réalisé en juin 2006. J'ai redécouvert la beauté de ces écrits, de cette volonté de transmission, d'une attitude d'être face aux gens et aux choses. J'ai redécouvert cette droiture sans la raideur, cette forme de courage, de croyance en l'homme débarrassée de toute foi religieuse, cet humanisme, dans le meilleur sens du terme. J'ai repensé à cette période de l'après-guerre où l'on pensait que l'accès aux œuvres d'art et de l'esprit permettrait que \"ça\" ne recommence jamais. Je me suis intéressé à cette sorte d'élan révolutionnaire qui était présent dans la Résistance. J'avais sous les yeux un texte non théâtral, de nature métissée, composite, avec des poèmes courts, des aphorismes, des témoignages historiques qui tiennent du grand reportage. Avec le poète pour seul personnage, le texte est structuré de 237 fragments présentés dans un ordre presque chronologique. Cela me convenait parfaitement bien, et j'avais envie de voir comment résonnait aujourd'hui ce texte unique et magnifique dans un contexte politique qui questionne.<br><br>Comment faire du théâtre avec ces fragments ?<br>Parce que les Feuillets font résonner plusieurs langues ensemble, on ne peut pas s'installer dans le confort d'une simple écoute qui s'attacherait au seul déroulement linéaire du texte.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_feuilletsDHypnos_FDA2007/CommAvignon_fds_feuilletsDHypnos_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Chaque fragment implique une entrée différente qui implique à son tour des actions qui ne sont pas en lien les unes avec les autres. C'est ce qu'évoque le sous-titre \"237 actions pour la scène\". Des actions pour faire entendre que ce texte porte en lui des démarches et des implications très variées qui, de fait, peuvent exister à travers des jeux de représentation extrêmement divers. Le plateau et le rapport scène - salle induits par la configuration de la Cour d'honneur ne sont pas utilisés pour donner l'illusion de l'événement théâtral. Au contraire, ils ancrent l'événement du spectacle au plus près du réel en établissant des proximités fortes avec notre environnement quotidien. La scénographie et les 237 actions pour la scène explorent les rapports dans l'espace entre les interprètes, la centaine d'amateurs et le public. Elles construisent autant de situations scéniques singulières pour questionner notre propre rôle face aux autres, à travers les contextes culturels, politiques et sociaux qui sont les nôtres aujourd'hui. Dans cette perspective, la force des Feuillets réside moins dans sa dimension historique que dans sa capacité à être toujours opérant dès lors qu'on l'observe par le prisme de l'actualité contemporaine et par la singularité des histoires intimes.<br><br>Avec Feuillets d'Hypnos, René Char est-il à la fois dans le temps de l'Art et dans celui de l'Histoire?<br>Certainement et l'on peut même se poser la question du moment où il écrivait ses textes, de la façon dont il séparait ces deux temps. Mais au centre de ses préoccupations, en dehors du quotidien du combat, il y a la question de la poésie. On a le sentiment qu'il ne peut rester \"droit\" que s'il repose sur deux piliers vitaux: la poésie et l'interrogation sur la possibilité de continuer à écrire, et la nature, incroyablement présente dans la totalité des Feuillets. Quand il n'a plus rien, qu'il est désespéré, il revient à ces deux préoccupations-là. Il faudrait aussi ajouter qu'il est dans le temps de la Mort, omniprésente et menaçante. Il y a pour lui la nécessité de déjouer la Mort.<br><br>Écrit-il ces Feuillets en pensant à leur publication future?<br>Lui seul pourrait le dire mais il ne semble pas, il a d'ailleurs refusé toute publication pendant la guerre. Aussi parce qu'il en a détruit la majorité avant publication, et parce qu'il semble qu'il écrit d'abord pour lui-même, évacuant la posture de surplomb du patriarche, du sage, qui sait et qui livre la bonne parole. Il est dans une situation de doute et de questionnement permanent. Aucun manichéisme. Il est plus dans le refus que dans la Résistance: \"l'acquiescement éclaire le visage, le refus lui donne la beauté\" dit-il dans un des aphorismes. Il est dans l'incapacité à dire \"Oui\" dans la situation où il est, il est physiquement réfractaire. Il est dans la marge plus que dans la minorité, la société devrait toujours être attentive à cette marge dans laquelle se situent particulièrement les artistes.<br><br>Vous occuperez la Cour d'honneur jour et nuit?<br>Oui, puisque tous les acteurs et les techniciens habiteront la Cour, il y aura une présence au long cours du 13 juillet à 14 heures jusqu'au 17 juillet après la dernière représentation. Des spectateurs pourront être accueillis dès le matin pour un petit-déjeuner ou pour un atelier de pratique portant à la fois sur le travail théâtral et sur la rencontre avec le texte. En fin d'après-midi, des chercheurs et penseurs seront invités pour mettre en avant des liens qui existent entre le texte de Char et notre société contemporaine. Il sera aussi bien question d'interroger le sens de l'image et de la représentation telles qu'elles sont transmises au théâtre que de s'attacher à comprendre notre société actuelle - une actualité politique – une actualité très forte, en pleine mutation, qui questionne fortement. Il s'agira d'offrir au spectateur un autre temps du théâtre, d'autres biais pour se saisir de l'évocation dramaturgique du texte. Habiter le Palais est aussi une manière de dédramatiser la présence dans la Cour. Nous serons là pour vivre pleinement le fait de proposer aux spectateurs une représentation dans un lieu unique, sans esbroufe, seulement pour que le théâtre ait lieu.<br><br>Propos recueillis par Jean-François Perrier en février 2007</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_feuilletsDHypnos_FDA2007/CommAvignon_fds_feuilletsDHypnos_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Frédéric Fisbach, artiste associé 2007<br><br>Après des études au Conservatoire national supérieur d'Art dramatique, Frédéric Fisbach suit Stanislas Nordey au sein de la troupe permanente au Théâtre Gérard-Philipe de Saint-Denis, de 1991 à 1993, où il joue dans les spectacles Bête de Style, Calderon ou Pylade de Pasolini. Il joue également dans Vole mon dragon présenté au Festival d'Avignon en 1994 et au Théâtre de la Bastille, Au Théâtre des Amandiers de Nanterre, il joue sous la direction de Stanislas Nordey dans Splendid's de Jean Genet, Ciment de Heiner Müller, Le Songe d'une nuit d'été de Shakespeare et avec Jean-Pierre Vincent dans Tout est bien qui finit bien de Shakespeare.<br>En 1992, il signe sa première mise en scène, Les Aventures d'Abou et Maimouna dans la lune au Théâtre Gérard-Philipe de Saint Denis. Depuis 1994, il a mis en scène Une planche et une ampoule dont il écrit le texte, L'Annonce faite à Marie de Paul Claudel au Théâtre des Amandiers de Nanterre (et en tournée en France et à l'étranger, pour 100 représentations), Un Avenir qui commence tout de suite de Vladimir Maïakovski au Théâtre des Fédérés, L'Île des morts/Le Gardien de Tombeau de Strindberg et Kafka au Studio-Théâtre de Vitry, Bérénice de Racine au Théâtre de la Bastille et au Festival d'Avignon, Les Paravents de Jean Genet au Théâtre national de la Colline (2003), L'Illusion comique de Pierre Corneille au Festival d'Avignon, à l'Odéon - Théâtre de l'Europe et en tournée en France pour 102 représentations (2004-2005), Animal de Roland Fichet au Théâtre de Vidy Lausanne, au Théâtre national de la Colline et au Théâtre national de Bretagne (2005). Ce dernier s'intègre dans le cadre d'une plus vaste coopération franco-africaine soutenue par l'AFAA.<br>À l'opéra, il a monté Forever Valley de Gérard Pesson sur un livret de Marie Redonnet au Théâtre des Amandiers de Nanterre, Kyrielle du sentiment des choses de François Sahran sur un livret de Jacques Roubaud au Festival d'Aix en Provence et au Théâtre national de la Colline (2003), Agrippina de Haendel au Théâtre de Saint Quentin en Yvelines, Shadowtime de Brian Ferneyhough sur un livret de Charles Bernstein pour la Münchener Biennale, le Festival d'Automne 2004, le Festival du Lincoln Center à New-York et à la Ruhr-Triennale en 2005.<br>Il collabore régulièrement avec le chorégraphe Bernardo Montet avec qui il a créé une \"académie de l'interprète\" et avec Robert Cantarella avec qui il a mené deux chantiers, l'un sur Molière et Corneille en 2003, l'autre à partir d'un corpus de textes pré-classiques durant le Festival d'Avignon 2004. Il est président de l'association Sans Cible, regroupement de metteurs en scène pour réfléchir sur la place du théâtre dans l'espace public, qui a publié L'Assemblée théâtrale en 2003 et La Représentation en 2004.<br>Lauréat de la Villa Médicis hors les murs au Japon en 1999, il a mis en scène Nous, les héros de Jean-Luc Lagarce en japonais à Tokyo et Tokyo Notes de Oriza Hirata avec une équipe franco-japonaise à la Villette en 2000. Cette collaboration franco-japonaise s'est poursuivie dans Les Paravents de Jean Genet présenté au Théâtre national de la Colline, primé au Festival de Salzbourg dans le cadre du programme des jeunes metteurs en scène. En décembre 2005, il a mis en scène Gens de Séoul d'Oriza Hirata en japonais pour le Setagaya Public Théâtre de Tokyo.<br>De 2002 à décembre 2007, il a dirigé le Studio-Théâtre de Vitry, où il a développé un laboratoire de recherche dont les portes sont fréquemment ouvertes à des \"spectateurs associés\" pour des formes inhabituelles (chantiers, représentations durant la journée, rencontres…).<br>En 2006, Frédéric Fisbach a réalisé son premier long métrage La Pluie des prunes, co-écrit avec Anne-Louise Trividic. Depuis janvier 2006, il est, avec Robert Cantarella, codirecteur du 104, Établissement artistique de la Ville de Paris.<br>Au Festival d'Avignon, Frédéric Fisbach a déjà joué dans Vole mon dragon d'Hervé Guibert dans la mise en scène de Stanislas Nordey en 1994 et présenté comme metteur en scène Bérénice de Racine, codirigée avec Bernardo Montet, en 2001, L'Illusion comique de Pierre Corneille en 2004 et Gens de Séoul d'Oriza Hirata en 2006.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 7"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/7/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/7/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_feuilletsDHypnos_FDA2007/CommAvignon_fds_feuilletsDHypnos_FDA2007_page_7.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/7/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/7/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>et<br><br># Dedans Dehors Exposition conçue par Frédéric Fisbach<br>6-27 juillet ▢ tous les jours sauf le 14 juillet ▢ Maison Jean Vilar ▢ ouverture 10 h 30 - 18 h 30 ▢ entrée libre<br><br># Conférences de presse en public<br>18 juillet ▢ 11h30 ▢ Cloître Saint-Louis<br>avec Robert Cantarella, Frédéric Fisbach et le collectif d'auteurs Lumière d'août<br><br># Les rencontres de la Maison Jean Vilar<br>18 juillet ▢ 15h ▢ Maison Jean Vilar ▢ Rencontre avec l'équipe de Frédéric Fisbach<br><br># Rencontres de la Région Île-de-France<br>21 juillet ▢ 11h ▢ Chapelle du Miracle ▢ Rencontre avec Frédéric Fisbach<br><br># Les rencontres de Foi et Culture<br>24 juillet ▢ 17h▢ Centre Magnanen ▢ rencontre avec Frédéric Fisbach<br><br># Rencontre publique pour la clôture du Festival<br>26 juillet ▢ 11h30 ▢ Cloître Saint-Louis ▢ avec Hortense Archambault, Vincent Baudriller, Frédéric Fisbach<br><br>Frédéric Fisbach est également acteur dans Hippolyte de Robert Garnier dans la mise en scène de Robert Cantarella.<br><br># propositions de collaborateurs artistiques de Frédéric Fisbach<br><br># Théâtre de marionnettes Youkiza Tsuna-Yakata et Hōncho-Nijyūshiko<br>16 17 18 19 juillet ▢ salle Franchet du lycée Saint-Joseph ▢ 15 h ▢ durée 1 h ▢ spectacle en japonais, synopsis français distribué à l'entrée<br><br># Pour l'instant par le collectif d'auteurs Lumière d'août<br>20 juillet ▢ Jardin de la rue de Mons ▢ 11h et 18 h ▢ entrée libre<br><br># Laurent P. Berger<br>Laurent P. Berger est artiste plasticien, il a scénographié Feuillets d'Hypnos pour Frédéric Fisbach et Hippolyte pour Robert Cantarella ainsi que l'exposition Dedans dehors à la Maison Jean Vilar. Il a conçu les écritures des phrases de René Char dans le programme. Dans ce travail de plasticien, il s'empare des mots de René Char pour les transformer, modifier, éclater, réinterpréter, dans le but d'inventer une nouvelle écriture formelle, sorte de palimpseste graphique sur les mots du Poète.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/8",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 8"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/8/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/8/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_feuilletsDHypnos_FDA2007/CommAvignon_fds_feuilletsDHypnos_FDA2007_page_8.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/8/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/8/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>et Autour de René Char<br><br># Claire<br>DE RENÉ CHAR MISE EN SCÈNE D'ALEXIS FORESTIER                                              durée 1 h<br><br>spectacle itinérant qui circulera dans la région d'Avignon, territoire investi pendant l'année par les \"Nomade(s)\"<br>de la Scène nationale de Cavaillon. Itinéraires et navettes détaillés dans le guide du spectateur.<br>TAVEL, SALLE DES FÊTES □ le 19 à 21h 30 et le 20 À 21H 30<br>OPPÈDE, NOUVELLE SALLE □ le 23 à 21h 30 et le 24 à 17 h 30 et 21h 30<br>AVIGNON, SALLE BENOÎT-XII □ le 26 à 18 h et le 27 à 18 h<br><br>En 1948, René Char écrit cette pièce qui peut apparaître comme le cri d'un guetteur attentif alertant ses<br>contemporains sur les dangers d'un avenir qui s'assombrit. Claire est à la fois la rivière qui coule et la<br>jeune fille tant recherchée, la femme que le poète rencontre, celle qui traverse tous les temps, tous les<br>milieux, toute l'histoire. De cette suite de tableaux liés par la présence d'une Claire toujours changeante, Alexis Forestier fait une œuvre multiforme et légère qui nous rend \"avides de vivre\".<br><br>AVEC LA CCAS, DANS LE CADRE DE CONTRE-COURANT<br><br>Claire de René Char<br>16 juillet □ Rond-point de la Barthelasse □22 h<br><br>exposition René Char, paysages premiers<br>6 juillet - 31 septembre □ Hôtel de Campredon-Maison René Char à L'Isle-sur-la-Sorgue<br><br>exposition Amitiés poétiques hommage de Jean-Claude Xuereb à René Char<br>6 juillet - 10 août sauf dimanches et jours fériés □ Médiathèque Ceccano □ horaires d'ouverture 14h - 18h<br><br>Les rencontres de la Maison Jean Vilar<br>16 juillet □ Maison Jean Vilar □ 11h<br>René Char, poète de l'insoumission □ rencontre avec Jean-Claude Xuereb<br><br>Rives et rivages, René Char - Albert Camus, une fraternité d'écriture<br>19 juillet □ amphithéâtre de l'École d'Art □ 11h30<br>conférence projection exposition Franck Planeille □ lecture Marie-Paule André<br><br>L'œuvre de René Char donne lieu à une collaboration entre le Festival d'Avignon, le ministère de l'Éducation nationale et<br>le Centre de jeunes et de séjour du Festival d'Avignon.<br><br>Comme chaque année, l'Adami apporte son aide aux spectacles coproduits par le Festival<br>d'Avignon et favorise l'emploi, notamment sur des spectacles réunissant un nombre important<br>d'artistes. Grâce à ce soutien, les spectacles L'Acte inconnu de Valère Novarina, Feuillets d'Hypnos<br>de Frédéric Fisbach et Le Roi Lear de Jean-François Sivadier, se donnent dans la Cour d'honneur.<br><br>Société de gestion collective des droits des artistes-interprètes (près de 60 000 comédiens, chanteurs, musiciens, chefs<br>d'orchestre, danseurs...), l'Adami consacre 25 % des perceptions issues de la copie privée à l'aide à la création, à la<br>diffusion et à la formation professionnelle des artistes. En 2006, près de 13 millions d'euros ont été consacrés à 950 projets<br>dans différents genres artistiques, dont plus de 4 millions d'euros au domaine du spectacle vivant, sans compter les<br>festivals. Ces aides ont contribué à l'emploi direct de plus de 6500 artistes. Philippe Ogouz, Président du Conseil d'administration de l'Adami<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes<br>salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-feuilletsdhypnos-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

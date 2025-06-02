@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Claire"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_claire_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2232,
+            "width": 1578,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_claire_FDA2007/CommAvignon_fds_claire_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2232,
+                                "width": 1578,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/1#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>d'éléments métalliques, et nous avons produit une musique bruitiste, violente. Puis nous avons scandé les textes que nous écrivions dans une langue très pauvre et une veine burlesque, grotesque même. Ensuite nous avons introduit des instruments traditionnels et nous sommes appropriés certains aspects de la musique populaire du début du xxe siècle. Puis j'ai également exploré la musique traditionnelle roumaine. Dans mes compositions ou propositions musicales actuelles on retrouve ces influences qui vont de l'expérimentation la plus brute à des accents traditionnels, de la ritournelle à la culture punk-rock ou à l'improvisation. Avant de former la compagnie je suivais des études d'ethno-musicologie et m'intéressais aux cabarets littéraires puis aux mouvements d'avant-garde, à la relation qu'ils ont entretenue avec les formes scéniques. Finalement ces recherches ont peu à peu éveillé un désir de théâtre et je me suis tourné un moment vers l'œuvre Brecht avant d'élaborer mon premier spectacle Cabaret Voltaire, évocation de la naissance du mouvement Dada à Zürich. C'est là que j'ai posé les jalons des expériences scéniques menées ultérieurement. Le plateau s'est prolongé comme lieu possible de l'expérimentation musicale mais s'est ouvert à d'autres composantes. Plus tard est venu se greffer un travail sur l'image avec les films réalisés par Cécile Saint-Paul en super 8 et en vidéo. Notre collaboration qui porte sur les différents aspects de la création théâtrale a commencé lorsque nous avons eu le projet en 1994, de monter Chaînes d'Henri Michaux puis Claire de René Char qui ont été nos premiers textes de théâtre.<br>Propos recueillis par Jean-François Perrier en février 2007 avant les répétitions<br><br># Alexis Forestier<br><br>Après des études d'architecture Alexis Forestier participe en 1985 à la création d'un ensemble musical proche de la scène alternative, Les endimanché̀s, groupe de percussions qui s'inspire à la fois de la musique bruitiste et de la chanson populaire. Il se passionne pour les mouvements d'avant-garde et la relation qu'ils entretiennent aux écritures scéniques; cet intérêt accru pour des formes qui mêlent plusieurs pratiques artistiques le conduit à créer en 1993 la compagnie Les endimanchés. Le premier spectacle Cabaret Voltaire est inspiré de l'émergence et des recherches du mouvement dada à Zurich. Ce premier travail oriente les recherches esthétiques de la compagnie qui reposeront sur la confrontation de composantes scéniques plurielles, sur des principes de superposition ou de simultanéité. Toutefois les travaux suivants se concentrent sur les écritures théâtrales retenues à la lisière d'œuvres poétiques comme celle d'Henri Michaux dont il monte Chaînes (1994) et Le Drame des constructeurs (1997) ou René Char dont il monte Claire (1995) puis Les Transparents et La Fête des arbres et du chasseur (1997).<br>En 1998, soucieuse d'interroger le processus de création, les modalités et les contingences qui le déterminent – dans une économie et une logique de fonctionnement limitées – la compagnie propose le projet Quatre terrains préparatoires qui voit le jour à Gare au théâtre à Vitry sur Seine et elle présente au cours de la même saison La Fabrique du pré de Francis Ponge, L'Importance d'être d'accord de Bertolt Brecht dans une forme opératique réduite à sa plus petite dimension, L'Idylle de Maurice Blanchot et Quelque chose de l'eau de Cécile Saint-Paul.<br>En compagnie de Cécile Saint-Paul, Alexis Forestier poursuit un travail sur les écritures poétiques et les formes fragmentaires, sur la question de leur transposition théâtrale et musicale.Suivront les spectacles Une histoire vibrante, d'après les Récits et fragments narratifs de Franz Kafka, puis Fragments complets Woyzeck, de Georg Büchner, où les univers sonores construits sur le mode de la ritournelle, les mélodies répétitives et les motifs musicaux constituent un support à l'écoute du texte, conditionnent la scansion ou la ciselure de la parole. Pour Faust ou la fête électrique de Gertrude Stein, il compose une musique chantée par six comédiens-chanteurs et un soliste contre-ténor.<br>En 2005, après avoir côtoyé la clinique de La Borde durant huit années en tant que stagiaire puis bénévole, il monte L'Opéra de quat'sous de Bertolt Brecht avec les patients et soignants de la clinique.<br>Les spectacles, Sunday clothes (2005) et Inferno Party (2006) occupent une place charnière dans le cheminement de la compagnie; ils s'appuient d'une part sur la mémoire musicale de celle-ci et interrogent en l'intégrant la présence de musiciens sur le plateau. Cette recherche voit un prolongement dans le dernier spectacle de la compa-</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/1#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_claire_FDA2007/CommAvignon_fds_claire_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>gnie Elisaviéta Bam de Daniil Harms où les comédiens produisent eux-mêmes la matière sonore sur laquelle prend appui le texte.<br>Au Festival d'Avignon, Alexis Forestier et Cécile Saint-Paul ont déjà présenté The Show Must fall down, dans le cadre de la Vingt-cinquième heure en 2005.<br><br># et Autour de René Char<br><br># Feuillets d'Hypnos<br>DE RENÉ CHAR MISE EN SCÈNE DE FRÉDÉRIC FISBACH<br><br>15 16 17<br>Cour d'honneur du Palais des papes □ 22 h □ durée estimée 2 h □ création 2007<br>Aphorismes, poèmes, récits anecdotiques, maximes de vie composent Feuillets d'Hypnos (1947), recueil unique de 237 fragments d'écriture mis bout à bout par René Char pendant ses années de résistance dans le maquis. Celui qui avait choisi de ne plus publier croyait en la nécessité d'écrire, en la nécessité de l'Art et de la Beauté dans les moments où l'homme peut toucher du doigt l'apocalypse et le désespoir. C'est cette littérature composite qui touche à l'essentiel que Frédéric Fisbach fait entendre dans la diversité de ses formes, dans la richesse de ses paroles.<br><br>AVEC LA CCAS, DANS LE CADRE DE CONTRE-COURANT<br><br>Claire de René Char<br>16 juillet □ Rond-point de la Barthelasse □ 22 h □ entrée libre<br><br>exposition René Char, paysages premiers<br>6 juillet - 31 septembre □ Hôtel de Campredon-Maison René Char à L'Isle-sur-la-Sorgue<br><br>exposition Amitiés poétiques, hommage de Jean-Claude Xuereb à René Char<br>6 juillet - 10 août sauf dimanches et jours fériés □ Médiathèque Ceccano □ horaires d'ouverture 14h - 18h<br><br>Films et documentaires au cinéma Utopia<br>14 juillet □ 14h □ Utopia-Manutention<br>René Char, nom de guerre Alexandre (2006, 61mn) □ documentaire de Jérôme Prieur, en présence du réalisateur<br><br>Rencontre autour du Pays de René Char<br>11 juillet □ 11h30 □ Cloître Saint-Louis □ avec Marie-Claude Char et André Velter<br><br>France Culture en public<br>14 juillet □ 18h □ musée Calvet<br>Écoute radiophonique: Claire de René Char □ réalisation d'Alain Trutat (1955)<br>19h30 - 21h □ musée Calvet<br>René Char : La Rébellion à l'œuvre □ textes choisis par André Velter □ lus par Mireille Perrier et Hugues Quester<br><br>Les rencontres de la Maison Jean Vilar<br>16 juillet □ 11h □ Maison Jean Vilar<br>René Char, poète de l'insoumission □ rencontre avec Jean-Claude Xuereb<br><br>Rives et rivages, René Char - Albert Camus, une fraternité d'écriture<br>19 juillet □ 11h30 □ amphithéâtre de l'École d'Art<br>conférence projection exposition Franck Planeille □ lecture Marie-Paule André<br><br>L'œuvre de René Char donne lieu à une collaboration entre le Festival d'Avignon, le ministère de l'Éducation nationale et le Centre de jeunes et de séjour du Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/2#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_claire_FDA2007/CommAvignon_fds_claire_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Alexis Forestier<br>Claire<br>DE RENÉ CHAR<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/3#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_claire_FDA2007/CommAvignon_fds_claire_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>spectacle itinérant qui circulera dans la région d'Avignon, territoire investi pendant l'année par les \"Nomade(s)\" de la Scène nationale de Cavaillon.<br><br>MÉRINDOL, Salle des fêtes □ le 7 à 15 h et le 8 à 17 h 30 et 21 h 30<br><br>CHÂTEAUNEUF-DE-GADAGNE, SALLE DE L'ARBOUSIÈRE<br>le 10 à 21 h 30 et le 11 à 17 h 30 et 21 h 30<br><br>SAULT, SALLE POLYVALENTE □ le 14 à 15 h<br><br>TAVEL, SALLE DES FÊTES □ le 19 à 21 h 30 et le 20 À 21H 30<br><br>OPPÈDE, NOUVELLE SALLE □ le 23 à 21 h 30 et le 24 à 17 h 30 et 21 h 30<br><br>AVIGNON, SALLE BENOÎT-XII □ le 26 à 18 h et le 27 à 18 h<br><br>durée 1 h<br><br>mise en scène, scénographie Alexis Forestier<br>avec<br>Jean Chaize le chercheur de champignons, Monsieur, le notaire<br>Brigitte Cuvelier Madame, la mère, premier compagnon<br>Bruno Forget l'ouvrier, l'aîné des garçons, le chargé de missions, le poète, le visiteur<br>Alain Gintzburger le contremaître, le père, le chef d'opérations, le vieil homme<br>Antonin Rayon un ouvrier, le jeune homme, le garçonnet, deuxième compagnon<br>Cécile Saint-Paul Claire, l'ouvrière, la jeune fille, La Rencontrée<br>musique Alexis Forestier, Antonin Rayon<br>environnement sonore Antonin Rayon<br>éléments sonores Manuel Coursin, Antoine Lengo<br>projections Cécile Saint-Paul<br>lumière, régie générale Denis Gobin<br><br>Claire est publiée aux éditions Gallimard<br>les textes projetés sont issus des \"Billets à Francis Curel\", in Recherche de la base du sommet, éd. Gallimard<br>Spectacle créé le 7 juillet à Mérindol au Festival d'Avignon ; une première version a été donnée en 1995 à l'espace des Arts de Chalon-sur-Saône<br><br>coproduction Festival d'Avignon, compagnie les endimanchés, Halle aux grains-Scène nationale de Blois<br>avec le soutien du Théâtre de Cavaillon-Scène nationale<br>producteur exécutif Théâtre des Bernardines (Marseille)<br>en partenariat avec la commune de Mérindol, la communauté de communes du Pays des Sorgues et des Monts de Vaucluse, la communauté de communes du Pays de Sault, la CCAS, la commune de Tavel, la commune d'Oppède et la communauté de communes de Coustellet<br>remerciements au Parc et Grande Halle de la Villette, Beau Labo Jacqueline Escourrou et Camille Maury<br><br>les dates de Claire après le Festival :<br>le 25 janvier 2008 aux Théâtres en Dracénie (Draguignan), les 27 et 28 janvier 2008 à La Halle aux grains (Blois), à partir du 5 mai 2008 au Théâtre Paris-Villette (Paris)<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/4#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2232,
+            "width": 1578,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_claire_FDA2007/CommAvignon_fds_claire_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2232,
+                                "width": 1578,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/5#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Alexis Forestier<br><br>Vous avez monté Claire il y a dix ans. Qu'est ce qui vous a donné le désir de la recréer en 2007?<br>Alexis Forestier: Si l'on se réfère à l'expérience de René Char, il y a des éléments dans cette pièce qui instruisent encore aujourd'hui notre relation à l'histoire, notamment face à un événement inscrit dans un contexte historique et politique précis. Ce qui m'intéresse dans ce texte est la manière qu'a René Char de circonscrire un ensemble de situations de façon à la fois elliptique et complexe, sans user de procédés proprement dramaturgiques ou explicatifs et davantage encore, la relation qu'il entretient à sa propre mémoire. Comme si le jugement sur un événement politico-historique ne pouvait être qu'immanent à la situation en question. Il se défend de porter un jugement a posteriori. Cela m'a intrigué et m'a donné envie de faire entendre ce texte écrit en 1948, au moment où se construisaient des \"mémoires propriétés\", des récapitulations abusives de ce que fut la Résistance. René Char se maintient à distance et rétablit cette relation poétique au monde qui fût mise en péril par son engagement dans un champ de conscience à un moment précis de son histoire. Néanmoins, cet engagement politique donne la mesure et restitue la nécessité première de cette existence vouée à la poésie. Les questions qu'il introduit sur le théâtre, qui n'est pas le lieu habituel de son écriture, sont essentielles. Le fait qu'il choisisse une forme dramatique pour dire cette tension extrême entre sa recherche poétique et l'injonction du politique, nous met en mouvement de même que nous intrigue la forme très libre, très ouverte, qu'il donne à cet essai théâtral.<br><br>À quoi correspond ce qu'il appelle \"l'impossibilité de la Rencontre\"?<br>Sans doute l'idée même de \"la Rencontre\" s'est-elle aujourd'hui déplacée. On voit sur les murs des villes des affiches qui objectent que \"les règles du jeu ne sont plus les mêmes qu'auparavant\", et ce à propos de la rencontre amoureuse... Les visages en effet et les regards sont davantage reliés aux gadgets contemporains qu'ils ne semblent être tendus vers la possibilité de la rencontre. Mais en ce qui concerne René Char il s'agit aussi de la rencontre avec le monde, de la relation poétique au monde. Les structures d'aliénation qui sont de plus en plus présentes aujourd'hui et les logiques de conditionnement qui sont les nôtres sont sans doute un obstacle à cette quête d'absolu menée par René Char tout au long de son existence, à son idée de la liberté, associées à un certain pessimisme, à une réfutation de l'idée de bonheur obligatoire. À mon sens, depuis les cinquante dernières années, il y a eu un écrasement aliénatoire, à tel point que la conscience de celui-ci même est difficile à accepter.<br><br>On a l'impression qu'il y a deux textes dans la pièce: les dialogues d'un côté, les didascalies de l'autre. Comment traitez-vous cette dualité?<br>Les didascalies sont parfois très écrites, elles déterminent nécessairement une part de l'écriture scénique et de la dramaturgie. L'efusion matinale est le climat physique et métaphorique du premier tableau. Claire se révèle aux éléments qui l'ont fait naître, dévoile son existence au spectateur en même temps qu'elle surprend la leur. Il est également question d'un chercheur de champignons qui s'approche de l'eau naissante puis gravit une haute falaise; naturellement lorsqu'il s'agit de telles indications une transposition scénique s'impose. Certaines didascalies ont un statut à part, elles semblent suivre le cours d'une rivière aux aspects et aux tonalités musicales changeantes. Ces indications en particulier induisent la nécessité de composer un paysage ou une dramaturgie sonore.<br><br>Il y a des changements permanents de lieux et en même temps les scènes sont très brèves, cela pose des problèmes pour les décors?<br>On bascule en effet dans des fragments de réalités qui se succèdent avec une grande rapidité sans transition ni lien apparent. Or notre proposition tend à dissiper le cloisonnement dans l'espace et dans le temps de la représentation par un système de glissement d'une scène à l'autre. Durant le déroulement de chaque tableau le spectateur voit se dessiner la mise en place physique de la scène suivante. La scénographie repose sur l'utilisation de châssis roulants tendus de toile de chanvre blanc. Ils composent et décomposent les espaces</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/5#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2232,
+            "width": 1578,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_claire_FDA2007/CommAvignon_fds_claire_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2232,
+                                "width": 1578,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/6#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>propres à chaque tableau. Leur mouvement continuel permet à l'aire de jeu de se déplacer et de varier en profondeur et latéralement. Les ouvertures et fermetures de plateau rendent possible le glissement de Claire d'une scène à l'autre; elle y est une figure changeante, n'ayant jamais le même statut, irréductible aux circonstances et aux milieux qu'elle traverse.<br><br># René Char s'est-il inscrit dans certains personnages de sa pièce?<br>Cela ne peut pas se formuler aussi clairement mais il est indéniable qu'affleure dans le texte une dimension autobiographique. Il est question au cœur de la pièce de deux hommes qui conversent amicalement dans un refuge de montagne. Nous sommes en 1943. Le chef d'opérations envoie son hôte accomplir une mission délicate auprès d'un notaire dont le comportement est à leurs yeux suspect. Ce même chargé de missions devient au sortir de la guerre le poète que rencontre Claire; plus tard encore il est \"un visiteur\" se réchauffant à la parole d'un vieil homme qui se tient à l'intérieur d'un monde poétique devenu difficilement accessible -\" un îlot planté d'arbres fruitiers\".<br><br># Ce texte peut-il faire partie de ce que l'on pourrait appeler un théâtre de \"résistance\"?<br>Je crois qu'un théâtre de \"résistance\" peut sourdre des matériaux les plus divers. Le texte n'est pas toujours le garant de cette possibilité ou de cette perspective. René Char touche ici à une sorte de théâtre où la dramaturgie, en partie fragmentée, se recompose peu à peu par un encerclement des singulier, où les éléments entrent en résonance les uns avec les autres et appellent une résolution scénique qui n'est pas essentiellement subordonnée au texte. En général, nous choisissons des textes qui favorisent cette instabilité de la représentation, parfois peu rassurante, à la lisière de la dramaturgie traditionnelle, à la recherche d'une écriture scénique. Nos spectacles sont une invitation à une certaine errance de la représentation, les images qui les traversent veulent garder une part d'indécidabilité pour ne pas contraindre le regard ou imposer un ordre d'idée. Il en résulte un théâtre qui ne se veut pas forcément lieu de développement du sens mais où l'apparition du sens est davantage immanente à l'état de représentation, à la mise en présence d'éléments non hiérarchisés qu'elle ne repose sur un présupposé dramaturgique. Pour moi la représentation est un trouble de l'émergence du sens, un lieu d'émergence voilé.<br><br># Vous avez évolué dans votre façon de travailler, aussi bien dans la musique que dans le théâtre. Allez-vous tenir compte de cette évolution dans cette nouvelle mise en scène d'un spectacle passé?<br>Cela me trouble forcément de reprendre ce travail qui a plus de dix ans, mais je trouve cette perturbation fort excitante: d'une part le fait de plonger à nouveau dans l'œuvre de René Char que j'ai beaucoup fréquentée durant cette période et pour ainsi dire abandonnée depuis; d'autre part je ne prends plus possession d'un plateau de la même façon qu'à cette époque. Je vais donc travailler sur la mémoire de ce que nous avions mis en place et confronter cette matière à une pratique musicale qui est devenue une composante essentielle de mon travail. La musique était absente du paysage sonore que nous avions composé à la création, et je voudrais aujourd'hui introduire différents claviers dont un piano peut-être, travaillé dans une logique de préparation et d'inspiration proche de la musique de John Cage qui rappelons-le était un lecteur de René Char. Je partage cet aspect du travail avec Antonin Rayon qui est un pianiste et improvisateur disposant de nombreuses ressources. Nous explorons la possibilité de mêler, de confondre des parties musicales à la matière sonore initiale faite de bruits d'eau, de crépitements de poêle, de rythmes produits par les maillets d'une fabrique de papier, etc. Le piano dans cette logique de préparation peut être d'une grande qualité ou légèreté, mais également d'une extrême brutalité lorsque l'utilisation du clavier incline notamment vers une logique de percussions.<br><br># Votre avez eu une longue pratique musicale avant de vous intéresser au théâtre?<br>J'ai suivi un parcours assez hétérogène puisque ma première formation qui est l'architecture a été envahie peu à peu par une pratique musicale. Lorsque nous avons créé les endimanchés au sein de la scène alternative, nous imaginions des dispositifs de percussions à partir</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-claire-fda2007/canvas/6#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

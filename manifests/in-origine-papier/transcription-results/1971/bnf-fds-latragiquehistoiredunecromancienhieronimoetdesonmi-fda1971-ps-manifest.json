@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "La tragique histoire du nécromancien hiéronimo et de son mi"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Bnf_fds_LaTragiqueHistoireDuNécromancienHiéronimoEtDeSonMi_FDA1971_ps.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1971"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-origine-papier"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 6262,
+            "width": 3110,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaTragiqueHistoireDuN%C3%A9cromancienHi%C3%A9ronimoEtDeSonMi_FDA1971_ps/Bnf_fds_LaTragiqueHistoireDuN%C3%A9cromancienHi%C3%A9ronimoEtDeSonMi_FDA1971_ps_page_1.jpg",
+                                "type": "Image",
+                                "height": 6262,
+                                "width": 3110,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/1#xywh=0,0,3110,6262"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>PFB-1941(?,20)<br><br># Le XXVe Festival d'Avignon Direction Jean Vilar et l'O.R.T.F. présentent<br><br>Les 2, 3 et<br>4 août<br>à 21 h 30<br><br># La tragique histoire du nécromancien Hiéronimo et de son miroir    Théâtre musical    précédé de Une certaine forme d'humour : Erik Satie<br><br>Cloître des Célestins</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/1#xywh=0,0,1721,3615"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 3039,
+            "width": 1442,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaTragiqueHistoireDuN%C3%A9cromancienHi%C3%A9ronimoEtDeSonMi_FDA1971_ps/Bnf_fds_LaTragiqueHistoireDuN%C3%A9cromancienHi%C3%A9ronimoEtDeSonMi_FDA1971_ps_page_2.jpg",
+                                "type": "Image",
+                                "height": 3039,
+                                "width": 1442,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/2#xywh=0,0,1442,3039"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Une certaine forme d'humour : Erik Satie<br><br>chant piano film<br>Anna Ringart, mezzo-soprano<br>Polo de Haas, piano<br><br>• Pièces pour piano<br>Sonatine bureaucratique<br>2e Gymnopédie<br>Petite ouverture à danser<br>3e Gnossienne<br><br>• Mélodies<br>La statue de bronze, paroles de Léon-Paul Fargue<br>Daphénéo, paroles de Godebski<br>Le Chapelier, paroles de René Chalupt<br><br>• Pièces pour piano<br>Vexations<br>Embryons desséchés<br>Trois valses distinguées du précieux dégoûté<br><br>Entracte de René Clair<br><br>■ Erik Satie (1866-1925)<br>Erik Satie est né à Honfleur. Alphonse Allais aussi, À quelques mètres l'une de l'autre, on peut voir aujourd'hui dans la ville leurs maisons natales.<br>Musicien, Satie a vécu en ascète. Il fut longtemps mésestimé pour avoir peut-être surestimé l'ascétisme de son humour. Il serait faux de ne retenir que cet aspect de sa personne, de son œuvre. Si les titres ironiques ou provocateurs y abondent, ils ne cachent point seulement des agaceries ou des pirouettes. Le sérieux de l'écriture, la clarté du propos attestent une autre façon. L'auteur des « Morceaux en forme de poire » ou des « Ballades flasques » est celui de « Socrate », de « Parade » et de « Gymnopédies ». Cela laisse à réfléchir.<br><br>■ Polo de Haas<br>Né en 1933 à Amsterdam. Il fait ses études de piano au Conservatoire de cette ville et passe brillamment des examens de soliste et de professeur.<br>Son intérêt musical le porte à des activités qui vont au-delà de la vie de concert traditionnelle.<br>Il joue de la musique contemporaine et de la musique expérimentale en trio, accompagné d'une contrebasse et d'une batterie.<br>Il a composé plusieurs œuvres pour musique électronique. Il fait partie du groupe de musique progressive « Steim ».<br>Plus récemment, il s'est fait une spécialité des interprétations d'Erik Satie, qu'il joue avec infiniment d'humour.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/2#xywh=0,0,1721,3615"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 3039,
+            "width": 1367,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaTragiqueHistoireDuN%C3%A9cromancienHi%C3%A9ronimoEtDeSonMi_FDA1971_ps/Bnf_fds_LaTragiqueHistoireDuN%C3%A9cromancienHi%C3%A9ronimoEtDeSonMi_FDA1971_ps_page_3.jpg",
+                                "type": "Image",
+                                "height": 3039,
+                                "width": 1367,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/3#xywh=0,0,1367,3039"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># La tragique histoire du nécromancien Hiéronimo et de son miroir<br><br>Pour marionnettes, voix chantées, voix parlées, luth, violoncelle et bande magnétique.<br>Musique et texte de Georges Aperghis.<br><br>Anna Ringart : Voix chantées<br>Edith Scob : Voix parlées<br>Guy Robert : Luth<br>Alain Meunier : Violoncelle<br><br>Atelier d'Etudes Théâtrales d'Avignon<br><br>Hubert Jappelle : Marionnettes et mise en scène<br>Georges Aperghis : Direction musicale<br><br># L'œuvre<br>L'œuvre répond parfaitement à la notion « intégrale » de théâtre musical. La vision scénique est indispensable à l'auditeur pour suivre et apprécier le mécanisme dramatique mis en mouvement par la musique. Mieux encore : le spectateur-auditeur est un participant imaginatif qui est appelé à opérer continuellement la synthèse des éléments musicaux, visuels et dramatiques de ce qui lui est proposé par les auteurs, c'est-à-dire le compositeur et le marionnettiste. L'intelligence ne peut qu'être flattée à mettre sa fantaisie à comprendre et à inventer, à partir des surprises quelque-fois déroutantes ménagées par le spectacle. Encore faut-il préciser qu'il ne s'agit pas de composition aléatoire mais que ces surprises découlent d'un mécanisme compositionnel sur lequel il semble utile d'insister.<br><br># La composition<br>Les textes choisis pour leurs affinités (pièce élisabethaine, Don Juan, pièces de Montaigne, Raymond Roussel, textes sur les marionnettes, etc.) et susceptibles d'alimenter le sujet de la « fable », sont utilisés, non pas selon une stricte logique dramatique, mais selon une fantaisie ordonnée. Cette surprise qui aiguise la perspicacité de l'auditeur est augmentée par le fait que la musique répond au même processus de fabrication. C'est ce qu'on pourrait appeler selon les propres termes du compositeur, une « structure de parenthèse ». Les « parenthèses-texte » et les « parenthèses-musique » se développent et se succèdent d'une</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/3#xywh=0,0,1721,3615"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 3039,
+            "width": 1450,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaTragiqueHistoireDuN%C3%A9cromancienHi%C3%A9ronimoEtDeSonMi_FDA1971_ps/Bnf_fds_LaTragiqueHistoireDuN%C3%A9cromancienHi%C3%A9ronimoEtDeSonMi_FDA1971_ps_page_4.jpg",
+                                "type": "Image",
+                                "height": 3039,
+                                "width": 1450,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/4#xywh=0,0,1450,3039"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>manière indépendante. Rares sont les fragments de composition où le texte et la musique sont associés selon la composition traditionnelle. Lorsque l'action commence, les textes paraissent comme un simple matériau. Le sens dramatique prend corps grâce aux rencontres avec la musique et c'est de ces rencontres que jaillissent précisément les options variées, logiques ou contrariantes, qui s'offrent à la fantaisie de l'auditeur.<br><br># Le sujet<br>C'est une fable qui met en jeu, face à face, un marionnettiste et une cantatrice. Le marionnettiste est en scène non pas seulement en tant que manipulateur mais avant tout comme personnage humain. Pour conquérir la cantatrice, il imagine de donner un spectacle sur son théâtre de marionnettes, mais la cantatrice repousse l'amour du séducteur qu'elle assimile à Don Juan, de sorte que les masques choisis pour ces deux protagonistes sont ceux de Donna Anna et de Don Juan. Mais dans ce domaine déjà « merveilleux » se greffent d'autres maléfices qui s'identifient à toutes les surprises dont nous avons parlé. En effet, la pièce imaginée par le marionnettiste est sans cesse contrariée par des interventions musicales (les fameuses parenthèses) et par l'attitude des marionnettes qui, sous le pouvoir de Hiéronimo se révoltent, se détraquent jusqu'au moment où Hiéronimo lui-même prendra le masque du Commandeur et anéantira son propre maître, le pseudo Don Juan, son créateur.<br><br># La mise en scène<br>Hubert Jappelle, directeur, animateur de l'Atelier d'Études Théâtrales d'Avignon, a envisagé une utilisation nouvelle de ses interprètes préférés : les marionnettes. Elles seront grandes et manipulées à vue. Jappelle a conçu le spectacle comme « un grand jeu pour les yeux et les oreilles du spectateur ». Il insiste sur la présence singulière de la marionnette et d'un ensemble de marionnettes qui doit provoquer une « sensation de vie et non pas une illusion de vie ». « Les gestes de la marionnette, dit-il encore, n'ont pas pour fonction de décrire quelque geste humain que ce</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/4#xywh=0,0,1721,3615"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 4016,
+            "width": 1924,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaTragiqueHistoireDuN%C3%A9cromancienHi%C3%A9ronimoEtDeSonMi_FDA1971_ps/Bnf_fds_LaTragiqueHistoireDuN%C3%A9cromancienHi%C3%A9ronimoEtDeSonMi_FDA1971_ps_page_5.jpg",
+                                "type": "Image",
+                                "height": 4016,
+                                "width": 1924,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/5#xywh=0,0,1924,4016"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>soit ; on doit le plus souvent leur donner pour unique fonction d'accompagner la parole. Mais cet accompagnement purement rythmique doit être très fin, très sensible, très subtil. »<br>Il semble que, dans leur collaboration, Hubert Jappelle et Georges Aperghis se soient rencontrés sur les mêmes principes. Si on a lu l'essai d'explication de la composition de l'œuvre et de son sujet, on lira avec intérêt ce que dit le marionnettiste sur son travail et on sera saisi par la totale identité de vues de ces deux créateurs et on bénira cette osmose esthétique de deux disciplines qui doit présider à toute entreprise de théâtre musical.<br>...« Il s'agit d'un jeu qui s'importe, qui s'emporte, qui semble ne plus devoir ni pouvoir se contrôler, comme soulevé par sa propre jubilation. D'un jeu encore qui paraît réfuter sa règle au fur et à mesure qu'il s'invente, au fur et à mesure qu'il s'aventure — parfois à la dérobée, à la surprise générale — et paraît s'égarer dans le labyrinthe de significations qu'il crée. Il éveille d'abord l'attention du spectateur puis l'attire assez pour la retenir et, au moment où elle se fixe enfin sur quelque chose de saisissable, il lui subtilise son objet et allégrement l'entraîne ailleurs vers de nouveaux points d'observation, attisant ainsi, attisant sans trêve les curiosités.<br>Le jeu s'amuse de ses feintes et le spectateur s'amuse à tenter de les déjouer. En fait, pour le spectateur, le seul fil à saisir, c'est le mouvement de ce jeu prodigue d'insatiables inventions...<br>...Ici, pour servir au mieux le projet de Georges Aperghis, il fallait évidemment connaître les nécessités poétiques et les impératifs techniques qu'elles imposaient. Il était non moins indispensable de tenir compte du lieu scénique, de son caractère particulier, du plein air, de ses dimensions et de se plier à ses proportions de telle manière que l'unité visuelle du spectacle résulte d'une intime intégration à l'espace qui lui a été imparti.<br>De telle manière aussi que de cette unité visuelle et sonore, associée à une grande simplicité dans le fonctionnement de la représentation, résulte une non moins grande limpidité de l'ensemble.<br>Enfin, au-delà de ces quelques considérations élémentaires — mais elles fondent notre métier — il s'agissait de faire en sorte que la réalisation scénique éclaire, de par sa propre jubilation visuelle, la jubilation sonore que nous devons à Georges Aperghis.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/5#xywh=0,0,1721,3615"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 3615,
+            "width": 1721,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaTragiqueHistoireDuN%C3%A9cromancienHi%C3%A9ronimoEtDeSonMi_FDA1971_ps/Bnf_fds_LaTragiqueHistoireDuN%C3%A9cromancienHi%C3%A9ronimoEtDeSonMi_FDA1971_ps_page_6.jpg",
+                                "type": "Image",
+                                "height": 3615,
+                                "width": 1721,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/6#xywh=0,0,1721,3615"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Georges Aperghis<br>Né à Athènes en 1945, vient à Paris en 1963. Il n'a aucun diplôme ; il a fait des études de piano, harmonie, fugue et contre-point en dehors du Conservatoire.<br>A Paris, cours de direction d'orchestre avec Pierre Dervaux. Etudes de percussion. Georges Aperghis ne termine jamais les études entreprises... En 1967, premières créations. K. Simonovitch crée à Paris « Anakroussis II ». L'Orchestre National de l'O.R.T.F. enregistre « Antistixis 3 ».<br>En 1968, création en Grèce de « Music for an Orange Girl » enregistrée par E.M.I. En 1969, il a écrit de nombreuses musiques de scène (pour Adamov, Vercors) ; plusieurs œuvres créées à Paris, Athènes, Buenos-Aires, Madrid, Baden-Baden. Enregistrement radio de « Libretto » par l'Orchestre Philharmonique de l'O.R.T.F. « Variations I », création par K. Simonivitch à Barcelone, puis joué à Madrid. En 1970, « Simata » pour piano préparé par Christian Ivaldi, enregistré par Philips. Œuvres créées par l'Orchestre Philharmonique de l'O.R.T.F. En 1971, création de « Lecture » à Angers, et de « Musical Box » à l'Espace-Cardin.<br><br># Hubert Jappelle<br>Né en 1938, étudie la musique et les beaux-arts. Avignonnais depuis 1957, il débute très tôt comme comédien, puis comme metteur en scène d'un Théâtre de Poche fonctionnant régulièrement à Avignon.<br>En 1962, il commence à travailler avec des marionnettes et présente à Avignon, de 1962 à 1970, une vingtaine de spectacles de marionnettes et, en 1968, il crée l'Atelier d'Etudes Théâtrales.<br>En 1970, pendant le Festival d'Avignon, il donne « Le Songe », de Strindberg. Parallèlement, il est professeur de musique puis animateur théâtral aux Foyers socio-éducatifs des lycées d'Avignon.<br><br># Anna Ringart<br>A fait des études de piano, de chant et de comédie à Paris. Dès 1960, elle travaille avec l'ensemble créé par Charles Ravier. A partir de 1966, engagements dans plusieurs villes d'Allemagne : opéras, concerts et récitals. Participation aux « Tage der Neuen Musik » à Hanovre en 1967 et à « Musica Nova » à Brême en 1968 et 1970. En 1969, concert avec le « Domaine Musical » à Toulouse et participation à la création de « Orden » au Festival d'Avignon. En 1970, « Le Chevalier à la Rose » à l'opéra de Strasbourg. En avril 1971, Anna Ringart a chanté au Festival de Royan et au concert du « Domaine musical » à Paris.<br><br># Alain Meunier<br>Né en 1942, obtient au Conservatoire de musique de Paris les premiers prix de violoncelle, d'ensemble instrumental, de musique de chambre et d'esthétique musicale.<br>Avec le « Sestetto Chigiono d'Archi », il se fait entendre dans le monde entier, donne de nombreux concerts en France, en duo avec le pianiste Christian Ivaldi.<br><br># Guy Robert<br>Né en 1943, est spécialisé dans la recherche des possibilités qu'on peut tirer du luth. Il joue régulièrement pour l'Ensemble Polyphonique de Paris-O.R.T.F., est soliste de la Télévision française et de la B.B.C.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-latragiquehistoiredunecromancienhieronimoetdesonmi-fda1971-ps/canvas/6#xywh=0,0,1721,3615"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

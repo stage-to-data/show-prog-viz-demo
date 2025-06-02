@@ -1,0 +1,450 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Marionnettes youkiza"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_marionnettesYoukiza_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_marionnettesYoukiza_FDA2007/CommAvignon_fds_marionnettesYoukiza_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Tsuna-Yakata (Le Manoir de Tsuna)<br><br>avec les marionnettistes<br>Youki Chié Watanabe-no-Genji-Tsuna<br>Youki Magosaburo XII Tante Mashiba (en réalité, le démon Ibaraki Doji)<br><br>Il s'agit une pièce de théâtre de danse, basée sur la légende d'un guerrier qui exista vers l'an 1000, Watanabe-no-Genji-Tsuna qui aurait combattu un démon.<br>Watanabe-no-Genji-Tsuna, un subordonné de Minamoto Yorimitsu (un guerrier de l'époque Heian, vers l'an 1000) fut attaqué par un démon à la Porte du Rasho-mon (dans l'ancienne capitale de Kyoto, à l'époque, appelée Heian-kyo) et lui trancha le bras dans un duel (cet épisode est aussi présenté dans le film Rashomon d'Akira Kurosawa, Lion d'or au Festival de Film de Venise en 1951). Abé-no-Seimei (astrologue à la cour de l'Empereur, célèbre pour ses prédictions suivant la Voie du Ying et du Yang) l'avait averti de devoir prendre toutes ses précautions, car le démon allait revenir reprendre son bras.<br>Un jour, tante Mashiba arrive du pays de Tsu au manoir de Tsuna, où il s'était enfermé. Le prudent Tsuna refuse de la voir, et la vieille tante commence à se lamenter sur sa cruauté à l'extérieur du manoir. Elle raconte comment elle s'était dévouée à nourrir Tsuna et à le porter sur son dos depuis qu'il était devenu orphelin dans son enfance. Ceci pousse Tsuna à la laisser entrer dans le manoir. Enfin, tante Mashiba lui demande de lui montrer le bras du démon qu'il avait tranché, pour qu'elle puisse se souvenir de son acte courageux jusqu'après sa mort.<br>En regardant à l'intérieur de la boîte en bois contenant le bras, tante Mashiba transforme son apparence, vole le bras, devient le terrible démon nommé Ibaraki Doji, et s'envole, haut dans le ciel.<br>La première partie du spectacle est calme malgré une atmosphère tendue, mais dans la seconde partie, les mouvements deviennent très violents et intenses. Ce changement soudain vers le point culminant dynamique à la fin est le clou de cette pièce.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_marionnettesYoukiza_FDA2007/CommAvignon_fds_marionnettesYoukiza_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Théâtre de marionnettes Youkiza Hônchô-Nijyûshika et Tsuna-Yakata<br><br>61ᵉ Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_marionnettesYoukiza_FDA2007/CommAvignon_fds_marionnettesYoukiza_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>16 17 18 19<br>SALLE FRANCHET DU LYCÉE SAINT-JOSEPH ⌐ 15h ⌐ durée 1h<br>spectacle en japonais<br><br>avec les marionnettistes Youki Magosaburo, Youki Chie<br>de la compagnie de théâtre de marionnettes Youkiza<br>production Keizo Maeda<br>contact tarachan@fa2.so-net.ne.jp / www.youkiza.jp<br><br>production Théâtre Youkiza<br>avec le soutien de l'Agence des Affaitres culturelles du gouvernement japonais pour l'année fiscale 2007<br><br># Présentation de la Compagnie Youkiza<br><br>Le Youkiza, fondé en 1635 pendant la période d'Edo (1603-1868) par Youki Magosaburo I et aujourd'hui dirigé par Youki Magosaburo XII, est la seule compagnie théâtrale de marionnettes à fil traditionnelle au Japon, dont l'histoire remonte à environ 370 ans.<br>Comme il est inscrit dans des anciens textes japonais, \"le Youkiza est le plus ancien théâtre de marionnettes à fil de Sekkyō-Jōruri (type de jōruri utilisé au xvie siècle par les religieux bouddhistes pour dispenser leur enseignement et expliquer les doctrines religieuses) à Edo (ancien nom de Tokyo)\", et la tradition est transmise sous la forme harmonieuse de la récitation de jōruri accompagnée de musique.<br>Suite au déclin de la popularité du Sekkyō-bushi, qui eut beaucoup de succès à ses débuts, le Youkiza s'orienta vers le théâtre de marionnettes de Gidayū-bushi (type de chant narratif de jōruri accompagné par la musique de shamisen aux trois cordes) qui fut encore une nouveauté à l'époque. Enfin, le Youkiza construisit un théâtre permanent dans le quartier de Fukiya-chō à Edo, et continua à présenter diverses nouvelles pièces de création. L'œuvre la plus représentative est le Meiboku-Sendaihagi. Cette pièce est jouée dans le kabuki avec grand succès encore aujourd'hui. Durant la période d'Edo, cinq troupes théâtrales parmi plusieurs - dont les trois théâtres de kabuki (Ichimura-za, Nakamura-za et Kawarazaki-za) et deux troupes de marionnettes (Satsuma-za du guignol, et Youkiza du marionnette à fil) - obtinrent des terrains et des soutiens financiers comme frais de déplacement, et devinrent des théâtres agréés par le Bakufu (le Gouvernement du Shōgun). Mais au fil du temps, certains de ces théâtres tels que le Satsuma-za disparurent, et parmi les trois troupes de kabuki, seuls les zamoto (acteurs qui avaient obtenu une licence pour commanditer des spectacles de kabuki, ou directeurs de troupes) ont pu se succéder, ce qui finalement laissa le Youkiza comme étant le seul à persister en tant que troupe théâtrale traditionnelle.<br>Aujourd'hui, le Youkiza joue non seulement des pièces classiques, mais aussi des pièces de création, ainsi que des spectacles de utsushi-e (spectacle avec des projections de \"dessins sur verre\" traditionnels de la période d'Edo, sur des murs ou des écrans). La compagnie a joué à plusieurs occasions à l'étranger, notamment en Europe, en Moyen-Orient, en Asie du Sud-Est et en ex-Union soviétique, où elle remporta un grand succès. Le Youkiza est actuellement classé comme trésor culturel vivant de la ville de Tokyo, et trésor culturel folklorique</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_marionnettesYoukiza_FDA2007/CommAvignon_fds_marionnettesYoukiza_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>vivant du Japon. Il est beaucoup apprécié au Japon ainsi qu'à l'étranger, et il fut décoré par le Prix spécial et le Prix autonome pour sa pièce de Macbeth - version théâtrale de marionnettes à fil au Festival international de théâtre de Belgrade (BITEF) en 1986. Depuis avril 2002, un projet de coproduction se poursuit entre le Théâtre national de la Colline à Paris, le Quartz - Scène nationale de Brest, le Théâtre Public de Setagaya à Tokyo et le Youkiza, et six marionnettistes de la compagnie ont l'honneur d'y participer. Cette production, Les Paravents de Jean Genet, est mise en scène par Fréderic Fisbach, artiste associé du Festival d'Avignon 2007, où elle a été présentée du 6 au 13 juillet.<br>Le Youkiza est une de rares compagnies de marionnettes à fil dans le monde, qui continue à présenter des pièces de créations classiques et contemporaines.<br>Le spectacle présenté au Festival d'Avignon comporte deux extraits des pièces traditionnelles Hōnchō-Nijūshikō et Tsuna-Yakata.<br><br># Hōnchō-Nijyūshikō<br><br>avec le marionnettiste<br>Youki Magosaburo XII : la Princesse Yaégaki<br><br>Honchō-Nijūshikō est un drame en huit actes écrit à la période d'Edo, basé sur l'histoire de la rivalité entre deux puissants clans locaux, la famille Takéda et la famille Uésugi, pendant la période de guerres civiles au Japon vers l'an 1550.<br>L'acte représenté est celui de la scène de Okuniwa Kitsunebi (Les Lueurs du renard dans la cour intérieure) qui représente l'histoire d'amour sincère de la princesse Yaégaki, fille de la famille Uésugi. Contrairement à Roméo et Juliette, l'histoire trouve une fin heureuse, grâce à la passion de la princesse, et à l'aide d'un casque possédé par un renard surnaturel. Takéda Katsuyori, le fiancé de la princesse Yaégaki pour des raisons politiques, déguisé en jardinier, s'est glissé dans le manoir de la famille rivale des Uésugi, afin de reprendre le casque sacré de Suwa-Hōshō (la divinité de la pitié de Suwa Myōjin), Trésor de la famille Takéda, mais détenu par Kenshin, père de la princesse Yaégaki. Kenshin, ayant reconnu Katsuyori malgré son déguisement, ordonne à ses hommes de l'assassiner. La princesse Yaégaki a entendu la nouvelle et veut absolument sauver Katsuyori; elle prie le pouvoir du casque sacré de Suwa-Hōshō dans la cour intérieure de la maison. Le pouvoir mystique de l'âme du renard, messager de la divinité, qui hante ce casque, reflète une lueur sur l'eau du bassin sous forme d'un renard blanc, ce qui surprend la princesse. Protégée et guidée par le casque, elle réussit à traverser le lac glacé de Suwa et à avertir son bien-aimé du danger imminent. Grâce à son action courageuse, la princesse réussit à sauver la vie de Katsuyori, et la pièce s'achèvera par leur mariage heureux.<br>C'est l'histoire d'un miracle, provoqué par la force de l'amour d'une noble princesse.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-marionnettesyoukiza-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

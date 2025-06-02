@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Festival das mensonges"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_festivalDasMensonges_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_festivalDasMensonges_FDA2007/CommAvignon_fds_festivalDasMensonges_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>président. Cette configuration est aussi venue d'une réflexion sur la figure \"traditionnelle\" du cercle, figure dont la signification me semble en panne aujourd'hui. Danser en cercle, c'est affirmer une communauté d'être ensemble. Il me semble que lorsque l'on s'est entre-tué comme nous l'avons fait pendant aussi longtemps, on ne peut plus parler de cercle. J'ai donc voulu le couper et mettre face-à-face chaque moitié. Ce qui compte, c'est ce face-à-face. La façon dont on se regarde mutuellement aujourd'hui. Parallèlement, je voulais aussi explorer ce qu'évoque le cinéaste Eisenstein dans ses théories sur le cadrage. Entre le gros plan et le plan large, quels rapports s'établissent entre le sujet, le corps et l'espace ? Dans cet espace, le public est libre. Il peut s'éloigner, revenir, se tenir en retrait. Il a le choix. Une salle de théâtre n'offre pas d'alternative. Ou l'on reste, ou l'on sort. On ne peut jamais se dire que l'on voudrait bien rester pour regarder sur un autre mode et discuter avec ses voisins. C'est pourquoi, nous avons prévu des pauses, des moments de suspens de l'action scénique, qui permettent aux spectateurs de se déplacer, de parler, de consommer car le bar reste ouvert durant toute la représentation. Mais nous poursuivons notre chemin au milieu de cette circulation, le public est donc amené à se déterminer par rapport à l'objet qu'il est en train de voir. Ce projet remet aussi en question mon statut. Casser le rapport frontal, c'est chercher à échapper à la pensée unique, au mot d'ordre, au slogan. Je n'ai pas le désir d'être perçu en tant que guide, éclairé ou éclaireur. C'est pourquoi j'ai voulu proposer un autre choix au spectateur que celui d'adhérer ou de quitter, tout en recréant du mouvement dans le public. En imaginant un autre espace possible, plus ouvert, à construire ensemble, au présent. À Avignon, nous serons trois danseurs et des musiciens congolais vivant à Paris. Ainsi que Marie-Louise Bibish Mumbu, journaliste et écrivain, elle lit ses propres textes... Sa manière de chroniquer la vie à Kinshasa, à partir d'un regard de femme, est un peu le fil rouge de ce Festival des mensonges.<br><br>Propos recueillis par Irène Filiberti en février 2007</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_festivalDasMensonges_FDA2007/CommAvignon_fds_festivalDasMensonges_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Faustin Linyekula<br><br>Danseur, chorégraphe, Faustin Linyekula a toujours un livre en tête, un chemin à prendre, un sac tout juste défait à refaire, une histoire à raconter, une ruine à reconstruire… entre Kisangani où il vit aujourd'hui au Nord-Est de la République Démocratique du Congo (ex Zaïre, ex Congo Belge, ex état indépendant du Congo…), Kinshasa, Paris et le monde… Plusieurs vies dans sa vie, même si aujourd'hui l'existence nomade s'est apaisée auprès d'un fils. Tout commence à Kisangani avec une bande d'amis férus de théâtre, emmenés par un grand frère, Kabako, qui mourra quelques années plus tard à la frontière d'Ouganda d'une maladie si anachronique en cette fin de xxe siècle qu'elle n'ose plus guère dire son nom, la peste…<br><br>En 1993, Faustin Linyekula quitte un pays de fin de règne, celui de Mobutu, et de début de chaos et s'installe à Nairobi. En 1997, il fonde avec Opiyo Okach et la danseuse Afrah Tenambergen la première compagnie de danse contemporaine au Kenya, la compagnie Gàara. Leur première création, Cleansing, exploration des symboliques du nettoyage et de la purification, est primée aux Rencontres chorégraphiques africaines de Luanda en 1998. Malgré le succès, Faustin Linyekula quittera la compagnie quelques mois plus tard pour reprendre la route entre la France, l'Afrique du Sud, la Réunion et la Slovénie. Accueilli en résidence par le Festival Tanzwochen de Vienne en Autriche en août 2000, il présente avec le chorégraphe sud-africain Gregory Maqoma Tales off the Mud Wall, pièce incandescente travaillant sur l'étirement du temps dans une quasi-immobilité.<br><br>En juin 2001, s'impose le retour au Zaïre devenu Congo, déchiré par plusieurs années de conflits meurtriers, le séjour de quelques semaines pour un atelier devient un choix de vie. Faustin met sur pied les Studios Kabako, structure pour la danse et le théâtre visuel, \"un lieu où l'on travaille, où toujours on cherche et où parfois l'on trouve, un lieu où l'on doute mais où certains soirs s'impose une certitude\". Avec quatre danseurs qu'il forme, il crée Spectacularly Empty, carnet un rien désespéré d'un retour au pays natal…<br><br>Commence alors une longue réflexion sur l'histoire et une mémoire collective sans cesse malmenée, bousculée, détournée par des dirigeants en mal de légitimité, incapables de penser le futur, mais aguerris à l'art délicat du passe-passe et de la substitution. Une mémoire effacée, ponctuée de trous noirs et de raccourcis saisissants, mémoire sans cesse occultée, volée à plusieurs générations.<br><br>Suivent Triptyque sans titre (2002), Spectacularly Empty II (2003), recréation pour boîte noire de la pièce de 2001, Radio Okapi (2003-04), performance mêlant radio en direct et artistes invités, chaque soir différents, et Dinozord: The Dialogue Series III (2006), carnet d'un retour au pays natal. Faustin Linyekula travaille aujourd'hui sur la mise en scène d'un texte de Marie-Louise Bibish Mumbu La Fratrie errante.<br><br>À côté des Studios Kabako, Faustin Linyekula crée en janvier 2003 une pièce pour six danseurs de hip-hop, commande du Festival Suresnes Cités Danse,Telle une ombre gravée dans la poussière et imagine pour Sylvain Prunenec un solo-miroir, Si c'est un nègre / autoportrait, qu'il devait présenter dans le cadre du Vif du sujet au Festival d'Avignon 2003.<br><br>En juin 2005, le Centre national de la danse lui confie une Carte blanche : naît Le Cargo avec à son bord une dizaine de compagnies de six pays d'Afrique, soit une trentaine d'artistes qui ont pu montrer leur travail à Paris, souvent pour la première fois.<br><br>Faustin Linyekula enseigne régulièrement en Afrique, aux Etats-Unis et en Europe. Il participe aujourd'hui à un groupe de réflexion, The Africa Centre, autour de la création d'un centre d'art près du Cap (Afrique du Sud)…<br><br>Il a présenté cette année au Festival Dinozord: The Dialogue Series III du 8 au 14 juillet au Gymnase du lycée Mistral.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_festivalDasMensonges_FDA2007/CommAvignon_fds_festivalDasMensonges_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Faustin Linyekula : Studios Kabako<br><br># Le Festival des mensonges<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_festivalDasMensonges_FDA2007/CommAvignon_fds_festivalDasMensonges_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>20 21 22 23<br><br>SALLE DE CHAMPFLEURY ❑ 22 h ❑ durée estimée 2 h et puis la soirée se poursuit<br>restauration possible pendant et après le spectacle proposée par l'association Karibu Afrika<br><br>direction artistique : Faustin Linyekula<br>avec Papy Ebotani, Djodjo Kazadi, Faustin Linyekula, Marie-Louise Bibish Mumbu<br>et les musiciens José Père Elanga (voix et guitare), Pati Basima (bassiste), Bampika Mwanza dit \"Champion\" (batteur), Teba Vangu dit \"Bidjana\" (voix), Kapay Mwenie dit \"Flam\" (guitare solo)<br>avec les paroles de Lumumba, Kasa-Vubu, Mobutu, Tshombe, Kabila...<br>les textes de Marie-Louise Bibish Mumbu Mes Obsessions : j'y pense et puis je crie !<br>les dessins de Papa Mfumu'eto 1er<br><br>administration Virginie Dupray, assistée de Jean-Louis Mwandika<br>restauration congolaise et bar Association Karibu Afrika, Avignon<br>spectacle créé, première étape, au Festival de Liège les 1er et 2 février 2005<br><br>production Studios Kabako en coproduction avec le Centre chorégraphique national de Caen – Basse-Normandie dans le cadre de l'Accueil-studio – ministère de la Culture et de la Communication, le KVS Theater (Bruxelles), le Parc de la Villette (Paris) dans le cadre des Résidences d'artistes 2006<br>avec le soutien de l'Organisation internationale de la Francophonie, de la DRAC Île-de-France-ministère de la Culture et de la Communication, de CULTURESFRANCE dans le cadre du programme Afrique en créations, du Centre national de la danse (Pantin) et de la Halle de la Gombe-Centre culturel français de Kinshasa<br><br>les dates du Festival des mensonges après le Festival :<br>du 13 au 15 septembre 2007 au Philadelphia Live Arts Festival ; du 24 au 27 octobre au Red Cats (Los Angeles) ;<br>du 1er au 3 novembre au Walker Arts Center (Minneapolis) ; du 8 au 10 novembre 2007 au Yerba Buena Arts Center (San Francisco) ; du 14 au 17 novembre 2007 au The Brick / Brooklyn coproduit par le Dance Theater Workshop (New York) ; les 23 et 24 novembre 2007 au VSA Arts / North Fourth Art Center (Albuquerque) ;<br>du 29 novembre au 1er décembre 2007 au On The Boards (Seattle) ; le 14 mai 2008 à La Faïencerie (Creil, France)</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_festivalDasMensonges_FDA2007/CommAvignon_fds_festivalDasMensonges_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Faustin Linyekula<br><br>De quelle façon votre parcours singulier est-il lié à des souvenirs personnels et à l'histoire de votre pays, l'ex-Zaïre, aujourd'hui appelé RDC, République Démocratique du Congo?<br>Faustin Linyekula: Jusqu'en 1995, et ma rencontre à Nairobi avec Opiyo Okach, mime et danseur, avec lequel j'ai fondé la compagnie Gàara, je me présentais plutôt comme comédien, j'écrivais aussi de petites choses. Tout a commencé à Kisangani, en 1988, avec des amis, dont Vumi, aujourd'hui en prison, qui m'a donné le désir d'écrire en me faisant lire ses poèmes. Nous étions dans la même classe et nous plaisantions sur le fait qu'il était mon parrain littéraire. Comme beaucoup d'adolescents qui veulent se rebeller, nous nous étions trouvés et formions un groupe d'amis, en partie réunis en réaction contre notre professeur de français qui ne jurait que par la poésie de la négritude. C'était selon lui l'aboutissement de toute démarche littéraire, tandis que pour nous, la négritude était dépassée. Nous cherchions ailleurs. Et ce refus nous a ouvert les yeux. Nous avons découvert d'autres écrivains africains plus critiques, notamment envers cette fameuse négritude. Ce qui faisait notre joie, c'était de lire et citer des phrases comme celle de l'écrivain nigérian Wole Soyinka: \"Le tigre ne proclame pas sa tigritude, il bondit sur sa proie et la dévore\". Nous rêvions ainsi de changer la littérature et le théâtre africains. Pas moins! En lisant des poèmes lors des fêtes à l'école, en écoutant la radio. Au Centre culturel français de Kisangani, il y avait l'atelier théâtre qui, sans être une école, proposait jusqu'à dix heures de cours par semaine avec la communauté théâtrale locale dont faisait déjà partie Kabako. Comédien, il commençait aussi à faire ses premières mises en scène. Il avait neuf ans de plus que moi, et il a été parmi les premières personnes à m'apprendre ce que signifie être sur scène. À l'ATC (c'est ainsi qu'on appelait ces ateliers), notre chance, la mienne, a été de rencontrer des gens qui déjà à l'époque avaient compris que le théâtre, ce n'était pas d'abord des textes, des personnages, des costumes ou du maquillage... mais en premier lieu une question de présence, de corps l'un en face de l'autre.<br><br>Kabako, c'est aussi l'ami auquel vous rendez hommage dans votre création Dinozord: The Dialogue Series III. Par ailleurs, vous avez aussi donné ce nom, les Studios Kabako, à votre structure installée à Kinshasa qui est un lieu de formation, de recherche et de création ouvert à tous ceux qui s'intéressent à la danse et au théâtre visuel.<br>En ce qui concerne les studios, il faut savoir qu'à Kinshasa, quand on dit théâtre ou lieu théâtral, il s'agit plutôt d'une cour en plein air avec un bloc de béton au milieu. Quand il y a un spectacle, on sort les chaises. Cela déplace complètement la question du lieu théâtral, qui n'est plus celle de l'architecture ou du bâtiment, pour revenir à la notion essentielle du rapport et du lien entre ceux qui jouent et ceux qui regardent.<br>Quant à nos Studios, il ne s'agit pas d'un lieu à proprement parler, nous n'en avons pas, mais d'un espace mental, de recherches, de doutes, d'échanges, espace nomade qui s'installe ici ou là, une certaine façon de faire avec ce qu'il y a, de composer avec des contextes et des environnements singuliers...<br>Pendant très longtemps à Kinshasa, je n'avais accès qu'à un jeu d'orgue, à l'époque manuel, et uniquement quand je travaillais au Centre culturel français. Ailleurs, pour pouvoir se produire, on fabriquait des boîtiers d'interrupteurs. Et j'ai trouvé intéressant de ramener la logique de mon boîtier dans les théâtres en Europe. Par exemple, en procédant par coupures, sans moduler les éclairages. Avec des lumières qui reviennent vite, sans effet, en plein feu. On coupe, on rallume. Par ailleurs, depuis trois ans, nous essayons autour de chaque projet d'acheter un peu de matériel, de s'équiper petit à petit, ce qui nous permet de travailler avec un minimum de son et de lumière, chaque fois en fonction de la nécessité des projets.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_festivalDasMensonges_FDA2007/CommAvignon_fds_festivalDasMensonges_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Comment définissez-vous votre travail aujourd'hui, après être passé de la littérature au théâtre, puis à la danse, après avoir voyagé ou travaillé au Kenya, au Rwanda, en Afrique du Sud, à la Réunion, en Europe, notamment en France et en Belgique ?<br>Je suis avant tout un raconteur d'histoires. Chercher et trouver des formes pour pouvoir raconter. Peu importe que cette forme que je ne cesse de chercher relève de l'installation, de la danse, du théâtre visuel ou musical, et que cette recherche puisse être interprétée comme une remise en cause des codes de la représentation, cela n'est pas ma préoccupation. Juste raconter, voilà ce qui me touche, me fait rêver. Et après, dire, montrer, témoigner de multiples façons, comment cette histoire, aujourd'hui la mienne, celle de mes amis, celle de mes proches, s'inscrit en dialogue avec une histoire collective. Je ne cherche pas à exposer comment s'est faite notre inscription dans l'histoire de ce pays, mais à raconter comment cette histoire nous a marqués, a changé nos vies.<br>Et je reviens à l'histoire de ce pays qui change de nom. Je suis né et j'ai grandi dans un pays qui s'appelait Zaïre. Jusqu'au 16 mai 1997, j'étais encore zaïrois. Le 17 mai 1997, je devenais congolais. Du jour au lendemain. Plus tard, lorsque j'ai dû changer mon passeport zaïrois pour un passeport congolais, le consulat du Congo à Nairobi exigeait un certificat de nationalité. J'en avais un, ancien, que je leur ai donné, mais qui a été refusé parce qu'il y était écrit que j'étais zaïrois ! C'est absurde, est-ce parce que mon nom a changé que ma réalité a changé ? Il s'agissait bien sûr d'une question de quelques dollars... Comment une histoire de nom peut-elle prendre une place aussi centrale dans la définition de qui l'on est ? Zaïrois, congolais n'est-ce pas la même chose ?<br>De même, sous Mobutu, il était interdit d'avoir des prénoms, on pouvait aller en prison pour ça ; à cette époque je n'étais pas Faustin, j'étais Linyekula Ngoy. En 1971, Mobutu avait commencé sa \"politique de recours à l'authenticité\", la zaïrianisation, soit effacer toute trace du passé colonial. Toutes les statues de cette période ont été déboulonnées, remplacées par les siennes. Au nom de l'authenticité, les noms devaient être bantous, le Congo est devenu le Zaïre, lui-même a abandonné ses prénoms chrétiens Joseph Désiré, pour devenir Mobutu Sese Seko Kuku Ngbendu Wa Za Banga. De même, chaque Zaïrois a dû renoncer à ses prénoms. S'en était fini des Pierre, Jean, Marie et autres Thérèse, désormais figuraient sur les papiers un nom et un post-nom. D'autant plus absurde que la tradition même du nom de famille date des années trente, de l'institution coloniale par excellence ! Mon grand-père a ainsi été le premier de sa lignée à créer un nom de famille : Linyekula...<br><br>Vous proposez un projet que vous avez intitulé Le Festival des mensonges. De quoi s'agit-il ?<br>Depuis 1997, je sentais que je devais faire un spectacle sur l'histoire du Congo, mais je n'en trouvais pas la forme. Un roman de Luis Sepúlveda m'a inspiré ce titre et donné une première idée autour de la conception du projet : une veillée où les gens se rassembleraient pour un concours de mensonges. Mais un concours sans compétition, sans victoire, simplement pour interroger l'histoire officielle, celle des \"vainqueurs\", à partir d'autres expériences. Comment démêler le vrai du faux quand on vit sur un tas de ruines ? C'est ce que j'ai voulu faire, sans esprit tragique, en invitant des artistes congolais à intervenir dans Le Festival des mensonges. Nous avons donc cherché à créer un espace d'écoute et de regard conçu différemment de celui proposé dans les créations où le dispositif est frontal. Pour cette veillée, un espace de convivialité était nécessaire. Soit des tables et des chaises sur trois côtés. Un groupe de musiciens joue en direct du ndombolo, de la pop congolaise et l'on pourra aussi danser. Sur la bande-son, passent des extraits de discours d'hommes politiques congolais, mais aussi belges ou français. Cela débute en 1960, année de l'Indépendance, et se poursuit jusqu'en 1997, le jour où Laurent Désiré Kabila se proclame</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-festivaldasmensonges-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

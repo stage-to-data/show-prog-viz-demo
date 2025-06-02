@@ -1,0 +1,830 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Objectif terre"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_objectifTerre_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_objectifTerre_FDA2007/CommAvignon_fds_objectifTerre_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Pierre Henry<br>Objectif Terre<br>Manifeste en trois parties<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_objectifTerre_FDA2007/CommAvignon_fds_objectifTerre_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>11 juillet □ COUR DU LYCÉE SAINT-JOSEPH □ 22 h □ durée 1 h 30<br><br>concert de Pierre Henry<br>direction sonore spatialisée par Pierre Henry<br>ingénieur du son Étienne Bultingaire<br>assistante musicale Bernadette Mangin<br>assistant son Julien Clauss<br>administration Isabelle Warnier<br>coordination Thierry Balasse<br>réalisation musicale et sonorisation par le Studio de création Son/Ré<br>qui reçoit le soutien de la DRAC Île-de-France, ministère de la Culture et de la Communication, de la Ville de Paris<br><br>coproduction Son/Ré, Festival d'Avignon<br>avec le soutien de la division culturelle de la Sacem</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_objectifTerre_FDA2007/CommAvignon_fds_objectifTerre_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># OBJECTIF TERRE<br>Concert manifeste en trois parties<br><br># UNE HISTOIRE NATURELLE ou les roues de la terre (55min 07sec)<br>\"Les insectes, les animaux et les hommes se ressemblent dans le sens qu'ils naissent, excrètent, se reproduisent et meurent.\"                                                                  Schoei Imamura<br><br>\"L'écologie tend à combler le fossé que l'industrie a creusé entre l'homme et les animaux.\"<br>                                                                                                                          Emmanuel Berl<br><br>1. Ouverture aux insectes<br>2. Les naissances de la vie<br>3. Les courbures du globe<br>4. L'homme-babel<br>5. Un effet de serre<br>6. Premières funérailles<br>7. Entomologie<br>8. La dérive des continents<br>9. Danse des migrations<br>10. Oiseaux de terre et de ciel<br><br>C'est une histoire naturelle où les mots ne sont pas connus.<br>C'est une histoire naturelle où les êtres ne sont pas mentionnés, où les espèces ne sont pas décrites.<br>C'est le livre du commencement et de la fin. Dans ce découpage, la respiration, la naissance et la mort sont perçues dans un même temps à travers les jeux, les rites, les messes profanes, les requiems de terroir, les transes, les migrations, les conflits, les destructions. Au crissement végétal, au craquèlement minéral, aux clameurs orales, s'ajoute la matière vivante du globe en perdition.<br><br>Voici son histoire, à la manière d'une histoire naturelle.<br>Au moment où ce globe veut former son cocon, il sort de l'œuf et cherche dans une terre humide une cavité où une galerie souterraine. Puis il laisse écouler de sa bouche un liquide écumeux qui doit se convertir en un tissu spongieux contenant les germes, et l'entourer. À cet instant, il étend et contracte ses anneaux. Il se débarrasse de sa coque et au même moment ses deux extrémités se ferment à la manière d'une bourse. Mais il reste toujours à chaque bout une petite ouverture d'environ un millimètre de diamètre.<br><br>De ces ouvertures jaillira le bouillonnement de la vie.<br>J'y ajoute le déferlement de la modernité, sons dérisoires qui masquent l'essentiel. Et c'est l'explosion des \"roues de la terre\", avant un retour aux oiseaux et aux insectes. Insectes de terre et de ciel. Une pré-apocalypse. Une cantate philosophique. Un acte physiologique de sons directs.                                                                                                        Pierre Henry<br><br># SIX COUPES DE COLÈRE<br>Extrait de l'Apocalypse de Jean (Quatrième temps, séquence 19) (3min 54 sec)<br><br>Les six premières coupes<br>\"J'entendis alors une grande voix hors du temple disant aux sept anges: Allez et versez sur la terre les sept coupes de la fureur de Dieu.<br>Le premier partit et versa sa coupe sur la terre: un ulcère cuisant, douloureux, frappa tous les hommes qui portaient la marque de la bête.<br>Le second déversa sa coupe sur la mer: elle devint sang comme d'un mort, et dans la mer périt toute âme vive.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_objectifTerre_FDA2007/CommAvignon_fds_objectifTerre_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Le troisième déversa sa coupe sur les fleuves et les sources des eaux: elles devinrent sang.<br>Le quatrième versa sa coupe sur le soleil: les hommes étouffèrent d'une chaleur extrême.<br>Le cinquième versa sa coupe sur le trône de la bête: son royaume devint ténèbres, et les hommes se mâchaient la langue de douleur, et ne se repentirent pas.<br>Le sixième déversa sa coupe sur le grand fleuve Euphrate: son eau en fût séchée, livrant ainsi la voie aux roi de l'Orient.\"<br><br># PRISME<br>(15 min 15 sec)<br>C'est un morceau de bravoure, une suite de micro-séquences à l'architecture claire –tour-noyante et ascendante –, un creuset où l'énergie macère jusqu'à s'épuiser d'elle-même.<br>Prisme est une pièce extraite d'un spectacle qualifié de \"premier opéra électronique de l'histoire\" par Rolf Liebermann qui avait eu l'idée d'un spectacle spatio-lumino-dynamique et cybernétique qu'il commanda à Nicolas Schöffer pour la scénographie, à Pierre Henry pour la musique, à Alwin Nikolais pour la chorégraphie et dans lequel dansa Carolyn Carlson. C'était en 1973, à l'Opéra de Hambourg.<br>Pierre Henry achève ce concert manifeste par Prisme qui sonne une alerte générale glacée, stridente qu'il est grand temps d'entendre pour sauver cette terre mise sous cloche.<br><br>entretien avec Pierre Henry<br><br>Objectif Terre, créé en Avignon, sera votre premier spectacle écologique?<br>Pierre Henry: En effet, Objectif Terre se veut une attention, une sensibilité particulière aux problèmes de l'environnement. Une histoire naturelle, ou les roues de la terre (1997) reflète mon intérêt pour les sons terriens et des voix venues du monde entier. Je me suis appuyé sur cette citation de Shohei Imamura, le cinéaste japonais: \"Les insectes, les animaux et les hommes se ressemblent en cela qu'ils naissent, excrètent, se reproduisent et meurent.\" Cette texture commune aux êtres trouve un développement dans les sons organiques qui constituent l'œuvre, comme une matière vivante. Par sa transparence, son type d'écriture, son mixage, Une histoire naturelle est l'une de mes œuvres préférées. Ensuite, extrait de L'Apocalypse de Jean (1968), les Six coupes de colère (Quatrième temps, séquence 19) prophétisent la fin du monde: \"J'entendis alors une voix hors du temple disant aux sept anges: Allez et versez sur la terre les sept coupes de la fureur de Dieu.\" La troisième et dernière partie reprend Prisme, extrait de l'opéra \"spatio-lumino-dynamique et cybernétique\" Kyldex, co-signé avec Nicolas Schöffer (scénographie et sculpture) et Alwin Nikolais (chorégraphie), pour l'Opéra de Hambourg, en 1973 – avec, parmi les danseurs, Carolyn Carlson. Prisme s'ouvre sur une lueur d'espoir. Il y a peut-être une issue, une alternative à la guerre nucléaire: un vaisseau spatial emmènera peut-être les gens... ailleurs.<br><br>L'écologie était déjà présente dans votre œuvre; justement avec L'Apocalypse de Jean...<br>Depuis toujours, mon travail est lié à la nature, dans la mesure où j'enregistre des sons vivants, tout en recherchant une économie de moyens, une harmonie des sons, une sorte d'accord universel. À l'orée des années cinquante, je pensais déjà au cosmos avec Musique sans titre, dont les différents chapitres sont évocateurs: \"Les étoiles\", \"Les vacances\", \"Fête foraine\", \"Andante sacré\"... Par son atmosphère, ce dernier rejoint d'ailleurs \"Un effet de serre\", le cinquième mouvement d'Une histoire naturelle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_objectifTerre_FDA2007/CommAvignon_fds_objectifTerre_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>À quand remonte votre première collaboration avec un chorégraphe?<br>En 1955, avec Maurice Béjart. Lorsqu'il s'est rendu dans les studios de la Radio, afin d'écouter nos musiques, celles que je composais avec Pierre Schaeffer. Pierre voulait qu'il utilise Orphée, et moi, le prenant à part, je lui ai dit: \"Je pense à autre chose, qui serait vraiment magnifique et qui offrirait l'occasion d'une chorégraphie révolutionnaire: ce serait la Symphonie pour un homme seul\". Il est parti avec la bande. Trois mois plus tard, en mars, il montait au Théâtre de l'Étoile la Symphonie. Pour être exact, auparavant, Merce Cunningham l'avait présentée à New York, dans une version à laquelle je n'avais pas assisté. À mon avis, la version de Cunningham n'était pas aussi expressionniste que celle de Béjart. C'est logique, dans la mesure où Maurice venait de la danse romantique. La Symphonie pour un homme seul lui a permis de s'émanciper du style classique, avec son sens de la théâtralité et du sacré. C'est à partir de cette chorégraphie qu'il m'a influencé de manière décisive.<br><br>De quelle manière travailliez-vous avec lui?<br>Maurice Béjart aimait beaucoup se rendre dans mon studio pour écouter. Je ne le voyais jamais à mes concerts, ne lui adressais aucun disque. En revanche, il venait écouter. Cela se passait toujours ainsi, depuis la radio. Dans tous mes studios, il venait et repartait avec la bande. Il arrivait qu'on ne fasse rien ensemble pendant deux ans: pas de nouvelles, rien... Alors que moi, j'avais besoin de faire quelque chose avec le mouvement, le corps, le public. C'était comme la garantie - je ne dis pas de succès - mais qu'il se produise une émotion avec un public à chaque fois différent. Pendant deux ans, donc, on s'est perdu de vue... Je me suis dit: \"Je vais lui faire une nouvelle œuvre, exprès\", et ça a été Mouvement-Rythme-Étude en 1971, que j'ai appelé Barre Fiction, et où l'on trouvait toutes les formules, tous les protocoles de la danse. J'envoie mon fils avec la bande à Bruxelles. Il ne m'a pas répondu et puis, quelque temps après, il me dit: \"C'est formidable, Mouvement-Rythme-Étude; je vais en faire un grand ballet ce sera Nijinsky Clown de Dieu\". Et là, ça a redémarré, ce fut un grand succès, comme La Messe pour le temps présent, créée quatre ans plus tôt, à Avignon. Après, ça s'est atténué et j'ai eu besoin de faire mes propres spectacles. Mais Béjart m'a donné une sorte d'instinct d'homme de spectacle pour la mise en scène, pour les éclairages. Au fond, à partir des années soixante-dix, quand j'ai fait des concerts, ce fut avec un souci de spectacle: le concert théâtralisé.<br><br>L'idée même de votre geste, cette manière de passer du bruit qui nous environne à un mouvement sonore, une musique. Votre formation de percussionniste vous a vraisemblablement conduit à toucher l'objet, à le rendre musical.<br>Félix Passerone, mon professeur au Conservatoire, m'a appris le toucher, le geste qui donne un frémissement ou un coup de tonnerre. Tous ces gestes reviennent dans mes prises de sons. Ainsi, récemment, j'ai refait des sons, ce qui n'était plus le cas depuis des années! Du coup, j'ai retrouvé intactes mes facultés de tout faire à la main, comme un bâtisseur faisant tout lui-même, la conception, mais également le maniement de la truelle, le positionnement des pierres, etc. J'ai retrouvé cette souplesse du bras, du poignet, de la main: toute une manipulation lorsque je crée des sons spontanés, ceux présents par exemple dans L'Apocalypse de Jean ou La Messe pour le temps présent. Il s'agit de sons élaborés à la main, sans électronique, même s'ils possèdent un aspect électronique. Je n'aime pas la détermination électronique que j'identifie à un procédé machiniste.<br><br>C'est votre démarche pour vos prochaines compositions?<br>Utopia, donnée cet été en création à la Saline royale d'Arc et Senans, marque en effet pour moi un retour à la musique concrète, sans participation de l'électronique, ni usage du traitement électroacoustique.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_objectifTerre_FDA2007/CommAvignon_fds_objectifTerre_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>À l'époque de la Symphonie pour un homme seul, vous avez fait la connaissance d'Henri Michaux. L'écrivain, poète et peintre a-t-il eu également une influence ?<br>Pierre Schaeffer connaissait beaucoup de monde et c'est lui qui l'a fait venir au Club d'essai de la Radio. Après l'écoute, Michaux m'a regardé et m'a dit: \"Je vais revenir avec quelque chose qui vous fera évoluer...\". Bien sûr, je connaissais son œuvre, qui m'avait déjà beaucoup intéressé pour la composition - dans Ailleurs, par exemple, on trouve des choses proches d'Une histoire naturelle. Il m'a apporté un disque de musique sacrée japonaise - je l'ai retrouvé dans ma discothèque, il n'y a pas si longtemps - avec lequel j'ai fait réaliser des sillons fermés, des boucles, que j'ai échantillonnés et utilisés notamment dans Musique sans titre. C'est ce rapport entre profane et sacré qui m'a impressionné chez lui.<br><br># La question du rituel investit la quasi-totalité de vos œuvres.<br>C'est l'idée de la construction qui sous-tend la forme du rituel : bâtir une œuvre détermine sa forme. Ainsi, pour Utopia, je me pose des problèmes de structure : quel matériau utiliser pour monter de telle manière, façonner un crescendo, etc. À Avignon, je suis tout d'abord venu avec Maurice Béjart, et il y a eu également des spectacles avec Carolyn Carlson. Je serai seul avec Objectif Terre dans la cour du lycée Saint-Joseph, et à partir de ma console et de tout un orchestre de haut-parleurs je jouerai les œuvres en spatialisation<br><br># Vous avez créé beaucoup de spectacles avec Maurice Béjart ¹. Quel regard portez-vous aujourd'hui sur ses chorégraphies ?<br>L'arrivée de Béjart avec la danse à Avignon fut incontestablement une chose neuve. Son style peut paraître aujourd'hui trop académique, pas assez moderne. Je le considère néanmoins comme appartenant à un style néoclassique, qui a son importance parmi les grands mouvements artistiques de l'Histoire - d'autant qu'il a réellement existé une symbiose entre la danse et la musique.<br><br># Vous avez également collaboré avec d'autres chorégraphes...<br>Bien sûr, il y a eu George Balanchine, qui a réglé une chorégraphie pour le New York City Ballet sur Variations pour une porte et un soupir, en 1974. D'ailleurs, à cette occasion, j'ai dû lui fournir une partition, car il ne voulait pas chorégraphier son ballet d'après des sons mais à partir de notes écrites. J'ai donc transcrit la musique sur des portées. J'étais présent à la création ; c'était intéressant... sans plus. Kyldex, à Hambourg, a été réglé par Alwin Nikolaïs, tandis que j'ai fait des expériences de concerts théâtralisés, comme Noces chymiques, à l'Opéra-Comique, en 1980, sur une chorégraphie de Gunter Pick - spectacle auquel collaboraient également le scénographe Petrika Ionesco, le comédien Daniel Mesguich, les musiciens Frank Royon Le Mée, Michel Redolfi et l'ensemble Urban Sax, ainsi que le groupe Laser Graphics. Lorsque j'ai monté Dieu, avec Jean-Paul Farré, en 1977, j'ai travaillé des improvisations communes avec Maguy Marin, au Palais des Arts, à Paris, sous le titre Instantané-Simultané. Il y a eu également plusieurs spectacles avec Carolyn Carlson, comme Enivrez-vous, deux \"concerts spontanés\", au Sigma de Bordeaux, en 1974.<br><br># L'imaginaire d'un artiste est toujours de l'ordre de l'intime, du privé, mais, à part les Contes d'Hoffmann, que vous avez cité à plusieurs reprises, existe-il d'autres sources d'inspiration ?<br>Il existe toute une littérature, il y a bien sûr Raymond Roussel, Michaux, mais aussi Borges, Artaud, Hugo, Milton, Lautréamont, Fénéon... et toute ma bibliothèque, qui est axée à la fois sur la forme, la poésie, la littérature et les plasticiens, comme Max Ernst. C'est comme un tuteur, me permettant de me raccrocher à des thèmes, des idées, des formes d'écriture - beaucoup plus que l'écoute des musiciens. À vrai dire, je n'écoute guère de musique, ou alors j'ai envie de m'en servir aussitôt. Par exemple, je vais faire deux concerts à Sao Paulo,</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 7"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/7/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/7/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_objectifTerre_FDA2007/CommAvignon_fds_objectifTerre_FDA2007_page_7.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/7/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/7/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>au Brésil, en septembre prochain. Du coup, j'ai réécouté des œuvres de Villa Lobos. Je trouve qu'il a une imagination folle et j'ai remarqué que, pour une musique de film sur l'art préco-lombien d'Enrico Fulchignoni, j'avais réalisé des boucles avec l'un de ses Choros. Parmi les compositeurs du passé, on pourrait aussi parler de Liszt, pour le Concerto sans orchestre, en 2000, de Wagner pour Dracula (2002), ou encore de Bruckner, que j'ai associé à la poétique de Jules Verne, dans Comme une symphonie (envoi à Jules Verne), pour le Festival d'Amiens, en 2005. La Dixième Symphonie est également une sorte de manifeste écologique sur la destruction de Beethoven, où le musicien ressort victorieux, comparé à des sons terrestres, des bruits, des échos de fêtes malsaines. Je pense que ma bibliothèque est la source de mes rituels. D'ailleurs, j'ai le projet de faire une œuvre-encyclopédie de mes bibliothèques: Mes Librairies, comme dirait Montaigne, afin de montrer tout ce que j'ai pu faire ou ne pas faire, tous les projets que j'ai formés à partir de mes livres.<br><br>Propos recueillis par Franck Mallet en avril 2007<br><br>(1) Ballets créés par Maurice Béjart sur des musiques originales de Pierre Henry, tels qu'ils figurent dans le catalogue de l'ouvrage monographique de Michel Chion consacré au compositeur, dans sa version réécrite et augmentée, en 2003 (Fayard): Batterie fugace (1950), Symphonie pour un homme seul (1955), Voyage au cœur d'un enfant (1955) d'après Concerto des ambiguïtés, Arcane (1955) d'après Astrologie, La Tentation de saint Antoine intègre Spirale (1955), Orphée Ballet (1958), Coexistence (1958), Signes (1959) d'après Investigations, Le Voyage (1962), Variations pour une porte et un soupir (1964), La Reine verte (1963), Messe pour le temps présent (1967), Nijinsky, Clown de Dieu (1971), Musiques pour une fête (1971), Phrases de quatuor (2002), Tokyo 2002 (2004) et Fièvre (2006).<br><br># Pierre Henry<br><br>Pierre Henry est né le 9 décembre 1927 à Paris. Il étudie la musique dès l'âge de sept ans. Élève au Conservatoire national supérieur de Musique de Paris entre 1937 et 1947, il suit les classes de Félix Passerone, Nadia Boulanger et Olivier Messiaen qui, dès 1944, le guide dans la pensée et la composition de ce qui deviendra son univers musical. Entre 1944 et 1950 il crée ses œuvres instrumentales, poursuit une carrière de musicien d'orchestre, de piano et de percussions tout en menant des recherches sur une lutherie expérimentale. En 1948, il compose sa première musique de film Voir l'invisible, interprétée avec des objets acoustiques. Sa rencontre avec Pierre Schaeffer, en 1949 est déterminante pour sa création; ensemble ils créent la Symphonie pour un homme seul en mars 1950. Pierre Henry est chef des travaux au Groupe de Recherche de Musique Concrète (GRMC) de 1950 à 1958, date à laquelle il quitte la Radio Télévision Française pour fonder son propre studio APSOME. C'est le premier studio privé consacré aux musiques expérimentales et électroacoustiques dans lequel il poursuit seul ses recherches pures, en y associant des techniques nouvelles et des procédés électroniques dont il est l'inventeur. Il exploitera sans relâche cet univers musical sans précédent, surmontant, adaptant les technologies en constante évolution avec une maîtrise très sûre de la pratique musicale la plus classique. Il maintenance ce studio jusqu'en 1982 en réalisant de nombreuses musiques de films, de scènes et publicitaires. De ses collaborations, on retient la Symphonie pour un homme seul, dansée par Maurice Béjart avec lequel il créera quinze ballets, dont La Messe pour le temps présent, créée en Avignon en 1967. Pierre Henry a travaillé avec d'autres chorégraphes comme Georges Balanchine, Carolyn Carlson, Merce Cunningham, Alwin Nikolaïs ou Maguy Marin. Il est aussi l'auteur de nombreuses musiques de films depuis 1950, dont la plus récente est celle de L'Homme à la caméra de Dziga Vertov. Il participe également à des performances avec les plasticiens Yves Klein, Jean Degottex, Georges Mathieu, Nicolas Schöffer ou Thierry Vincens.<br>En 1982 il prend la direction artistique de son nouveau Studio SON/RE, subventionné par le Ministère de la Culture et la Ville de Paris. Plus de soixante œuvres nouvelles y seront réalisées dont Intérieur/Extérieur (1996), Histoire Naturelle (1997), La Dixième remix (1998), Les Sept péchés capitaux (1998), Une Tour de Babel (1999),</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/8",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 8"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/8/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/8/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_objectifTerre_FDA2007/CommAvignon_fds_objectifTerre_FDA2007_page_8.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/8/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/8/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Tam Tam du Merveilleux (2000), Concerto sans orchestre (2000), Hypermix (2001), Dracula (2002), Carnet de Venise (2002), Zone d'ombre (2002), Labyrinthe! (2003), Faits divers (2003), Duo (2003), Lumières (2004), Voyage Initiatique (donné en 2005 dans le cadre des soirées \"Pierre Henry chez lui III\", programmées par Les Spectacles vivants du Centre Pompidou au domicile du compositeur), Comme une symphonie, hommage à Jules Verne (2005), et Orphée dévoilé (2006).<br><br>Pierre Henry est un novateur absolu dans le domaine de l'esthétique du son, un pionnier d'une nouvelle liberté musicale qui, par les applications de ses recherches technologiques, a ouvert la voie à beaucoup d'autres univers musicaux. Depuis 1995 toute la génération des musiques actuelles rend hommage à Pierre Henry pour les inventions révolutionnaires dont il est à l'origine, et qui sont toutes reprises par les technologies manufacturées.<br><br># Calendrier de concerts de Pierre Henry :<br>2007/2008, Les 80 ans du compositeur, 7 créations<br><br>\"À propos de ce calendrier, sachez que dates, anniversaires, célébrations diverses, sont pour moi une décélération. Ce decrescendo moral m'incite à rêver un reflux qui me conduit à ce festival des différences acoustiques. La variété des lieux, la diversité des moyens techniques, le pluralisme de l'écoute vont, en prise avec ma console, marquer une musique multiforme qui m'est indispensable depuis 60 ans.\"<br>Pierre Henry<br><br>- le 4 août 2007, Objectif Terre à l'Esplanade de la Défense, Festival Paris Quartier d'Été (Paris, la Défense.)<br>- les 7 et 8 septembre 2007, Labyrinthe, La Xe remix, Comme une symphonie, Histoire naturelle, à l'Auditorium Ibirapuera<br>(São Paulo, Brésil)<br>- le 21 septembre 2007 Messe de Liverpool, Une Tour de Babel à l'Abbaye Saint-Victor, Festival Marsatac (Marseille)<br>- le 6 octobre 2007, Flux et reflux (création) au Forum du Centre Pompidou, dans le cadre de la Nuit Blanche (Paris)<br>- le 23 novembre 2007, Grande toccata (création), La Xe remix, au Hangar 23, Festival Automne en Normandie (Rouen)<br>- le 9 décembre 2007, concert anniversaire avec Le Sphynx des glaces (création), Utopia, salle Olivier Messiaen, Radio France INA/GRM (Paris)<br>- les 19 et 20 mars 2008, Credo, Fragments pour Artaud, Ceremony, Messe de Liverpool, Civilisation (création), Cité de la Musique (Paris)<br>- du 30 mars au 13 avril 2008, Mes nocturnes (création), dans le cadre de \"Pierre Henry chez lui IV\" (Paris)<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-objectifterre-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

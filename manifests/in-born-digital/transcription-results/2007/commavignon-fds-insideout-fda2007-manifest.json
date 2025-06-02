@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Inside out"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_insideOut_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_insideOut_FDA2007/CommAvignon_fds_insideOut_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>symboles et codes que nous utilisons pour nous désigner comme appartenant à tel ou tel groupe. C'est à l'aide des costumes et accessoires que nous avons formé des types, des classes sociales et des caractères. Nous avons développé des strates que nous pouvons ensuite rompre, comme des morceaux de puzzle, ce que nous faisons dans les scènes de transformation dans lesquelles les personnages sont construits et déconstruits par leurs costumes et leurs accessoires pour se transformer en quelque chose de nouveau.<br><br>Vous appelez insideout une \"installation chorégraphique\" – c'est plus proche d'une exposition que d'une pièce de danse-théâtre linéaire. Qu'y avait-il en premier: le souhait de construire un décor déambulatoire ou celui de montrer les événements en parallèle?<br>L'idée d'une installation déambulatoire est un de mes vieux rêves, que je n'ai pu réaliser qu'aujourd'hui grâce aux conditions de production optimales. La contemporanéité des événements et des actions était importante. Je voulais m'imposer cette contrainte de ne pas mener le public du point A au point B, puis C, puis D... Je souhaiterais également l'intimité des espaces, mais pas une dramaturgie de blocs temporels ou spatiaux que l'on découvre dans un développement linéaire. Je me suis forcée à abandonner tout cela.<br><br>On dirait une sorte d'effacement de soi-même en tant que chorégraphe...<br>Non, il n'y a pas non plus une abolition du récit ou d'une chorégraphie construite et consciente. Le détachement d'une structure linéaire du récit n'est pas synonyme du chaos total! Au contraire, la simultanéité des espaces demande une précision sans égale.<br><br>Dans l'art et la philosophie, on a déclaré depuis longtemps la fin du sujet, la mort de l'auteur, l'impossibilité d'un récit linéaire; est-ce que insideout suit ce postulat postmoderne en proposant consciemment des structures narratives simultanées dans différents espaces?<br>Je n'ai pas fondé cela sur une volonté philosophique, mais j'ai suivi une envie intuitive de développer une chorégraphie qui permette à chaque spectateur de construire sa propre pièce. Chacun peut combiner son propre spectacle. C'est ce qui est passionnant. Quand un couple vient voir une représentation, chacun des deux peut voir un spectacle totalement différent. Bien sûr, leurs perspectives et leurs sensations se recoupent par moments, et il y a des thèmes communs qui, même s'ils sont traités dans différents espaces dans différentes scènes, révèlent les mêmes motifs. Mais il y a aussi des scènes qui ne sont présentées qu'à un moment donné.<br><br>Rebecca Saunders a composé la musique de insideout. Quels points de départ avait-elle?<br>Il semble s'agir de deux processus de création également parallèles et indépendants...<br>Je lui ai expliqué le concept thématique. Elle connaissait la simultanéité des espaces. Rebecca Saunders a composé la musique de manière totalement indépendante. Le point commun, c'est la structure de la composition qui se développe à partir des individus. La musique et la danse sont basées toutes les deux sur des solos. Rebecca Saunders a composé des solos, des duos et des trios pour des musiciens qui, ensuite, se superposent.<br><br>Il y a des trappes et des fentes, des fenêtres et des ouvertures, des murs mobiles – insideout change également la relation entre l'extérieur et l'intérieur, entre la chose privée et la chose publique?<br>Le spectateur retrace inconsciemment le mouvement que la pièce raconte. Il est forcé de s'approcher, de rester tout d'un coup dehors et de ne pouvoir voir qu'à travers des fentes, il est obligé de vivre ce processus de changement entre l'intérieur et l'extérieur, entre l'intime et la chose publique, à travers l'architecture. Il peut sentir la distance et la proximité en se promenant entre les petites pièces et leur intimité et la place ouverte, la place du marché. Il peut jouer avec le contexte. Le spectateur devient lui-même acteur. Dans une soirée théâtrale habituelle, les spectateurs ne se voient qu'en entrant au théâtre ou à l'entracte. Dans insideout, ils sont conscients des autres à tout moment, ils font tous partie de la pièce.<br><br>Extraits d'un entretien réalisé en septembre 2003 par Carolin Emcke, journaliste et écrivain</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/1#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_insideOut_FDA2007/CommAvignon_fds_insideOut_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Sasha Waltz<br>Sasha Waltz est née à Karlsruhe en 1963. Mère de deux enfants, elle vit aujourd'hui à Berlin. Elle commence la danse à l'âge de cinq ans à l'école de Waltraud Kornhaas, comme élève de Mary Wigman. Après avoir suivi de 1983 à 1986 une formation à la School for New Dance Development à Amsterdam, elle part pour New York où elle travaille avec Pooh Kaye, Yoshiko Chuma et Lisa Kraus. De retour en Europe en 1988, elle collabore de façon intensive avec différents chorégraphes, artistes et musiciens comme Laurie Booth, Mark Tompkins, David Zambrano, Tristan Honsinger, Frans Poelstra, Voré… Sur invitation à la résidence d'artistes Bethanien, elle se rend à Berlin en 1992 afin de diriger le projet interdisciplinaire d'improvisation Dialogue. À l'issue de cette expérience, elle fonde avec Jochen Sandig sa compagnie Sasha Waltz & Guests et crée au cours des années suivantes les trois parties de la Travelogue-Trilogie: Twenty to eight (1993), Tears break fast (1994), Always six steps (1995). En 1996, elle ouvre un nouveau centre de production pour le théâtre et la danse contemporaine, les Sophiensaele, qu'elle inaugure avec la pièce Allee der Kosmonauten. Invitée au 34e Theatertreffen la pièce donnera lieu à une captation réalisée par Arte qui recevra le prix Adolf-Grimme. Aux Sophiensaele, les pièces Zweiland (1997), Rötung (duo) et Na Zemlje (1998) ainsi que le projet Dialogue' 99/I voient le jour. Puis, pour le musée juif de Berlin conçu par l'architecte Daniel Libeskind, Sasha Waltz développe avec dix-sept danseurs Dialogue' 99/II, un parcours à travers le bâtiment encore vide. De 1999 à 2004, elle est membre de la direction artistique de la Schaubühne am Lehniner Platz, où elle crée les pièces Körper (invitée au 37e Theatertreffen), S (2000), 17-25/4 (2001) et noBody (2002). En septembre 2003, elle présente à Graz (Autriche), ville européenne de la culture 2003, Insideout et en avril 2004, Impromptus est créé à la Schaubühne. À la fin de cette même année, sa compagnie redevient indépendante et réalise son premier opéra Didon & Enée avec l'Akademie für Alte Musik Berlin au Grand Théâtre de Luxembourg. En tant que membre de la Fondation Radial, Sasha Waltz s'investit aussi dans l'élaboration du Radialsystem V, le nouveau centre berlinois d'enseignement et de production pour la musique, la danse et les beaux-arts, ouvert en septembre 2006. En 2007, parmi ses autres travaux, Sasha Waltz présente deux chorégraphies qui allient musique et théâtre: Médée basée sur l'opéra Medeamaterial de Pascal Dusapin, texte Heiner Müller, est créée au Luxembourg, ville européenne de la culture 2007, sera jouée pour la première fois en Allemagne au Staatsoper Unter den Linden de Berlin en septembre. En octobre 2007, l'Opéra de Paris présentera son travail sur Roméo et Juliette d'Hector Berlioz. Au Festival d'Avignon, Sasha Waltz a déjà présenté Na Zemlje et Zweiland en 1999, noBody dans la Cour d'honneur en 2002 et Impromptus en 2004.<br><br>et<br><br># Ciné-danse des Hivernales<br>22 juillet ⁄ 10h30 ⁄ Cinéma Utopia-Manutention<br>Autour de Sasha Waltz:<br>história de Karsten Liske (2007, 50mn)<br>just me maybe de Luc Dunberry (2007, 8mn)<br><br># Films et documentaires au cinéma Utopia<br>16 juillet ⁄ 14h ⁄ Utopia-Manutention<br>Jardin des délices (2006, 58mn)<br>documentaire de Brigitte Kramer sur Sasha Waltz,<br>en présence d'un membre de la compagnie Sasha Waltz & Guests<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/2#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_insideOut_FDA2007/CommAvignon_fds_insideOut_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Sasha Waltz<br>insideout<br><br>MUSIQUE DE REBECCA SAUNDERS<br><br>SASHA WALTZ & GUESTS/MUSIKFABRIK<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/3#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_insideOut_FDA2007/CommAvignon_fds_insideOut_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>13 14 16 17 18<br>CHÂTEAUBLANC ◘ 19 h et 22 h ◘ durée 1 h 30 ◘ première en France<br><br>mise en scène, chorégraphie et conception Sasha Waltz<br>musique composée par Rebecca Saunders<br>danse et chorégraphie Mikel Aristegui, Jiri Bartovanec, Maria Marta Colusi, Juan Kruz Diaz de Garaio Esnaola, Clémentine Deluy (les 16, 17 et 18 juillet), Luc Dunberry, Charlotte Engelkes, Nicola Mascia, Michal Mualem, Maria Öhman, Manuel Alfonso Pérez Torres, Sasa Queliz, Mata Sakka (les 13 et 14 juillet), Paolo dos Santos, Claudia de Serpa Soares, Xuan Shi, Takako Suzuki, Laurie Young, Matan Zamir, Sigal Zouk-Harder<br>musiciens de musikFabrik Juditha Haeberlin, Ulrich Löffler, Adam Oryad, Adrian Pereyra, Dirk Rothbrust, Carl Rosman, Sava Stoianov, Michael Tiepold, Dirk Wietheger, Susanne Zapf<br><br>scénographie Thomas Schenk, Sasha Waltz<br>vidéo Philip Bußmann<br>lumières Martin Hauk<br>conception scientifique Karl Stocker<br>administration Jochen Sandig<br><br>direction technique Reinhard Wizisla<br>régie lumières Martin Hauk<br>régie son Lutz Nerger<br>vidéo Andreas Harder, Karl Wedemeyer<br>installation \"Les Navigateurs\" Brad Hwang<br>lumières plateau Arnaud Poumarat<br>techniciens plateau Tobias Burdon, Carsten Grigo, Boris Hertzer, Brad Hwang, Paul Flagmeier, Florian Riedelbauch, Wolfgang Weixler<br>accessoires Carsten Grigo, Jonas Kleinheins, Thomas Neubart, Florian Riedelbauch<br>direction costumes Silke Schneider<br>habilleuses Gabriele Bujack, Carina Kastler, Julia Kneusels, Sakura Fischer<br>maquilleuse Kati Heimann<br>chargé de production Karsten Liske<br>assistant à la mise en scène Steffen Döring<br><br>installation \"Les Navigateurs\" Brad Hwang<br><br>Spectacle créé le 19 septembre 2003 au Helmut-List-Halle à Graz (alors Ville européenne de la culture) (Autriche)<br><br>production Schaubühne am Lehniner Platz (Berlin) présentée par Sasha Waltz & Guests (Berlin)<br>en coproduction avec Graz 2003-Capitale culturelle de l'Europe et steirischerherbst<br>avec le soutien de la Fondation culturelle fédérale allemande<br>musikFabrik est soutenu par le ministre-président du land de Rhénanie-Westphalie<br>présenté avec le partenariat du ministère des Affaires étrangères d'Allemagne et du Goethe-Institut<br>Ce spectacle est accueilli au Festival d'Avignon sous le haut patronage de M. Klaus Wowereit, maire régnant de Berlin<br>et Plénipotentiaire de la République fédérale d'Allemagne pour la Coopération culturelle avec la France</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/4#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_insideOut_FDA2007/CommAvignon_fds_insideOut_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Sasha Waltz<br><br>insideout est votre première pièce après avoir clos la trilogie Körper-S-noBody. Dans quelle mesure est-ce un renouveau ?<br>Sasha Waltz : Ce n'est pas vraiment le début d'une nouvelle période. insideout est une pièce indépendante par rapport à mes créations précédentes, et en même temps une sorte de condensé des formes que j'ai développées ces dernières années.<br><br>Diriez-vous que vous avez élaboré dans vos chorégraphies antérieures un langage propre ?<br>Il s'agit d'un processus infini. Jusqu'à Körper, je me demandais comment raconter des choses par des moyens théâtraux. Dans la \"Trilogie du corps\", j'ai presque totalement renoncé aux éléments narratifs pour trouver une forme bien plus abstraite. Dans insideout, je cherche à atteindre un équilibre entre ces deux mondes.<br><br>Comment vous approchez-vous d'une pièce ? Quel est le début, le déclenchement ? Une idée ou une intuition ? Des images ou des thèmes ?<br>Le point de départ d'insideout était une suggestion du sociologue Karl Stocker, qui vit à Graz, de travailler à partir de deux thèmes, les changements des valeurs et les symboles de position sociale. J'ai ensuite approché ce sujet à ma manière et par ma propre curiosité. Ma compagnie m'intéresse en tant que kaléidoscope de récits de vie du monde entier. Je voulais voir comment les traditions et les histoires des différentes personnalités, de leurs familles et de leurs pays, ont tissé un ensemble.<br><br>Y a-t-il une certaine ambiance que vous avez envie de faire passer dans insideout ?<br>Je souhaite développer toute une palette d'émotions et de souvenirs telle une vague qui vous porte à travers la pièce et vous fait traverser différents états. On peut être mené dans des ambiances et des champs d'associations très divers. Tout cela compose une offre que le spectateur peut suivre ou non.<br><br>Avez-vous réalisé, comme pour des créations antérieures, des entretiens préliminaires avec les danseurs ? Quelle est la signification de ces entretiens ? Il s'agit de matériaux authentiques, empiriques, et non pas fictionnels – quelle est la différence ?<br>Cela est très important pour moi. J'ai besoin de matériaux empiriques, d'informations. Ce sont ces motifs des différentes biographies, ces lignes singulières, qui tissent un tout. Parfois cela donne de la fiction, parfois quelque chose de neuf naît de ce matériau authentique, mais à l'origine il y a toujours la réalité.<br><br>Comment avez-vous réalisé ces entretiens ?<br>J'ai introduit un format que j'ai appelé \"15 minutes\". C'est en quelque sorte un portrait, que chaque danseur réalise sur lui-même, afin que je puisse connaître ses origines. Chacun pouvait développer sa propre forme, ils pouvaient également raconter. Je posais ces questions : quelle est l'origine ? Comment vous voyez-vous vous-même ? Quel être humain êtes-vous ? Les autres danseurs étaient présents – un défi évident. Cela a duré plusieurs jours. Au début, ils ont beaucoup parlé, puis ils ont commencé à bouger. Certains n'ont pas parlé du tout.<br><br>Que souhaitez-vous faire remonter chez les danseurs ? Leurs histoires familiales ? Leurs influences ?<br>Je voulais d'abord tenter de leur faire raconter leurs histoires familiales. La famille est le point de départ pour questionner les valeurs. Mais ce n'est que le début. Il s'agit d'un processus de changement des valeurs et des convictions, qu'insideout reflète aussi: les influences que nous recevons au début de notre vie et qui sont petit à petit réécrites et qui changent de forme. Mais il ne s'agit en aucun cas d'un exercice théorique, nous en serions incapables. Nous avons simplement essayé de le raconter par nos propres histoires et notre propre langage, la danse.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/5#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2232,
+            "width": 1578,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_insideOut_FDA2007/CommAvignon_fds_insideOut_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2232,
+                                "width": 1578,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/6#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Dans quelle mesure les personnalités se sont révélées être des points de rencontre entre des influences individuelles et privées, des constellations familiales et des présupposés sociaux et politiques?<br>Il y a des points de rupture très différents dans les biographies des danseurs qui montrent les strates des influences familiales, des identités culturelles et du contexte social. Chaque personne est bien sûr singulière dans sa multiplicité de préférences individuelles, de refus de conventions ou d'adhésion aux valeurs culturelles et religieuses. Pour donner un exemple: les membres de la compagnie d'Amérique latine ont des valeurs proches qui ont été cultivées dans leurs familles: la religion, la famille et l'agriculture. Ils ont tous subi le changement de la campagne à la ville. Paolo, qui vient du Mexique, en est l'exemple typique; tout comme Juan qui vient du Pays basque. Mais dans la pièce, on voit plus le cheminement personnel de Juan que les possibilités ou impossibilités culturelles.<br><br>Au final, ils laissent de toute façon leurs origines de côté quand ils deviennent danseurs, et le point de fuite de tous est leur vie comme danseur chez Sasha Waltz à Berlin...<br>C'est exact. \"Quand as-tu commencé à danser?\" était une question décisive. Ce saut hors de la tradition, du contexte et de l'origine dans une existence très spécifique, celle d'un artiste, implique aussi le choix d'une nouvelle famille. C'est pour ainsi dire un lien familial par l'alliance intellectuelle. Cette transgression a eu lieu chez tous. C'est particulièrement frappant chez Juan, par exemple, qui vient d'un village basque minuscule. Personne dans son entourage n'a le moindre lien avec la musique ou le milieu culturel. Le petit garçon qu'était Juan a déclaré vers sept ou huit ans qu'il voulait apprendre à lire les notes. Il n'avait jamais vu de partition. On ne sait pas du tout d'où peut venir cet intérêt. Quel est le point de départ de leur désir de danse? La découverte de leur passion était un sujet pour tous. Qu'est-ce qui te forme en tant que danseur? De cette existence de danseurs est née la forme de vie qu'ils vivent aujourd'hui.<br><br>Comment avez-vous travaillé avec ces matériaux? Comment se développe ce processus du passage du langage et des récits en corporalité, en images scéniques?<br>Nous avons décidé ensemble ce qui pouvait être intéressant pour eux, nous avons fixé leurs rôles dans la pièce, puis j'ai extrait des motifs des entretiens. Je ne voulais rien imposer et je leur ai demandé leur accord. J'ai laissé les danseurs raconter des souvenirs de famille. Les danseurs ont ensuite distribué les rôles aux autres danseurs: père, mère, grand-mère, personnes importantes pour eux. Au début, les danseurs interprétaient eux-mêmes leur propre personnage, mais cela ne marchait pas du tout. Ils ont dû se dégager de leurs propres familles pour pouvoir être libre de diriger les autres, qui se sont alors laissés infusés par ces informations et ont commencé à danser... C'est ainsi que nous nous sommes approchés des sujets.<br><br>Est-ce que les récits ont changé au cours du travail dramaturgique et chorégraphique?<br>Oui, bien sûr. Je ne prends pas juste le matériau authentique. C'est un processus de création; rien que la transposition du récit narratif en récit de gestes et de danse est une transformation. Mais les biographies se sont aussi transformées autrement au cours du processus: je leur ai également demandé de changer des scènes qui découlaient de leurs récits. Il y avait par exemple dans une des histoires une vieille grand-mère malade négligée par la mère. Dans la scène dansée, la grand-mère sort de l'hôpital. Ils ont donc pu intervenir dans le processus et corriger la réalité. À partir des histoires personnelles, nous sommes allés vers la fiction.<br><br>Dans insideout, les danseurs jouent plus que d'habitude avec des costumes, des vêtements, des accessoires, ils sont dans un changement permanent...<br>C'est un élément dramaturgique très important que de savoir comment nous nous définissons vers l'extérieur à travers les vêtements, puisque l'identité et les valeurs sont les thèmes fondamentaux de la pièce. C'est pourquoi il y a autant d'accessoires: des chaussures, des sacs, des montres, tout ce que nous portons pour montrer qui nous sommes. Tous ces signes,</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-insideout-fda2007/canvas/6#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

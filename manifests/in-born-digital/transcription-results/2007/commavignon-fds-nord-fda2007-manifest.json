@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Nord"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_nord_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_nord_FDA2007/CommAvignon_fds_nord_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>ennuyeux. Nous en savons plus aujourd'hui grâce aux enseignements de l'histoire. À moi il m'importe de \"comprimer\" le roman tout en gardant le côté excessif de l'œuvre, qui est pour moi un miroir fidèle de ces derniers mois de la guerre en Allemagne, vus par un étranger.<br><br>Comment peut-on rendre en paroles cette langue écrite qui se veut orale ?<br>Ce qui m'intéresse est de transposer la langue de Céline, de cet auteur qui a réussi son combat contre l'académisme au sein de l'histoire littéraire française. En écrivant tel que l'on parle, il a anticipé une langue artificielle, sur une base orale et donc théâtrale. Il faut transposer cela au théâtre, afin que la langue morte redevienne vivante, et montrer la complexité des différents niveaux de réalité, avec tous les moyens à disposition, comme le film ou la musique.<br><br>Comment bâtissez-vous le texte de la pièce ?<br>Je travaille toujours de la même manière. À partir du roman, j'écris une sorte de scénario qui donne un fil rouge, puis lorsque je mets en scène je travaille sur le texte taillé sur mesure. Je donne des phrases aux acteurs mais toujours à partir d'une situation de base. Que fait-on lorsque l'on se trouve dans un tel wagon de train, quand on vient de tuer un cochon, à quoi pense-t-on en le rôtissant, quelles pensées descriptives ou philosophiques viennent à ce moment-là, quels sont les éléments verbaux, non verbaux ? Il est toujours intéressant de montrer le paradoxe : un homme fait quelque chose et sa partie inférieure ou bien sa tête font ou veulent faire autre chose, ont d'autres désirs. Dans le roman, même dans les situations les plus difficiles, l'homme continue toujours à faire quelque chose, il se protège de la pluie, il mange, ou bien il devient nostalgique, il a le désir de s'extraire de la réalité, comme la femme qui se met tout à coup à danser. Lorsque Bébert doit avoir son lait, cela devient la chose la plus importante au monde alors qu'à côté, des gens meurent. On peut voir des gens saigner à mort ou brûler vivants et le petit chat est plus important. Si cette réaction est sans cœur, elle est tout à fait humaine, car les hommes pensent d'abord à la survie de leur environnement le plus proche. Il faut se laisser emporter par ces situations. Chez moi les conversations ou le récit ne suivent pas toujours la logique, il n'y a pas de structure classique de développement d'un récit. Là est le paradoxe de la langue de Céline, ses ruptures, ses trois petits points qui signifient que ça ne vaut pas la peine de continuer la phrase, que vous savez bien ce que je veux dire, je suis beaucoup trop pressé, je n'ai plus besoin de formuler ma propre littérature, que chaque trait de plume est déjà de trop, qu'il faut aller plus vite, au prochain événement, que je dois continuer de courir, courir, courir. Cette énergie est celle d'un guerrier qui se précipite vers la prochaine action. Cela m'est très proche et lorsque nous travaillerons avec les acteurs, nous verrons ce que nous garderons, c'est à ce moment-là que se fera la sélection.<br>Extraits de propos recueillis par Jean-François Perrier en février 2007 avant le début des répétitions<br><br># Frank Castorf<br>Frank Castorf est né à Berlin en 1951 et a grandi en RDA, au rythme de la contre-culture rock américaine, des films de Fellini, Godard, Wajda, Truffaut et Kubrick. Il suit des études d'histoire de la culture, de philosophie et de théâtre avant d'être engagé comme dramaturge et metteur en scène à Senftenberg. Plus tard, il présente ses premiers spectacles dans les théâtres de Greifswald et de Brandenbourg qui sont jugés incorrects par la censure et retirés de l'affiche. À l'issue d'un procès contre les autorités dont il sort gagnant, il est expédié à Anklam (au fin fond de la RDA). Il monte Heiner Müller, Antonin Artaud, Bertolt Brecht et William Shakespeare. La censure veille sur lui: il est remercié en 1985.<br>Après la chute du mur, il arrive à la tête de la Volksbühne, mais ne cesse pas pour autant de se battre. Dans Berlin, où doit disparaître toute partition est-ouest de la ville, il inscrit en lettres géantes \"OST\" (Est) sur le toit du théâtre. Admirateur de Karl Marx, de Hegel et des Rolling Stones, Frank Castorf est un artiste politisé, brillant et</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_nord_FDA2007/CommAvignon_fds_nord_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>controversé. Il incarne depuis vingt ans le versant indépendant et subversif de la pensée et de la culture allemande.<br>Ces dernières années il a monté Les Mains sales de Jean-Paul Sartre (1998), Les Démons d'après Dostoïevski (1999), Particules élémentaires d'après Houellebecq (2000), Berlin Alexanderplatz d'après Alfred Döblin, Humiliés et Offensés d'après Dostoïevski (2001), L'Idiot de Dostoïevski (2002), Le Maître et Marguerite de Mikhaïl Boulgakov, Forever Young de Tennessee Williams (2003), Cocaïne de Pitigrilli (2004), Ma reine des neiges, d'après Hans Christian Andresen, Crime et Châtiment d'après Dostoïevski (2005), Im Dichticht der Städte/Dans la jungle des villes d'après Bertolt Brecht (2006) et Die Meistersinger, d'après Richard Wagner (2006).<br>Au Festival d'Avignon, Frank Castorf a déjà présenté Cocaïne en 2004.<br><br># Louis-Ferdinand Destouches dit Céline<br>Né en 1894 à Courbevoie (Seine), Louis-Ferdinand Destouche est fils d'une commerçante de dentelles et d'un employé d'assurances. Pendant sa scolarité, il fait deux séjours linguistiques en Allemagne et en Angleterre. Il occupe de petits emplois durant son adolescence et s'engage dans l'armée française en 1912 par devancement d'appel. 1914, il participe aux combats de la Première Guerre mondiale dans les Flandres. Il est blessé au bras droit et sera décoré de la Médaille militaire. 1917, il est d'abord affecté comme auxiliaire au service des visas du consulat français à Londres puis réformé. Il contracte alors un engagement avec une compagnie de traite qui l'envoie en Afrique. 1919, mariage avec Edith Follet à Rennes (divorce en 1926), baccalauréat, il poursuit des études de médecine. 1924, doctorat en médecine. 1924-26, emploi à la Société des Nations, nombreux voyages 1928, médecin à la polyclinique de Clichy en région parisienne, liaison avec une jeune danseuse américaine. 1933, parution de Voyage au bout de la nuit sous le pseudonyme de Céline (prénom de sa grand-mère), prix Renaudot. 1936, parution de Mort à crédit. 1937, parution du pamphlet antisémite Bagatelles pour un massacre, suivi de L'École des cadavres et Les Beaux Draps. 1943, mariage avec Lucette Almanzor (Lili). 1944, parution de Guignol's band. 1944, après le débarquement, Céline, craignant pour sa vie, quitte la France pour l'Allemagne, accompagné par sa femme et l'acteur Robert Le Vigan. Il se retrouve d'abord à Baden-Baden, en Allemagne, avant de partir pour Berlin, puis pour Kraenzlin (le Zornhof de Nord) d'où il ne put rejoindre le Danemark. Céline se rend en train à Sigmaringen pour rejoindre le régime de Vichy en exil. En 1945, part pour le Danemark. 1945, arrestation du couple Destouches à Copenhague ; Céline restera en captivité jusqu'en 1948. 1948-1951, il vit au Danemark. Parution de Casse-pipe. 1950, condamné par contumace par un tribunal français. 1951, Céline est amnistié. Retour à Paris, ouverture d'un cabinet médical à Meudon en région parisienne. 1957-1969, l'écrivain retrouve le succès avec la « trilogie allemande » dans laquelle il romance son exil. D'un château l'autre (1957), Nord (1960) et Rigodon (1969) sont les trois volets d'un seul roman. Louis-Ferdinand Destouches décède en 1961 à Meudon, laissant veuve la danseuse Lucette Destouches.<br><br>et<br># Exposition Le regard de Frank Castorf sur l'Europe<br>réalisée par le Goethe-Institut Paris<br>6 - 27 juillet ↵ École d'Art ↵ horaires d'ouverture 11h - 18h ↵ entrée libre<br>Cette exposition se concentre sur les mises en scène de Frank Castorf à la Volksbühne am Rosa-Luxemburg-Platz à Berlin depuis 1992 et sur leur réception lors des tournées dans toute l'Europe. Photographies, commentaires de Frank Castorf et affiches de spectacles présentent le travail du metteur en scène allemand.<br><br># Dialogue avec le public<br>8 juillet ↵ École d'art ↵ 17h<br>avec Frank Castorf, animé par Jean-François Perrier</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_nord_FDA2007/CommAvignon_fds_nord_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Frank Castorf/<br>Volksbühne<br>Nord<br><br>UNE GRAND-GUIGNOLADE DE LOUIS-FERDINAND CÉLINE<br>ADAPTÉE PAR FRANK CASTORF<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_nord_FDA2007/CommAvignon_fds_nord_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>6 7 8<br>COUR DU LYCÉE SAINT-JOSEPH □ 21 h 30 □ durée 3h<br>spectacle en allemand, surtitré en français □ création 2007<br><br>adaptation et mise en scène Frank Castorf<br>avec<br>Annekathrin Bürger, Marc Hosemann, Irina Kastrinidis, Young-Shin Kim, Michael Klobe,<br>John Henry Nijenhuis, Milan Peschel, Lore Richter, Silvia Rieger, Lars Rudolph, Matthias Schweighöfer,<br>Bernhard Schütz, Norbert Stöss et les musiciens Herman Herrmann, Boris Jöns, Ole Wulfers<br><br>scénographie et costumes Bert Neumann<br>collaboration dramaturgique Dunja Arnaszus<br>lumières Lothar Baumgarte<br>assistante à la mise en scène Pamela Schlewinski<br>maquillage Ilona Siefert, Doris Kohn, Britta Rehm<br>régie générale Alexandra Bentele<br>souffleuse Christiane Schult<br>construction Sascha Gierth<br>régie plateau Frank Meißner<br>son Klaus Dobbrick<br>vidéo Jens Crull, Dirk Passebosc<br>régie lumières Ralf Scholz<br>accessoires Georg Buchmann, Bettina Köckritz, Franziska Rommel<br>technique lumières Anja Schubert<br>techniciens Henry Epler, Robert Lubnau, Thomas Scherber, André Grünschloss<br>habilleuses Steffen Rausch, Barbara Schirmer, Daniela Urban<br>chauffeur Marcel Klinger<br>direction technique tournées Simon Behringer<br>direction artistique tournées Jana Bäskau<br>surtitres Joseph Schmittbiel<br><br>Nord est publié aux éditions Gallimard<br>spectacle créé le 7 juin 2007 au Wiener Festwochen (Vienne)<br><br>coproduction Volksbühne am Rosa-Luxemburg-Platz (Berlin), Festival d'Avignon, Festival d'Athènes, Wiener Festwochen (Vienne)<br>avec le soutien de la Fondation Deutsche Klassenlotterie<br>Ce spectacle est accueilli au Festival d'Avignon sous le haut patronage de M. Klaus Wowereit, maire régnant de Berlin<br>et Plénipotentiaire de la République fédérale d'Allemagne pour la Coopération culturelle avec la France<br><br>Les dates de Nord après le Festival<br>du 14 au 16 juillet au Festival d'Athènes et à partir du 20 septembre 2007 à la Volksbühne am Rosa-Luxemburg-Platz,<br>(Berlin)<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_nord_FDA2007/CommAvignon_fds_nord_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Frank Castorf<br><br>L'histoire du roman Nord de Louis-Ferdinand Céline, est celle d'un exil à travers l'Allemagne en défaite...<br><br>J'ai lu ce récit de voyage pour la première fois il y a quinze ans. Il m'a tout de suite intéressé puisque Zornhof, l'endroit où Céline se trouve, se situe à cinquante kilomètres de Berlin. Voilà quelqu'un qui nous décrit non seulement l'apocalypse d'une Allemagne, mais aussi d'une Europe, celle des collaborateurs repliés en Allemagne. Cette description est faite non pas d'un point de vue critique, mais intime. Cette apocalypse a quelque chose de surprenant, parce que ces fragments, des esquisses d'une précision naturaliste extrême, donnent une impression presque surréaliste, reflètent l'Histoire de plus près et de manière plus \"vraie\" qu'un \"récit objectif\". Dans Nord, il y a des scènes fictives, oniriques, vécues, réinterprétées, avec ce que j'appelle des moyens extrêmement naturalistes qui nous conduisent vers une vision surréaliste, et à travers lesquels on donne une image beaucoup plus véridique, plus juste, de cette chute.<br>Céline est un artiste qui s'enfuit en Allemagne et qui décrit cette chute vue d'en bas, du côté des fuyards, des travailleurs enrôlés de force pour les usines allemandes, des soldats SS pris dans la débâcle, des prisonniers de guerre, description qu'on ne trouve dans aucun récit de la littérature allemande. Céline est ce monstre vomissant de la littérature, l'artiste qui, dans une situation extrême, s'arroge la liberté de vivre comme il l'entend, le droit de dire tout, et qui saisit une approche psychopathologique des choses, en énonçant ce qu'il ressent, toutes sortes de choses qu'on ne peut forcément juger à l'aune des catégories éthiques et morales d'aujourd'hui. Cet artiste transpose les choses dans un champ de provocation qui me semble très important de nos jours, à un moment où les artistes sont très souvent devenus des politiciens, des stratèges, et non plus des êtres qui saisissent les événements de manière physiologique. Il voit cette Allemagne avec des yeux d'étranger remplis de haine contre tout, Allemands compris. Il traverse ce pays de manière absurde, dans des trains qui ne marchent plus, qui sont arrêtés, bombardés.<br><br>Dans Nord, Céline est à la fois chroniqueur et romancier, il établit une chronique de l'Allemagne mais se met au centre de l'Histoire. Il se pose en victime de celle-ci...<br>Ce sujet est certainement très explosif et très controversé car la description des événements se superpose à sa biographie. Quand il arrive en Allemagne, pays qu'il connaissait bien, il le scrute comme dans une vivisection. Il opère en quelque sorte le nerf à vif, et c'est très douloureux. Il en profite pour exprimer sa haine pathologique envers tous, dont Hitler qu'il détestait et qui était pour lui probablement \"pire que les Juifs\". Il se meut dans un environnement antisémite, qui n'est pas l'antisémitisme des nazis, mais beaucoup plus largement du racisme pur et simple, que partageaient beaucoup de gens à l'époque. Cela m'intéresse de voir comment on peut \"opérer\" sans scrupule comme le fait le docteur Destouches.<br><br>Votre théâtre est fait pour ici et maintenant. De quelle façon cette vision historique de l'Allemagne en 1944-45 vous intéresse-t-elle aujourd'hui?<br>C'est comme si une image négative de l'Europe s'était construite dans ce roman, via la métaphore centrale que composent ces trains qui traversent l'Allemagne. Comment peut-on montrer l'Europe dans ces wagons de trains dans lesquels se rencontrent maréchaux allemands, gens de Lettonie, de Roumanie, de France, de Norvège, gens de toute l'Europe qui ont cru à l'idée d'une Allemagne nazie et d'une Europe sous domination allemande?<br>Dans des conditions extrêmes, terribles, dans la destruction, émerge soudainement la conscience d'une Europe unie dont nous prenons conscience aujourd'hui. Céline crée cette conscience en dehors d'une hiérarchie étatique ou militaire imposée, en pleine dissolution. Le</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_nord_FDA2007/CommAvignon_fds_nord_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>thème est omniprésent à travers les personnages qui viennent de toutes parts et qui paradoxalement se détestent. Curieusement, la présence européenne était beaucoup plus forte à l'époque en Allemagne que l'Histoire officielle ne le dit, et cela m'intéresse beaucoup. Des hommes de toutes les nations erraient à travers les villes allemandes et avaient besoin de manger, de faire l'amour, ils essayaient de survivre dans cette antichambre de l'enfer.<br><br>Dans Nord, il y a une quantité énorme de personnages. Lesquels avez-vous choisi de garder et comment allez-vous traiter ce défilé? Notamment le chat Bébert, omniprésent?<br>Le problème du chat se pose effectivement au théâtre puisqu'on ne peut apprivoiser ou dompter cet animal. Bébert est en effet un vrai personnage; dans son panier, sous lui, se trouvent des armes, leurs passeports. Céline parle pour Bébert qui représente ce que l'auteur aurait parfois aimé être, à savoir un animal qui arrive toujours à se débrouiller. La figure littéraire de Bébert est une sorte de double de Céline. Les personnages principaux sont l'acteur, Le Vigan, qui parle très peu, sa femme, Madame Destouches, qui ne parle pas beaucoup non plus, et le chat qui bien évidemment ne parle pas du tout! Et il y a aussi Céline, qui remplit tout l'espace. Cette configuration centrale est passionnante: une femme danseuse, l'acteur taciturne, un chat, et au milieu un médecin artiste et écrivain qui hurle, crache, geint, vomit du texte sans cesse. Il y aussi beaucoup d'autres personnages qui représenteront les \"autres\". Ce n'est pas qu'une simple adaptation car il s'agit de faire renaître encore et encore ce monde que Nord propose.<br><br>Le voyage de Céline et de ses compagnons nous fait traverser de nombreux lieux, de Baden-Baden à Hambourg en passant par Berlin pour se retrouver à Sigmaringen avec le gouvernement de Vichy en exil. Comment rendre tous ces lieux successifs?<br>C'est une des difficultés. La métaphore centrale sur le plateau sera celle du wagon de train. Il représente ce mouvement permanent de ceux qui ont traversé l'Europe entière dans la fuite, vers le front, vers Auschwitz, vivant parfois dans ces wagons. Nous essayons de faire apparaître ces stations avec ce wagon, comme une histoire qui naît de la propre logique de cet objet \"train\", comme une boîte de Pandore qui régurgite des gens, des situations du roman, toujours autour du quatuor central.<br><br>Vous savez que jouer Céline en France est très délicat à cause de ses prises de position totalement antisémites, dans ses pamphlets en particulier. Quelle est votre position par rapport à ces débats entre homme et œuvre?<br>Il n'y a pas de solution, bien sûr. Parfois, selon le philosophe marxiste Georg Lukács, la valeur morale d'un auteur a moins d'importance que son œuvre. Chez Céline, c'est bien sûr différent car il se met tellement en scène lui-même, il se confond tellement avec le narrateur à la première personne, qu'on ne peut le séparer de sa biographie. Mais comment traiter l'antisémitisme de Céline? Je pars du roman, et je crois qu'on peut transposer sur scène toutes sortes de pensées, comme des aspects de la vie humaine. Sinon il faudrait interdire tout ce qui est extrême. Un artiste doit pouvoir prendre des décisions intuitives qui doivent pouvoir provoquer. Dostoievski, Tennessee Williams, Flaubert, Balzac, tous les grands auteurs l'ont fait. Ce qui est important ici, c'est que quelqu'un dit que l'art est un monde autonome, sans but, qui peut induire l'erreur, mais l'erreur est là pour que les autres puissent la contredire, et ils doivent le faire. L'art est quelque chose de stimulant qui sert à éprouver les valeurs à l'aune de cette provocation. Il s'agit de trouver, dans l'esprit du siècle des Lumières, ce qui est vrai. Le provocateur diabolique me semble aussi important, c'est pourquoi je n'aime pas faire ce partage entre le bon et le mauvais. Chez Céline cela se mélange et c'est ce qui le rend intéressant. Il faut oser voir la quantité de mal qui peut se cacher dans un être humain.<br>Je crois que lorsque l'on fait une adaptation théâtrale, il ne faut ni corriger, ni améliorer, c'est</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-nord-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

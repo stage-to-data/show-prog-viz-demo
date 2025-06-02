@@ -1,0 +1,450 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Europe"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_europe_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1759,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_europe_FDA2007/CommAvignon_fds_europe_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1759,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/1#xywh=0,0,1759,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Parce qu'ils permettent de lutter contre deux dangers auxquels est confrontée l'Europe d'aujourd'hui que sont le repli identitaire et l'homogénéisation induit par la mondialisation et qu'ils favorisent \"l'individuation\", pour reprendre les mots de Bernard Stiegler, la culture et l'art ont un rôle essentiel à jouer dans l'intégration européenne.<br>Parce que le théâtre est né avec la démocratie et qu'il n'existe que dans la confrontation avec un public qui forme chaque soir une communauté éphémère, les artistes et les professionnels qui le font se doivent de contribuer à l'affirmation et au développement d'un lien entre l'Europe et la culture.<br>Le Festival d'Avignon, par son histoire emblématique et sa longue tradition de débats, peut être un espace de réflexion pour favoriser leur prise en compte dans le projet politique communautaire et pour sensibiliser le public amateur de théâtre, les artistes et les professionnels à cette question fondamentale.<br>Il n'existe pas aujourd'hui de politique culturelle européenne, mais principalement des mécanismes d'incitation et d'accompagnement à la coopération culturelle. Or, on ne peut construire la politique culturelle de l'Union à l'image de celles existantes au niveau national. Si les Français ont parfois tendance à projeter leur politique culturelle au niveau de l'Union alors qu'il est indispensable de tenir compte des spécificités de l'échelon communautaire, la France a néanmoins un vrai rôle à jouer pour défendre les valeurs portées depuis l'après-guerre par sa politique culturelle.<br>Au moment de la parution d'une communication sur la culture de la Commission européenne et dans la perspective de la présidence française de l'Union européenne en 2008, le Festival d'Avignon rassemble des personnalités des milieux politiques, artistiques, culturelles et intellectuelles pour débattre sur ce que peut et doit être une politique culturelle européenne et réfléchir ensemble : à quoi peut servir une politique culturelle en Europe ?<br><br>Culture and art are essential weapons in the fight against two very present elements of danger threatening Europe today: individual withdrawal and generalised uniformity brought about by globalization. They are conducive to \"individuation\", to use the term coined by Bernard Stiegler, and have therefore a fundamental role to play in European integration.<br>Since theater came into existence together with democracy and can only live opposite an audience that forms an ephemeral community night after night, theater artists and stage professionals have a duty to add their contribution to the support and further development of a link between Europe and culture.<br>Thanks to its emblematic history and long tradition of debate, the Festival d'Avignon provides a forum for reflection on how to integrate such ideas into the common political project and raise interest for this fundamental issue with theater-goers, artists and professionals.<br>Currently, in the absence of a European cultural policy, only certain incentive and follow-up mechanisms for cultural cooperation exist. It is however impossible to build the cultural policy of the European Union by extrapolating from national policies. The French sometimes tend to project French cultural policy onto European Union level, whereas one has to take into account the European specificities. Nevertheless, France has an important contribution to make in fighting for the values put forward by its domestic cultural policy since the post-WWII era.<br>In conjunction with the European Commission's publication of a communication on culture, and with a view to the French presidency of the European Union in 2008, the Festival d'Avignon brings together personalities from the political, artistic and intellectual arena to discuss what European cultural policy can and should look like and reflect on the question: what can a common cultural policy in Europe achieve?</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/1#xywh=0,0,1746,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1746,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_europe_FDA2007/CommAvignon_fds_europe_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1746,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/2#xywh=0,0,1746,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Kultur und Kunst spielen eine erhebliche Rolle in der europäischen Integration und<br>ermutigen die „Individuation\", um das von Bernard Stiegler geprägte Wort zu benutzen,<br>denn sie ermöglichen es, gegen zwei Gefahren anzukämpfen, denen Europa heute<br>gegenübersteht, nämlich der Rückzug in die eigene Identität und die von Globalisierung<br>eingeführte Gleichschaltung.<br>Theater wurde mit der Demokratie geboren und existiert nur durch die Gegenüberstellung<br>mit einem Publikum, das jeden Abend eine kurzlebige Gemeinschaft bildet ; daher sind es<br>sich die Künstler und im Theater Arbeitenden schuldig, an der Geltendmachung und an<br>der Entwicklung einer Bindung zwischen Europa und Kultur teilzuhaben.<br>Dank seiner Geschichte und seiner langen Tradition als Ort von Debatten, kann das Festival<br>d'Avignon ein Freiraum der Überlegungen sein und hilfreich dabei, diese in ein europäisches politisches Projekt umzusetzen sowie das Theaterpublikum, die Theatermacher und<br>darin Arbeitenden für diese Frage empfänglich zu machen.<br>Es existiert zuzeit keine europäische Kulturpolitik, sondern nur Einrichtungen zur Ermutigung<br>und Begleitung von kultureller Zusammenarbeit. Eine Kulturpolitik der Europäischen Union<br>kann und darf sich jedoch nicht gemäss der einzelnen nationalen Richtungen konstruieren.<br>Selbst wenn Franzosen manchmal dazu neigen, ihre Kulturpolitik auf ein europäisches<br>Niveau zu projezieren - wo es doch absolut nötig ist, die verschiedenen Eigenheiten zu<br>berücksichtigen -, hat Frankreich dennoch eine wichtige Rolle darin zu spielen, die Werte, für<br>die es seit der Nachkriegszeit durch seine Kulturpolitik steht, zu verteidigen.<br>In Hinsicht auf den Vorsitz Frankreichs im Europäischen Rat in 2008 und der Veröffentlichung<br>einer Mitteilung über Kultur der Europäischen Union, bringt das Festival d'Avignon<br>Persönlichkeiten aus Politik, Kunst, Kultur und Intellektuelle zusammen, um gemeinsam<br>darüber zu debattieren, wie eine europäische Kulturpolitik aussehen kann und muss, und<br>um über diese Frage nachzudenken : wozu kann eine europäische Kulturpolitik dienen?<br><br><br>À la suite de cette rencontre publique et en collaboration avec le Festival, le Relais Culture Europe réunit<br>à la Chartreuse de Villeneuve lez Avignon un groupe de travail dans le cadre du Forum Culture Europe,<br>projet de réflexion sur le thème de l'Europe et de la Culture qu'il a initié.<br><br>Within the framework of Forum Culture Europe, a project on Europe and Culture initiated by the Relais<br>Culture Europe, a working party will be set up at La Chartreuse in Villeneuve lez Avignon in collaboration with the Festival d'Avignon, following this public debate.<br><br>Im Rahmen des Forum Culture Europe, ein von ihm iniziiertes Projekt über das Thema Europa und<br>Kultur, organisiert Relais Culture Europe in Zusammenarbeit mit dem Festival anschliessend an diese<br>öffentliche Diskussionsrunde eine Arbeitsgruppe in der Chartreuse in Villeneuve lez Avignon.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/2#xywh=0,0,1746,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1759,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_europe_FDA2007/CommAvignon_fds_europe_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1759,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/3#xywh=0,0,1759,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># A quoi peut servir une politique culturelle en Europe ?<br><br># What can a common cultural policy in Europe achieve?<br><br># Wozu kann eine europäische Kulturpolitik dienen ?<br><br>DG Éducation et culture<br>Programme «Culture»                61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/3#xywh=0,0,1746,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1746,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_europe_FDA2007/CommAvignon_fds_europe_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1746,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/4#xywh=0,0,1746,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>08-07-2007<br>GYMNASE DU LYCÉE SAINT-JOSEPH, AVIGNON □ 10h-13h<br><br>avec/with/mit<br><br>Christine Albanel<br>Ministre français de la Culture et de la Communication<br>French Minister of Culture and Communication<br>Französische Ministerin für Kultur und Kommunikation<br><br>Ján Figel<br>Membre de la Commission européenne en charge de l'éducation, de la formation, de la culture et de la jeunesse<br>Member of the European Commission for Education, Training, Culture and Youth<br>Mitglied der Europäischen Kommission, zuständig für Bildung, Kultur und Jugend<br><br>Klaus Wowereit<br>Maire régnant de Berlin et Plénipotentiaire de la République fédérale d'Allemagne pour la Coopération culturelle avec la France<br>Governing Mayor of Berlin and Minister plenipotentiary of the Federal Republic of Germany for culture in French-German relations<br>Regierender Bürgermeister von Berlin und Bevollmächtigter der Bundesrepublik Deutschland für kulturelle Angelegenheiten im Rahmen des Vertrages über die deutsch-französische Zusammenarbeit<br><br>Catherine Lalumière<br>Présidente du Relais Culture Europe/President of Relais Culture Europe/Präsidentin des Relais Culture Europe<br><br>Bernard Stiegler Philosophe, Directeur du département du développement culturel du Centre Georges Pompidou/Philosopher, Head of Department of Cultural Development of the Centre Georges Pompidou/Philosoph, Direktor der Abteilung für kulturelle Entwicklung des Centre Georges Pompidou<br><br>Romeo Castellucci Metteur en scène/Stage director/Regisseur<br><br>Ludovic Lagarde Metteur en scène/Stage director/Regisseur<br><br>Galin Stoev Metteur en scène/Stage director/Regisseur<br><br>Bernard Foccroule Directeur du Festival international d'art lyrique d'Aix-en-Provence<br>Director of the Festival international d'art lyrique d'Aix-en-Provence<br>Direktor des Festival international d'art lyrique d'Aix-en-Provence<br><br>Louis Schweitzer Président de la Halde et du Festival d'Avignon<br>President of the Halde and of the Festival d'Avignon<br>Präsident der Halde und des Festival d'Avignon<br><br>Hortense Archambault Co-directrice du Festival d'Avignon<br>Co-director of the Festival d'Avignon<br>Kodirektorin des Festival d'Avignon<br><br>Modération/Moderated by/Moderierung Arnaud Laporte Journaliste à France Culture/Journalist at France Culture/Journalist bei France Culture<br><br>Traduction simultanée en français, anglais et allemand/Simultaneous translation in French, English and German/Simultanübersetzung auf Französisch, Englisch und Deutsch<br><br>Rencontre organisée par le Festival d'Avignon en collaboration avec le Relais Culture Europe<br>Debate organized by the Festival d'Avignon in collaboration with Relais Culture Europe<br>Debatte organisiert vom Festival d'Avignon in Zusammenarbeit mit Relais Culture Europe<br><br>Retransmis sur Radio France Culture le soir même à 22h10<br>Broadcast on Radio \"France Culture\" in the evening at 10.10 pm<br>Sendung in Radio „France Culture\" am selben Abend um 22:10 Uhr</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-europe-fda2007/canvas/4#xywh=0,0,1746,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

@@ -1,0 +1,450 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "La nuit chorégraphie de jacques garnier"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Bnf_fds_LaNuitChorégraphieDeJacquesGarnier_FDA1971_ps.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1971"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-origine-papier"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 6047,
+            "width": 3110,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaNuitChor%C3%A9graphieDeJacquesGarnier_FDA1971_ps/Bnf_fds_LaNuitChor%C3%A9graphieDeJacquesGarnier_FDA1971_ps_page_1.jpg",
+                                "type": "Image",
+                                "height": 6047,
+                                "width": 3110,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/1#xywh=0,0,3110,6047"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>FFA-1971(2/3)<br><br>XXVe FESTIVAL<br>D'AVIGNON<br>Direction Jean Vilar<br><br>Cour d'Honneur<br>du Palais des Papes<br>le lundi 9 août<br>à 21 h 30<br><br># Ballets<br>Troisième programme<br>Microcosmos<br>Opus 5<br>Anaktoria<br>La Nuit (création)<br>par<br>le Théâtre du Silence<br><br>Jacno</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/1#xywh=0,0,2799,5443"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 4438,
+            "width": 2017,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaNuitChor%C3%A9graphieDeJacquesGarnier_FDA1971_ps/Bnf_fds_LaNuitChor%C3%A9graphieDeJacquesGarnier_FDA1971_ps_page_2.jpg",
+                                "type": "Image",
+                                "height": 4438,
+                                "width": 2017,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/2#xywh=0,0,2017,4438"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># PROGRAMME<br><br>Microcosmos<br>musique : Bela Bartok<br>chorégraphie : Brigitte Lefèvre<br>conception : Reynaldo Cerqueira<br>avec        Brigitte Lefèvre<br>             Michaël Denard<br>             Jacques Garnier<br><br>Opus 5,<br>musique : Anton Webern<br>chorégraphie : Jacques Garnier<br>avec        Martine Vuillermoz<br>             Richard Duquenoy<br><br>Anaktoria<br>musique : Yannis Xenakis<br>chorégraphie : Jacques Garnier<br>conception : Reynaldo Cerqueira<br>avec        Brigitte Lefèvre<br>             Annette Mulard<br>             Françoise Vaussenat<br>             Martine Vuillermoz<br>             Richard Duquenoy<br>             Jean Guizerix<br>             Didier Schirpaz<br>             Jean-Marc Torres<br><br>La Nuit<br>musique : Jean-Pierre Drouet, Diego Masson, Michel Portal<br>chorégraphie : Jacques Garnier<br>conception : Reynaldo Cerqueira<br>avec        Nicole Chouret<br>             Katia Grey<br>             Brigitte Lefèvre<br>             Catherine Morel<br>             Annette Mulard<br>             Françoise Vaussenat<br>             Martine Vuillermoz<br>             Richard Duquenoy<br>             Jean Guizerix<br>             Patrick Marty<br>             Jacques Namont<br>             Didier Schirpaz<br>             Georges Teplitsky<br>             Jean-Marc Torres<br><br>Costumes et éléments scéniques : Reynaldo Cerqueira</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/2#xywh=0,0,2799,5443"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 3994,
+            "width": 2021,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaNuitChor%C3%A9graphieDeJacquesGarnier_FDA1971_ps/Bnf_fds_LaNuitChor%C3%A9graphieDeJacquesGarnier_FDA1971_ps_page_3.jpg",
+                                "type": "Image",
+                                "height": 3994,
+                                "width": 2021,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/3#xywh=0,0,2021,3994"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Microcosmos<br>Sur un choix de pièces de Bartok, trois danseurs tentent le difficile effort de l'accord à eux-mêmes et du témoignage, à travers les mille agressions et souvenirs que l'esprit enregistre et subit.<br>La musique, le silence et le geste, la discipline acquise du travail et l'éclosion momentanée de pulsions vécues, se relaient et s'entraident sur ce chemin : danser une manière d'être.<br><br># Opus 5<br>Une rencontre et l'élaboration d'un accord, la tendresse possible, impossible, difficile, et l'exquise simplicité de Webern, comme un exemple qu'il faudrait suivre.<br><br># Anaktoria<br>« Une musique d'états d'amour », dit dans son commentaire le compositeur Yannis Xenakis, et encore : « États d'amour... c'est un ensemble. » C'est cette unité qui permettrait la diversité de tels états, en quête de laquelle s'engage la chorégraphie. Difficile et indispensable équilibre entre l'appétit de vivre et la reconnaissance de la libre vie, alentour.<br><br># La Nuit<br>Cinquante minutes peut-être, ou une seconde. Cinquante ans aussi, où il faudrait trouver un instant. Ne saurions-nous nous arrêter un moment dans le fleuve immobile et rapide ? Remontons et dévalons le temps, faisons s'entrechoquer les événements et les espaces pour enfin, peut-être, faire jaillir l'étincelle, un instant. Peut-être alors, avec le grand divin Marquis, sévère moraliste en sa retraite choisie, pourrons-nous nous écrier : « Français, encore un effort si vous voulez être républicains. » Instants où nos chants n'auraient plus l'odeur de la violette charogne puante. « Si toutes choses devenaient fumée, on connaîtrait par les narines », dit Héraclite ; ensemble, efforçons-nous de connaître avec des rythmes, des mouvements, des représentations de nos vies, qui divisent et réunissent un temps retrouvé. Du moins pourrons-nous avouer qu'en Avignon, cette nuit, libre de toute appartenance, est, semblable à la crinière du lion, l'exquis superflu où peuvent venir s'inscrire nos esprits étonnés.<br>R. C.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/3#xywh=0,0,2799,5443"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 5443,
+            "width": 2799,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-origine-papier/jpg/1971/Bnf_fds_LaNuitChor%C3%A9graphieDeJacquesGarnier_FDA1971_ps/Bnf_fds_LaNuitChor%C3%A9graphieDeJacquesGarnier_FDA1971_ps_page_4.jpg",
+                                "type": "Image",
+                                "height": 5443,
+                                "width": 2799,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/4#xywh=0,0,2799,5443"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Le Théâtre du Silence<br>Divers artistes, et en particulier des danseurs de l'Opéra de Paris, se sont regroupés depuis quelques années pour un travail commun. Ils ont produit, tant à Paris qu'en province, de nombreux galas. En 1970, un travail collectif fut présenté au XXIVe Festival d'Avignon : « Tentative pour un ballet : Ils disent participer », sur une musique de Diego Masson, chorégraphie de Jacques Garnier, conception et décor de Reynaldo Cerqueira. Ce travail s'est précisé en 1971 et l'invitation pour Avignon a été réitérée.<br>Le groupe est décidé maintenant à une production permanente sous le nom de « Théâtre du Silence ». « Théâtre » a été pris comme nom générique de toute espèce de spectacle — on pourrait, mieux peut-être, dire « moment privilégié de rencontre » — non en vue de quelque mégalomaniaque « spectacle total », mais pour cette liberté de choisir tous les moyens adaptés à la poursuite de résultats choisis, et, au centre d'eux, sortie de son complaisant ghetto, la danse.<br>Théâtre « du Silence », sans doute par allusion à la gravité impavide du danseur, mais plus encore par référence à cette silencieuse approche des êtres et des choses, qui, annexant et employant tout aussi bien le bruit et la fureur, poursuit la difficile recherche d'un certain état de naïveté conquise : révérence maintenue, s'il la voulait accepter, envers celui qui dit en quelque froide demeure, et dont le merveilleux échec, en son appel à la « cruauté », fut sans doute l'événement théâtral de notre temps. Silence qui accepte le risque. Silence qui ne voudrait brûler aucune étape. Silence qui emploie tous les moyens pour sa construction. Silence, pourtant, qui détesterait de subjuguer ou de séduire. Silence qui voudrait offrir l'être à lui-même. Silence qui voudrait inviter et accueillir. Silence, enfin, dont, librement, l'autre nom serait « paix ».<br>Reynaldo Cerqueira.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-origine-papier/transcription-results/1971/bnf-fds-lanuitchoregraphiedejacquesgarnier-fda1971-ps/canvas/4#xywh=0,0,2799,5443"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Angels"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_angels_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_angels_FDA2007/CommAvignon_fds_angels_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>\"nous on est fait pour aimer\", compris aussi dans le sens d'une copulation éternelle et universelle. Il me semble que l'ange en faisant passer l'homme vers la mort lui rend la vie. Mais je n'ai pas de certitude absolue concernant cette analyse.<br><br>Tony Kushner donne l'autorisation de couper dans sa pièce. Avez-vous utilisé cette permission ?<br>J'ai voulu garder l'essentiel du texte en éliminant ce qui me paraissait digressif, ce qui nous éloignait du parcours des personnages, qui pouvait nous égarer. Je suis terriblement fidèle aux axes essentiels de la pièce, je ne trahis pas, je concentre.<br><br>La forme dramaturgique de la pièce s'inscrit souvent dans un très grand réalisme. L'avez-vous conservé ?<br>Mon travail consiste toujours à privilégier le texte plus que les situations en m'appuyant sur la présence des acteurs et de leur corps. J'essaie toujours de trouver les moyens que le théâtre nous offre pour éviter le réalisme tout en faisant comprendre les enjeux des situations. Il y a des images dont la violence est plus grande que la pratique effective de celle-ci. C'est la force du théâtre. Deux hommes qui sont à la recherche de l'amour, de celui qui partagera leur vie, peuvent le dire devant des micros au théâtre, ils ne sont pas obligés de se retrouver dans le même lit. Il faut faire entendre ce qui se passe dans leur tête, la force de leur désir. Souvent il m'arrive aussi de confronter deux scènes séparées en les mettant en scène en même temps sur le plateau pour que l'on comprenne bien le parallélisme des enjeux. La confrontation peut être plus forte s'il y a simultanéité.<br>Propos recueillis par Jean-François Perrier en février 2007<br><br># Tony Kushner<br>Né en 1956 dans une famille juive de Manhattan, Tony Kushner est devenu l'un des dramaturges les plus reconnus des États-Unis avant de connaître un succès international avec son drame Angels in America créé en 1991 à Los Angeles puis repris à Londres et au Festival d'Avignon en 1994 dans une mise en scène de Brigitte Jacques. Cette pièce deviendra un opéra dans une adaptation du compositeur hongrois Peter Eötvös en 2004. Il aura fallu cinq ans à Tony Kushner pour écrire cette pièce qui renoue avec la grande tradition dramaturgique américaine d'Eugene O'Neill mais qui est aussi influencée par le théâtre classique européen avec Shakespeare, Goethe, Corneille et Brecht, que l'auteur a pratiqué en les traduisant ou adaptant. Tony Kushner est aussi l'auteur de quatre livrets d'opéra et d'un scénario de film, Munich de Steven Spielberg. Il a participé à l'adaptation de Angels in America pour la télévision réalisée par Mike Nichols.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_angels_FDA2007/CommAvignon_fds_angels_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Krzysztof Warlikowski<br><br>Krzysztof Warlikowski naît en 1962 à Szczecin (Pologne). Il suit des études d'histoire et de philosophie à l'Université Jagellonia de Cracovie, et effectue une année de cours sur l'histoire du théâtre à l'École pratique des Hautes études de la Sorbonne à Paris.<br><br>Il commence l'étude de la mise en scène en 1989 à l'Académie du théâtre de Cracovie et y signe ses premiers spectacles.<br><br>Il met en scène de nombreux textes de Shakespeare: Le Marchand de Venise (1994), Le Conte d'hiver (1997), Hamlet (1997 puis 1999), La Mégère apprivoisée (1998), La Nuit des rois (1999), La Tempête (2003), Le Songe d'une nuit d'été (2003), Macbeth (2005).<br><br>Il travaille aussi sur la tragédie grecque avec Electre de Sophocle (1996) ainsi que Les Phéniciennes (1998) et Les Bacchantes (2001) d'Euripide.<br><br>Il met également en scène des auteurs contemporains: Bernard-Marie Koltès (Roberto Zucco en 1995 et Quai Ouest en 1998), Witold Gombrowicz, Sarah Kane (Purifiés en 2001), Andrew Bovell (Speaking in Tongues en 2004), Hanoch Levin (Kroum en 2005) et Mishima (Madame de Sade en 2006).<br><br>Krzysztof Warlikowski a travaillé dans de nombreuses villes polonaises et dans toute l'Europe, en France aux Bouffes du Nord, en Italie au Piccolo Teatro, en Allemagne au Kammerspiele de Hambourg et au Staatstheater de Stuttgart, en Croatie à Zagreb, et également en Israël.<br><br>Il met aussi en scène des opéras depuis 2000; les plus récents sont Iphigénie en Tauride de Gluck, Wozzek d'Alan Berg (2006) et L'Affaire Makropoulos à l'Opéra national de Paris (2007).<br><br>Il a reçu de nombreux prix dont celui de la meilleure pièce étrangère du Syndicat français de la critique théâtrale pour Purifiés en 2002 et le prix Meyerhold du meilleur metteur en scène européen pour Kroum en 2006. Le Prix Europe 2008 des Nouvelles Réalités Théâtrales lui sera remis à Thessalonique.<br><br>Krzysztof Warlikowski est officier des arts et des lettres.<br><br>En octobre 2007, paraîtra aux éditions Actes Sud Théâtre écorché, un livre d'entretiens avec Krzysztof Warlikowski.<br><br>Au Festival d'Avignon, Krzysztof Warlikowski a déjà présenté Hamlet en 2001, Purifiés en 2002 et Kroum en 2005.<br><br>Il devait y présenter Le Dibbouk en 2003.<br><br><br>et<br><br># Regards critiques<br>20 juillet à 11h30 à École d'Art<br>Le théâtre, la marge, le lien social<br>avec Krzysztof Warlikowski, Rodrigo García et Louis Schweitzer<br><br># Dialogue avec le public<br>21 juillet à 11h30 à École d'Art<br>avec Krzysztof Warlikowski et des membres de l'équipe artistique de Angels in America, animé par les Ceméa<br><br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_angels_FDA2007/CommAvignon_fds_angels_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Krzysztof<br>Warlikowski<br><br># Angels in America I & II<br><br>DE TONY KUSHNER<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_angels_FDA2007/CommAvignon_fds_angels_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>16 17 19 20 21 22<br><br>COUR DU LYCÉE SAINT-JOSEPH □ 21 h □ 5 h 30 entracte compris □ création 2007<br>spectacle en polonais surtitré en français<br><br>de Tony Kushner<br>traduit par Jacek Poniedziałek<br>mise en scène Krzysztof Warlikowski<br>avec<br>Andrzej Chyra Roy M. Cohn<br>Maciej Stuhr Joe Porter Pitt<br>Magdalena Popławska Harper Amaty Pitt<br>Tomasz Tyndyk Prior Walter<br>Jacek Poniedziałek Louis Ironson<br>Rafał Maćkowiak Belize, Mr Lies<br>Magdalena Cielecka Ange, Emily<br>Maja Komorowska Rabbin Isidor Chemelwitz<br>Bogusława Schubert Hannah Porter Pitt, Médecin<br>Zygmunt Malanowicz Martin Heller, Alexei A. Prelapsarianov<br>Danuta Stenka Ethel Rosenberg<br><br>scénographie Małgorzata Szczesniak<br>musique Paweł Mykietyn<br>lumières Felice Ross<br>film Paweł Łoziński<br>chants Adam Falkiewicz<br>stylisation coiffures et perruques Robert Kupisz<br>make-up Gonia Wielocha<br>sculptures Zofia Remiszewska, Dominik Długhy<br>effets de peinture Arkadiusz Sylwestrowicz<br>traduction des surtitres Margot Carlier<br><br>les surtitres français de cette production sont basés sur l'adaptation polonaise de la pièce et ne sont pas<br>traduits du texte original<br>spectacle créé le 17 février 2007 au TR Warszawa à Varsovie (Pologne)<br><br>production TR Warszawa<br>en coproduction avec la Comédie de Valence-Centre dramatique national Drôme-Ardèche, Maison de la Culture<br>d'Amiens - Scène nationale, le TNT-Théâtre National de Toulouse-Midi-Pyrénées<br><br>les dates d'Angels in America après le Festival:<br>du 1er au 5 mars 2008 au Théâtre national de Strasbourg, le 9 mars 2008 à la Comédie de Valence, les 14 et 15 mars<br>2008 à la Maison de la Culture d'Amiens, du 13 au 18 mai 2008 au Théâtre du Rond-Point à Paris, les 22 et 23 mai 2008<br>au Théâtre national de Toulouse</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_angels_FDA2007/CommAvignon_fds_angels_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Krzysztof Warlikowski<br><br>Pourquoi mettre en scène en 2007 en Pologne une pièce écrite et liée aux États-Unis des années quatre-vingt?<br>Krzysztof Warlikowski : Ce sont les mêmes raisons que pour Kroum, pièce israélienne plutôt ancienne elle aussi: parce que je pense qu'Angels in America résonne toujours aujourd'hui. Le sida est toujours présent et la pensée politique reaganienne toujours là, bien présente en Europe, même si le président Reagan est mort. Il y a quelques années j'ai mis en scène Purifiés de Sarah Kane qui est un cri très radical, très poétique, une vision hors contexte historique, dans un temps très imprécis, dont je pense qu'il y a un écho dans la pièce de Tony Kushner, même si elle est inscrite dans une société précise, à un moment donné. Les sujets sont communs, même si le cri de Kane est vraiment individuel alors que celui de Kushner est plus collectif.<br><br>La pièce est un diptyque. Avez-vous le sentiment qu'il y a deux pièces différentes où une seule en deux parties?<br>Je crois avoir mis en scène une pièce qui doit permettre d'établir un dialogue avec le public polonais. Un dialogue dont le noyau central concerne la faute et le pardon. Je ne fais donc pas de différence entre les deux pièces. Je cherche seulement le moyen d'inscrire ses sujets dans l'univers du public polonais car ce sont des sujets dont le théâtre n'a jamais parlé ici. Des thèmes étrangers qui n'ont jamais été traités. Il y a un théâtre \"gay\" ou parlant de thèmes \"gay\" en Pologne, mais réservé à de petites salles et créé par des troupes indépendantes. Avec Angels in America c'est différent, puisque c'est un théâtre institutionnel, officiel et reconnu qui prend en charge la production de la pièce et qui parle à un public plus vaste. La première pièce me permet de faire entrer le public dans un univers homosexuel, pour qu'il puisse ensuite écouter et comprendre le drame individuel des personnages, puis le drame universel et apocalyptique attaché à l'histoire racontée par Tony Kushner. On pourrait presque dire que la première partie est un constat d'échec de la religion et de la famille comme cadres rassurants pour les individus. La seconde, d'une façon perverse, analyse les résultats de ce constat sur la vie personnelle des héros de la pièce avant d'arriver au rituel de la mort puis au ciel, qui pourrait apparaître comme le seul lieu possible de résolution des problèmes. Cette pièce est un scénario bien écrit, bien construit et bien dialogué. Le parcours des personnages est très dessiné, alors que d'autres moments échappent à cette contraction, tel le monologue du dirigeant communiste qui parle de choses plus générales, mais que nous avons connues nous, citoyens d'un ex-pays communiste.<br><br>La pièce n'est-elle qu'un discours sur l'homosexualité?<br>Plus que sur l'homosexualité, qui est très présente, c'est une pièce sur une société où les marginaux seraient vus différemment. J'avais déjà abordé le thème de la marginalité dans Purifiés, mais les marginaux étaient vus quelque part hors des lois sociales, un peu en cachette, un peu monstrueux, un peu pervertis. Avec Angels in America ils sont au centre de la société capitaliste, et ils parlent de leur désir d'intégration, de leurs droits, du respect qu'ils réclament. La Pologne est devenue capitaliste et a accepté les lois européennes mais au quotidien, il y a une grande différence entre la loi et son application. Très étrangement les homosexuels étaient mieux protégés dans le système communiste que dans les sociétés occidentales libérales de la même époque. Mais le retour du catholicisme comme force politique a rendu les choses plus difficiles pour les homosexuels. Il y avait une tolérance évidente qui n'existe plus, même si les lois sont officiellement plus libérales. J'ai le sentiment que de nos jours nous faisons des pas en arrière.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_angels_FDA2007/CommAvignon_fds_angels_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Ce poids du religieux vous semble très présent dans la pièce?<br>Oui bien sûr. La religion et le lien au religieux sont très présents surtout dans la seconde partie de la pièce. La scène où un mormon pratiquant, facilement transposable en catholique pratiquant, annonce à sa mère qu'il est homosexuel est sans doute la plus troublante pour le public et en ce sens devient une scène très politique. Le coming-out est un vrai problème en Pologne pour des milliers de jeunes polonais ainsi que pour les \"officiels\". Le monologue inaugural du rabbin, dans lequel il parle de la famille comme base de la société qui s'effondre est très proche de ce que nous entendons ici de la part des responsables religieux.<br><br>Vous pensez que la société polonaise est actuellement proche d'un certain reaganisme?<br>Très certainement, depuis que nous sommes devenus capitalistes. Nous ne sommes pas étrangers à la sauvagerie d'une Amérique où certains, parmi les plus riches, arrivent au pouvoir pour dire n'importe quoi, en particulier que sans religion nous allons vers l'apocalypse.<br><br>La pièce ne permet-elle pas justement de passer de l'intime au politique?<br>La pièce commence par une sorte d'analyse d'une société troublée par l'apparition de la maladie et de la mort à travers l'épidémie du sida. Mais elle bascule très vite dans un regard plus personnel sur les aventures des personnages en crise avec eux-mêmes. Ils remettent en cause ce que la religion leur a appris, ils se posent des questions sur le devenir de la vie politique. La vision est plus introspective que sociale et politique, même si les deux se mélangent. Le but de mon travail, et c'était déjà vrai pour Kroum, est de parler de l'acceptation de soi tel qu'on est. Il faut, avec une certaine tendresse, aborder ces problèmes de reconnaissance de soi. Il faut refuser la peur et le mensonge.<br><br>Lorsque Tony Kushner parle de la vie de couple, il s'agit tant des homosexuels que des hétérosexuels?<br>Il en parle surtout en les mettant sur un pied d'égalité ce qui est surprenant et qui provoque un choc. D'autant que les deux couples ont des problèmes violents, sida pour l'un, mensonge du mari pour l'autre. La progression dramatique amène jusqu'au dévoilement du mensonge qui détruit le couple hétérosexuel. Parallèlement, le couple homosexuel s'effondre aussi. Il y a donc une suite de situations qui paraissent sans issue. Les problèmes que doivent affronter les nouvelles générations polonaises, et pas seulement polonaises, sont au centre de ce spectacle: religion, famille, choix sexuel.<br><br>Le poids de la famille est encore important en Pologne?<br>Très bizarrement, il pourrait sembler que la famille soit un pouvoir de pression mais je me demande si ce n'est pas dans la tête des individus plus que dans la réalité. Il faut faire la différence entre Varsovie et le reste de la Pologne bien sûr, car dans la capitale il y a beaucoup plus de célibataires et le problème du couple et du mariage se pose différemment. Mais il est certain que Angels in America pose la question du couple à un endroit très dérangeant pour notre société polonaise.<br><br>Comment avez-vous traité le problème de l'ange, des anges qui sont au centre de la pièce?<br>Tony Kushner n'est pas allé très loin dans son analyse du \"Ciel\", du divin. L'ange est présenté ici comme une créature déchue, comme chaque individu sur terre. On pourrait alors traiter cela par le grotesque ce qui ne me convient pas du tout. J'ai choisi de mettre en scène une femme, mais très hermaphrodite, d'une telle beauté qu'elle en est presque inhumaine. J'ai construit le personnage autour d'une des phrases que lui fait dire Kushner:</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-angels-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

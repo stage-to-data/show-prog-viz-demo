@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Mefisto"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_mefisto_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_mefisto_FDA2007/CommAvignon_fds_mefisto_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>rement consacré à son art. Dans la dernière interview qu'il a donnée avant sa mort, Gründgrens dit qu'il est pour la première fois de sa vie en vacances car avant il a passé son temps \"à jouer\". Il ne dit pas \"à travailler\" mais \"à jouer\"...<br><br>Certains acteurs en France ont refusé de jouer pendant l'occupation nazie. Est-ce aussi une possibilité ?<br>G.C.: Bien sûr; quand on a le sentiment que l'on est plus capable de dire ce que l'on veut ou ce que l'on doit dire, il faut trouver un autre moyen pour faire connaître son opinion. Le silence en est un. Mais c'est au spectateur à la fin du spectacle de se poser la question de la position juste.<br>T.L.: Le drame de Gründgens c'est justement de ne pas avoir voulu faire de choix. Certains acteurs dans l'ultime scène de la pièce se posent, eux, la question du choix après l'apocalypse. Ils pensent qu'il n'est même plus possible de jouer comme d'autres pensaient qu'il n'y avait plus de poésie possible après Auschwitz. C'est une vraie question que le silence. Mais aussi de savoir si l'être humain peut vivre sans côtoyer des pratiques artistiques.<br><br>Vous avez pris la direction de la Toneelhuis avec un projet autour d'un noyau artistique mêlant la danse, le cinéma, la vidéo, la musique et le théâtre. Où en êtes-vous après une année de pratique ?<br>G.C.: Nous voulons décloisonner les pratiques artistiques, les faire travailler ensemble ou côte à côte en fonction des projets. En ce qui concerne le théâtre, nous travaillons avec un noyau d'acteurs qui ne forment pas une troupe permanente mais qui sont des compagnons réguliers. Il y a quinze ans, les autorités politiques anversoises voulaient anéantir les trois grands théâtres de la cité. Aujourd'hui, grâce à notre collectif artistique, il y a un dialogue à l'intérieur du théâtre et avec le public, ce qui pour l'instant connaît un réel succès. Je voudrais un théâtre qui, comme une pierre qui fait des ronds dans l'eau, émeut la ville, le pays et le monde, et qui s'en laisse émouvoir.<br>Propos recueillis par Jean-François Perrier en février 2007<br><br># Guy Cassiers<br>Guy Cassiers (Anvers, 1960) entreprend d'abord des études d'arts graphiques à l'Académie des Beaux-Arts d'Anvers. En cours de route, ses intérêts se déplacent vers les arts dramatiques, mais sa formation artistique demeurera cruciale dans sa carrière d'homme de théâtre. Cassiers observe toujours le théâtre en s'en distanciant, ce qui lui permet de créer un langage plastique très personnel. Dans la teneur de ses œuvres, cette position d'outsider se traduit par une préférence pour des personnages solitaires, isolés et même souvent asociaux; au niveau de la forme, elle définit son choix pour les textes plus littéraires que dramatiques, et son usage de la technologie visuelle. À partir de la littérature (le mot) et des nouveaux médias (l'image) il tente de redéfinir le théâtre. Dans les années 80, Guy Cassiers monte ses premiers spectacles à Anvers, dont Kaspar de Peter Handke et Daedalus, un projet avec des handicapés. En 1987 il est nommé à la direction de la maison des jeunes public Oud Huis Stekelbees à Gand (l'actuelle Victoria). Dans sa déclaration d'intention, on pouvait lire: \"...OHS, c'est faire primer la résonance du mot sur sa signification, l'association d'idées sur l'histoire, le son sur la musique, la lumière sur l'éclairage, l'émotion sur l'idée, la dualité sur la description, le théâtre sur la réalité.\" Les spectacles de Guy Cassiers sont un appel constant à la créativité des sens. En 1992, Guy Cassiers continue sa carrière comme metteur en scène indépendant et travaille entre autres pour le Kaaitheater à Bruxelles, Tg STAN à Anvers et la Toneelschuur à Haarlem. Sa première production pour le ro theater de Rotterdam, Angels in America, est couronnée en 1996 par plusieurs prix.<br>En 1997, Guy Cassiers présente Onder het Melkwoud (Au bois lacté) de Dylan Thomas avec l'ensemble du ro theater au grand complet. La même année, il est nommé directeur artistique du ro theater. Cassiers découvre les possibilités que la grande scène offre à ses narrations dramatiques et entre 1998 et 2006, édifie un langage théâtral multimédia dans ce sens. Ses spectacles De Sleutel et Rotjoch (1998), De Wespenfabriek (2000), La Grande</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/1#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_mefisto_FDA2007/CommAvignon_fds_mefisto_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Suite (2001), Lava Lounge (2002) et l'opéra The Woman Who Walked into Doors (2001) sont autant de preuves de sa volonté d'intégrer le multimédia dans le théâtre. L'un des points culminants de cette recherche est sans aucun doute le cycle Proust en quatre volets qu'il a réalisé entre 2002 et 2004. Cassiers privilégie la mise en scène de romans célèbres comme Hiroshima Mon Amour de Marguerite Duras en 1996, Anna Karenina de Tolstoï en 1999 et Bezonken rood (Rouge décanté) de Jeroen Brouwers en 2004. Le spectacle par lequel il a clos ses années de ro theater au printemps 2006 était une adaptation de Hersenschimmen (Chimères) de J. Bernlef. Pour ses débuts à la Toneelhuis, il choisit Onegin d'après le roman en vers de Pouchkine. Mefisto for ever est sa première mise en scène en tant que directeur artistique de la Toneelhuis. Il considère Mefisto for ever comme le premier volet d'une trilogie : Triptiek van de Macht (Le Triptyque du pouvoir). Il montera les volets deux et trois Wolfskers et Atropa la saison prochaine.<br><br># Tom Lanoye<br>Né en 1958 dans la petite ville flamande de Sint-Niklaas, Tom Lanoye se fait connaître au début des années 80 par ses performances poétiques dans le milieu estudiantin de Gand. Il débute officiellement avec un recueil de critiques satiriques, Rozegeur en maneschijn (La Vie en rose, 1983). Le succès viendra avec Een slagerszoon met een brilletje (Un fils de boucher binoclard, 1985), récit dans lequel il met en scène avec humour son enfance provinciale. Ses thèmes de prédilection sont l'amour, la décrépitude, la mort et la gastronomie, le tout situé dans le cadre stéréotypé de la Flandre petite-bourgeoise. Le roman qui connut le plus de succès est le semi-autobiographique Kartonnen dozen (Cartons, 1991). Au milieu des années 90, Lanoye adapte les drames historiques de William Shakespeare pour les transformer en une pièce de douze heures, Ten Oorlog (À la guerre). Avec Mamma Medea, il adapte également Euripide. Figure médiatique et intellectuel engagé (en 2000, il s'est présenté aux élections municipales à Anvers sur la liste des Verts), Lanoye propose avec sa trilogie romanesque Het goddelijke monster (Le Divin Monstre, 1997), Zwarte tranen (Larmes noires, 1999) et Boze tongen (Mauvaises Langues, 2002) une satire de la Flandre contemporaine. Il doit aussi son renom à ses performances en solo, qui marient humour, théâtre et poésie.<br>Traductions disponibles : Le beau laid, c'est pas si moche, dans Littérature en Flandre, anthologie, éd. Le Castor Astral, 2003 ; Extrait, dans 17 écrivains belges, anthologie Belles Étrangères, éd. Le Castor Astral, 1999 ; Célibat, éd. Lansman, 1996.<br><br># et<br><br># Klaus Mann et la France Un destin d'exil<br>6 - 27 juillet ⧠ horaires d'ouverture 11 h - 18 h ⧠ École d'Art<br>Très tôt, Klaus Mann (1906-1949), fils de Thomas Mann, perçoit les dangers du nazisme et quitte l'Allemagne pour la France dès 1933. C'est en exil qu'il écrira ses plus grands livres, tels Le Volcan, Le Tournant et Mephisto. Cette exposition rappelle que l'écrivain fut non seulement un opposant à Hitler résolument engagé, mais aussi un Européen convaincu.<br><br># Auteur/Acteur (et vice versa) textes de Tom Lanoye lu par l'auteur et Alain van Crugten<br>19 juillet ⧠ 11 h ⧠ Musée Calvet<br><br># Regards critiques<br>22 juillet ⧠ 11H30 ⧠ École d'Art<br>L'artiste et le pouvoir ⧠ avec Guy Cassiers, Ludovic Lagarde, Jean-Pierre Vincent et Jack Ralite, sénateur<br><br># Dialogue avec le public<br>23 juillet ⧠ 11H30 ⧠ École d'Art<br>avec Guy Cassiers et des membres de l'équipe artistique de Mefisto for ever, animé par les Ceméa</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/2#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_mefisto_FDA2007/CommAvignon_fds_mefisto_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Guy Cassiers <br>& Tom Lanoye/<br>Toneelhuis<br># Mefisto for ever<br><br>DE TOM LANOYE<br><br>LIBREMENT ADAPTÉ DE MEPHISTO DE KLAUS MANN<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/3#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_mefisto_FDA2007/CommAvignon_fds_mefisto_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>17 18 19 20 22 23 24<br>THÉÂTRE MUNICIPAL □ 21 h 30 □ durée 3 h entracte compris<br>spectacle en néerlandais, surtitré en français □ première en France<br><br>texte d'après le roman de Klaus Mann<br>mise en scène Guy Cassiers<br>texte Tom Lanoye<br>dramaturgie Erwin Jans<br>scénographie Marc Warning<br>lumière Enrico Bagnoli<br>décor sonore Diederik De Cock<br>vidéo Arien Klerkx<br>costumes Tim Van Steenbergen<br><br>avec<br>Dirk Roofthooft Kurt Köpler, comédien ambitieux et sympathisant gauchiste<br>Katelijne Verbeke Rebecca Fuchs, comédienne vedette d'origine étrangère / Lina Lindenhoff, comédienne et maîtresse du \"Gros\"<br>Vic De Wachter Victor Müller, directeur de théâtre, comédien, concierge et militant communiste / \"Le Nouveau Leader\", commandant de l'armée de libération<br>Gilda De Bal Mufti Hilda, mère de Kurt Köpler, souffleuse, régisseuse, tenancière du bar<br>Stefan Perceval Niklas Weber, comédien & fasciste prolétaire / \"Le Boiteux\", ministre de la Propagande<br>Ariane van Vliet Nicole Naumann, comédienne ambitieuse et sympathisante gauchiste<br>Abke Haring Angela, jeune comédienne<br>Josse De Pauw \"Le Gros\", général aviateur, bras droit du dictateur fasciste, notamment comme ministre de la Culture<br><br>assistante au costumes Mieke van Buggenhout<br>habilleuse Kathleen van Mechelen<br>assistante du metteur en scène Lutje Lievens<br>responsable de la production Michaël Greweldinger<br>réalisation du décor Atelier de la Toneelhuis : Karl Schneider, Bruno Bressamutti & Patrick Jacobs<br>réalisation des costumes Atelier de la Toneelhuis : Erna Van Goethem & Christiane De Feyter<br>direction technique Freek Boey, Leo Verlinden<br>responsable technique de la production Chris Vanneste<br>technique Luk Focke, Jaap Toet<br>surtitrages Erik Borgman<br>chargé de production Michaël Greweldinger<br>assistant du dramaturge Peter Seynaeve<br>stagiaire dramaturgie Kristin van der Voort<br><br>Spectacle créé le 20 octobre 2006 au Bourla (Toneelhuis)<br><br>production Toneelhuis (Anvers)<br>avec le soutien du ministère de la Communauté flamande, la Ville d'Anvers et la Province d'Anvers<br>présenté au Festival avec le soutien des autorités flamandes<br><br>les dates de Mefisto for ever après le Festival :<br>du 12 au 15 septembre 2007 au Bourla (Toneelhuis, Anvers, Belgique), les 7 et 8 septembre 2008 au Festival de Théâtre à Amsterdam (Pays-Bas)</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/4#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_mefisto_FDA2007/CommAvignon_fds_mefisto_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Guy Cassiers et Tom Lanoye<br><br>La pièce Mefisto for ever que vous mettez en scène n'est pas une adaptation du roman de Klaus Mann mais un texte original à partir de l'œuvre romanesque?<br>Guy Cassiers: C'est une pièce nouvelle qui respecte l'idée originale et la philosophie du texte de Klaus Mann, mais qui s'appuie aussi sur d'autres matériaux, en particulier des documents historiques concernant l'histoire vraie des personnages du roman. Toutes ces informations ont servi à construire des personnages de théâtre différents de ceux du roman, plus complexes peut-être, plus proches de la réalité en tout cas.<br>Tom Lanoye: Avant l'écriture de la pièce, j'ai dialogué avec Guy Cassiers mais aussi avec le dramaturge et certains des acteurs. Ensuite j'ai écrit ma pièce en tenant compte de tout ce qui a été dit dans la phase de préparation. C'est ma façon de travailler.<br><br>Vous avez donc travaillé aussi sur la vie réelle des actrices et des acteurs qui peuplent le roman de Klaus Mann?<br>T.L.: Oui, mais nous avons d'abord travaillé sur les deux adaptations déjà existantes du roman: l'adaptation pour le théâtre faite par Ariane Mnouchkine et le Théâtre du Soleil et l'adaptation pour le cinéma d'István Szabó. Le livre de Mann est un pamphlet écrit au moment où se déroulaient les événements en Allemagne, en 1936, et la question dramaturgique était de savoir: que faire d'un pamphlet au théâtre? Nous avons aussi constaté en travaillant sur les documents historiques que Gustav Gründgens, l'acteur qui est au centre du récit, avait réussi à sauver des intellectuels et des acteurs juifs ou communistes pendant la guerre, qu'il avait aussi critiqué le système, qu'il avait mis en scène Richard III de Shakespeare en se moquant de Goebbels. Nous avons pensé que si nous évitions la caricature du méchant entièrement méchant, si nous étions nuancés, nous pourrions aller plus loin dans l'analyse du comportement de celui qui pense qu'il peut lutter \"contre\" le système en étant \"dans\" le système. Il faut sans cesse se demander ce que l'on aurait fait dans la même situation et toujours penser que le théâtre est le lieu du doute. Si on condamne a priori sur la scène du théâtre, s'il n'y a pas d'antagonisme possible, on en revient au pamphlet qui, pour moi, n'y a pas sa place.<br>G.C.: Se poser la question du doute était très important, c'était la toute première question dans une ville comme Anvers où un pourcentage très élevé de la population vote à l'extrême droite. Comment se situe l'artiste dans cette situation? Quelle est sa place? Quel dialogue peut-on avoir aujourd'hui avec la population dans cette ville?<br><br>Les pratiques artistiques doivent-elles se poursuivre, quel que soit le contexte politique qui les entoure?<br>T.L.: Nous ne sommes pas à Anvers dans une situation aussi tragique que dans l'Allemagne des années trente, la question ne se pose pas encore dans ces termes. Mais nous pouvons nous servir du contexte historique de l'Allemagne nazie pour nous poser ces questions. Nous les posons d'ailleurs avec une distance que n'avait pas Klaus Mann et surtout, nous savons ce qui s'est passé après la chute du nazisme. C'est pour cela que nous avons rajouté une scène à la fin de notre pièce. Elle se passe au moment où les communistes allemands prennent le pouvoir à l'Est de l'Allemagne, lorsque Staline dit des artistes qu'ils doivent être \"les ingénieurs de l'âme\". Alors la question de l'artiste dans la société dépasse le cadre du nazisme, elle est devenue quotidienne et universelle, et aujourd'hui nous savons que si les réponses à cette interrogation ne sont pas si simples à donner, il faut de toute façon éviter le manichéisme. Est-il possible d'avoir de la compréhension, de la compassion pour les artistes qui pensent pouvoir continuer à faire de la résistance avec de l'Art?<br><br>Pour poser cette question, utilisez-vous des textes de nature différente?<br>T.L.: À côté des extraits du roman de Klaus Mann, nous utilisons des extraits de pièces de Shakespeare, Tchekhov, Goethe et des textes politiques, dont des extraits d'un célèbre discours de Goebbels.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/5#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2232,
+            "width": 1578,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_mefisto_FDA2007/CommAvignon_fds_mefisto_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2232,
+                                "width": 1578,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/6#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>G.C.: Nous utilisons les textes classiques du répertoire pour mieux comprendre comment l'acteur, le personnage central de la pièce, progresse à l'intérieur de sa propre réflexion grâce à ces personnages théâtraux dont il emprunte les pensées. Il cherche à établir un dialogue avec sa propre réalité à travers les fictions qu'il joue et en même temps, il se cache derrière elles. Le théâtre devient un bunker dans lequel il s'enferme et à la fin il n'y a plus que le silence, l'acteur étant incapable de parler à la première personne tellement il a pris l'habitude de parler à travers les personnages qu'il incarne. Si on lui pose une question directe et personnelle, il ne peut que balbutier sans vraiment répondre.<br><br>Toute la pièce se déroule dans le théâtre, sur la scène du théâtre?<br>T.L.: Il fallait une unité de lieu, et ce lieu ne pouvait être que le théâtre qui est le centre de la vie de Gründgens. Pour nous, il est évident que les politiciens qui viennent rencontrer l'acteur dans le théâtre sont eux-mêmes des acteurs... Il y a une compétition sur la scène entre ces deux types d'acteurs. Ce sont presque des concurrents et c'est là une des clefs de notre adaptation.<br><br>Qu'est ce qui d'après vous motivait Gustav Gründgens? L'amour du théâtre, le désir de lutter contre le système de l'intérieur, son amour pour lui-même et pour le succès?<br>G.C.: Au fur et à mesure que le spectacle avance, il y a des déplacements dans ses convictions. Au début, il pense que le théâtre peut donner des armes pour lutter contre le nouveau système mais ensuite il ne peut plus justifier ce choix que par le désir de sauver quelques individus. Plus il se rend compte que tout disparaît autour de lui, dans ce théâtre qui est sa vie, plus il s'enferme dans des justifications auxquelles il a du mal à croire.<br><br>Que lui reste-t-il comme idéal alors?<br>G.C.: Il ne reste que l'Art pour l'Art, il ne reste que la forme du théâtre puisque le contenu et la fonction disparaissent. Il refuse cependant d'admettre que le régime absorbe son théâtre.<br>T.L.: Il ne lui reste que la vanité, cette vanité qu'il utilise pour jouer ses personnages. Dans ses rapports avec les politiques il ne sait plus qui est le diable, qui est Méphisto, qui cherche à séduire, qui est séduit. Il est fasciné par les politiciens comme les politiciens sont fascinés par les acteurs qui savent faire des choses qu'eux ne savent pas faire, et particulièrement de recevoir des applaudissements simplement en jouant. Bien sûr, l'acteur, lui, peut avoir un sentiment du pouvoir grâce à cela. Mais si l'on regarde attentivement son fonctionnement, ou même celui de la religion, on s'aperçoit très vite que le pouvoir n'est qu'une mise en scène du pouvoir. Les fascistes avaient besoin des parades, des déguisements, des costumes, de musique... Et bien sûr ils faisaient du mauvais théâtre. Cette fascination se retrouvait même dans leur vie privée puisque Goebbels, comme Göring, avait une maîtresse actrice. Il y a une projection évidente. Au centre de notre pièce, il y a l'idée que le théâtre, le lieu théâtre, devient l'arène dans laquelle la politique et l'art se combattent.<br><br>Pourquoi dans votre pièce, l'acteur est-il flamboyant quand il joue un rôle mais assez terne quand il redevient lui-même?<br>G.C.: Il fallait que le public puisse s'identifier à l'acteur, aussi bien à sa grandeur qu'à sa petitesse. Il doit être aussi un homme banal pour qu'on puisse croire à son idéal au début de la pièce. Si l'on n'y croit pas, la progression dramatique ne peut fonctionner et n'a pas d'intérêt.<br><br>La dernière scène du spectacle n'a aucun rapport avec le roman puisqu'elle se situe après la chute du nazisme. Quelle nécessité aviez-vous de poursuivre ainsi l'histoire de Gründgens?<br>T.L.: Parce que Gründgens ne comprend pas pourquoi il en est arrivé là au moment où le régime nazi s'effondre. Il sait qu'il a perdu, mais ne sait pas pourquoi et comment cet échec est arrivé. Il souhaiterait pouvoir recommencer comme si de rien n'était, mais cela n'est plus possible. Quand une jeune actrice lui demande une \"vraie douleur\", \"une vraie passion\", quand elle lui demande: \"qu'est ce que tu sens?\" il ne peut répondre que: \"Je sens... Je... Je... Je...\". Il n'y a plus que du vide, même si les nouvelles autorités lui demandent de poursuivre son travail, mais dans une direction différente. Il y a du tragique dans cette vie d'acteur entiè-</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-mefisto-fda2007/canvas/6#xywh=0,0,1578,2232"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

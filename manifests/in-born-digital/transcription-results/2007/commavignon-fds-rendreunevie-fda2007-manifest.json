@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Rendre une vie"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_rendreUneVie_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_rendreUneVie_FDA2007/CommAvignon_fds_rendreUneVie_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>certaine d'intégrer cette conversation au projet parce que j'ai cette fois l'intention d'utiliser la vidéo autrement. Mais il serait tout à fait possible de le faire. Pour moi il n'y a pas de vraie césure entre ce qui se joue dehors et ce qui se joue sur le plateau. Et tisser un réseau de questionnements à partir de différents registres de parole, de texte et de présence fait justement partie de ce qui m'intéresse le plus au théâtre.<br>Propos recueillis par Irène Filiberti en février 2007 avant le début des répétitions<br><br><br># Éléonore Weber<br>Née en 1972, diplômée en philosophie politique, Éléonore Weber est auteure, réalisatrice et metteure en scène. Elle crée Tu supposes un coin d'herbe en novembre 2005, dans le cadre des Impromptus du Festival Mettre en Scène (Théâtre national de Bretagne, Rennes). La pièce est reprise en janvier 2006 au Théâtre de la Bastille.<br>En janvier 2004, elle met en scène Je m'appelle Vanessa de Laurent Quinton pour la série de créations \"Pièces d'identités\" à La Passerelle, Scène nationale de Saint Brieuc. Le spectacle sera repris au Festival Mettre en Scène en novembre 2004.<br>Elle est l'auteur de Manège (2000-2001), commande de Roland Fichet et de Décadrages 10 (2003). Ces deux pièces ont été mises en scène par Annie Lucas, la première pour la série de créations Naissances, la seconde pour la série de créations Pièces d'identités. Décadrages 10 a été présenté au Festival Frictions (Centre Dramatique National de Dijon) en mai 2004.<br>Elle a réalisé Silence dans le fortin, documentaire tourné en Algérie en 2002 (production Point du Jour). En 2005, elle réalise Temps morts, court-métrage de fiction (production Le GREC, Festival du film de Belfort-Entrevues, Festival Paris Tout Court, Festival de Vendôme, Festival Côté Court de Pantin, présenté au Centre Georges-Pompidou en 2006...). Après une résidence au centre des écritures cinématographiques du Moulin d'Andé, elle réalise en 2007 Les Hommes sans gravité, moyen-métrage de fiction (production Eccefilms, post-production en cours).</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_rendreUneVie_FDA2007/CommAvignon_fds_rendreUneVie_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>et<br><br># Films et documentaires au cinéma Utopia<br>12 juillet □ 14h □ Utopia-Manutention<br>Temps morts (2005, 20mn)<br>Les Hommes sans gravité (2007, 35mn)<br>court et moyen métrages d'Éléonore Weber, en présence de l'artiste<br><br>Comme chaque année, l'Adami apporte son aide aux spectacles coproduits par le Festival d'Avignon et favorise l'emploi, notamment sur des spectacles réunissant un nombre important d'artistes. Société de gestion collective des droits des artistes-interprètes (près de 60 000 comédiens, chanteurs, musiciens, chefs d'orchestre, danseurs...), l'Adami a consacré, en 2006, près de 13 millions d'euros à 950 projets dans différents genres artistiques. Ces aides ont contribué à l'emploi direct de plus de 6500 artistes.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_rendreUneVie_FDA2007/CommAvignon_fds_rendreUneVie_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>DEXIA                                61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_rendreUneVie_FDA2007/CommAvignon_fds_rendreUneVie_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>8 9 10 11 13 14<br>CHAPELLE DES PÉNITENTS BLANCS □ 15h □ durée estimée 1h30 □ création 2007<br><br>auteur, metteur en scène Éléonore Weber<br>avec Jeanne François, Mathieu Montanier, Élios Noël, Joana Preiss<br>image Mathias Raaflaub<br><br>lumière, régie générale Laurent Queyrut<br>scénographie Stéphane Pauvret<br>univers sonore Frédéric Marolleau<br>costumes Laure Mahéo<br>collaboration artistique Carole Perdereau<br>assistante à la mise en scène Charline Grand<br>administration Patrice Rabine, Amélie Philippe<br><br>Spectacle créé le 8 juillet 2007 à la Chapelle des Pénitents Blancs, Festival d'Avignon<br><br>production Théâtre de Folle Pensée, compagnie conventionnée (Saint-Brieuc)<br>en coproduction avec le Festival d'Avignon, Le Grand R Scène nationale (La Roche-sur-Yon) et La place Compagnie (Paris)<br>Le Festival d'Avignon reçoit le soutien de l'Adami pour la production</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_rendreUneVie_FDA2007/CommAvignon_fds_rendreUneVie_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Éléonore Weber<br><br>Vous avez écrit plusieurs pièces et cette création qui succède à Tu supposes un coin d'herbe est votre seconde mise en scène. Par quoi avez-vous commencé?<br>Éléonore Weber: Le premier geste a été celui de l'écriture. J'ai ensuite mis en scène Je m'appelle Vanessa de Laurent Quinton. Son écriture répondait au désir de forme scénique que j'avais, elle me semblait sans doute plus proche de ce désir que ce que j'écrivais moi-même à l'époque. Après cela je n'ai plus distingué le geste de mise en scène de celui de l'écriture et j'ai d'ailleurs commencé à écrire autrement. Parallèlement je me suis intéressée au cinéma, j'ai réalisé un documentaire puis deux fictions (court et moyen métrage). Pour moi, la question des liens entre ces langages ne se réduit pas au fait que dans mes deux premières mises en scène il y a eu beaucoup de vidéos. La vidéo sur scène, ce n'est pas du cinéma. Et pour l'instant je ne cherche pas à définir ou à fixer ce qui se tisse entre ces différentes tentatives, je sais seulement que j'aimerais les poursuivre l'une et l'autre.<br><br>Dans ces deux premières propositions théâtrales, vous évoquez \"les logiques coupantes de l'écriture\", qu'entendez-vous par cette expression?<br>Je travaille autour d'une écriture volontairement explicite, autour de ce que le très explicite peut avoir de coupant. Et peut-être est-ce lié à tout ce qu'il laisse dans l'ombre. Tu supposes un coin d'herbe reposait sur des logiques mentales sans corps ou plutôt sur des logiques qui peuvent passer par différents corps et qui n'ont pas forcément besoin du corps d'un personnage ou d'un récit pour être ententues. Rendre une vie vivable n'a rien d'une question vaine prolonge cette démarche, même si nous jouons de temps à autre, de manière furtive, à donner un nom à celui qui parle. Dans Tu supposes un coin d'herbe, cette parole sans locuteur pouvait facilement être associée au récit de soi. Mais en réalité le fait que je sois par exemple l'interlocutrice que l'on voit sur l'image vidéo, et qu'on puisse finalement identifier cette parole et peut-être se dire : \"c'est donc elle qui a écrit\", n'a pas grand-chose à voir avec ce qu'on appelle le récit de soi. L'affirmation d'une parole très personnelle est pour moi toujours renvoyée à une position contradictoire. Je crois que nos ressorts les plus intimes ne nous appartiennent pas, ou pas complètement. Et c'est souvent au moment où l'on pense être le plus personnel qu'on l'est le moins. L'ordre du monde a gagné la partie en imprégnant nos logiques les plus intimes. Dire \"je\" ou bien énoncer un \"tu\" perçu comme un \"je\" n'est pas une résistance en soi, ça ne suffit pas. Un \"je\" de résistance serait celui qui avoue ses divisions et ses contradictions intimes, qui se risque à cet exercice de lucidité, qui se risque à admettre que dans les endroits les plus secrets de son intimité, il est encore le produit du monde dans lequel il vit et qui cherche les moyens de lutter entre ce dehors et ce dedans. Cet exercice de lucidité m'intéresse, au sens du tranchant et non pas du constat. Dans Rendre une vie vivable n'a rien d'une question vaine je n'apparais pas dans les vidéos, mais c'est cette même écriture qui est à l'œuvre. La rattacher entièrement ou même partiellement à une forme de récit de soi est une fausse piste, liée à la confusion trop souvent faite entre le \"je\" et le \"moi\". Dire qu'il s'agit de logiques mentales auxquelles nous sommes peut-être nombreux à pouvoir nous identifier me semblerait plus juste.<br><br>Dans ce texte vous évoquez aussi une figure, en creux.<br>L'adresse au \"tu\" qui parcourt tout le texte désigne une figure qu'on ne peut associer à aucun personnage. Alors à qui s'adresse ce \"tu\"? Peut-être à cette figure en creux, présente en nous tous et tout le temps. Au début, j'avais pensé lui donner un nom: la Jeune Fille. Je</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_rendreUneVie_FDA2007/CommAvignon_fds_rendreUneVie_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>m'appuyais sur le livre de Tiqqun, Premiers matériaux pour une théorie de la Jeune Fille. La Jeune Fille n'est pas forcément \"fille\" et pas forcément \"jeune\". Un homme âgé peut tout aussi bien l'être. Cette théorie, ou ces fragments pour une théorie, qu'on peut situer du côté du post-situationnisme, dénonce un monde qui profile des citoyens, des formes de vie, des manières de penser. Dans son rapport au bonheur, à l'argent, à la mort, au sexe, à l'amour, l'individu est profilé, même ou surtout lorsqu'il croit à sa propre singularité ou à son authenticité: \"La Jeune Fille raffole de l'authentique parce que c'est un mensonge\". Le concept de Jeune Fille est en quelque sorte le signe d'un capitalisme qui se serait \"moléculairisé\". Cette théorie ne se présente pas comme un système, il s'agit plutôt d'une compilation de phrases, parfois fulgurantes. \"La Jeune Fille est optimiste, ravie, positive, contente, enthousiaste, heureuse; en d'autres termes, elle souffre. La Jeune Fille se produit partout où le nihilisme commence à parler de bonheur.\" Je m'en suis servie comme d'un point d'appui, je me suis servie de la manière dont ces différentes phrases résonnaient en moi. Et puis j'ai fini par oublier la Jeune Fille de Tiqqun, en tout cas elle ne s'est plus imposée comme une référence explicite. Elle resurgit ici ou là dans l'écriture, dans le travail avec les acteurs, souvent à notre insu. Il y a, au bout du compte, à la fois le désir de la repérer en nous et celui de la faire sortir de nous, de la pulvériser.<br><br># De quelle façon avez-vous abordé cette création?<br>Avec l'idée d'alterner des périodes d'écriture et des périodes de lecture ou de plateau. Et celle de fixer le texte le plus tard possible dans ce processus. Au départ il n'y avait d'ailleurs aucun texte, nous avons travaillé autour des Idiots de Lars von Trier. Nous sommes maintenant dans la deuxième étape de travail. Avec les quatre interprètes, nous lisons le texte, il se construit autrement au cours des lectures, nous cherchons des corps, des présences et ce qui va faire circuler cette parole. Dans Tu supposes un coin d'herbe la vidéo était essentiellement une vidéo à texture documentaire, elle s'était construite autour des questions que j'avais posées à différentes personnes, dont certaines m'étaient proches dans la vie, d'autres pas. Aujourd'hui, si j'ai encore le désir que la vidéo ne soit pas un prolongement de décor ou un élément purement plastique, je voudrais néanmoins la relier plus directement au plateau et aux comédiens. J'aimerais qu'elle introduise du déphasage dans la perception, déphasage entre l'artifice du théâtre et le supposé réalisme incarné de l'image. Mais les choses restent très ouvertes quant au statut de la vidéo dans ce projet.<br><br># Votre façon de tisser un réseau de questionnement est-elle guidée par une approche de l'actualité?<br>Non, je ne suis pas guidée par l'actualité. Mais il est vrai que mon projet se situe délibérément dans le présent d'une époque. Je cherche à déplacer mais je n'emmène pas les gens dans un ailleurs. Et je peux en effet faire de temps à autre référence à l'actualité, notamment par le biais de matériaux documentaires. Il y a par exemple dans le texte de Rendre une vie vivable n'a rien d'une question vaine des extraits de discussions trouvées sur un forum internet pour asexuels, un forum où les gens discutent de leur identité d'asexuel. Pour eux, l'asexualité n'est en aucune façon une privation, elle pourrait à la limite être une identité sexuelle comme une autre. La question qu'ils posent est assez troublante. J'ai par ailleurs commencé à filmer des conversations autour de cette question: \"Aimons-nous la France?\". J'ai filmé un groupe de gens habitués à se retrouver pour discuter. Ce soir-là nous avons décidé de nous poser cette question qui n'est en réalité jamais posée qu'à ceux qui n'ont pas les moyens de répondre non. La question elle-même a été assez vite éludée, ce qui était prévisible. Nous avons fini par parler de notre profonde crise de positionnement. Je ne suis absolument pas</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-rendreunevie-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

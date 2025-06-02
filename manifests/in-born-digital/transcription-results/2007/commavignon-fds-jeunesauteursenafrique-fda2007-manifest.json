@@ -1,0 +1,830 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Jeunes auteurs en afrique"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Cycle de lectures<br># Jeunes auteurs en Afrique<br><br>61e Festival d'Avignon<br><br>DEXIA</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>11 13 14 15 16 17<br>JARDIN DE LA RUE DE MONS □ 11 h □ entrée libre<br><br>production Festival d'Avignon<br>avec le soutien de CULTURESFRANCE dans le cadre du programme Afrique en créations et de l'Ambassade de France à Brazzaville<br>Document rédigé par Kouam Tawa (hormis les citations)<br>CULTURESFRANCE vient d'éditer un recueil intitulé Écritures d'Afrique regroupant les textes présentés dans ce cycle (à l'exception de ceux de Sony Labou Tansi publiés par les éditions Revue Noire, 2005) et ceux présentés lors de la manifestation \"Écritures d'Afrique\" organisée en mai 2007 au Théâtre du Vieux-Colombier (Paris)<br><br># Cors et flûtes<br><br>Et voici s'élever une gerbe de voix pour qui l'art est combat! Combat contre les ombres de la nuit, combat contre les nuages du jour! Et le silence coupable! Quand on bâillonne, elles crient. Quand ça bouillonne, elles chantent. Sans que leurs cris soient de la même teneur. Sans que leurs chants soient de la même couleur.<br><br>Le cor et la flûte taillés dans le même bois ne tintent ni ne vibrent pareillement. Chacun y va de son histoire première, de sa nature conquise, de son désir d'être. Et c'est de l'accord d'une multitude d'instruments, d'une variété de sons et de la baguette orchestrale qu'éclate la symphonie!<br><br>Elles émanent de la vieille terre, ces voix, dans le sillage d'un souffle tutélaire. Elles sont émergentes et florissantes, parlées et chantées, hurlées et chuchotées. Elles s'élèvent des sédiments du Congo, du Machoun et de l'Océan indien. Et se gonflent des sucs de l'harmattan, du khamsin et de l'alizé pour retentir ailleurs.<br><br>Ce n'est pas pour plaire qu'elles se déclarent et montent, ces voix d'un nouveau jour, mais par faim et par soif d'amplitude. Quand bien même certaines tâtonneraient dans l'aire de l'oraliture, elles auraient le mérite d'enfourcher l'ultime prière de l'ancêtre Fanon: O mon corps, fais de moi toujours un homme qui interroge!<br><br>Kouam Tawa</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>11 juillet □ L'Acte de respirer et extraits de Machin la hernie<br>de Sony Labou Tansi (Brazzaville), lu par Dieudonné Niangouna<br>Textes publiés par les éditions Revue Noire, 2005, Paris<br><br>Né le 5 juillet 1947 à Kinshasa et mort le 14 juin 1995 à Brazzaville, Sony Labou Tansi est l'une des voix majeures de la littérature africaine de la seconde moitié du xxe siècle. Poète, nouvelliste, auteur dramatique et romancier, son œuvre a ouvert la voie à plus d'une génération d'écrivains d'Afrique francophone et lui a valu le grand prix littéraire de l'Afrique noire, le premier prix de la Francophonie de la Sacd, et le prix de la Fondation Ibsen. Il est l'auteur de six romans publiés aux éditions du Seuil, parmi lesquels figurent l'inoubliable La Vie et demie et l'exubérant L'État honteux dont Machin la Hernie est la première version. Il a également écrit une vingtaine de pièces dont certaines ont été mises en scène par lui-même au sein du Rocado Zulu Théâtre qu'il dirigeait et jouées entre autres au Festival des Francophonies en Limousin, et d'autres par des metteurs en scène tels que Gabriel Garran au Théâtre National de Chaillot et Georges Wolfe à l'Ubu Theater de New-York.<br><br># L'Acte de respirer<br>Dédié à l'écrivain mauricien Edouard Maunick, ce recueil de poèmes écrit aux environs de 1976 et publié à titre posthume dans ses deux versions est comme dirait le poète une sorte de \"corps-langage où crémit son âme, la douleur d'une âme qui veut accoucher d'elle\". Dans ces poèmes qui coulent avec l'urgence et la véhémence des rapides, les mots crépitent comme les gouttes d'une averse tropicale et tintent comme des sonnettes au col d'un coursang au galop. Le poète y parle comme on scande un jazz rap et s'entête à respirer pour qu'il fasse monde en lui. Ces vers d'avant-saison donnent le ton d'une coulée poétique qui inscrira les mots au cœur de sa quête, les mots qui comme dira Sony sont du silence qui parle, des bulles de silence qui parlent et vont mourir si quelqu'un ne les remue à temps.<br><br>extrait : L'ombre/bat/comme un vilain/cœur/au/fond des choses/Je/renverse/ma marque d'homme/sur/mon odeur de viande et/je/circule violemment/au/fond inhabité/des mots - L'acte d'écrire/devient prétexte de respirer/Lentement/Très lentement/Je/marque le pas/sur/la/race/des étoiles -/Que les choses sont amères/au/fond de mon obsession/On s'amuse alors qu'il/faut bâtir/uns/mort/qui soit capable/de me tuer -/Là-bas/On/se rate/On se ment/On se manie/au/langage - on se réclame au vin - Ici/Lune de poche/Vie de poche/Santé de poche - Ai-je/une chair/à remporter tout cela -/Là-/bas on monte/au/sommet des mots pour rater/les/choses/Moi/j'ai crevé/l'idée/Regardez - écoutez/comme/je suis sonore à moi -/sonore/et praticable -/Là-bas/Tout/est/caillou/et/le/ciel/pour vibrer n'attend/que/moi -/Les têtes/souffrent des mots chroniques/des/mots/qui ratent/et les curs/sont/amples/comme des soleils -/Là-bas/La/vie/passe/Elle est venue/de/tellement/loin/que/personne ne sait/où/elle/va -<br><br># Machin la hernie<br>Parlant de son roman L'État honteux qu'il souhaitait voir paraître sous le titre Machin la Hernie, Sony Labou Tansi dit que son désir était d'écrire un livre qu'on pourrait relire cinquante fois dans l'espace d'une vie. La parution de cette version primitive, plus brute et riche du tiers dégrossi par le diktat de la première version, accroît les chances d'exaucement du vœu de l'auteur. Ce texte-torrent lui fut inspiré par des discours de feu le président Mobutu Sese Seko Kuku Ngbendu Wa Za Banga du Zaïre (aujourd'hui République Démocratique du Congo). C'est un homme, dit Sony, qui a une certaine magie des mots et j'ai imaginé un personnage, ayant comme lui les pleins pouvoirs, habité de très nobles intentions, naviguant entre le rêve et la réalité. J'ai donc construit mon histoire qui n'est pas seulement l'histoire d'un dictateur mais celle d'un homme face aux tentations du pouvoir, entre facilité et exigence. Le roman s'étale et coulent ses phrases comme les flots du fleuve Congo, en charriant le tragique, le comique, le burlesque et la satire.<br><br>extrait : Zamba-Town, ville de chez nous, plus chaude à minuit qu'à midi, avec ces nuées de moustiques, ceux qui ont fui les moustiques et la chaleur dans leurs cases font l'amour dans ces lacs d'obscurité, les ténèbres gémissent, chuchotent, toussent, se froissent, râlent, rue Gaya, avec les traces du dernier couvre-feu : seize mois de couvre-feu, ah Lopez : à quelque chose ma hernie est bonne, les</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>haut-parleurs publics versent le discours de mon colonel Ponto Pouranta dans les oreilles de mon peuple, cette innovation est vieille, ma hernie l'a laissée, des quartiers entiers qui gueulent, puisque les gens ont pris la honteuse coutume de tourner le bouton pendant que je parle, je demande à mon colonel Tarvanso ministre de l'intérieur de faire mettre des haut-parleurs dans tous les quartiers, de veiller à ce qu'ils fonctionnent pendant que ma hernie fonctionne, parce qu'il est totalement honteux qu'un peuple n'écoute pas les discours de ses responsables, tu les feras mettre Tarvanso, et que ça tonne fort, et qu'ils m'entendent dans leur sommeil d'animaux honteux, pendant qu'ils montent leurs femmes, pendant qu'ils complotent contre moi, pendant qu'ils m'insultent, pendant qu'ils me maudissent, au moins qu'ils m'entendent, que ma voix les dévierge, et faute d'être aimé, qu'au moins je sois senti...<br><br>13 juillet ⸱ # Épilogue d'une trottoire<br>d'Alain-Kamal Martial (Mayotte), lu par Lucrecia Paco<br>avec le soutien de Bonlieu Scène nationale d'Annecy<br><br>Alain-Kamal Martial est né le 25 juillet 1974 à l'île Mayotte. Auteur dramatique et metteur en scène, il est diplômé d'études théâtrales de l'Université d'Avignon et prépare un doctorat de littérature à l'Université de Cergy-Pontoise. Il a écrit une dizaine de pièces dont Papa m'a suicideR publiée par l'Avant-Scène Théâtre et Épilogue des noyés présentée en 2006 aux Francophonies en Limousin, dans une mise en scène de Thierry Bédard. Boursier du Centre National du Livre et lauréat du Premier prix du Concours littéraire de l'Océan Indien, il dirige des laboratoires mobiles d'écriture et de recherche dramaturgique à Mayotte, aux Comores, à Madagascar et au Mozambique, et crée la plupart de ses textes avec la compagnie IstaMbul qu'il dirige.<br><br>Sur un trottoir gît une fille de joie, une trottoire, pour parler comme dans certains pays d'Afrique. Elle est brisée, la fille, mourante, mais ne veut pas croire qu'elle s'éloigne de son métier et que la vie s'éloigne d'elle. L'instinct de survie la pousse à s'accrocher à sa mémoire, à tenter de se maintenir par la parole. Elle se souvient de l'arrivée de l'homme du silence, de sa demande d'un sexe qui ne soit ni masculin ni féminin, de la peine qu'elle se donne pour le satisfaire, du manque de sous dans les poches de l'homme, de la réclamation qu'elle fait de son salaire, de la situation qui tourne au vinaigre, des coups que l'homme lui assène, des plaies qui s'ouvrent sur sa nuque et sur son front. Elle parle, l'agonisante, de tout ce dont elle se souvient, de sa condition de travailleuse du sexe, de son destin de femme finissante, de son désir de vivre.<br><br>extrait : vous dites que vous aussi vous avez participé, vous dites que dans une relation de complémentarité où l'un apporte à l'autre, la chose matérielle que l'autre attend de l'un, toute relation de marchandage soumise à la vente et à l'achat s'annule parce que si l'un apporte à l'autre, la chose matérielle voulue, attendue, c'est du troc et que nulle relation monétaire n'est envisageable, vous dites que s'il y a eu le sexe c'est parce que vous avez donné vous aussi votre part de sexe, que vous avez-vous aussi été pour moi la pute comme moi j'ai été pour vous la pute, que vous avez été aussi l'acheteur et que moi aussi j'ai été l'acheteur et que dans une relation d'équilibre, nous sommes quittes et que nul ne doit rien à personne ici que vous pouvez partir comme ça, la conscience tranquille sans donner le moindre sou<br><br>vous ne partirez pas si vous ne me réglez pas, payez, je vous dis<br>vous me déchirez des coups de pieds au ventre, pourquoi, pourquoi vous me piétinez le ventre, pourquoi, pourquoi, pourquoi des coups de pieds comme les coups de pieds au ventre d'une femme pour interrompre la grossesse, coups de jalousie, coups d'envie, coups qui veulent interrompre le sexe qui me pousse à côté de mon sexe comme les coups de pieds au ventre interrompent la grossesse</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Les Larmes du ciel d'août<br>d'Aristide Tarnagda (Ouagadougou), lu par Nina Nkundwa, dirigée par Eva Doumbia<br>Aristide Tarnagda est né le 1er décembre 1983 au Burkina Faso. Il vit à Ouagadougou où il a obtenu un DEUG de sociologie et travaille comme comédien et auteur dramatique. Il a joué dans cinq pièces de Jean-Pierre Guingané du Théâtre de la Fraternité, dont La malice des hommes présentée au Festival International de Théâtre et de Marionnettes de Ouagadougou, et a écrit sept pièces dont Exils 4 mise en espace par Eva Doumbia en mai 2007 au Théâtre du Vieux-Colombier, dans le cadre de la manifestation Écritures d'Afrique organisée par CULTURESFRANCE et la Comédie-Française. Il est l'un des lauréats 2007 du programme Visa pour la création de CULTURESFRANCE.<br><br>Dans une rue où tout peut arriver, une jeune fille - qui semble un cas social - décline la proposition que lui fait une femme de monter dans sa luxueuse voiture. Plutôt que de se détourner de la prévenante qui se contente d'écouter, la jeune fille s'épand en un flot de paroles. Elle n'aime pas qu'on l'assiste, dit-elle. Elle a quitté son père ministre et sa mère avocate pour devenir autre chose qu'une fille de riches. Elle préfère que la dame poursuive sa route vers son mari, ses enfants, sa bonne ou son patron qui doivent l'attendre, comme elle attend son homme parti chercher l'argent pour l'enfant dont elle est enceinte, son promis avec qui elle a scellé un pacte de fidélité dans cette rue où elle n'arrête pas d'attendre. Au bout de la confidence, l'enfant finit par couler comme pleure le ciel au mois d'août.<br><br>extrait: Il y a des jours comme ça.<br>Des jours où le ciel d'Août pleure comme s'il voulait que ces larmes drainent la merde jusqu'aux gueules des caïmans et poissons,<br>Il y a des jours comme ça...<br>Des jours comme ça où le ciel d'Août vous mouille tellement de ces larmes que vous avez envie de vous gommer, comme si vous étiez un tableau aux couleurs mélancoliques,<br>Un faux dessin,<br>une caricature accouchée par les doigts candides du gosse de la maternelle... oui madame, je vous assure, c'est parce que vous n'êtes jamais dehors quand le ciel d'Août pleure, sinon il y a des jours où vous le croirez vindicatif, il pleure tellement ces jours-là que vous avez envie de donner une gifle à l'enfoiré qui le fait pleurer tant et de poignarder le méchant qui t'a jeté dans la rue sous le courroux des larmes, punir le gosse qui t'a mal dessiné, qui a fait de toi un tableau que personne ne veut acheter, avaler celui qui vous a rendu transparent, analphabète... Oui madame,<br>Il y a des jours comme ça.<br><br># La Folie de Janus<br>de Sylvie Dyclo-Pomos (Brazzaville), lu par l'auteur<br>Sylvie Dyclo-Pomos est née le 28 octobre 1973 en République du Congo. Elle réside à Brazzaville et travaille comme comédienne, metteure en scène et dramaturge. Elle a joué dans une dizaine de spectacles dont Banc de touche de Dieudonné Niangouna créé par l'auteur au Tarmac de la Villette, a mis en scène Mémoires d'un homme dérangé adapté par elle-même de l'histoire de Ronald le clown de McDonalds et J'ai acheté une pelle chez Ikea pour creuser ma tombe de Rodrigo García et a écrit trois pièces dont La folie de Janus pour laquelle elle a obtenu une bourse d'encouragement de la DMDTS. Celle-ci a été créée par Judith Depaule au festival Mantsina sur scène en décembre 2006.<br><br>En 1999, un an après la guerre civile qui endeuilla massivement la République du Congo, le président Denis Sassou Nguesso annonça la réconciliation nationale et signa avec le HCR et la République Démocratique du Congo voisine un accord pour le retour des rescapés qui s'y étaient réfugiés. Les retours eurent lieu par la traversée du Beach, navette fluviale qui effectue les liaisons Kinshasa-Brazzaville. Certains des déplacés furent acheminés par convoi dans des sites de refuge, mais d'autres (plus de trois cent cinquante) disparurent sans laisser de trace, ce qui donna lieu à \"l'affaire des disparus du Beach\" qui défraya la chronique. La folie de Janus s'origine dans ce contexte et met en scène Zatou, un rescapé qui est de retour et attend d'être conduit dans un site en se rappelant sa traversée de la guerre et les temps forts de sa vie qui hélas s'achèvera autrement qu'il se l'imagine.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>extrait: Dans chaque village où je suis passé j'ai creusé un trou<br>C'étaient des êtres humains<br>Il ne reste que de simples noms gravés dans les annales du malheur<br>La belle femme noire que je voyais dans le village de ma mère<br>A péri avec ses deux gosses sur sa poitrine<br>Elle n'a pas pu courir plus loin que les autres<br>Une roquette les a rattrapés<br>Mes trois fils avec leur gabarit de boxeur<br>Ont été confondus aux rebelles<br>J'ai été forcé de jouir avec mes filles avant de les faire voyager<br>Me voici, le contraire d'une graine d'arachide<br>Comment ont-ils osé cela ?<br>Mon oncle escalade sa mère, comme un alpiniste, il jouit à haute voix<br>Mon frère souille sa grand-mère<br>Sur l'ordre des kalaches, mon cousin de quarante ans bousille sa fille de dix ans<br>Dites-moi, quel prix doit-on donner à celui qui a inventé l'arme ?<br>Il a toutes les guerres du monde sur la conscience.<br><br>16 juillet ◽ # La Fratrie errante<br>de Marie-Louise Bibish Mumbu (Kinshasa), lu par l'auteur et Papy Mbwiti<br><br>Marie-Louise Bibish Mumbu est née en 1975 en République Démocratique du Congo. Diplômée de l'Institut Technique des Sciences de l'Information et de la Communication de Kinshasa, elle se consacre au journalisme culturel et à l'écriture. Correspondante permanente de la revue Africultures à Kinshasa, elle est l'auteur des textes Mes Obsessions, j'y pense et puis je crie! publié par les Éditions Halle de la Gombe en 2004 et La Fratrie errante mis en espace par Faustin Linyekula en mai 2007 au Théâtre du Vieux-Colombier, dans le cadre de la manifestation Écritures d'Afrique organisée par CULTUREFRANCE et la Comédie-Française.<br><br>Sur la colline résidentielle d'une ville, subsiste l'ossature d'un immense palais dont on parlait jadis comme d'une sorte de Château de Versailles ou de Cité Interdite. Dans ces restes d'une vie qui fut somptueuse, vivent trois frères et une sœur dont la vie a flanché à la suite de l'accident mortel de leurs parents. Au fil des jours et des crises, ils ont décharné la résidence et bradé ses morceaux pour garder la tête haute, et se retrouvent dans une situation où Victor passe son temps devant la télévision et ses rêves, Daniel devant le réchaud et ses mets, Hugo devant le frigo et ses bières, et elle la cadette, la narratrice, est obligée de se prostituer pour faire vivre la fratrie. Sans doute réussiraient-ils à sauver les apparences et à rester unis si la sœur n'était tombée amoureuse de son voisin et client Teddy, qui en plus de n'être pas accepté comme \"beau\" par les frères propose que ce qui reste de la villa soit vendu ou morcelé pour que chacun gère sa partie.<br><br>extrait: On est une fratrie qui erre dans une immense demeure<br>Trop grande pour nous quatre<br>Trop vide pour les biens que nous avions et que nous avons perdus<br>Trop négligée par rapport à la vie que nous avons vécue<br>Trop froide, trop chaude, trop abîmée, trop, trop, trop<br>Une noblesse déchue dans quatre longs murs sur la colline résidentielle de la ville<br>Mais il est important pour l'extérieur de garder un certain standing de vie malgré tous ces vides, refuser l'inacceptable, être fort<br>Surtout ne viens pas me parler de Samson, à côté de moi il a l'air d'un dessin animé<br>Ce n'est pas lui qui se laisse tripoter certaines nuits par cette bande d'\" arrivistes\", des hommes souvent laids et rustres, sans classe ni instruction<br>Malgré leur cash<br>Ce n'est pas lui qui expie toutes les fautes des siens malgré l'appartenance au sexe dit faible</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 7"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/7/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/7/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007_page_7.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/7/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/7/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Ce n'est pas lui qui paie l'addition pour le Roi Soleil et son train de vie malgré la conjoncture<br>Ce n'est pas lui...<br>Je suis la cadette<br>Je veux dire, je suis supposée être la petite dernière de ma famille<br>Mais je suis la grande Dame de cette demeure<br>Je dois veiller à ce que la famille reste unie, que le patrimoine familial soit sauvegardé<br>Que personne ne nous désigne du menton comme des « has been »<br><br>17 juillet ⅓ # My name is<br>de Dieudonné Niangouna (Brazzaville), lu par l'auteur<br>Dieudonné Niangouna est né en 1976 en République du Congo. Auteur dramatique, comédien et metteur en scène, il vit à Brazzaville et codirige le festival Mantsina sur scène. Il a écrit une quinzaine de pièces dont Carré blanc mise en scène par lui-même et jouée au Festival International des Théâtres Francophones de Limoges en 2002, La mort vient chercher chaussures mise en espace par Martin Ambara en juillet 2005 au Théâtre du Vieux-Colombier dans le cadre de la manifestation Écritures d'Afrique, et Banc de touche représenté dans sa mise en scène au Tarmac de la Villette en 2006. Boursier de l'Association Beaumarchais, quelques-unes de ses pièces ont été publiées aux éditions Interlignes du Cameroun et Corsare d'Italie, et d'autres paraîtront bientôt aux éditions Carnets-Livres de France.<br><br>Dans un cybercafé de Brazzaville où il consulte sa boîte électronique, Dieudonné Niangouna, alias Dido, Dieudo ou Niangous, tombe sur un mail de son ami Male Bissita lui racontant l'histoire d'un certain Victor qui vient de faire un accident au croisement de la rue Toumbi et de l'avenue de la Stiémé... alors qu'on l'avait retrouvé mort vingt ans plus tôt devant le mur de la rue Abolo, brûlé-vivant. Sous le prétexte d'élucider cette histoire de vraie-fausse mort et d'ubiquité, l'auteur se raconte, joue le jeu du je et de l'autre, évoque ses souvenirs, expose son quotidien, émet des regards, parle informatique et... de lui-même. Il est un mot de Werner Schwab que Niangouna pourrait faire sien: \"La langue, quoi qu'elle puisse être, doit elle-même se reconnaître comme son propre casse-croûte en chemin vers rien du tout.\"<br><br>extrait: Quand vous allez au beach de Brazzaville tout le monde sait qui est voleur, parce que voilà une zone où les voleurs ont des badges, ils volent à l'œil nu sous le regard des flics et ils payent leur tribut aux flics, pas pour qu'ils ferment leurs putains d'yeux, mais parce que c'est du ressort de leur boulot, sinon comment est-ce qu'il y aurait du désordre. Et les flics n'existent que pour faire fonctionner le désordre! Pour et avec le désordre, nom d'un fils de mémé! Et à Bacongo on a quand même tué le frère de Landry parce qu'il était dans une mazda. Mais ce qu'on sait très bien, c'est qu'on l'a pas tué à l'intérieur de la mazda, on l'a fait sortir consciencieusement de la caisse pour lui foutre six balles sorties du magnum du sergent Louis de Bacongo dans les couilles avec applaudissement des habitants de la main bleue, c'est dégueulasse! Et je dis à Landry, voilà, si tu vas à l'église tu vas comprendre ce que ces connards-là appellent le chiffre de la bête, une fois que t'es marqué c'est comme chez les esclavagistes, ou comme quand tu rentres dans une porcherie on n'a plus envie de savoir si tu vas sentir le cochon ou pas, une fois que t'en sors c'est bon on te bute! C'est pareil pour celui qui va chez les putains, dès que tu y sors, tu pues la chatte à grosse goutte, t'as beau dire que t'as pas baisé, merci, raconte-le à un moine, il t'enculera à sec! Et lui il me dit, Dido c'est con de faire comme les règles du jeu, il n'y a aucune raison si on sait, maintenant si on ne sait pas, il n'y a aucune raison de faire. Je m'en rends vite compte qu'il est très con Landry, mais seulement il dit une chose intéressante, presque maldive, il dit comme ça, il dit: \"C'est parce qu'on se permet de faire toutes ces conneries là de marquer les gens qu'on s'autorise à dire tiens on peut pillonner dans tout Bacongo, ou on a qu'à incendier tout Poto-Poto, la porcherie que voilà!\"</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/7#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/8",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 8"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/8/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/8/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007/CommAvignon_fds_jeunesAuteursEnAfrique_FDA2007_page_8.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/8/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/8/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>15 juillet □ 15 h □ École d'art □ # Rencontre publique<br>animée par Kouam Tawa (Bafoussam), avec Marie-Louise Bibish Mumbu, Sylvie Dyclo-Pomos, Alain-<br>Kamal Martial, Dieudonné Niangouna et Aristide Tarnagda<br><br>De même que le poète Aimé Césaire souhaitait que sa Martinique cesse d'être le jouet sombre/au carnaval des autres/ou dans les champs d'autrui/l'épouvantail désuet, Mongo Béti, de regrettée mémoire, souhaitait pour la littérature d'Afrique francophone une africanisation rapide de la critique littéraire. Ce n'était pas, précisait le romancier camerounais, par un racisme puéril, mais parce que, à [son] avis, il est urgent qu'une vision de notre littérature, influencée trop longtemps (sauf exception) par l'ethnologisme, soit compensée par l'utilisation d'un autre angle de vue.<br>N'est-ce pas aborder les choses autrement, permettre une approche par l'intérieur, que de faire animer une rencontre avec des auteurs dramatiques burkinabés, congolais et mahorais par un dramaturge camerounais de la même génération qu'eux et vivant comme eux sur la terre africaine?<br><br>\"Il nous faut nous rappeler de toute urgence que le théâtre c'est le lieu naturel de la communication vitale par la sueur, la respiration, la couleur des voix, l'explosion des cœurs, le choc des peurs, l'anecdote, le on-dit, l'univers même du souffle, la palabre des non-dits, bref la fête-massacre des comportements qui naissent et meurent sous les yeux grands ouverts de l'exigence que beaucoup ont la paresse de nommer beauté, et que peut-être il est plus juste de nommer bien-être esthétique ou simplement liberté.\"<br>Sony Labou Tansi, L'autre monde, éditions Revue noire<br><br>et<br><br># Rencontre-signature à la librairie du Festival<br>13 juillet □ 17h30 □ Cloître Saint-Louis<br>avec Aristide Tarnagda, Alain-Kamal Martial, Dieudonné Niangouna et (sous réserve) Kouam Tawa.<br>Dédicace de l'ouvrage collectif Écritures d'Afrique édité chez CulturesFrance<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-jeunesauteursenafrique-fda2007/canvas/8#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}

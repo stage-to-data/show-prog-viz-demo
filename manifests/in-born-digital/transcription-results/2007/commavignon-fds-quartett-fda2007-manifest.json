@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Quartett"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_quartett_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_quartett_FDA2007/CommAvignon_fds_quartett_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Heiner Müller<br>Heiner Müller est né en 1929 et mort le 31 décembre 1995. Sa vie s'est déroulée sous \"deux dictatures\", celle du nazisme puis celle du socialisme de la République démocratique allemande.<br>Son premier succès de théâtre fut L'homme qui casse les salaires en 1958. Mais trois ans plus tard, en 1961, l'année de la construction du mur de Berlin, il était exclu de l'Union des Écrivains, et sa pièce La Déplacée où la Vie à la campagne était interdite. Il est alors ostracisé, mis au ban de la République des Lettres. Sa compagne Inge Müller se suicide en 1966.<br>Dans cette période, il va écrire Philoctète, Horace et Mauser trois pièces qui demeureront longtemps interdites de représentation en RDA. En 1972, Ruth Berghaus l'engage comme dramaturge au Berliner Ensemble où elle mettra en scène sa pièce Ciment. Mais son Macbeth déclenche une violente polémique: il est accusé de \"décadence\", de \"formalisme\" et de \"pessimisme historique\". Il écrira notamment Hamlet-machine (longtemps interdit), La Mission, Quartett, Rivage à l'abandon, Matériau-Médée, Paysage avec Argonautes.<br>Sa situation dans son propre pays ne changera qu'au milieu des années quatre-vingt. Il est entretemps devenu célèbre à l'étranger. Heiner Müller est élu membre de l'Académie des Arts de Berlin en 1984, il en deviendra le Président en 1990. Il fait partie du Directoire du Berliner-Ensemble à partir de 1992. Ses succès personnels adviennent sur un fond historique remarquable: chute du mur de Berlin, réunification allemande. Le \"bloc de l'Est\" s'est effondré, Heiner Müller devient une célébrité.<br>Dans ces dernières années il mettra en scène Quartett, Arturo Ui de Brecht et Tristan et Isolde de Wagner à Bayreuth. Ses pièces sont pour la plupart publiées aux éditions de Minuit et quelques textes aux éditions de l'Arche et aux éditions Théâtrales.<br><br># Jeanne Moreau<br>Après une carrière théâtrale à la Comédie Française et au T.N.P., Jeanne Moreau apparaît sur les écrans dans les années cinquante, notamment dans Touchez pas au Grisbi (1953) de Jacques Becker, avant d'être révélée dans Ascenseur pour l'échafaud (1956) et Les Amants (1958) de Louis Malle. Son interprétation dans Moderato Cantabile (1960) de Peter Brook, pour lequel elle reçoit un prix au Festival de Cannes, la rend mondialement célèbre, tandis que Le Tourbillon chanté par le personnage de Catherine dans Jules et Jim (1961) de Truffaut fait découvrir sa voix au public. En 1964, elle collabore de nouveau avec le compositeur Cyrus Bassiak et signe l'album Peau de banane qui remporte le Grand Prix Charles Cros. Actrice fétiche de Truffaut et Welles (Le Procès en 1962, Falstaff en 1965), elle tourne également sous la direction de Demy, Buñuel, Renoir, Losey, Antonioni, Duras, Kazan... À partir des années soixante-dix, elle rencontre une nouvelle génération de réalisateurs, parmi lesquels Blier, Téchiné, Wenders, Angelopoulos, ou encore Fassbinder. Elle réalise ensuite deux longs métrages, salués par la critique, Lumière (1975) puis L'Adolescente (1979), où elle dirige Simone Signoret. Sa carrière est régulièrement couronnée lors de nombreux festivals (Lion d'Or au Festival de Venise en 1992, Tribute au Festival de Los Angeles en 1998, Donostia au Festival San Sebastian en 1998, Ours d'Or à Berlin en 2000). Après avoir obtenu un Molière pour La Servante Zerline (1988), elle reçoit le César de la meilleure actrice pour La Vieille qui marchait dans la mer de Laurent Heynemann en 1992. Elle passe aisément du grand au petit écran pour Josée Dayan notamment, qu'elle retrouve à plusieurs reprises (Les Parents terribles, Les Rois maudits et Sous les vents de Neptune en 2007). Récemment, on a pu la voir dans le dernier film de François Ozon, Le Temps qui reste (2005), dans le deuxième long métrage du cinéaste canadien Yves Desgagnés, Roméo et Juliette (2006) ainsi que dans Trois minutes de Theo Angelopoulos, fragment de Chacun son cinéma, présenté cette année à Cannes pour le 60e anniversaire. Elle vient de tourner dans Désengagement d'Amos Gitaï.<br>Au Festival d'Avignon, Jeanne Moreau a déjà joué en 1947 dans L'Histoire de Tobie et Sara de Paul Claudel, La Terrasse de midi de Maurice Clavel et La Tragédie du Roi Richard II de William Shakespeare dans la Cour d'honneur, Le Cid de Corneille en 1951, Le Prince de Hombourg d'Heinrich von Kleist en 1951 et 1952, Lorenzaccio d'Alfred de Musset en 1952 et La Célestine de Fernando de Rojas en 1989.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_quartett_FDA2007/CommAvignon_fds_quartett_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Sami Frey<br><br>Au théâtre, Sami Frey a joué notamment sous la direction de Yves Robert (L'Année du bac de José-André Lacour), Antoine Bourseiller (Dans la jungle des villes de Bertolt Brecht), Jean-Louis Barrault (Le Soulier de satin de Paul Claudel), Roger Planchon (Bérénice de Racine), Claude Régy (Se trouver de Luigi Pirandello, La Chevauchée sur le lac de Constance de Peter Handke), Jorge Lavelli (Le borgne est roi de Carlos Fuentes), Patrice Chéreau (Toller de Tancred Dorst), Alfredo Arias (La Bête dans la jungle de Henri James, adaptation de Marguerite Duras), Raymond Gérôme (Trahison d'Harold Pinter), Simone Benmussa (Pour un oui pour un non de Nathalie Sarraute), Marguerite Duras (La Musica II de Marguerite Duras), Benno Besson (Le Théâtre de verdure de Coline Serreau), Denis Marleau (Nathan le sage de Lessing).<br>Sami Frey a aussi mis en scène Je me souviens de Georges Perec, C'était hier de Harold Pinter, L'Ecclésiaste et Cap au pire de Samuel Beckett..<br><br>Au cinéma, il a notamment joué dans La Vérité d'Henri Georges Clouzot (1960), Thérèse Desqueyroux de Georges Franju (1962), Cléo de 5 à 7 d'Agnès Varda (1961), L'Appartement des filles de Michelle Deville (1963), Bande à part de Jean-Luc Godard (1964), Une balle au cœur de Jean-Daniel Pollet (1965), Qui êtes-vous Polly Magoo de William Klein (1966), L'Écume des jours de Charles Belmont (1968), Manon 70 de Jean Aurel (1968), La Chasse royale de François Leterrier (1970), M comme Mathieu de Jean-François Adam (1970), Les Mariés de l'an II de Jean-Paul Rappeneau (1971), Le Journal d'un suicide de Stanislas Strandjevitch (1972), Rack de Charles Belmont (1972), Pauline 1880 de Jean-Louis Bertucelli (1972), César et Rosalie de Claude Sautet (1972), Pourquoi pas! de Coline Serreau (1977), Écoute voir de Hugo Santiago (1979), Mortelle randonnée de Claude Miller (1983), Le Garde du corps de François Leterrier (1984), La Petite Fille au tambour (The Little Drummer Girl) de Georges Roy Hill (1984), La Vie de famille de Jacques Doillon (1985), L'État de grâce de Jacques Rouffio (1986), La Veuve noire (Black Widow) de Bob Rafelson (1986), L'apuntà de Helma Sanders Brahms (1986), De sable et de sang de Jeanne Labrune (1988), L'Œuvre au noir d'André Delvaux (1988), L'Africana de Margareth Von Trotta (1990), La Voix de Pierre Granier-Deferre (1992), Hors Saison de Daniel Schmid (1992), En compagnie d'Antonin Artaud de Gérard Mordillat (1994), La Fille de d'Artagnan de Bertrand Tavernier (1994), Les Menteurs d'Elie Chouraqui (1996), Les Acteurs de Bertrand Blier (2000), La Repentie de Laetitia Masson (2002), Anthony Zimmer (2005), Il regista di matrimoni de Marco Bellochio (2005), Danse avec lui de Valérie Guignabodet (2006).<br>En 2006, Sami Frey a lu Le Manuel d'Epictète, La Bête dans la jungle de Marguerite Duras, Les Entretiens avec Jean-Paul Sartre de Simone de Beauvoir.<br>Au Festival d'Avignon, Sami Frey a déjà joué dans Le Borgne est roi de Carlos Fuentes en 1970, Je me souviens de Georges Perec en 1988 et dans Nathan le Sage de Gotthold Ephraïm Lessing dans la Cour d'honneur en 1997.<br><br>et<br><br># Les Rencontres de la Maison Jean Vilar<br>10 juillet □ 11h □ Maison Jean Vilar<br>60e anniversaire de la Semaine d'art en Avignon<br>Rencontre avec Jeanne Moreau<br><br># Cinéma Utopia<br>10 juillet □ 20h □ Utopia-Manutention □ entrée 5,50 €<br>Cet amour-là, film de Josée Dayan □ suivi d'une rencontre avec Jeanne Moreau<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_quartett_FDA2007/CommAvignon_fds_quartett_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>FRANCE CULTURE ET LE FESTIVAL D'AVIGNON<br>PRÉSENTENT<br><br>Jeanne Moreau/<br>Sami Frey<br>Quartett<br><br>DE HEINER MÜLLER<br><br>61ᵉ Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_quartett_FDA2007/CommAvignon_fds_quartett_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># 9 juillet<br>COUR D'HONNEUR DU PALAIS DES PAPES □ 22 h □ durée 1 h 10<br><br>traduit de l'allemand par Jean Jourdheuil et Béatrice Perregaux<br>une lecture proposée par Jean Jourdheuil<br>avec Mademoiselle Jeanne Moreau et Sami Frey<br>réalisation Blandine Masson<br><br>Lecture retransmise en direct sur France Culture,<br>suivie sur l'antenne d'un entretien avec Jean Jourdheuil autour de l'œuvre d'Heiner Müller<br>Texte publié aux éditions de Minuit<br><br>Production France Culture<br><br>Quartett, de Heiner Müller, écrit en 1981, est un palimpseste des Liaisons dangereuses de<br>Choderlos de Laclos, texte mythique du siècle des Lumières, dans lequel la marquise de<br>Merteuil et le vicomte de Valmont, couple de libertins maléfiques, déploient les artifices<br>d'un jeu dont la visée est de défaire la civilisation en usant des moyens offerts par celle-ci.<br>Dans les années quatre-vingt, Heiner Müller qui s'entretenait régulièrement avec Jean<br>Jourdheuil, traducteur et passeur de son œuvre à l'ouest, lui confia qu'il aimerait bien voir<br>un jour interpréter la marquise de Merteuil dans Quartett par Jeanne Moreau. Un souhait<br>qui resta secret jusqu'au jour où Jean Jourdheuil, auquel France Culture avait confié un<br>hommage à Müller en 2006, l'évoqua de nouveau.<br><br>France Culture et le Festival d'Avignon ont décidé de réaliser ensemble ce rêve de Heiner<br>Müller en proposant à Jeanne Moreau et à Sami Frey une lecture en public de cette pièce<br>vertigineuse, pensée comme un incessant jeu de rôles, un étrange échange entre masculin et féminin et l'inscrire dans la cour d'honneur du Palais des Papes. Celle-là même qui<br>accueillit Jeanne Moreau, à ses tout débuts lors du premier festival avec Jean Vilar, en<br>1947 et plus récemment Sami Frey dans Nathan le sage.<br><br>Cette lecture, produite par France Culture, retransmise en direct, s'installera dans la Cour<br>d'honneur du Palais des papes le jour de relâche du spectacle de Valère Novarina L'Acte<br>inconnu. Il faudra alors imaginer la Cour, selon les indications de Müller, comme \"un salon<br>d'avant la révolution/un bunker d'après la troisième guerre mondiale\".</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_quartett_FDA2007/CommAvignon_fds_quartett_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Quartett n'est pas une adaptation des Liaisons dangereuses de Laclos. C'est une œuvre qui procède des Liaisons dangereuses mais qui recouvre son modèle, l'efface, le fait disparaître. Le modèle cependant demeure, on soupçonne sa présence à l'arrière-plan, accessible sur le mode de l'anatomie ou de la radiographie ou de l'autopsie. Ainsi en va-t-il des tableaux de Velasquez dans les palimpsestes de Francis Bacon ou de Pablo Picasso. L'artiste contemporain, parfois, se retrouve dans la situation d'un cannibale dévorant son modèle. Merteuil et Valmont, ici, ne sont pas (ne sont pas seulement, ne sont pas essentiellement) des libertins dans la seconde moitié du XVIIIe siècle, mais des personnages (ou des noms de personnages endossés par des acteurs), qui se livrent à une cérémonie baroque et funèbre qui n'est pas de Genet ni de Strindberg mais qui pourrait s'appeler: \"danse de mort\" ou \"sonate des spectres\".<br><br># Découpage en séquences<br>I – Valmont apparaît après avoir été invoqué et évoqué par Merteuil. Dialogue dans lequel Merteuil propose un marché à Valmont.<br>II – Le jeu de rôles commence : Merteuil endosse le rôle (masculin) de Valmont, ce dernier n'a pas d'autre choix que d'endosser le rôle (féminin) de la Tourvel.<br>III – Valmont, ensuite, reprend son rôle. Même pour lui c'est devenu un rôle désormais. Entre rôle et personnage, une étrange ambiguïté s'est nouée. Les rôles de ce théâtre sont poreux. Et Merteuil endosse celui de la jeune Sophie Volanges. L'échange verbal entre les deux partenaires de cette cérémonie, abonde en sous-entendus rendus possibles par cet écart entre locuteur (personnage) et rôle; s'adressant à Volanges, Valmont fait des allusions explicites au fait que Volanges, la jeune fille, est jouée par Merteuil, sa tante plus âgée. Toute cruauté est bienvenue. \"Anéantissement de la nièce\" dit Merteuil en conclusion de cette séquence avant d'annoncer quelques lignes plus loin la séquence suivante : \"Passons au sacrifice de la dame\".<br>IV – C'est ainsi que Valmont pour finir, pour en finir, reprend le rôle de Tourvel. Le rôle de Valmont étant, lui, repris par Merteuil. Et Valmont-Tourvel donne à Merteuil-Valmont et se donne à lui-même le spectacle de la mort de Madame de Tourvel. Un théâtre de la mort dont Merteuil est l'ultime spectatrice.<br><br>La permutation des rôles est simple, une épure, une algèbre relationnelle : comment à deux jouer quatre rôles. Mais le théâtre ne s'arrête pas là. Le jeu des rôles est ponctué de syncopes. Et surtout l'échange verbal creuse l'espace de l'ambiguïté, le flou s'épaissit, les frontières du masculin et du féminin s'obscurcissent, une certaine réversibilité semble s'installer, les abîmes de l'identité s'ouvrent entre ambivalence et dissociation dans la dissymétrie du jeu : le rôle de Merteuil n'est joué que par elle-même. Est-ce encore un rôle?<br>Ce qui importe n'est pas ce qui se passe, l'histoire est connue, mais ce que le spectateur sensible au pouvoir évocateur des mots imagine. Heiner Müller a réalisé un tour de force : introduire Sade chez Laclos et construire aujourd'hui un dispositif expérimental des \"relations entre les sexes\". Résultat : il n'y a plus d'issue. Pas même au théâtre. Pour personne. \"Un salon d'avant la Révolution française/Un bunker d'après la troisième guerre mondiale\". \"Maintenant nous sommes seuls cancer mon amour\".<br><br>Jean Jourdheuil</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_quartett_FDA2007/CommAvignon_fds_quartett_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Le Théâtre de Heiner Müller<br>Le théâtre de Heiner Müller aura été pour nombre d'entre nous un formidable carrefour où se seront rencontrés, côtoyés Anciens et Modernes, jeunes et vieux, vivants et morts, un carrefour en forme de constellation qui à bien des égards nous aura tenu lieu de cartographie politique, poétique et philosophique de l'époque. Il a montré exemplairement que l'on peut sortir de la forteresse brechtienne sans renier le temps qu'on y a passé, que le théâtre peut renouer avec la poésie, ou avec la poétique du conte (le récit selon Kafka). À l'imaginaire géométrique newtonien (chez Brecht, galiléen) qui est traditionnellement celui du théâtre il a substitué une algèbre du récit et de la représentation le préparant ainsi à l'époque des media électroniques.<br>Ce délinquant notoire avait ses fidélités et ne faisait pas bon marché de sa responsabilité. Il a non seulement tenu la chronique de ce que fut la RDA qui fut sa patrie librement choisie au temps où l'utopie avait droit de cité, non seulement montré dans son théâtre, à ses concitoyens et à tous ses spectateurs potentiels, ce qu'est et ce que fut l'Allemagne, dont il s'attacha à réunir dans son œuvre les images, les faces, séparées et exclusives l'une de l'autre, peut-être irréconciliables, mais aussi, avec une belle obstination, et dans un contexte peu enclin à lui en savoir gré, conduit le travail du deuil à l'endroit de l'Allemagne nazie comme à l'endroit de l'Allemagne rattachée à la zone d'influence soviétique. Heiner Müller concevait le théâtre, la poésie dramatique, comme l'art de faire parler les morts :<br>\"C'est que les spectres ne dorment pas<br>Nos rêves sont leur nourriture préférée.\"<br>Ceux que le théâtre de Heiner Müller intéresse auront à cœur de faire de lui désormais un spectre. Lui-même a soigneusement préparé le terrain.<br><br>Jean Jourdheuil, 1995<br><br>Jean Jourdheuil est auteur, scénariste de plusieurs films de René Allio, traducteur de Brecht, Büchner, Kleist, Karl Valentin et Heiner Müller, metteur en scène de textes de Gilles Aillaud, et de Heiner Müller et plus récemment de plusieurs opéras de Mozart.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-quartett-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}
