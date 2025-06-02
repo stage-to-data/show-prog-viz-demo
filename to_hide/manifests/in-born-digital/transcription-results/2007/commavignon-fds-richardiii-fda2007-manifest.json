@@ -1,0 +1,640 @@
+{
+    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007-manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Richard i i i"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Original file"
+                ]
+            },
+            "value": {
+                "en": [
+                    "CommAvignon_fds_richardIII_FDA2007.pdf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2007"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Origin"
+                ]
+            },
+            "value": {
+                "en": [
+                    "in-born-digital"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": null,
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 1"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_richardIII_FDA2007/CommAvignon_fds_richardIII_FDA2007_page_1.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/1/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Dans quel univers esthétique avez-vous l'intention de faire vivre cette pièce ?<br>Je travaille beaucoup sur les différents plans de la pièce. D'abord, au premier plan, le discours politique, puis le plan de l'intrigue politique, et en arrière-plan l'intime. Pour donner une image, c'est comme si on était face à une coupe à travers un lieu de pouvoir, un palais présidentiel, allant du perron aux bureaux des conseillers pour se terminer dans les appartements privés où se trouvent la famille et les problèmes intimes. Tout cela dans une même image puisque tout se passe en même temps. Il faut donc imaginer une scénographie qui rendra compte simultanément de la conquête du pouvoir, de son exercice, de la prise de décision politique et de l'intime. Pour rêver sur cet univers, je m'inspire du travail d'artistes comme par exemple Gerhard Richter qui m'intéresse beaucoup dans son traitement photographique du réel. Mais je pense que l'univers du conte est essentiel aussi ; j'ai été très frappé de découvrir, à l'occasion de la récente exposition sur Walt Disney au Grand Palais à Paris, que le modèle de la maison de Blanche neige fut pris dans Metropolis de Fritz Lang. Nous sommes dans un moment où politique et morale sont intimement mêlées, parfois avec une naïveté confondante. La lutte entre le bien et le mal semble le ciment idéologique de ceux qui apparaissent comme les plus violemment opposés. Utiliser le conte me semble donc un excellent moyen de parler de politique en ce moment.<br><br># Vous faites aussi preuve d'une grande fidélité aux acteurs ?<br>Certainement et cela m'est indispensable. Il y a des complices de longue date comme Laurent Poitrenaux et Pierre Baux ou plus récents comme Christèle Tual, Camille Panonacle et Antoine Herniotte, et d'autres qui nous rejoignent pour cette création.<br>Tout cela s'est construit tranquillement et patiemment; je ne vois pas comment je pourrais travailler différemment.<br><br>Extraits de propos recueillis par Jean-François Perrier en février 2007 avant le début des répétitions<br><br># Ludovic Lagarde<br>Ludovic Lagarde est né à Paris. C'est à la Comédie de Reims et au Théâtre Granit de Belfort qu'il réalise ses premières mises en scène. En 1995, il monte Platonov et Ivanov de Tchekhov. Il fonde sa propre compagnie en 1996 avec laquelle il met en scène Le Cercle de craie caucasien de Brecht en 1998. En 1999, il répond à l'invitation de Théâtre national de Strasbourg et présente Maison d'arrêt d'Edward Bond avec les comédiens de la troupe. Parallèlement à son travail de création théâtrale, Ludovic Lagarde mène une activité de pédagogue. Il a aussi réalisé plusieurs mises en scène d'opéra, et travaille régulièrement avec le directeur musical Christophe Rousset : Cadmus et Hermionne de Lully en 2001, Actéon et les Arts florissants de Charpentier en 2004, ainsi que Vénus et Adonis de Desmarets en 2006.<br>Il collabore également avec l'écrivain Olivier Cadiot depuis 1993, lorsqu'il lui passe commande d'une pièce, Sœurs et frères, créée au Théâtre Granit de Belfort. Depuis 1997, il a adapté et mis en scène les derniers livres de l'écrivain : Le Colonel des Zouaves (1997), Retour définitif et durable de l'être aimé (2002) et, plus récemment, Fairy queen (2004) ainsi que Oui dit le très jeune homme de Gertrude Stein, qu'Olivier Cadiot a traduit. Ludovic Lagarde mettra en scène l'opéra Roméo et Juliette de Pascal Dusapin sur un livret d'Olivier Cadiot à l'Opéra Comique de Paris en avril 2008.<br>Au Festival d'Avignon, Ludovic Lagarde a déjà présenté en 2004 Fairy queen et Le Colonel des Zouaves d'Olivier Cadiot et Oui dit le très jeune homme de Gertrude Stein. En 2005, il y met en espace des textes d'auteurs belges dont Richard III de Peter Verhelst.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/1#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 2"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_richardIII_FDA2007/CommAvignon_fds_richardIII_FDA2007_page_2.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/2/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/2/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># Peter Verhelst<br>Peter Verhelst, né en 1962 à Bruges, est devenu un écrivain culte en Flandre. Le public s'est laissé séduire par sa langue sensible, sensuelle, qui déborde de poésie et d'imagination. Tout ce qu'il écrit est habité par une ambiance féérique, mythique. Comme il le dit lui-même, son œuvre parle \"de gens qui échafaudent des idées et qui s'y tiennent si inébranlablement qu'elles finissent par se retourner contre eux. L'enjeu ce sont simplement les insuffisances de l'être humain. Il s'agit toujours de désir. Et de ce que peut encore signifier aujourd'hui l'idée de perfection par exemple. Il s'agit du caractère impossible des utopies. Et de la raison mystérieuse qui fait qu'elles finissent inévitablement par se transformer en leur contraire\". Sa langue sensuelle a trouvé un prolongement nourri de fantaisie dans Het Sprookjesbordeel, donné en représentation par Het Toneelhuis : une pure gourmandise pour le visiteur qui pouvait découvrir les petits contes de fées troussés par l'auteur. Peter Verhelst ne croit d'ailleurs pas en la distinction entre la poésie et la prose, entre la danse et le théâtre : \"Pour moi tout est poésie\". Il a débuté par elle, mais s'est tourné ensuite vers le roman, notamment avec Het Spierenallfabet et De Kleurenvanger. Pour le théâtre, il a écrit entre autres Maria Salomé, Red Rubber Bals et Histoire d'A.. Son interprétation de Romeo en Julia, sélectionnée par le Theaterfestival 1999, a surpris par son pessimisme. AAARS! une interprétation étourdissante de l'Orestie d'Eschyle, n'est pas non plus passée inaperçue. Il collabore régulièrement avec les artistes les plus variés comme Wim Vandekeybus, Luk Perceval, Ivo Van Hove et De roovers.<br>Richard III est son premier texte traduit et mis en scène en France.<br><br>et<br><br># Rencontres de la Région Île-de-France<br>19 juillet à 11h - 12h30 à Chapelle du Miracle<br>Rencontre avec Ludovic Lagarde<br><br># Questo fiore è la mia rivoluzione (Cette fleur est ma révolution) de Peter Verhelst<br>20 juillet à 11h à Musée Calvet<br>lecture dirigée par Ludovic Lagarde<br>avec les comédiens et musiciens Pierre Baux, Francesca Bracchino, Antoine Herniotte, Camille Panonacle, Laurent Poitrenaux, Samuel Réhault et David Bichindaritz<br><br># Fairy queen un film de Christophe Dérouet et Ludovic Lagarde<br>21 juillet à 14h à Cinéma Utopia-Manutention<br>d'après la mise en scène de Ludovic Lagarde texte d'Olivier Cadiot<br><br># Regards critiques<br>22 juillet à 11H30 à École d'Art<br>L'artiste et le pouvoir à avec Guy Cassiers, Ludovic Lagarde, Jean-Pierre Vincent et Jack Ralite, sénateur<br><br># Dialogue avec le public<br>24 juillet à 11H30 à École d'Art<br>avec Ludovic Lagarde et des membres de l'équipe artistique de Richard III, animé par les Ceméa<br><br>Comme chaque année, l'Adami apporte son aide aux spectacles coproduits par le Festival d'Avignon et favorise l'emploi, notamment sur des spectacles réunissant un nombre important d'artistes. Société de gestion collective des droits des artistes-interprètes (près de 60 000 comédiens, chanteurs, musiciens, chefs d'orchestre, danseurs...), l'Adami a consacré, en 2006, près de 13 millions d'euros à 950 projets dans différents genres artistiques. Ces aides ont contribué à l'emploi direct de plus de 6500 artistes.<br><br>Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/2#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 3"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_richardIII_FDA2007/CommAvignon_fds_richardIII_FDA2007_page_3.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/3/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/3/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Ludovic<br>Lagarde : <br>Peter Verhelst<br># Richard III<br><br>LIBREMENT ADAPTÉ DE RICHARD III DE WILLIAM SHAKESPEARE<br><br>61e Festival d'Avignon</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/3#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 4"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_richardIII_FDA2007/CommAvignon_fds_richardIII_FDA2007_page_4.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/4/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/4/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>18 19 20 22 23 24 25 26 à 22h et aussi le 20 à 1h du matin<br>CLOÎTRE DES CARMES ⏐ durée 1h30 ⏐ création 2007<br><br>texte Peter Verhelst<br>d'après Richard III de Shakespeare<br>traduit du néerlandais par Christian Marcipont<br>mise en scène Ludovic Lagarde<br>avec, par ordre d'entrée en scène<br>Anne Bellec La Duchesse<br>Laurent Poitrenaux Richard<br>Geoffrey Carey Hastings<br>Samuel Réhault Loyal<br>Christele Tual Elisabeth<br>Pierre Baux Buckingham<br>Francesca Bracchino Lady Anne<br>Camille Panonacle Margaret<br>Suzanne Aubert Le Prince Héritier<br>et Antoine Herniotte La Voix<br><br>dramaturgie et assistante à la mise en scène Marion Stoufflet<br>scénographie Antoine Vasseur<br>costumes Valérie Simonneau<br>lumière Sébastien Michaud<br>son et musique David Bichindaritz<br>collaboration artistique son et musique Olivier Pasquet<br>régie son Benjamin Furbacco<br>régie plateau et collaboration à la scénographie James Brandily<br>régie générale et régie lumière Pierre Martigne<br>assistante costumes Carole Gérard<br>stagiaire scénographie Élodie Dauguet<br>maquillage Corinne Blot<br>administration de production Jean-Michel Hossenlopp<br>assistante de production Virginie Crouail<br>décor construit par les Ateliers de la Maison de la Culture de Bourges<br><br>Le spectacle sera enregistré au Cloître des Carmes et diffusé le 27 juillet sur France 2<br>spectacle créé le 4 juillet 2007 au Festival delle Colline à Turin (Italie)<br><br>coproduction Compagnie Ludovic Lagarde, Centre dramatique régional de Tours, Maison de la Culture de Bourges-Scène nationale, Festival d'Avignon, Le Trident Scène nationale de Cherbourg-Octeville, La Comédie de Reims/Centre dramatique national, Théâtre de Saint-Quentin en Yvelines-Scène nationale, Festival delle Colline (Turin)<br>avec le soutien de la Région Île-de-France, de CULTURESFRANCE et des autorités flamandes<br>avec la participation artistique du Jeune Théâtre National<br>avec l'aide du Fonds d'insertion pour les jeunes artistes dramatiques de la région Provence-Alpes-Côte d'Azur<br>Le Festival d'Avignon reçoit le soutien de l'Adami pour la production<br><br>Les dates de Richard III après le Festival:<br>du 11 au 13 octobre 2007 au Théâtre de Saint Quentin en Yvelines-Scène nationale, les 18 et 19 octobre 2007 à L'Hippodrome-Scène nationale de Douai, du 23 au 26 octobre 2007 au Théâtre de Poitiers-Scène nationale, du 30 octobre au 4 novembre 2007 au Nuovo Teatro Nuovo à Naples ; du 8 au 10 novembre 2007 au Lieu Unique à Nantes Scène nationale, les 15 et 16 novembre 2007 au Théâtre du Bourg en Bresse, du 21 au 23 novembre 2007 au Théâtre Granit-Scène nationale de Belfort, le 27 novembre 2007 à La Passerelle-Scène nationale de Gap, le 30 novembre 2007 au Carreau-Scène nationale de Forbach, le 7 décembre 2007 au Manège-Scène nationale de Maubeuge, les 10 et 11 décembre 2007 aux Espaces Pluriels-Pau, du 18 au 20 décembre 2007 au Trident-Scène nationale de Cherbourg, les 8 et 9 janvier 2008 à la Maison de la Culture de Bourges-Scène nationale, les 11 et 12 janvier 2008 au CDDB-Théâtre de Lorient, du 16 au 18 janvier 2008 à La Comédie de Reims-Centre dramatique national, du 24 au 26 janvier 2008 à La Maison des Arts-Créteil, du 29 janvier au 2 février 2008 au Centre dramatique de Tours</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/4#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 5"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_richardIII_FDA2007/CommAvignon_fds_richardIII_FDA2007_page_5.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/5/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/5/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br># entretien avec Ludovic Lagarde<br><br>Richard III sera la première pièce de Peter Verhelst traduite et jouée en France. Comment avez-vous découvert cet auteur?<br><br>Ludovic Lagarde: En 2005, le Festival d'Avignon avait organisé un cycle de lectures d'auteurs belges, et m'avait demandé d'en assurer la présentation en compagnie de Laurent Poitrenaux avec les élèves sortants de l'École régionale d'acteurs de Cannes. Parmi les textes que nous avons lus, celui qui m'avait le plus intéressé et le plus intrigué était ce Richard III. Dès la première lecture, je l'ai trouvé d'une grande beauté stylistique, au contenu plutôt sulfureux. Ces impressions se sont confirmées pendant le travail avec les interprètes. J'ai ensuite rencontré l'auteur venu assister à la lecture et je lui ai fait part de mon désir de mettre en scène sa pièce.<br><br>Quel rapport y a-t-il entre le Richard III original de Shakespeare et celui de Peter Verhelst?<br><br>Il ne s'agit pas d'une adaptation mais d'une réécriture. C'est une pièce contemporaine construite sur le schéma de celle de Shakespeare. On pourrait dire qu'il y a un double mouvement. Dans un premier temps, Peter Verhelst compresse l'œuvre originale en concentrant le nombre de personnages et en réduisant certaines scènes à quelques indications. Il crée une voix-off qui prend en charge les raccourcis qu'il se permet quant à l'action et radicalise le propos. Pendant qu'une scène se joue dans le champ du théâtre, il y a une description en temps réel de ce qui se passe dans le hors-champ.<br>Dans un second temps, cette compression permet de développer des scènes ébauchées par Shakespeare en faisant ce que j'appellerais des \"gros plans\" sur des personnages, en particulier sur les personnages de femmes. Ainsi le rôle de la mère de Richard, la Duchesse d'York, devient prépondérant. Verhelst s'attarde longuement sur les rapports mère-fils, ce qui n'est pas le cas dans l'œuvre de Shakespeare. Il y a une focalisation sur les rapports intimes entre les personnages. Ils viennent presque se raconter, se confesser face au public dans une adresse souvent directe. Et on ne sait pas à l'avance si cette exposition d'une parole privée sur la scène publique fait plutôt basculer les personnages du côté d'une plus grande humanité, ou au contraire dans une obscénité illégitime. Cela ressemble à des témoignages de docu-fictions anglais, à des fragments d'autofiction ou aux séances d'autocritiques des procès staliniens, autant qu'à des scènes dont on commence à avoir l'habitude dans le monde politique contemporain. Ces confessions sont déconnectées de toute action. Elles prennent parfois la forme d'un récit de songe.<br><br>Il y a eu déjà beaucoup de réécritures de textes mythiques par des auteurs contemporains, ne serait-ce que le Hamlet-machine de Heiner Müller. En quoi le travail de Peter Verhelst est-il différent?<br><br>Dans le cas de Müller il y a la volonté de prendre la parole à la place de Shakespeare en faisant exploser la pièce originale. Il dit \"je\" suis Hamlet et il utilise la pièce comme une bombe à fragmentation... Avec Verhelst nous sommes plutôt dans un creusement, dans un approfondissement de la pièce originale. Il y a réduction puis accélération mais pas destruction. Verhelst a besoin de Shakespeare alors que Müller semble ne plus en avoir besoin.<br><br>Vous parliez du choc que vous avez ressenti à la première lecture à cause du style de l'auteur. Qu'a-t-il de caractéristique?<br><br>Son écriture dans cette pièce mêle la prose et la versification dans laquelle il utilise vers libres, alexandrins, hexamètres... C'est un texte de poète dans un style très concret dont il faut tenir compte dans le travail avec les acteurs. Les phrases sont très structurées, très ponctuées. Nous sommes face à une dynamique de la parole que créent justement ces mélanges de prose et de vers. Nous sommes dans un entre-deux très riche, et sans doute contraignant, pour les acteurs.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/5#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Page 6"
+                ]
+            },
+            "height": 2481,
+            "width": 1754,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": null,
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/imgs/in-born-digital/jpg/2007/CommAvignon_fds_richardIII_FDA2007/CommAvignon_fds_richardIII_FDA2007_page_6.jpg",
+                                "type": "Image",
+                                "height": 2481,
+                                "width": 1754,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/jpeg",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/6/annotation/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/6/annotation/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "commenting",
+                            "body": {
+                                "id": null,
+                                "type": "TextualBody",
+                                "value": "<p><strong>Claude transcription:</strong><br><br>Dans Shakespeare, le personnage de Richard allie laideur morale et laideur physique ; comment se présente-t-il dans la pièce de Verhelst ?<br>Justement il ne se présente pas physiquement. Il n'y a aucune indication physique dans les didascalies. L'auteur ne voulait pas de ce \"trop de corps\" mal formé, trop présent, encombrant. Il n'y a pas de contacts, pas de sensualité. C'est un corps absent, synthétique, un corps impossible au monde. C'est la psyché de Richard qui l'intéresse. La violence et la monstruosité passent par d'autres chemins, en particulier la force de la parole. Mais on ne peut pas pour autant dissocier complètement parole et action, au sens où ici, la parole de Richard est toujours effective : puisque Loyal, (personnage inventé par Verhelst, corps prothétique d'un Richard qui donne parfois l'impression de se refuser à toute incarnation), l'exécute toujours immédiatement. Rien ne résiste à la destruction qu'engendrent Richard et ses discours.<br><br>Pourquoi la parole des femmes est-elle prépondérante dans cette pièce ?<br>Quand vous lisez Shakespeare, les femmes sont très présentes et fortes dans des scènes absolument inoubliables comme celle de lady Anne ou celle où la duchesse d'York et la reine Elizabeth pleurent la mort de leurs enfants dans un moment presque beckettien. Peter Verhelst prend ce matériau et l'emmène dans la modernité en leur donnant vraiment la parole, une parole intime. Ainsi la Duchesse d'York raconte son accouchement, Anne parle de la qualité étrange de sa relation érotique avec Richard...<br><br>La part politique de la pièce est elle aussi transcrite dans la modernité ?<br>Peter Verhelst investit tous les champs de la pièce en les nourrissant de ce qu'il ressent par rapport à l'époque dans laquelle il vit ; c'est cela qui est intéressant d'ailleurs. Ainsi le lien de la mère à son enfant est éclairé par une compréhension psychologique et humaine profonde de ce lien terrible entre mère et fils qui va les entraîner dans la monstruosité, la dévastation et la mort. Il y a là une pièce dans la pièce.<br>Mais le lieu du politique n'est pas oublié dans la manière qu'a Richard de rechercher à tout prix une pureté pour le moins paradoxale. Serait-ce une forme d'utopie politique ? Son désir de prendre le pouvoir semble presque s'épuiser au moment même où il accède au trône, comme si rien ne soutenait cette quête d'absolu, aucun fondement idéologique ; juste un désir personnel – mais de quoi ? Peut-on vouloir le pouvoir pour le pouvoir, sans aucune autre détermination positive ? Il va très loin dans cette recherche, jusqu'à la destruction qui semble gratuite. Richard ne veut pas faire ou refaire l'histoire, il est dans la fulgurance du geste. Tout va très vite. L'effroi est donc plus grand pour le spectateur qui peut retrouver là quelque chose du fondamentalisme qui anime un certain nombre d'individus qui mêlent salut individuel et salut politique. Peter Verhelst va très loin, puisqu'il met dans la bouche de Richard et d'autres personnages des phrases d'hommes politiques contemporains comme Gandhi, Nelson Mandela, Martin Luther King, Bill Clinton... des phrases pleines de promesses qui, dans la bouche de Richard, se confrontent à ses actes... Son désir de pureté absolue conduit aux pires atrocités – on retrouve la tragédie. En ce sens, il y a une vision politique dans la pièce.<br><br>Cet intime que révèle Richard III n'est-il pas de la même nature que cet \"intime\" des femmes et des hommes politiques qui est de plus en plus exposé publiquement ?<br>Certainement. Il n'y a pas de hasard dans le texte de Peter Verhelst. Il parle de notre monde et du champ politique actuel. Tout ce dévoilement d'intime semble intéresser le public, les électeurs potentiels. Alors doit-on considérer cela comme un moyen d'une meilleure compréhension des motivations des politiques ou comme du voyeurisme ? Par exemple le problème oedipien de George Bush est exposé partout et semble avoir provoqué une catastrophe en Irak. Faut-il en parler ? En tout cas, Peter Verhelst pose le problème – et il n'est pas le premier si l'on se réfère aux tragédies grecques et aux origines de la guerre de Troie.</p>",
+                                "format": "text/html",
+                                "language": null
+                            },
+                            "target": "https://raw.githubusercontent.com/stage-to-data/show-prog-viz-demo/refs/heads/main/manifests/in-born-digital/transcription-results/2007/commavignon-fds-richardiii-fda2007/canvas/6#xywh=0,0,1754,2481"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}
